@@ -1,18 +1,23 @@
 import { addDays, monday, localToday, clampWeek, formatDate, weekLabel, minutes, filterEvents, shareUrl, calendarPath, escapeHtml as esc, validDate } from './core.js';
 import { icon } from './icons.js';
+import { classCalendar } from './calendar.js';
 
 const $ = selector => document.querySelector(selector);
 const storageKey = 'gmi-student-class';
 const media = window.matchMedia('(max-width: 700px)');
-const state = { manifest: null, selected: null, events: [], week: monday(localToday()), day: localToday(), view: 'week', query: '', loading: false, error: '', request: null };
+const state = { manifest: null, selected: null, events: [], week: monday(localToday()), day: localToday(), view: 'week', query: '', loading: false, error: '', request: null, localFile: false, generation: 0 };
 const classCache = new Map();
 let toastTimer;
+let importWorker = null;
+let cancelImport = null;
+let importSequence = 0;
+let exportBlobUrl = null;
 
 function hydrateIcons(root = document) {
   root.querySelectorAll('[data-icon]').forEach(element => { element.innerHTML = icon(element.dataset.icon); });
 }
 function storedClass() { try { return localStorage.getItem(storageKey); } catch { return ''; } }
-function saveClass(id) { try { localStorage.setItem(storageKey, id); } catch { /* Selection still works without browser storage. */ } }
+function saveClass(id) { if (state.localFile) return; try { localStorage.setItem(storageKey, id); } catch { /* Selection still works without browser storage. */ } }
 function toast(message) {
   const element = $('#toast');
   element.textContent = message;
@@ -25,6 +30,7 @@ function openDialog(id) {
   if (!dialog.open) dialog.showModal();
 }
 function updateUrl() {
+  if (state.localFile) { history.replaceState(null, '', location.pathname); return; }
   if (state.selected) history.replaceState(null, '', shareUrl(location.href, state.selected.id, state.week));
 }
 function renderClassResults() {
@@ -136,7 +142,13 @@ function render() {
   $('#mobile-class-name').textContent = selected?.name || '';
   $('#class-button small').textContent = selected ? 'Your timetable' : 'Choose your class';
   $('#class-button').disabled = $('#compact-class-button').disabled = !ready;
-  $('#share-button').disabled = !usable;
+  $('#share-button').disabled = !usable || state.localFile;
+  $('#share-button').title = state.localFile ? 'Your local file cannot be shared through a website link. Export its class calendar instead.' : 'Share this class and week';
+  $('#file-source-label').textContent = state.localFile ? `On this device: ${state.manifest.filename}` : 'Using the provided timetable';
+  $('#restore-source').hidden = !state.localFile;
+  $('#revision').textContent = state.localFile ? 'Source · your local file' : 'Source revision · 9 Oct 2026';
+  $('#about-source-description').textContent = state.localFile ? `You’re viewing ${state.manifest.filename}, read locally on this device. The planning range is ${state.manifest.planningStart} through ${state.manifest.planningEnd}.` : 'This planner was recovered from the GMI timetable file revised on 9 October 2026. It covers January 2026 through January 2027.';
+  $('#class-dialog .dialog-description').textContent = state.localFile ? 'Choose your class from this file. Reopen the file after refreshing the page.' : 'Choose your exact class or team. We’ll remember it on this device.';
   document.querySelectorAll('.export-trigger').forEach(button => { button.disabled = !usable || !selected.eventCount; });
   $('.mobile-export').hidden = !selected;
   $('#summary').hidden = !usable;
@@ -195,7 +207,13 @@ function openLesson(id) {
 function openExport() {
   if (!state.selected || state.loading || state.error || !state.selected.eventCount) return;
   const selected = state.selected;
-  $('#export-content').innerHTML = `<p class="dialog-description">Keep your class timetable in the calendar app you already use.</p><div class="export-class"><strong>${esc(selected.name)}</strong><p>${selected.eventCount} entries · ${formatDate(selected.firstDate, { day: 'numeric', month: 'short', year: 'numeric' })} – ${formatDate(selected.lastDate, { day: 'numeric', month: 'short', year: 'numeric' })}</p></div><a id="calendar-download" class="button primary full download-link" href="${calendarPath(selected.id)}" download="GMI-${selected.id}.ics">${icon('download')}Download my class calendar (.ics)</a><div class="export-notice">${icon('info')}<span>Only this class’s full schedule is included. Times use Kuala Lumpur (UTC+8), and entries are marked tentative. Check changes with your lecturer.</span></div><p class="calendar-import-label">HOW TO ADD THE FILE</p><details open><summary>Google Calendar</summary><p>On a computer, open Google Calendar → Settings → Import &amp; export. Select the downloaded .ics file, choose a calendar, then Import.</p><a href="https://support.google.com/calendar/answer/37118?hl=en" target="_blank" rel="noopener">Google’s import guide ${icon('external')}</a></details><details><summary>Apple Calendar</summary><p>On a Mac, open Calendar → File → Import. Choose the downloaded .ics file, select a calendar, then confirm. Device import options may vary.</p><a href="https://support.apple.com/guide/calendar/icl1023/mac" target="_blank" rel="noopener">Apple’s import guide ${icon('external')}</a></details><details><summary>Outlook</summary><p>In Outlook on the web, choose Add calendar → Upload from file. Select the .ics file and your destination calendar, then Import.</p><a href="https://support.microsoft.com/en-us/outlook/import-or-subscribe-to-a-calendar-in-outlook-com-or-outlook-on-the-web" target="_blank" rel="noopener">Outlook’s import guide ${icon('external')}</a></details><p class="export-footnote">This download is a snapshot; it won’t update automatically. Import into a separate class calendar so you can replace it when a new schedule is published. Importing repeatedly may create duplicates.</p>`;
+  if (exportBlobUrl) { URL.revokeObjectURL(exportBlobUrl); exportBlobUrl = null; }
+  let downloadPath = calendarPath(selected.id);
+  if (state.localFile) {
+    exportBlobUrl = URL.createObjectURL(new Blob([classCalendar(selected, state.events)], { type: 'text/calendar;charset=utf-8' }));
+    downloadPath = exportBlobUrl;
+  }
+  $('#export-content').innerHTML = `<p class="dialog-description">Keep your class timetable in the calendar app you already use.</p><div class="export-class"><strong>${esc(selected.name)}</strong><p>${selected.eventCount} entries · ${formatDate(selected.firstDate, { day: 'numeric', month: 'short', year: 'numeric' })} – ${formatDate(selected.lastDate, { day: 'numeric', month: 'short', year: 'numeric' })}</p></div><a id="calendar-download" class="button primary full download-link" href="${downloadPath}" download="GMI-${selected.id}.ics">${icon('download')}Download my class calendar (.ics)</a><div class="export-notice">${icon('info')}<span>Only this class’s full schedule is included. Times use Kuala Lumpur (UTC+8), and entries are marked tentative. Check changes with your lecturer.</span></div><p class="calendar-import-label">HOW TO ADD THE FILE</p><details open><summary>Google Calendar</summary><p>On a computer, open Google Calendar → Settings → Import &amp; export. Select the downloaded .ics file, choose a calendar, then Import.</p><a href="https://support.google.com/calendar/answer/37118?hl=en" target="_blank" rel="noopener">Google’s import guide ${icon('external')}</a></details><details><summary>Apple Calendar</summary><p>On a Mac, open Calendar → File → Import. Choose the downloaded .ics file, select a calendar, then confirm. Device import options may vary.</p><a href="https://support.apple.com/guide/calendar/icl1023/mac" target="_blank" rel="noopener">Apple’s import guide ${icon('external')}</a></details><details><summary>Outlook</summary><p>In Outlook on the web, choose Add calendar → Upload from file. Select the .ics file and your destination calendar, then Import.</p><a href="https://support.microsoft.com/en-us/outlook/import-or-subscribe-to-a-calendar-in-outlook-com-or-outlook-on-the-web" target="_blank" rel="noopener">Outlook’s import guide ${icon('external')}</a></details><p class="export-footnote">This download is a snapshot; it won’t update automatically. Import into a separate class calendar so you can replace it when a new schedule is published. Importing repeatedly may create duplicates.</p>`;
   openDialog('#export-dialog');
 }
 async function shareWeek() {
@@ -215,11 +233,91 @@ async function shareWeek() {
     $('#share-link').select();
   }
 }
+function openFilePicker() {
+  $('#file-input').value = '';
+  $('#file-error').hidden = true;
+  $('#file-progress').hidden = true;
+  openDialog('#file-dialog');
+}
+async function importFile(file) {
+  if (!file) return;
+  const sequence = ++importSequence;
+  $('#file-error').hidden = true;
+  $('#file-progress').hidden = false;
+  $('#file-progress').textContent = `Reading ${file.name} on your device…`;
+  $('#file-input').disabled = true;
+  let timeout;
+  try {
+    if (file.size > 20 * 1024 * 1024) throw new Error('Choose a timetable file smaller than 20 MB.');
+    const buffer = await file.arrayBuffer();
+    if (sequence !== importSequence || !$('#file-dialog').open) return;
+    const result = await new Promise((resolve, reject) => {
+      const worker = new Worker(new URL('./file-worker.js', import.meta.url), { type: 'module' });
+      importWorker = worker;
+      cancelImport = () => { worker.terminate(); reject(Object.assign(new Error('File import cancelled'), { name: 'AbortError' })); };
+      timeout = setTimeout(() => { worker.terminate(); reject(new Error('This file took too long to decode. Try a smaller compatible .dav file.')); }, 20000);
+      worker.onmessage = event => { worker.terminate(); cancelImport = null; event.data.ok ? resolve(event.data.result) : reject(new Error(event.data.error)); };
+      worker.onerror = () => { worker.terminate(); reject(new Error('The timetable reader could not start. Refresh the page and try again.')); };
+      worker.postMessage({ buffer, filename: file.name }, [buffer]);
+    });
+    if (sequence !== importSequence || !$('#file-dialog').open) return;
+    state.generation++;
+    state.request?.abort();
+    const previousId = state.selected?.id;
+    state.localFile = true;
+    state.manifest = result.manifest;
+    state.selected = null;
+    state.events = [];
+    state.error = '';
+    state.loading = false;
+    state.query = '';
+    $('#subject-search').value = '';
+    classCache.clear();
+    for (const [id, dataset] of Object.entries(result.datasets)) classCache.set(id, dataset);
+    state.week = clampWeek(localToday(), state.manifest.planningStart, state.manifest.planningEnd);
+    state.day = state.week;
+    updateUrl();
+    render();
+    importWorker = null;
+    $('#file-dialog').close();
+    if (previousId && classCache.has(previousId)) await selectClass(previousId);
+    toast(`${result.manifest.classes.length} classes loaded from your file.${result.omitted ? ' Unplaced or unverified slots were excluded from dated entries.' : ''}`);
+    openClassPicker();
+  } catch (error) {
+    if (error.name === 'AbortError' || sequence !== importSequence) return;
+    $('#file-error').textContent = error.message || 'This file could not be read.';
+    $('#file-error').hidden = false;
+  } finally {
+    clearTimeout(timeout);
+    if (sequence === importSequence) {
+      importWorker?.terminate();
+      importWorker = null;
+      cancelImport = null;
+      $('#file-input').disabled = false;
+      $('#file-progress').hidden = true;
+    }
+  }
+}
+async function restoreProvidedSchedule() {
+  state.request?.abort();
+  state.localFile = false;
+  state.selected = null;
+  state.manifest = null;
+  state.events = [];
+  state.loading = false;
+  classCache.clear();
+  if (exportBlobUrl) { URL.revokeObjectURL(exportBlobUrl); exportBlobUrl = null; }
+  await initialize();
+  toast('The provided timetable is active again.');
+}
 async function initialize() {
+  const generation = ++state.generation;
   state.error = '';
   render();
   try {
-    state.manifest = await fetchJson('./data/manifest.json');
+    const manifest = await fetchJson('./data/manifest.json');
+    if (generation !== state.generation) return;
+    state.manifest = manifest;
     const query = new URLSearchParams(location.search);
     const date = query.get('week');
     state.week = clampWeek(validDate(date) ? date : localToday(), state.manifest.planningStart, state.manifest.planningEnd);
@@ -229,11 +327,22 @@ async function initialize() {
     if (state.manifest.classes.some(item => item.id === id)) await selectClass(id);
     else render();
   } catch {
+    if (generation !== state.generation) return;
     state.error = 'We couldn’t load the class list. Check your connection and try again.';
     render();
   }
 }
 hydrateIcons();
+$('#open-file-button').addEventListener('click', openFilePicker);
+$('#file-input').addEventListener('change', event => importFile(event.target.files[0]));
+$('#restore-source').addEventListener('click', restoreProvidedSchedule);
+$('#file-dialog').addEventListener('close', () => {
+  if (cancelImport) { cancelImport(); cancelImport = null; }
+  importSequence++;
+  importWorker?.terminate(); importWorker = null;
+  $('#file-input').disabled = false;
+  $('#file-progress').hidden = true;
+});
 $('#class-button').addEventListener('click', openClassPicker);
 $('#compact-class-button').addEventListener('click', openClassPicker);
 $('#class-search').addEventListener('input', renderClassResults);

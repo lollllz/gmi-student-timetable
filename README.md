@@ -11,9 +11,20 @@ A responsive student timetable with class selection and class-only calendar expo
 - Open lesson details and identify overlapping entries or calendar-exception dates.
 - Share a URL containing the class and selected week.
 - Download a class-only `.ics` file, with import guidance for Google Calendar, Apple Calendar and Outlook.
+- Open a compatible legacy DaVinci `.dav` file on the device, choose its class, and export a class-only calendar without uploading the file.
 - Responsive layouts, keyboard-accessible dialogs and retry/empty/loading states.
 
 No student login or backend is required. Data is loaded one class at a time. The deployment does not publish the original binary or forensic raw-field exports.
+
+## Opening a timetable file
+
+Use **Open timetable file** to select a legacy `.dav` file (compatible V30 layouts, up to 20 MB). The browser reads it in a worker, replaces the class list with the file’s classes, and generates class-only calendar downloads locally. **Use provided timetable** switches back to the published schedule.
+
+Files are kept in memory and are not uploaded or saved by the site. Reopen the file after refreshing. Local-file class/week links are not shareable; export the class calendar instead. A failed or cancelled import leaves the previous schedule intact.
+
+The browser reader discovers counted calendar, dictionary, week-pattern, group and lesson sections; it does not depend on the original file’s fixed offsets or class counts. It validates record boundaries, parent IDs, period layouts, repeated slot counts and EOF. Week references anchor dates. Unsupported structures are rejected rather than guessed. Unplaced slots and unknown flagged slots are omitted from dated entries. Newer `.daVinci` XML/ZIP formats are not supported by this importer.
+
+This is still a reconstruction: native holiday/override behavior and other undocumented rules remain unverified.
 
 ## Timetable status
 
@@ -73,5 +84,6 @@ The `Publish student timetable` workflow checks the datasets and date/search log
 - Every class calendar is checked against its class JSON: counts, dates, start/end times, unique UIDs, timezone, tentative status, UTF-8 line folding and date bounds.
 - Unit checks cover Malaysia’s date boundary, week navigation, search, shared links, safe calendar paths and HTML escaping.
 - Browser checks cover class selection, calendar download content, lesson details, search, empty weeks, saved selections, request retry, desktop weekly columns and mobile widths down to 320px.
+- Import checks use synthetic files with different counts, names and start times; test malformed/oversized inputs; verify local-only processing, cancellation and restore; and compare all 23,193 reference-file entries with the published datasets locally.
 
 Calendar imports themselves have not been exercised in the user’s calendar account. Import instructions link to official vendor guides within the app.
