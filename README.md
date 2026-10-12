@@ -2,6 +2,8 @@
 
 A responsive student timetable with class selection and class-only calendar export. Students can use the weekly planner on desktop, the day agenda on mobile, or download their timetable into their own calendar app.
 
+[Open the student app](https://lollllz.github.io/gmi-student-timetable/)
+
 ## Student features
 
 - Search and choose a class; remember it on the current device.
