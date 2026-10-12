@@ -1,0 +1,824 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Student Timetable//Class Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SEM 5 - DSWE 2
+X-WR-TIMEZONE:Asia/Kuala_Lumpur
+BEGIN:VTIMEZONE
+TZID:Asia/Kuala_Lumpur
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:MYT
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:bbf5b9ed225b78d8c450df238337902bab8aae6b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260707T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260707T130000
+SUMMARY:SEM 5 - DSWE 2 - SPG 0562
+LOCATION:KT5-L10-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Fadhli Abdul Jalil
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9c6474411e48abca2e453ccf8c75b5648efc6950@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260707T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260707T190000
+SUMMARY:SEM 5 - DSWE 2 - SDT 2143
+LOCATION:KT5-L15-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Firdaus Ahmad Azizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2d056a1f277048a66ae9855a3c14cb97a9126920@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260709T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260709T170000
+SUMMARY:SEM 5 - DSWE 2 - STT 2283
+LOCATION:KT5-L12-001B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Aidilsyukri Raduan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a91d004a3793295f9ea30436ea80926b6d3fc9f2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260714T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260714T130000
+SUMMARY:SEM 5 - DSWE 2 - SPG 0562
+LOCATION:KT5-L10-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Fadhli Abdul Jalil
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:94eefbd73f108722533c12abc5b7927ac17dcb0c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260714T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260714T190000
+SUMMARY:SEM 5 - DSWE 2 - SDT 2143
+LOCATION:KT5-L15-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Firdaus Ahmad Azizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3d70c8f3b1e49efbc5e8ba9e5e6f3ddf976d59c4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260715T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260715T130000
+SUMMARY:SEM 5 - DSWE 2 - SPG 0553
+LOCATION:KT5-L10-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Siti Hawa Mokhtar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c665f6788eca8e098008f476632979d3a05aef94@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260716T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260716T170000
+SUMMARY:SEM 5 - DSWE 2 - STT 2283
+LOCATION:KT5-L12-001B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Aidilsyukri Raduan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ea52e0c1c9833700e90dc5ee36cf23d3396bf596@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260721T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260721T130000
+SUMMARY:SEM 5 - DSWE 2 - SPG 0562
+LOCATION:KT5-L10-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Fadhli Abdul Jalil
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a6dcf69e430bfaf64a16d016ceec19dfb909b902@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260721T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260721T190000
+SUMMARY:SEM 5 - DSWE 2 - SDT 2143
+LOCATION:KT5-L15-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Firdaus Ahmad Azizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fd642ccdc99b49adc26da03c27d999d602ee7e31@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260722T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260722T130000
+SUMMARY:SEM 5 - DSWE 2 - SPG 0553
+LOCATION:KT5-L10-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Siti Hawa Mokhtar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:43400f0db6fcace4c0ee8778b0b2ccc082d847f1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260722T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260722T190000
+SUMMARY:SEM 5 - DSWE 2 - SPG 0553
+LOCATION:KT5-L15-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Siti Hawa Mokhtar\nNotes: Replacement Clas
+ s
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7400cb2b86507a444c664db31c1e492597efea70@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260723T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260723T170000
+SUMMARY:SEM 5 - DSWE 2 - STT 2283
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Aidilsyukri Raduan\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:35c7ad8fdab29d8e18bc8986c06f018cf9504c49@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260728T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260728T130000
+SUMMARY:SEM 5 - DSWE 2 - SPG 0562
+LOCATION:KT5-L10-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Fadhli Abdul Jalil
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7a6a6b3ace0dceef3c5ed81804cdfcdd4b53fe68@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260728T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260728T190000
+SUMMARY:SEM 5 - DSWE 2 - SDT 2143
+LOCATION:KT5-L15-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Firdaus Ahmad Azizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:daede820265b8a41f39db847bb04e58a61794e91@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260730T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260730T170000
+SUMMARY:SEM 5 - DSWE 2 - STT 2283
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Aidilsyukri Raduan\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:dbd78a8f409f28875e6932ffc7b708dd4109a2f3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260804T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260804T130000
+SUMMARY:SEM 5 - DSWE 2 - SPG 0562
+LOCATION:KT5-L10-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Fadhli Abdul Jalil
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9eb3f246def89e9439e78e1dec877d9cb65ecb12@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260804T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260804T190000
+SUMMARY:SEM 5 - DSWE 2 - SDT 2143
+LOCATION:KT5-L15-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Firdaus Ahmad Azizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:288710c7c47c2dfcb855a2e633496cf228b1e7a0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260805T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260805T130000
+SUMMARY:SEM 5 - DSWE 2 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4d60f564d29830d91b6a55a773842d5fc9053e80@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260806T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260806T170000
+SUMMARY:SEM 5 - DSWE 2 - STT 2283
+LOCATION:KT5-L12-001B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Aidilsyukri Raduan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c8530c2cf6fef8e740db4d88279cc835be17d41f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260811T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260811T130000
+SUMMARY:SEM 5 - DSWE 2 - SPG 0562
+LOCATION:KT5-L10-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Fadhli Abdul Jalil
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:41b0e42a7675bd43f2c453cdc219f98cc7dc63d2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260811T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260811T190000
+SUMMARY:SEM 5 - DSWE 2 - SDT 2143
+LOCATION:KT5-L15-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Firdaus Ahmad Azizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ab88fdc78abfa9a72367adec15b40fb43bcb19fb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260812T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260812T130000
+SUMMARY:SEM 5 - DSWE 2 - SPG 0553
+LOCATION:KT5-L10-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Siti Hawa Mokhtar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7e28e43b761e6afeaa27424bb90ae1abacadfe27@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260812T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260812T190000
+SUMMARY:SEM 5 - DSWE 2 - SPG 0553
+LOCATION:KT5-L12-001C
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Siti Hawa Mokhtar\nNotes: Replacement Clas
+ s (Training)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:af273a27edb744e65ad7e3b841b527cad07afb53@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260813T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260813T170000
+SUMMARY:SEM 5 - DSWE 2 - STT 2283
+LOCATION:KT5-L12-001B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Aidilsyukri Raduan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4b9089a862ff16d132c0445f170c232efd0e3baa@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260818T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260818T130000
+SUMMARY:SEM 5 - DSWE 2 - SPG 0562
+LOCATION:KT5-L10-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Fadhli Abdul Jalil
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fcedb86d3946979dcc130f734e24d29d0b933aca@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260818T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260818T190000
+SUMMARY:SEM 5 - DSWE 2 - SDT 2143
+LOCATION:KT5-L15-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Firdaus Ahmad Azizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e181b2e83fd999526dca98e0185e9c0dcd29f89a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260819T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260819T130000
+SUMMARY:SEM 5 - DSWE 2 - SPG 0553
+LOCATION:KT5-L10-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Siti Hawa Mokhtar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fa44ed9566b25494c6d01080a15056f57ab6223f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260820T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260820T170000
+SUMMARY:SEM 5 - DSWE 2 - STT 2283
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Aidilsyukri Raduan\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6df148a69b72d3c32669022a65405d5cebface37@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260825T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260825T130000
+SUMMARY:SEM 5 - DSWE 2 - SPG 0562
+LOCATION:KT5-L10-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Fadhli Abdul Jalil\nCalendar exception: Ma
+ ulidur Rasul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:455fc1f416b25efc663de4d093503fd491a02f5c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260825T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260825T190000
+SUMMARY:SEM 5 - DSWE 2 - SDT 2143
+LOCATION:KT5-L15-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Firdaus Ahmad Azizan\nCalendar exception: 
+ Maulidur Rasul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8ea94a46ffdd14fd9805a550a9aedf8032ec2d6b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260826T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260826T130000
+SUMMARY:SEM 5 - DSWE 2 - SPG 0553
+LOCATION:KT5-L10-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Siti Hawa Mokhtar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:87e5f01f7eda35a0f6e8c10172c01f509abcee97@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260827T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260827T170000
+SUMMARY:SEM 5 - DSWE 2 - STT 2283
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Aidilsyukri Raduan\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:823edab5752ae653aa7ca058c37a051dafb8459e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260907T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260907T130000
+SUMMARY:SEM 5 - DSWE 2 - Merdeka Celebration
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fa4babdd272dd93a71ce22ffb050ea66f9dfef29@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260908T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260908T130000
+SUMMARY:SEM 5 - DSWE 2 - SPG 0562
+LOCATION:KT5-L10-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Fadhli Abdul Jalil
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8dcad80bc606fe04eeabe58e15b8ad003a7e49ca@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260908T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260908T190000
+SUMMARY:SEM 5 - DSWE 2 - SDT 2143
+LOCATION:KT5-L15-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Firdaus Ahmad Azizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3cbf5388d946d04b964036e5cabfd6be3c7a1ee2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260909T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260909T130000
+SUMMARY:SEM 5 - DSWE 2 - SPG 0553
+LOCATION:KT5-L10-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Siti Hawa Mokhtar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3db70a47e00cad09ace53156cfa8fd2070ac1a16@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260910T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260910T170000
+SUMMARY:SEM 5 - DSWE 2 - STT 2283
+LOCATION:KT5-L12-001B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Aidilsyukri Raduan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f93b5b94507109d0ef155dc443b820885134ff86@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260915T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260915T130000
+SUMMARY:SEM 5 - DSWE 2 - SPG 0562
+LOCATION:KT5-L10-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Fadhli Abdul Jalil
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8dd3f173ee4ef697329b69c533eb698436e23d79@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260915T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260915T190000
+SUMMARY:SEM 5 - DSWE 2 - SDT 2143
+LOCATION:KT5-L15-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Firdaus Ahmad Azizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4da059c6108ab0afd59d373d4405d25877abcb83@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260916T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260916T130000
+SUMMARY:SEM 5 - DSWE 2 - SPG 0553
+LOCATION:KT5-L10-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Siti Hawa Mokhtar\nCalendar exception: Mal
+ aysia Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:95fe61a557b9c48c25e150484dc455d899340c69@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260917T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260917T170000
+SUMMARY:SEM 5 - DSWE 2 - STT 2283
+LOCATION:KT5-L12-001B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Aidilsyukri Raduan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4935f8ce6345764cf4966ce3d2342ab618ed5c6b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260922T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260922T130000
+SUMMARY:SEM 5 - DSWE 2 - SPG 0562
+LOCATION:KT5-L10-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Fadhli Abdul Jalil
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a953674219f955bc65fec7f69f4462f16f21ed47@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260922T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260922T190000
+SUMMARY:SEM 5 - DSWE 2 - SDT 2143
+LOCATION:KT5-L15-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Firdaus Ahmad Azizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:63677d1df65fbd024434baeed048500804f2b9a7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260923T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260923T190000
+SUMMARY:SEM 5 - DSWE 2 - SPG 0553
+LOCATION:KT5-L10-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Siti Hawa Mokhtar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:aa2d923e0d9c6e041b230f7921c0e1bb99bde2d6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260924T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260924T170000
+SUMMARY:SEM 5 - DSWE 2 - STT 2283
+LOCATION:KT5-L12-001B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Aidilsyukri Raduan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0db5bd7f1245b87523b0128df1c5d5db064013dc@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260929T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260929T130000
+SUMMARY:SEM 5 - DSWE 2 - SPG 0562
+LOCATION:KT5-L10-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Fadhli Abdul Jalil
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e39056f2fd349425d3754c35984ab515a51c1249@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260929T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260929T190000
+SUMMARY:SEM 5 - DSWE 2 - SDT 2143
+LOCATION:KT5-L15-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Firdaus Ahmad Azizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:273d64a0569a4d309e1e69d7d212f1626b9e9c97@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260930T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260930T130000
+SUMMARY:SEM 5 - DSWE 2 - SPG 0553
+LOCATION:KT5-L10-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Siti Hawa Mokhtar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:93bae6699bef2ce91fa92396c5e439b33628edda@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261001T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261001T170000
+SUMMARY:SEM 5 - DSWE 2 - STT 2283
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Aidilsyukri Raduan\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7823b25802ef8346d03b51baf21223235e465ed6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261006T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20261006T130000
+SUMMARY:SEM 5 - DSWE 2 - SPG 0562
+LOCATION:KT5-L10-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Fadhli Abdul Jalil
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:56adaef070d24506e00cc9f0715e7add03dce6b3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261006T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261006T190000
+SUMMARY:SEM 5 - DSWE 2 - SDT 2143
+LOCATION:KT5-L15-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Firdaus Ahmad Azizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:dd22e737a5435bda1cecf67b2b51923c29571c57@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261007T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261007T130000
+SUMMARY:SEM 5 - DSWE 2 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5f30bb8afaba102280224e21ea2db0becf2ab6ec@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261008T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261008T170000
+SUMMARY:SEM 5 - DSWE 2 - STT 2283
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Aidilsyukri Raduan\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bda1763acc38a4617e3aa6d64bf4b4e7dc45212a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261013T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20261013T130000
+SUMMARY:SEM 5 - DSWE 2 - SPG 0562
+LOCATION:KT5-L10-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Fadhli Abdul Jalil
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b2ad9d81cd72c6c9a4d49fdab58e9b04197da048@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261013T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261013T190000
+SUMMARY:SEM 5 - DSWE 2 - SDT 2143
+LOCATION:KT5-L15-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Firdaus Ahmad Azizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3d6a49aa7f15c222bf011c59085fa2696fc8089b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261014T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261014T130000
+SUMMARY:SEM 5 - DSWE 2 - SPG 0553
+LOCATION:KT5-L10-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Siti Hawa Mokhtar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b5f70f9fa35c19a7ea6e88085cf7f94c53b29df9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261015T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261015T170000
+SUMMARY:SEM 5 - DSWE 2 - STT 2283
+LOCATION:KT5-L12-001B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Aidilsyukri Raduan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8f2aa8efed6de0d381e0658270f28dfde571c62b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261020T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20261020T130000
+SUMMARY:SEM 5 - DSWE 2 - SPG 0562
+LOCATION:KT5-L10-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Fadhli Abdul Jalil
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:eb90c07989fcc9475aa95778af25b4a9e1ead162@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261020T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261020T190000
+SUMMARY:SEM 5 - DSWE 2 - SDT 2143
+LOCATION:KT5-L15-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Firdaus Ahmad Azizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8979347e293f7a435cec10fe089cc17deb4fccb7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261021T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261021T130000
+SUMMARY:SEM 5 - DSWE 2 - SPG 0553
+LOCATION:KT5-L10-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Siti Hawa Mokhtar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bcb62f842f82dd7536e13b61e9d05a681f5f3d61@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261022T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261022T170000
+SUMMARY:SEM 5 - DSWE 2 - STT 2283
+LOCATION:KT5-L12-001B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Aidilsyukri Raduan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c09af48e1bcc45106d0cb2a6ed7a14452953a14f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261027T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20261027T130000
+SUMMARY:SEM 5 - DSWE 2 - SPG 0562
+LOCATION:KT5-L10-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Fadhli Abdul Jalil
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ae97cc9d10a955d3e16a0bc8c5d62cc0e9d8b845@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261027T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261027T190000
+SUMMARY:SEM 5 - DSWE 2 - SDT 2143
+LOCATION:KT5-L15-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Firdaus Ahmad Azizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2f5be8985835e1432e30960a96045d472c41f941@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261028T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261028T130000
+SUMMARY:SEM 5 - DSWE 2 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:187d08df7d9c3ecc3ac1a2e11505ed273c53a48f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261029T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261029T170000
+SUMMARY:SEM 5 - DSWE 2 - STT 2283
+LOCATION:KT5-L12-001B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Aidilsyukri Raduan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6ea3774b0de1e0bea1d760c0eb638d9eb1a15298@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261103T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20261103T130000
+SUMMARY:SEM 5 - DSWE 2 - SPG 0562
+LOCATION:KT5-L10-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Fadhli Abdul Jalil
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:73314cdf93242d18fcc41ac198a1dd580e86b235@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261103T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261103T190000
+SUMMARY:SEM 5 - DSWE 2 - SDT 2143
+LOCATION:KT5-L15-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Firdaus Ahmad Azizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1d64d50e74611132600f63a32967da85602550e3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261104T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261104T130000
+SUMMARY:SEM 5 - DSWE 2 - SPG 0553
+LOCATION:KT5-L10-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Siti Hawa Mokhtar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2cfc9e407380472764b371969de579f3863fcbe4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261105T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261105T170000
+SUMMARY:SEM 5 - DSWE 2 - STT 2283
+LOCATION:KT5-L12-001B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Aidilsyukri Raduan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7aa2938450f99a8516e83b20259fccff11541425@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261110T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20261110T130000
+SUMMARY:SEM 5 - DSWE 2 - SPG 0562
+LOCATION:KT5-L10-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Fadhli Abdul Jalil
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:dc69541f02efb1bf622b7d42ffccd8cf7b407d36@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261110T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261110T190000
+SUMMARY:SEM 5 - DSWE 2 - SDT 2143
+LOCATION:KT5-L15-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Firdaus Ahmad Azizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2bdda5597c71d30dca9f6222b707b6d291b07518@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261111T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261111T130000
+SUMMARY:SEM 5 - DSWE 2 - SPG 0553
+LOCATION:KT5-L10-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Siti Hawa Mokhtar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ae25963deea1ee3e383585708e9031f290d82d93@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261112T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261112T170000
+SUMMARY:SEM 5 - DSWE 2 - STT 2283
+LOCATION:KT5-L12-001B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 2\nLecturer: Aidilsyukri Raduan
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR

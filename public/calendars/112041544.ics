@@ -1,0 +1,1574 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Student Timetable//Class Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SEM 3 - DCBS 3
+X-WR-TIMEZONE:Asia/Kuala_Lumpur
+BEGIN:VTIMEZONE
+TZID:Asia/Kuala_Lumpur
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:MYT
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:614d73994945d3d1eed8d89610bf65ceeb01babd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260706T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260706T130000
+SUMMARY:SEM 3 - DCBS 3 - MPU 2422
+LOCATION:KT1-L3-35
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Farizan Mohamad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:88dd592e683b8e62702610bdc86a62a22f38106e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260706T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260706T190000
+SUMMARY:SEM 3 - DCBS 3 - SPG 0463
+LOCATION:KT5-L04-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Fatin Najwa
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3506d9ce2dc217d7431f94bc85ff2566aa755972@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260708T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260708T190000
+SUMMARY:SEM 3 - DCBS 3 - SPG 0473
+LOCATION:KT2-L05-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Nurul Ainul Aina
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b6bb15f06c0a47cc797a48853d09cbb8e6789063@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260709T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260709T130000
+SUMMARY:SEM 3 - DCBS 3 - ESP 2072
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:dd2c4949cde310c120bf9924f22179e438e03b4b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260709T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260709T180000
+SUMMARY:SEM 3 - DCBS 3 - MPU 2342
+LOCATION:KT1 L1 05 LH1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Dr Idris Kadir
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:13387ae1fd1de09dda485d2cda9d6d7f6dc3ab67@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260709T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20260709T220000
+SUMMARY:SEM 3 - DCBS 3 - CIT 0633
+LOCATION:KT5-L10-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Mohd Izham
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:801b451d75bcbb945eba929b02ca2dacb075e9fc@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260710T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260710T130000
+SUMMARY:SEM 3 - DCBS 3 - NTC 1093
+LOCATION:KT5-L10-007
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Farazilawati Baizura
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2cd7f61e4c90bccc7d93085226c766360d7c477e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260710T170000
+DTEND;TZID=Asia/Kuala_Lumpur:20260710T220000
+SUMMARY:SEM 3 - DCBS 3 - CIT 0633
+LOCATION:KT5-L10-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Mohd Izham\nNotes: Replacement Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:40792c25f30d7ce66fd8714aab1da85a41849324@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260713T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260713T130000
+SUMMARY:SEM 3 - DCBS 3 - MPU 2422
+LOCATION:KT1-L3-35
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Farizan Mohamad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:87c90e75ec4f1acae96a1c8089e349345e1a928d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260713T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260713T190000
+SUMMARY:SEM 3 - DCBS 3 - SPG 0463
+LOCATION:KT5-L04-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Fatin Najwa
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c0b3afed148c860300c642f7050efeb92c911d6c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260715T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260715T190000
+SUMMARY:SEM 3 - DCBS 3 - SPG 0473
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Nurul Ainul Aina\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f2250071a0acfa78eeca3131fdebcb7d311bceef@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260715T200000
+DTEND;TZID=Asia/Kuala_Lumpur:20260715T220000
+SUMMARY:SEM 3 - DCBS 3 - CIT 0633
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Mohd Izham\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:48a4c1b5f04224995de9933a34812d7d30e355c7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260716T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260716T130000
+SUMMARY:SEM 3 - DCBS 3 - ESP 2072
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:72f6c36a48b822f0763f1e9fab9fa26324fb567e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260716T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260716T180000
+SUMMARY:SEM 3 - DCBS 3 - MPU 2342
+LOCATION:KT1 L1 05 LH1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Dr Idris Kadir
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:43f0fa3531f47688b9d6b792f901e1e502f2adec@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260716T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20260716T220000
+SUMMARY:SEM 3 - DCBS 3 - CIT 0633
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Mohd Izham\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ec897d81781ab9686e2693140b10c1db337fec53@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260717T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260717T130000
+SUMMARY:SEM 3 - DCBS 3 - NTC 1093
+LOCATION:KT5-L10-007
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Farazilawati Baizura
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:96b10c15ece5fb1a71a3b481e12fb172bd2c22a9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260717T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20260717T200000
+SUMMARY:SEM 3 - DCBS 3 - CIT 0633
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Mohd Izham\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7989f07db41029cb5a16d38e51f62c2dc653c5a4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260720T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260720T130000
+SUMMARY:SEM 3 - DCBS 3 - MPU 2422
+LOCATION:KT1-L3-35
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Farizan Mohamad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9d52ec59f62c695151e31140cc1764d80e3f352a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260722T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260722T190000
+SUMMARY:SEM 3 - DCBS 3 - SPG 0473
+LOCATION:KT2-L05-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Nurul Ainul Aina
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c3179899023424b6573429601b2905a22e9f8d9e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260722T200000
+DTEND;TZID=Asia/Kuala_Lumpur:20260722T220000
+SUMMARY:SEM 3 - DCBS 3 - CIT 0633
+LOCATION:KT5-L10-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Mohd Izham
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:eef94b445ce4581db0895fa5656f2a30e1154091@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260723T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260723T130000
+SUMMARY:SEM 3 - DCBS 3 - ESP 2072
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cb85fe3d062ad3fa7c50b037dd6783001bdffc23@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260723T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260723T180000
+SUMMARY:SEM 3 - DCBS 3 - MPU 2342
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Dr Idris Kadir\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:058d7245acbac373caf435d644c07e0bee2e4b5a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260724T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260724T130000
+SUMMARY:SEM 3 - DCBS 3 - NTC 1093
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Farazilawati Baizura\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b7bd95da8f48088fe23d2d9914ac859002a5f335@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260724T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20260724T220000
+SUMMARY:SEM 3 - DCBS 3 - CIT 0633
+LOCATION:KT5-L10-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Mohd Izham
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a2c50437d3455a5d8e4e28f5a3e34eec0233058b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260727T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260727T130000
+SUMMARY:SEM 3 - DCBS 3 - MPU 2422
+LOCATION:KT1-L3-35
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Farizan Mohamad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4a81c6918761472ff397941d64717051784268fb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260727T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260727T190000
+SUMMARY:SEM 3 - DCBS 3 - SPG 0463
+LOCATION:KT5-L04-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Fatin Najwa
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:188c747b88d1fda55c1235f6c7566fdcfc948a44@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260729T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260729T190000
+SUMMARY:SEM 3 - DCBS 3 - SPG 0473
+LOCATION:KT2-L05-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Nurul Ainul Aina
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f2257a9416c48a9ac4207ac17778911b9ed9b568@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260729T200000
+DTEND;TZID=Asia/Kuala_Lumpur:20260729T220000
+SUMMARY:SEM 3 - DCBS 3 - CIT 0633
+LOCATION:KT5-L10-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Mohd Izham
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fcffcdf62d76d7dc6de9b6bd2ed05027408b32cc@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260730T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260730T130000
+SUMMARY:SEM 3 - DCBS 3 - ESP 2072
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cba5572bce7253d2432b28c94c17e7eecaee4ce8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260730T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260730T180000
+SUMMARY:SEM 3 - DCBS 3 - MPU 2342
+LOCATION:KT1 L1 05 LH1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Dr Idris Kadir
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:77f8e66f318487b16871e283e42738a5c4f1b748@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260731T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260731T130000
+SUMMARY:SEM 3 - DCBS 3 - NTC 1093
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Farazilawati Baizura\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2068e89eb84e162ae605d9019e2cddbff63c655b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260731T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20260731T220000
+SUMMARY:SEM 3 - DCBS 3 - CIT 0633
+LOCATION:KT5-L10-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Mohd Izham
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d7cb6f628cc8aaf28bd009a496b84d0488691db9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260803T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260803T130000
+SUMMARY:SEM 3 - DCBS 3 - MPU 2422
+LOCATION:KT1-L3-35
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Farizan Mohamad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3fd3d81f76b4da479a5b1c3f0605a4c31922005a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260803T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260803T190000
+SUMMARY:SEM 3 - DCBS 3 - SPG 0463
+LOCATION:KT5-L04-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Fatin Najwa
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d0a552e43d8040dad6e24916bab81de90918ff47@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260804T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260804T130000
+SUMMARY:SEM 3 - DCBS 3 - SPG 0463
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Fatin Najwa\nNotes: Online Replacement Cla
+ ss (MC)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:83016e5dc87caac79d3199b9ffbf3332c760bf9e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260805T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260805T130000
+SUMMARY:SEM 3 - DCBS 3 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:01dbd889447f41f21c4d5f3beba81b58d6980224@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260805T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260805T190000
+SUMMARY:SEM 3 - DCBS 3 - SPG 0473
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Nurul Ainul Aina\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6bfd3336bdbccbab40d5f87a6c4f03fc5f98a4c3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260805T200000
+DTEND;TZID=Asia/Kuala_Lumpur:20260805T220000
+SUMMARY:SEM 3 - DCBS 3 - CIT 0633
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Mohd Izham\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f169ca95eda5617dd147d3995fa8c09ce5a46017@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260806T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260806T130000
+SUMMARY:SEM 3 - DCBS 3 - ESP 2072
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:04d356e9bf065ab452a10e1920b2efde6fdbab25@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260806T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260806T180000
+SUMMARY:SEM 3 - DCBS 3 - MPU 2342
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Dr Idris Kadir\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c894441473ad3545f1e571fcffea43e7761e31f8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260807T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260807T130000
+SUMMARY:SEM 3 - DCBS 3 - NTC 1093
+LOCATION:KT5-L10-007
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Farazilawati Baizura
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5e795c63bfada2e253251b082ce0e05e5b938b1a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260807T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20260807T200000
+SUMMARY:SEM 3 - DCBS 3 - CIT 0633
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Mohd Izham\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:815303d0deee6a24079292a42e8b7887bf513e94@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260807T200000
+DTEND;TZID=Asia/Kuala_Lumpur:20260807T220000
+SUMMARY:SEM 3 - DCBS 3 - CIT 0633
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Mohd Izham\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:49eb1b49a08d55ccb0d28439512b47b7b79ba0ce@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260810T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260810T130000
+SUMMARY:SEM 3 - DCBS 3 - MPU 2422
+LOCATION:KT1-L3-35
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Farizan Mohamad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:92b8962c85a666d7876e151b4601e822a6360bbf@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260810T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260810T190000
+SUMMARY:SEM 3 - DCBS 3 - SPG 0463
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Fatin Najwa\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e67797c9ccbaa828861376aa0e93bc19f6172c33@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260812T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260812T190000
+SUMMARY:SEM 3 - DCBS 3 - SPG 0473
+LOCATION:KT2-L05-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Nurul Ainul Aina
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e761cb75b2d3f6a1bc4307b02f57747927853d22@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260812T200000
+DTEND;TZID=Asia/Kuala_Lumpur:20260812T220000
+SUMMARY:SEM 3 - DCBS 3 - CIT 0633
+LOCATION:KT5-L10-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Mohd Izham
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:424e001449436eca35ba1e20d8541d9a7123428c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260813T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260813T130000
+SUMMARY:SEM 3 - DCBS 3 - ESP 2072
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fce3cf773905252cef3b777124ece85ccbc1fd28@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260813T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260813T180000
+SUMMARY:SEM 3 - DCBS 3 - MPU 2342
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Dr Idris Kadir\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e6a40948a8e034a2421a696b363ec96627c88278@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260814T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260814T130000
+SUMMARY:SEM 3 - DCBS 3 - NTC 1093
+LOCATION:KT5-L10-007
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Farazilawati Baizura
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e9c7883b61b6b5e1f6712a5c5caf68b8368125db@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260814T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20260814T220000
+SUMMARY:SEM 3 - DCBS 3 - CIT 0633
+LOCATION:KT5-L10-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Mohd Izham
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b9476a9ae47ff2ac8f7063c3145fdb58e142c1ae@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260817T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260817T130000
+SUMMARY:SEM 3 - DCBS 3 - MPU 2422
+LOCATION:KT1-L3-35
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Farizan Mohamad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f6dea64c00df65130fe24445b5115e63e5728a10@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260817T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260817T190000
+SUMMARY:SEM 3 - DCBS 3 - SPG 0463
+LOCATION:KT5-L15-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Fatin Najwa
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9a827290cca9ca4432868d7eed7aa98644a04c13@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260819T200000
+DTEND;TZID=Asia/Kuala_Lumpur:20260819T220000
+SUMMARY:SEM 3 - DCBS 3 - CIT 0633
+LOCATION:KT5-L10-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Mohd Izham
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:11ad6efc75fcc3ccb841006f9574bf4b7b2f3cc4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260820T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260820T130000
+SUMMARY:SEM 3 - DCBS 3 - ESP 2072
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:095121bb0c183d3a7664987e0b9f5a15bfd9ad70@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260820T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260820T180000
+SUMMARY:SEM 3 - DCBS 3 - MPU 2342
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Dr Idris Kadir\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b3728ef815f3604193e97df0834d87ed710b41ab@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260821T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260821T130000
+SUMMARY:SEM 3 - DCBS 3 - NTC 1093
+LOCATION:KT5-L10-007
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Farazilawati Baizura
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a18db1ceebe0d88e0467d248e5b5766139f47841@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260821T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20260821T220000
+SUMMARY:SEM 3 - DCBS 3 - CIT 0633
+LOCATION:KT5-L10-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Mohd Izham
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8083ee44e0d8976fe2f879dd32ca214e2ea4553a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260824T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260824T130000
+SUMMARY:SEM 3 - DCBS 3 - MPU 2422
+LOCATION:KT1-L3-35
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Farizan Mohamad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:50ee70576dc18317638fb1487e1e3472b89fa9fd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260824T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260824T190000
+SUMMARY:SEM 3 - DCBS 3 - SPG 0463
+LOCATION:KT5-L15-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Fatin Najwa
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e0b2c3ee2fef1074c8c3a2b460f5fb6b6ec18032@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260826T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260826T190000
+SUMMARY:SEM 3 - DCBS 3 - SPG 0473
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Nurul Ainul Aina\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:31ab59f2e75f54567aebd745a58c86a6feefc0f0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260826T200000
+DTEND;TZID=Asia/Kuala_Lumpur:20260826T220000
+SUMMARY:SEM 3 - DCBS 3 - CIT 0633
+LOCATION:KT5-L10-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Mohd Izham
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8a2c5b841338a574c0765429354984fb7f9a5e56@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260827T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260827T130000
+SUMMARY:SEM 3 - DCBS 3 - ESP 2072
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:32214d0a03908394e0ab8b63f7b61a5679c13d10@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260827T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260827T180000
+SUMMARY:SEM 3 - DCBS 3 - MPU 2342
+LOCATION:KT1 L1 05 LH1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Dr Idris Kadir
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:aefa3b364ded33d2be2815470bb4824a3f892d05@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260828T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260828T130000
+SUMMARY:SEM 3 - DCBS 3 - NTC 1093
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Farazilawati Baizura\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4c6eb07622dc5c11307971f45117d4dd594ff7ae@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260828T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20260828T220000
+SUMMARY:SEM 3 - DCBS 3 - CIT 0633
+LOCATION:KT5-L10-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Mohd Izham
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:99896540428604746ff2a7bbdccc03a64d276452@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260907T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260907T130000
+SUMMARY:SEM 3 - DCBS 3 - Merdeka Celebration
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c4e4ac9b08311caa83dd96f76a3b4478eed4b005@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260907T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260907T190000
+SUMMARY:SEM 3 - DCBS 3 - SPG 0463
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Fatin Najwa\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1d253f9eae9e00f2d242661b302aabf9a11ae255@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260908T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260908T130000
+SUMMARY:SEM 3 - DCBS 3 - MPU 2422
+LOCATION:KT1-L3-35
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Farizan Mohamad\nNotes: Replacement Class 
+ (Merdeka 7/9)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8e58971846cd548ac44734c97d4d7bc469b77afc@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260909T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260909T190000
+SUMMARY:SEM 3 - DCBS 3 - SPG 0473
+LOCATION:KT2-L05-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Nurul Ainul Aina
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fbec663f8e8328a0646eab9a15b7315a6ddf41b2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260909T200000
+DTEND;TZID=Asia/Kuala_Lumpur:20260909T220000
+SUMMARY:SEM 3 - DCBS 3 - CIT 0633
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Mohd Izham\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:459946e2468dad193484f46759a01ca7e5edb13c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260910T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260910T130000
+SUMMARY:SEM 3 - DCBS 3 - ESP 2072
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cd98336bcf0833c22a8f7892c4ea353df240bc21@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260910T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260910T180000
+SUMMARY:SEM 3 - DCBS 3 - MPU 2342
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Dr Idris Kadir\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e8c57fdd93ccf7959fd4e0230555eee32b4e3e08@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260910T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20260910T220000
+SUMMARY:SEM 3 - DCBS 3 - CIT 0633
+LOCATION:KT5-L10-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Mohd Izham
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8998828b030b3420c3ef5e22b9e0837d4e15463e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260911T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260911T130000
+SUMMARY:SEM 3 - DCBS 3 - NTC 1093
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Farazilawati Baizura\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:43513bbe529ad71b77a2ce74385d57178d066235@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260914T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260914T130000
+SUMMARY:SEM 3 - DCBS 3 - SPG 0473
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Nurul Ainul Aina\nNotes: Replacement Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:489f467c4098048502894bd4f5b004b935da9890@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260914T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260914T190000
+SUMMARY:SEM 3 - DCBS 3 - SPG 0463
+LOCATION:KT5-L04-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Fatin Najwa
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e48248ff0afcffdb0f1a61a2915239293acde9d4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260915T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260915T130000
+SUMMARY:SEM 3 - DCBS 3 - CIT 0633
+LOCATION:KT5-L10-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Mohd Izham
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9eba152c70bd8efe4ab54891d7c42dafcd91bc2f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260915T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260915T190000
+SUMMARY:SEM 3 - DCBS 3 - NTC 1093
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Farazilawati Baizura\nNotes: Online Class 
+ (fyp)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7e38c8bcfb41063f31e2c64bf7414891ca98c93b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260916T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260916T190000
+SUMMARY:SEM 3 - DCBS 3 - SPG 0473
+LOCATION:KT2-L05-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Nurul Ainul Aina\nCalendar exception: Mala
+ ysia Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f2c83123a67aaed1d3491b3cff56523c1d2f86e6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260916T200000
+DTEND;TZID=Asia/Kuala_Lumpur:20260916T220000
+SUMMARY:SEM 3 - DCBS 3 - CIT 0633
+LOCATION:KT5-L10-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Mohd Izham\nCalendar exception: Malaysia D
+ ay
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:00fe30efd367eee1715661bb88be446bb5ae722c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260917T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260917T130000
+SUMMARY:SEM 3 - DCBS 3 - ESP 2072
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9af9541715c099ba360f5cc11c2556d93bc3484d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260917T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260917T180000
+SUMMARY:SEM 3 - DCBS 3 - MPU 2342
+LOCATION:KT1 L1 05 LH1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Dr Idris Kadir
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ae17a96badf9687e333d87fa25218016cf4917e8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260923T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260923T190000
+SUMMARY:SEM 3 - DCBS 3 - SPG 0473
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Nurul Ainul Aina\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:88d0de9d65900a1c435c2290e4124947358ea633@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260923T200000
+DTEND;TZID=Asia/Kuala_Lumpur:20260923T220000
+SUMMARY:SEM 3 - DCBS 3 - CIT 0633
+LOCATION:KT5-L10-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Mohd Izham
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e130a6411c12fba57b3cb434f4b7c3bc49542477@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260924T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260924T130000
+SUMMARY:SEM 3 - DCBS 3 - ESP 2072
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d8cad1248728109dd60206ed73e2fad12f7c48b4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260924T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260924T180000
+SUMMARY:SEM 3 - DCBS 3 - MPU 2342
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Dr Idris Kadir\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ca98ac0781a8f1e1681b202f6293b35fbc183b27@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260924T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20260924T220000
+SUMMARY:SEM 3 - DCBS 3 - CIT 0633
+LOCATION:KT5-L10-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Mohd Izham
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:818cbc7dbb4acb0cd0ca4fe460cda7a52c8f1ce2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260925T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260925T130000
+SUMMARY:SEM 3 - DCBS 3 - NTC 1093
+LOCATION:KT5-L10-007
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Farazilawati Baizura
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7b72ec2da786da9ff3849315073843f2bb1f3f45@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260928T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260928T190000
+SUMMARY:SEM 3 - DCBS 3 - SPG 0463
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Fatin Najwa\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c6b21ae624d27c879cf07da285004fbd49081470@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260930T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260930T190000
+SUMMARY:SEM 3 - DCBS 3 - SPG 0473
+LOCATION:KT2-L05-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Nurul Ainul Aina
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b8640d9245db7838cf53ea9fb2829f95f9af90dd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260930T200000
+DTEND;TZID=Asia/Kuala_Lumpur:20260930T220000
+SUMMARY:SEM 3 - DCBS 3 - CIT 0633
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Mohd Izham\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ddd9697fbfd2dcb2ff791caf21428435a18d9c90@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261001T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261001T130000
+SUMMARY:SEM 3 - DCBS 3 - ESP 2072
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1c8d7f1975da9057b9b0b3c517b805eeb00270b5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261001T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20261001T180000
+SUMMARY:SEM 3 - DCBS 3 - MPU 2342
+LOCATION:KT1 L1 05 LH1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Dr Idris Kadir
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9c0ecf6046c47f0a4315f7924ec5c9863891ff1a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261001T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20261001T220000
+SUMMARY:SEM 3 - DCBS 3 - CIT 0633
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Mohd Izham\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:028b104e60cc450b57ee78d0d37ca98ad5d7faa8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261002T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261002T130000
+SUMMARY:SEM 3 - DCBS 3 - NTC 1093
+LOCATION:KT5-L10-007
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Farazilawati Baizura
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4083d98bbc83521cd58af5e99b03f80841fe3207@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261005T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261005T190000
+SUMMARY:SEM 3 - DCBS 3 - SPG 0463
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Fatin Najwa\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:83ee791b2a87b10ca7490704ef92fe0795aab32a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261006T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261006T130000
+SUMMARY:SEM 3 - DCBS 3 - SPG 0463
+LOCATION:KT5-L10-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Fatin Najwa\nNotes: Replacement Class (MC)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b2a7cc4aa743afc6bf5938708b1e1d76868a9b60@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261007T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261007T130000
+SUMMARY:SEM 3 - DCBS 3 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3eb50e4814aef186e0e081c87e91071023c2b61b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261007T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261007T190000
+SUMMARY:SEM 3 - DCBS 3 - SPG 0473
+LOCATION:KT2-L05-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Nurul Ainul Aina
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:63480451fa1ff48a98839cc0c40a396e8f98e47b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261008T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261008T130000
+SUMMARY:SEM 3 - DCBS 3 - ESP 2072
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:24089fe08885bd83f1b8c92fcabf758322f24ea0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261008T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20261008T180000
+SUMMARY:SEM 3 - DCBS 3 - MPU 2342
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Dr Idris Kadir\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7c960ced7422df926f2e4e6ca995657e5268f811@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261009T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261009T130000
+SUMMARY:SEM 3 - DCBS 3 - NTC 1093
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Farazilawati Baizura\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e81ffcd40d419c8bbb0af3696e980b739043ab1b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261009T150000
+DTEND;TZID=Asia/Kuala_Lumpur:20261009T200000
+SUMMARY:SEM 3 - DCBS 3 - CIT 0633
+LOCATION:KT5-L10-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Mohd Izham\nNotes: Practical Test
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5f67ce3fa05c8e2b7b47313266b285b5290a76d6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261012T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261012T190000
+SUMMARY:SEM 3 - DCBS 3 - SPG 0463
+LOCATION:KT5-L04-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Fatin Najwa
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cc2bf282b675c14183b4ee0c8b42bb82a751f15f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261013T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261013T130000
+SUMMARY:SEM 3 - DCBS 3 - SPG 0473
+LOCATION:KT2-L05-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Nurul Ainul Aina
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:db999dd62fbea0c1c1cd9208adbb4bf3b5b453e7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261014T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261014T190000
+SUMMARY:SEM 3 - DCBS 3 - SPG 0473
+LOCATION:KT2-L05-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Nurul Ainul Aina
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1f6216d49f8c198bb245d61f53fa55d228dd8ffd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261015T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261015T130000
+SUMMARY:SEM 3 - DCBS 3 - ESP 2072
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:361ea7cb2cef7b1d5048df2572c36e0926dfbdaf@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261015T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20261015T180000
+SUMMARY:SEM 3 - DCBS 3 - MPU 2342
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Dr Idris Kadir\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:906d24dcaa2cf7968bea2bca1eec162dae4be62f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261016T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20261016T130000
+SUMMARY:SEM 3 - DCBS 3 - NTC 1093
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Farazilawati Baizura\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:680c7565f130bf912827a729251bf38110ff6c68@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261016T170000
+DTEND;TZID=Asia/Kuala_Lumpur:20261016T220000
+SUMMARY:SEM 3 - DCBS 3 - CIT 0633
+LOCATION:KT5-L10-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Mohd Izham\nNotes: Linux Practice
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:90c2c4c52b1fcbfd7207361a200cf4147d3b0a7b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261019T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261019T130000
+SUMMARY:SEM 3 - DCBS 3 - SPG 0473
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Nurul Ainul Aina\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c5cdc73ef4274a686331fc55bb458fc620ec6759@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261019T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261019T190000
+SUMMARY:SEM 3 - DCBS 3 - SPG 0463
+LOCATION:KT5-L04-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Fatin Najwa
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:99d514cc326cb79722ce85e85a1496910617f2c7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261020T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261020T130000
+SUMMARY:SEM 3 - DCBS 3 - SPG 0473
+LOCATION:KT2-L05-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Nurul Ainul Aina
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1725187a58bdbcc23253c143d69889d9b9b9e407@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261021T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261021T190000
+SUMMARY:SEM 3 - DCBS 3 - SPG 0473
+LOCATION:KT2-L05-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Nurul Ainul Aina
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c55fcf425d7f2b85aa8987b4bcebdcc643504bcb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261021T200000
+DTEND;TZID=Asia/Kuala_Lumpur:20261021T220000
+SUMMARY:SEM 3 - DCBS 3 - CIT 0633
+LOCATION:KT5-L10-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Mohd Izham
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:933251bbd121d7628ee548320e283bbdd6523bf4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261022T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261022T130000
+SUMMARY:SEM 3 - DCBS 3 - ESP 2072
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:315477b817c9535f6e004bc8f9bffa14f8491ec8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261022T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20261022T180000
+SUMMARY:SEM 3 - DCBS 3 - MPU 2342
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Dr Idris Kadir\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fe89b39c96874b9977561688a66ec6c86c1c7acb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261022T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20261022T220000
+SUMMARY:SEM 3 - DCBS 3 - CIT 0633
+LOCATION:KT5-L10-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Mohd Izham
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d9310fb9d410744c3aa2d6a7a589d4c720988fd3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261023T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261023T130000
+SUMMARY:SEM 3 - DCBS 3 - NTC 1093
+LOCATION:KT5-L10-007
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Farazilawati Baizura
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:62962a5d3e02c528bc7e9f65a86e40ff59c48d78@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261026T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261026T190000
+SUMMARY:SEM 3 - DCBS 3 - SPG 0463
+LOCATION:KT5-L04-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Fatin Najwa\nCalendar exception: JUBLI PER
+ AK SELANGOR
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ec12b4a4339cd9c39e6bc291dd6f2f344235af77@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261027T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261027T130000
+SUMMARY:SEM 3 - DCBS 3 - SPG 0463
+LOCATION:KT5-L10-005
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Fatin Najwa\nNotes: Replacement Class (PH)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fbfc9976769bc2824a0e36be5d64c685fdced248@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261028T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261028T130000
+SUMMARY:SEM 3 - DCBS 3 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b0ccda8a9504983ffefde6b702877cb51aeb0e5c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261028T200000
+DTEND;TZID=Asia/Kuala_Lumpur:20261028T220000
+SUMMARY:SEM 3 - DCBS 3 - CIT 0633
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Mohd Izham\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5cf7f3e6ea1b238ec4b50ee2a97fb0fa22c4f366@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261029T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261029T130000
+SUMMARY:SEM 3 - DCBS 3 - ESP 2072
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d99387b3c8aa435b10e415d7b6b1f9ada65cb34e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261029T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20261029T180000
+SUMMARY:SEM 3 - DCBS 3 - MPU 2342
+LOCATION:KT1 L1 05 LH1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Dr Idris Kadir
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f35a02443f2e729afd42f52e0c12998593189d99@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261029T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20261029T220000
+SUMMARY:SEM 3 - DCBS 3 - CIT 0633
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Mohd Izham\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2c611a2a3e0cdc2611cc6ae1233bc9f62b8cc4a2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261030T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20261030T130000
+SUMMARY:SEM 3 - DCBS 3 - NTC 1093
+LOCATION:KT5-L10-007
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Farazilawati Baizura
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7391e1f50e222cded63e5d96c6f5de734b299a6f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261102T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261102T190000
+SUMMARY:SEM 3 - DCBS 3 - SPG 0463
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Fatin Najwa\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:78f3490cd947d55c87db5e6c1249280a10281065@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261104T200000
+DTEND;TZID=Asia/Kuala_Lumpur:20261104T220000
+SUMMARY:SEM 3 - DCBS 3 - CIT 0633
+LOCATION:KT5-L10-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Mohd Izham
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:92eeea16516507d65b38533bbc3f529bdc536509@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261105T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261105T130000
+SUMMARY:SEM 3 - DCBS 3 - ESP 2072
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d52481158b0bf7b59b0691b6aab0f3a01f8eb66b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261105T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20261105T180000
+SUMMARY:SEM 3 - DCBS 3 - MPU 2342
+LOCATION:KT1 L1 05 LH1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Dr Idris Kadir
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:38059b9cf47357599627fe5ab0f5cf8479de99dc@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261105T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20261105T220000
+SUMMARY:SEM 3 - DCBS 3 - CIT 0633
+LOCATION:KT5-L10-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Mohd Izham
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:960a20c8bc27d95c0c556ded3f3179f909f1b753@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261106T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261106T130000
+SUMMARY:SEM 3 - DCBS 3 - NTC 1093
+LOCATION:KT5-L10-007
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Farazilawati Baizura
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:68fd154efd94bcd35b735e7d5c1a72d3338045b6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261109T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261109T190000
+SUMMARY:SEM 3 - DCBS 3 - SPG 0463
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Fatin Najwa\nNotes: Online Class\nCalendar
+  exception: Deepavali Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3dab350ef4b17ae0e6a06ac7455cbc2c02014794@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261110T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261110T130000
+SUMMARY:SEM 3 - DCBS 3 - SPG 0463
+LOCATION:KT5-L04-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Fatin Najwa\nNotes: Replacement Class (PH)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:347134f4dfaddf78f2b6e1893cb1bca0f349a39c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261111T200000
+DTEND;TZID=Asia/Kuala_Lumpur:20261111T220000
+SUMMARY:SEM 3 - DCBS 3 - CIT 0633
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Mohd Izham\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c7bcf436d29a8406bd2624e2d668e559518b283f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261112T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261112T130000
+SUMMARY:SEM 3 - DCBS 3 - ESP 2072
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ffea19cfc673b5ce4352ee322055d606b3f3d36e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261112T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20261112T180000
+SUMMARY:SEM 3 - DCBS 3 - MPU 2342
+LOCATION:KT1 L1 05 LH1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Dr Idris Kadir
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:70f154ee4cc338834f0d0f7e5ffc4f0a4179b1cd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261112T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20261112T220000
+SUMMARY:SEM 3 - DCBS 3 - CIT 0633
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Mohd Izham\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b73f0a35c1a098c54fc8099f6a29bd026cd99663@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261113T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261113T130000
+SUMMARY:SEM 3 - DCBS 3 - NTC 1093
+LOCATION:KT5-L10-007
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DCBS 3\nLecturer: Farazilawati Baizura
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR

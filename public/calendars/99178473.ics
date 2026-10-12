@@ -1,0 +1,1466 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Student Timetable//Class Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SEM 1 - DSWE 1
+X-WR-TIMEZONE:Asia/Kuala_Lumpur
+BEGIN:VTIMEZONE
+TZID:Asia/Kuala_Lumpur
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:MYT
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:7bf3656f5261d9826793cc71008e31a86e44d35f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260706T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260706T130000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0653
+LOCATION:KT5-L15-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Bakhtiar Iman Awang
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:613e7f8132436c7dae070c70c18571bf1c31f2e8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260707T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260707T110000
+SUMMARY:SEM 1 - DSWE 1 - MPU 2222
+LOCATION:KT1-L3-07
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Nur Dhaniah Zainul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:febfedb21d4b8e08aba6142c52ccb760eb70c785@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260707T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260707T190000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0623
+LOCATION:KT5-L15-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Ainin Sofiya Hisham
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e8bbae0e9350bccaceb4e54126ea4d00438a0b50@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260708T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260708T110000
+SUMMARY:SEM 1 - DSWE 1 - SDT 2113
+LOCATION:KT5-L12-001C
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Firdaus Ahmad Azizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5b14afef6ce2a38a4db9ee760936b1d5ca74dfb8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260708T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260708T130000
+SUMMARY:SEM 1 - DSWE 1 - GEL 2312
+LOCATION:KT1 L1 05 LH1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Hasif Sharif
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6a50e38ee4b8bd9719aba16daa10485143d761fa@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260709T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260709T100000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0612
+LOCATION:KT5-L12-001A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Siti Hawa Mokhtar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:be03273b29fb1fc04fec1e79a818699caeefa6e9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260709T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260709T130000
+SUMMARY:SEM 1 - DSWE 1 - MAP 2223
+LOCATION:KT1-L3-16
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Aini Mastura Mustapa
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ffc81053348b9c23d85465dcc7fdc7b44e501eb4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260713T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260713T130000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0653
+LOCATION:KT5-L15-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Bakhtiar Iman Awang
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a1f4f71aa2f1ce1240970bf25590c922d81c379f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260714T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260714T110000
+SUMMARY:SEM 1 - DSWE 1 - MPU 2222
+LOCATION:KT1-L3-07
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Nur Dhaniah Zainul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:55e373ec083fa940baf815f2ae07a0ef0f788b28@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260714T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260714T190000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0623
+LOCATION:KT5-L15-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Ainin Sofiya Hisham
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ba37a3be33ee68391e379a35bf84533279639643@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260715T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260715T110000
+SUMMARY:SEM 1 - DSWE 1 - SDT 2113
+LOCATION:KT5-L12-001C
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Firdaus Ahmad Azizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5cee79129265fae639dd50556c2a776b29ae16f7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260715T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260715T130000
+SUMMARY:SEM 1 - DSWE 1 - GEL 2312
+LOCATION:KT1 L1 05 LH1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Hasif Sharif
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:75251a012b31d3af732a48ae9a9559a3cb5b0a06@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260716T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260716T100000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0612
+LOCATION:KT5-L12-001A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Siti Hawa Mokhtar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1ef6e2b6c09ea7fa4a4b7622e62596c4a6b7d9cd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260716T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260716T130000
+SUMMARY:SEM 1 - DSWE 1 - MAP 2223
+LOCATION:KT1-L3-16
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Aini Mastura Mustapa
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8f3551ae69c2c462e3904830368b34d8e07f0336@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260720T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260720T130000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0653
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Bakhtiar Iman Awang\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:78e439d2de445619053d525219e032a4ec5e274f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260720T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260720T170000
+SUMMARY:SEM 1 - DSWE 1 - SDT 2113
+LOCATION:KT5-L12-001B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Firdaus Ahmad Azizan\nNotes: Replacement C
+ lass (Training)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a7e601814398d74fd40a3be71ee3bba436de3133@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260721T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260721T110000
+SUMMARY:SEM 1 - DSWE 1 - MPU 2222
+LOCATION:KT1-L3-07
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Nur Dhaniah Zainul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:91e641bcc436b9caf2e25d1f61e0a4e6bf5544bd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260721T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260721T190000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0623
+LOCATION:KT5-L15-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Ainin Sofiya Hisham
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9886ce931e80217dfde3fc5e4c7bb728f1511d83@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260722T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260722T130000
+SUMMARY:SEM 1 - DSWE 1 - GEL 2312
+LOCATION:KT1 L1 05 LH1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Hasif Sharif
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:44467a8224d3702f11b91b68618dcf13a6131ce9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260723T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260723T100000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0612
+LOCATION:KT5-L12-001A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Siti Hawa Mokhtar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e3a17278a3e6fab3d8435385f76b1bd87558d3e9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260723T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260723T130000
+SUMMARY:SEM 1 - DSWE 1 - MAP 2223
+LOCATION:KT1-L3-16
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Aini Mastura Mustapa
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:aaeefb06149fe960f675dc2abe8211cf5c29eb51@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260727T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260727T130000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0653
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Bakhtiar Iman Awang\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:09ea20498082cb0020bdf786e8b359dd79250d9d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260727T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260727T170000
+SUMMARY:SEM 1 - DSWE 1 - MAP 2223
+LOCATION:KT1-L3-16
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Aini Mastura Mustapa
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c4b423cef8513a9e130b55fda17d9cc603ec6ef2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260728T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260728T110000
+SUMMARY:SEM 1 - DSWE 1 - MPU 2222
+LOCATION:KT1-L3-07
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Nur Dhaniah Zainul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bf7f63c35c71ede712605e9c6ae3b22a52b52c8f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260728T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260728T190000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0623
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Ainin Sofiya Hisham\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:48a4c16648665871317bc827f92962ca9a02e979@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260729T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260729T110000
+SUMMARY:SEM 1 - DSWE 1 - SDT 2113
+LOCATION:KT5-L12-001C
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Firdaus Ahmad Azizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:941acf968a700432b991f895a428e791410e519f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260729T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260729T130000
+SUMMARY:SEM 1 - DSWE 1 - GEL 2312
+LOCATION:KT1 L1 05 LH1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Hasif Sharif
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9654f9e0d8a579f3b82122ce43fb613b48db570c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260730T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260730T110000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0612
+LOCATION:KT5-L12-001A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Siti Hawa Mokhtar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:164d336280eede24245eeb281fa3cf3abe5b3586@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260803T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260803T130000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0653
+LOCATION:KT5-L15-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Bakhtiar Iman Awang
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2664700102771d3cdcc2178a7e50bc80b6acfcd9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260803T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260803T170000
+SUMMARY:SEM 1 - DSWE 1 - MAP 2223
+LOCATION:KT1-L3-16
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Aini Mastura Mustapa
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2e1a8488d71bdc9d6eb6d73129b84802259dd962@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260804T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260804T110000
+SUMMARY:SEM 1 - DSWE 1 - MPU 2222
+LOCATION:KT1-L3-07
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Nur Dhaniah Zainul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:44f2ad7668908230a52a1d45ee6466aedc4d85a9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260804T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260804T190000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0623
+LOCATION:KT5-L15-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Ainin Sofiya Hisham
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:40a4122dde1cfb333bfe5775a8efec57d6abadb9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260805T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260805T130000
+SUMMARY:SEM 1 - DSWE 1 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3d28b51be7bf9c9aed96c29d9fed2f0031f366d0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260807T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260807T120000
+SUMMARY:SEM 1 - DSWE 1 - SDT 2113
+LOCATION:KT5-L12-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Firdaus Ahmad Azizan\nNotes: Replacement C
+ lass (Integrity Race)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:de167d360844f76f7936dc4143af58e7083aa70f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260810T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260810T130000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0653
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Bakhtiar Iman Awang\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4a8e6e4fd1f444cdf6fc86e36e81b92a0d7d8bb9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260810T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260810T170000
+SUMMARY:SEM 1 - DSWE 1 - MAP 2223
+LOCATION:KT1-L3-16
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Aini Mastura Mustapa
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:38f1fe97df854b56b358436de5cad4c7c52b40b7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260811T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260811T110000
+SUMMARY:SEM 1 - DSWE 1 - MPU 2222
+LOCATION:KT1-L3-07
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Nur Dhaniah Zainul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:95fb7319cf825616e025becb8e87d29d3bcc5ce1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260811T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260811T190000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0623
+LOCATION:KT5-L15-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Ainin Sofiya Hisham
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:17472dd1caa69bb5f564c10d3985be3a377264ad@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260812T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260812T110000
+SUMMARY:SEM 1 - DSWE 1 - SDT 2113
+LOCATION:KT5-L12-001C
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Firdaus Ahmad Azizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:345feabfb94b0a1a9a53a48cb1ba6fd3306af181@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260812T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260812T130000
+SUMMARY:SEM 1 - DSWE 1 - GEL 2312
+LOCATION:KT1 L1 05 LH1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Hasif Sharif
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:22ebf8de6fd86faa046d87d15d53ac30982dc8e2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260813T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260813T110000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0612
+LOCATION:KT5-L12-001A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Siti Hawa Mokhtar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5ff95a3a5943d5d08e437adda3ecace68a1d2fcc@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260817T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260817T130000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0653
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Bakhtiar Iman Awang\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3784343f1511ffbce7897f9c99b728c40ae7d92d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260817T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260817T170000
+SUMMARY:SEM 1 - DSWE 1 - MAP 2223
+LOCATION:KT1-L3-16
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Aini Mastura Mustapa
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a4f92e18337ce11b1d8bca33c7578734847d999d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260818T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260818T110000
+SUMMARY:SEM 1 - DSWE 1 - MPU 2222
+LOCATION:KT1-L3-07
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Nur Dhaniah Zainul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c142572c556c15bee9af1606440758e1691935c4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260818T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260818T190000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0623
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Ainin Sofiya Hisham\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a6ed641634f5a75315fd9348b5bea814a6459b23@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260819T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260819T110000
+SUMMARY:SEM 1 - DSWE 1 - SDT 2113
+LOCATION:KT5-L12-001C
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Firdaus Ahmad Azizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4710cd86933b7ed06a6e6df94de8fb6759dbda1f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260819T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260819T130000
+SUMMARY:SEM 1 - DSWE 1 - GEL 2312
+LOCATION:KT1 L1 05 LH1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Hasif Sharif
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2c49ad71913cb24102c3f825e5ee6f4ec0b14b8c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260820T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260820T110000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0612
+LOCATION:KT5-L12-001A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Siti Hawa Mokhtar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fe4be305a4e4d06bdb0366e9287a3b1e1571a6b4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260820T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260820T160000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0612
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Siti Hawa Mokhtar\nNotes: Online Replaceme
+ nt Class (AL)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:16e437a57f4e9c2f25e7fb33f999f27216377f5c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260824T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260824T130000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0653
+LOCATION:KT5-L15-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Bakhtiar Iman Awang
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:dd0ee3ced2ee6caa0ffc75e00ea26e109c261c7c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260825T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260825T110000
+SUMMARY:SEM 1 - DSWE 1 - MPU 2222
+LOCATION:KT1-L3-07
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Nur Dhaniah Zainul\nCalendar exception: Ma
+ ulidur Rasul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:75dac04c8ead918a780944c12a6e5ff66c5568d5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260825T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260825T190000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0623
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Ainin Sofiya Hisham\nNotes: Online Class\n
+ Calendar exception: Maulidur Rasul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9bd003788e5f0514eddb48f230af1255c877e768@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260826T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260826T110000
+SUMMARY:SEM 1 - DSWE 1 - SDT 2113
+LOCATION:KT5-L12-001C
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Firdaus Ahmad Azizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ce7ed974275f07231e3a6b2427bfef042a6e439b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260826T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260826T130000
+SUMMARY:SEM 1 - DSWE 1 - GEL 2312
+LOCATION:KT1 L1 05 LH1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Hasif Sharif
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d49dbf058634717db06734f9537627926b2231ee@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260907T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260907T130000
+SUMMARY:SEM 1 - DSWE 1 - Merdeka Celebration
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:650c7e83dc53a315f432e79c698d33b33ee52a9f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260907T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260907T170000
+SUMMARY:SEM 1 - DSWE 1 - MAP 2223
+LOCATION:KT1-L3-16
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Aini Mastura Mustapa
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c419113d1465b9ea14d937eedd8cd8acd9212afa@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260908T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260908T110000
+SUMMARY:SEM 1 - DSWE 1 - MPU 2222
+LOCATION:KT1-L3-07
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Nur Dhaniah Zainul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a13bf8d151ca639c0c2050f4e48c27a7e045777c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260908T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260908T190000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0623
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Ainin Sofiya Hisham\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5d3014d935027f7fcba57ec0d68b73176dc32093@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260909T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260909T110000
+SUMMARY:SEM 1 - DSWE 1 - SDT 2113
+LOCATION:KT5-L12-001C
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Firdaus Ahmad Azizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b35c2cd92e5828d485133d74cab194a26772358f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260909T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260909T130000
+SUMMARY:SEM 1 - DSWE 1 - GEL 2312
+LOCATION:KT1 L1 05 LH1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Hasif Sharif
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fd99e1b85caea2ccb3ce7828be423c622e36972d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260910T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260910T110000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0612
+LOCATION:KT5-L12-001A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Siti Hawa Mokhtar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:23459d78774610760c395d81b0dc1f3d77dde618@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260910T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260910T160000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0612
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Siti Hawa Mokhtar\nNotes: Replacement Clas
+ s (Online)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8b14ee0e6d5bb754862cb397e23b745691ea915c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260911T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260911T130000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0653
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Bakhtiar Iman Awang\nNotes: Online Replace
+ ment Class (Merdeka 7/9)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f23e7660facc4697940e43e55d8ff59a8412c4b5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260914T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260914T130000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0653
+LOCATION:KT5-L15-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Bakhtiar Iman Awang
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ade7e910fcae942fdd4b89b288ded17829b4d136@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260914T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260914T170000
+SUMMARY:SEM 1 - DSWE 1 - MAP 2223
+LOCATION:KT1-L3-16
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Aini Mastura Mustapa
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:297139226b93e09dddabac2729264281dd1ab5cd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260915T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260915T110000
+SUMMARY:SEM 1 - DSWE 1 - MPU 2222
+LOCATION:KT1-L3-07
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Nur Dhaniah Zainul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:72f882fab64115b1c122f245207ce2952193e502@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260915T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260915T190000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0623
+LOCATION:KT5-L15-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Ainin Sofiya Hisham
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:496a5cdad8bfcbc1cf246de7539798520f897c6f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260916T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260916T110000
+SUMMARY:SEM 1 - DSWE 1 - SDT 2113
+LOCATION:KT5-L12-001C
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Firdaus Ahmad Azizan\nCalendar exception: 
+ Malaysia Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:527b699297ef3f00c33cdd932afb466530f9b5de@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260916T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260916T130000
+SUMMARY:SEM 1 - DSWE 1 - GEL 2312
+LOCATION:KT1 L1 05 LH1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Hasif Sharif\nCalendar exception: Malaysia
+  Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0c7bd15205ea3a7a63e7dd25bfa5df338feb6938@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260917T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260917T110000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0612
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Siti Hawa Mokhtar\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e93d30d0fb668e680c90406ccf206e4e6e1b7271@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260921T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260921T170000
+SUMMARY:SEM 1 - DSWE 1 - MAP 2223
+LOCATION:KT1-L3-16
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Aini Mastura Mustapa
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8fe6a462371081e7bfbb357e161c29f53bee1c6e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260922T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260922T110000
+SUMMARY:SEM 1 - DSWE 1 - MPU 2222
+LOCATION:KT1-L3-07
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Nur Dhaniah Zainul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:48f9a380a207fa64fd7ac37aab46c59dfefab507@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260922T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260922T190000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0623
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Ainin Sofiya Hisham\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fabfee622655afc1053b1281f7b42ae82d2e1676@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260923T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260923T110000
+SUMMARY:SEM 1 - DSWE 1 - SDT 2113
+LOCATION:KT5-L12-001C
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Firdaus Ahmad Azizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:87ae12bebeeefcdc4f721cba881eb4b226cb39a5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260923T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260923T130000
+SUMMARY:SEM 1 - DSWE 1 - GEL 2312
+LOCATION:KT1 L1 05 LH1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Hasif Sharif
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d92ff216ce8663ece38319765fe0377c871ce12c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260923T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260923T180000
+SUMMARY:SEM 1 - DSWE 1 - GEL 2312
+LOCATION:KT1 L1 05 LH1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Hasif Sharif\nNotes: Replacement Class (OP
+ REG)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:517f630bf43c8ecbeda79efe18f65ef24608d1db@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260924T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260924T110000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0612
+LOCATION:KT5-L12-001A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Siti Hawa Mokhtar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:077f0ffe7eb8a5eee332d5c81765fbf0cf55bf75@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260924T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260924T190000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0653
+LOCATION:KT5-L10-005
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Bakhtiar Iman Awang\nNotes: Replacement Cl
+ ass 21/9
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7adf0d398e908c904b11d78738672ccc8025e2b8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260925T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260925T120000
+SUMMARY:SEM 1 - DSWE 1 - MAP 2223
+LOCATION:KT1-L3-16
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Aini Mastura Mustapa\nNotes: Replacement C
+ lass (AL)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2f5a8c00afe1f0b743eb25d913f98284dc986f65@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260928T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260928T130000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0653
+LOCATION:KT5-L15-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Bakhtiar Iman Awang
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2cde60dd4b5c645d525ebdc9ab7ff39133dfbdfd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260928T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260928T170000
+SUMMARY:SEM 1 - DSWE 1 - MAP 2223
+LOCATION:KT1-L3-16
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Aini Mastura Mustapa
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:eaa7b023af1333f43fac633cd5f141ac150e1298@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260929T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260929T110000
+SUMMARY:SEM 1 - DSWE 1 - MPU 2222
+LOCATION:KT1-L3-07
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Nur Dhaniah Zainul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3f2321f5cac75040b4035b166dc84afa40657cb8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260929T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260929T190000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0623
+LOCATION:KT5-L15-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Ainin Sofiya Hisham
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3e65f650a033f56801fe7e562983dff790d67517@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260930T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260930T110000
+SUMMARY:SEM 1 - DSWE 1 - SDT 2113
+LOCATION:KT5-L12-001C
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Firdaus Ahmad Azizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2255483d377c12dc31800723a57a51ae6d751acb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260930T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260930T130000
+SUMMARY:SEM 1 - DSWE 1 - GEL 2312
+LOCATION:KT1 L1 05 LH1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Hasif Sharif
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8b50a930b1ce377f7d3a2d2b2cf6a47b09d92d60@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261001T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261001T110000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0612
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Siti Hawa Mokhtar\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7a46a41fb0ce74de3854593bc87c9f0293ea4054@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261002T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261002T110000
+SUMMARY:SEM 1 - DSWE 1 - GEL 2312
+LOCATION:KT1 L1 05 LH1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Hasif Sharif\nNotes: Replacement Class (SA
+ )
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8a287000593d4d909042456fd0d5c403ed5c1d88@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261005T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261005T130000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0653
+LOCATION:KT5-L15-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Bakhtiar Iman Awang
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0096b1fa4862639e1443c9063f04ade675a8292a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261005T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261005T170000
+SUMMARY:SEM 1 - DSWE 1 - MAP 2223
+LOCATION:KT1-L3-16
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Aini Mastura Mustapa
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ef5a01339971faca0b1aa420b83b8ffd7d9c3f94@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261006T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261006T110000
+SUMMARY:SEM 1 - DSWE 1 - MPU 2222
+LOCATION:KT1-L3-07
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Nur Dhaniah Zainul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c0c400829528cb07097611f56e10f5617000249d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261006T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261006T190000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0623
+LOCATION:KT5-L15-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Ainin Sofiya Hisham
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:608c5cb641714cc3049e7370afecd60ad8e88c0a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261007T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261007T130000
+SUMMARY:SEM 1 - DSWE 1 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4bbf657c3318c2c9ed13acc638e3927d1ddc06e4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261008T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261008T110000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0612
+LOCATION:KT5-L12-001A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Siti Hawa Mokhtar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bbd6f70aacda47a6a6451cba9b9ec978392a2a05@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261008T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261008T170000
+SUMMARY:SEM 1 - DSWE 1 - MAP 2223
+LOCATION:KT1-L3-16
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Aini Mastura Mustapa\nNotes: Replacement C
+ lass (PH)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7dac528fd52504ff5d60eb902474d51c12adc1c6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261009T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261009T110000
+SUMMARY:SEM 1 - DSWE 1 - GEL 2312
+LOCATION:KT1-L4-05/07
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Hasif Sharif\nNotes: Replacement Class (PH
+ )
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:49b5a60b77ea1cdf51dc52fa8715d5ccbdd026e1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261009T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261009T190000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0623
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Ainin Sofiya Hisham\nNotes: Online Replace
+ ment Class (PH)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cfcce9a579085d062c4f8f499c09d6f6b3842417@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261012T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261012T130000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0653
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Bakhtiar Iman Awang\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5a56fd1288b20bd2f355f9e59d9f3e2e684a3110@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261012T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261012T170000
+SUMMARY:SEM 1 - DSWE 1 - MAP 2223
+LOCATION:KT1-L3-16
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Aini Mastura Mustapa
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:24bb59f56f0bb3b667d4f08452ebe4334a9b1f95@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261013T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261013T110000
+SUMMARY:SEM 1 - DSWE 1 - MPU 2222
+LOCATION:KT1-L3-07
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Nur Dhaniah Zainul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f2a4801fbf3b215db0117ea28e56975aeb627f40@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261013T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261013T190000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0623
+LOCATION:KT5-L15-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Ainin Sofiya Hisham
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c86ce47a522724ac07446ca465fc5d8ff94d11ff@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261014T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261014T110000
+SUMMARY:SEM 1 - DSWE 1 - SDT 2113
+LOCATION:KT5-L12-001C
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Firdaus Ahmad Azizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2e0819b061b9b7549da6c1f933b050335d7ceae4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261014T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261014T130000
+SUMMARY:SEM 1 - DSWE 1 - GEL 2312
+LOCATION:KT1 L1 05 LH1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Hasif Sharif
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1c69b253e7cb667419690111369dc794ce409579@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261015T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261015T110000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0612
+LOCATION:KT5-L12-001A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Siti Hawa Mokhtar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5c8544f98b3fc3081bed25d11d8a4509f3174096@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261019T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261019T130000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0653
+LOCATION:KT5-L15-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Bakhtiar Iman Awang
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6eb97e7343bec81112178068f71ca40eb9352850@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261019T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261019T170000
+SUMMARY:SEM 1 - DSWE 1 - MAP 2223
+LOCATION:KT1-L3-16
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Aini Mastura Mustapa
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:37c2ce2aa65649e5b4479c2b609ab90bb2f19034@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261020T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261020T110000
+SUMMARY:SEM 1 - DSWE 1 - MPU 2222
+LOCATION:KT1-L3-07
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Nur Dhaniah Zainul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f0fca8b4ab22e3c55671fcb023b43002ef518675@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261020T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261020T190000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0623
+LOCATION:KT5-L15-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Ainin Sofiya Hisham
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fb82d22590e2b19a566de3e190fc01fdf6b70ffd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261021T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261021T110000
+SUMMARY:SEM 1 - DSWE 1 - SDT 2113
+LOCATION:KT5-L12-001C
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Firdaus Ahmad Azizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8c3c554ea25f39b18ecfabf74edfafce580a57f0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261021T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261021T130000
+SUMMARY:SEM 1 - DSWE 1 - GEL 2312
+LOCATION:KT1 L1 05 LH1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Hasif Sharif
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5ee4d1c8dcc232b9e958fa513ece59d6c1a1739f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261022T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261022T110000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0612
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Siti Hawa Mokhtar\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f61b43ace1504735edc936012642e3dd58d97d5f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261026T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261026T130000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0653
+LOCATION:KT5-L15-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Bakhtiar Iman Awang\nCalendar exception: J
+ UBLI PERAK SELANGOR
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8f707598254f66e8e6f6aea8d850e9d252526565@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261026T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261026T170000
+SUMMARY:SEM 1 - DSWE 1 - MAP 2223
+LOCATION:KT1-L3-16
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Aini Mastura Mustapa\nCalendar exception: 
+ JUBLI PERAK SELANGOR
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0af57d603e831b19d6104a3c8cd56946daba4837@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261027T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261027T110000
+SUMMARY:SEM 1 - DSWE 1 - MPU 2222
+LOCATION:KT1-L3-07
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Nur Dhaniah Zainul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:55894a9a42c4176002e689576a24810cb029b353@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261027T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261027T190000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0623
+LOCATION:KT5-L15-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Ainin Sofiya Hisham
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:af5f777dada5317b50d464dff13830330a55c61b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261028T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261028T130000
+SUMMARY:SEM 1 - DSWE 1 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:243a7a94e564b17c9e1eed4946740f6d06c29f8d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261029T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261029T110000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0612
+LOCATION:KT5-L12-001A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Siti Hawa Mokhtar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7cbd5e82dca838a184c9212cbc4a604546833a22@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261102T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261102T130000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0653
+LOCATION:KT5-L15-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Bakhtiar Iman Awang
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3f652cdf201c054ce5c76d536fc3c3595678351e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261102T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261102T170000
+SUMMARY:SEM 1 - DSWE 1 - MAP 2223
+LOCATION:KT1-L3-16
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Aini Mastura Mustapa
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e37e55b8431eec55dd5387e5bbd818662403c55f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261103T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261103T110000
+SUMMARY:SEM 1 - DSWE 1 - MPU 2222
+LOCATION:KT1-L3-07
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Nur Dhaniah Zainul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ffd8b377f8e1e9b9f58b8cab8299b655dc448b8e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261103T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261103T190000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0623
+LOCATION:KT5-L15-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Ainin Sofiya Hisham
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3032cb9d374c68a22bf06297e4e0abff8d2b5df9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261104T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261104T110000
+SUMMARY:SEM 1 - DSWE 1 - SDT 2113
+LOCATION:KT5-L12-001C
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Firdaus Ahmad Azizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:630a63589941e2d6cf9a7b6eb4241e1fe3d2c921@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261104T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261104T130000
+SUMMARY:SEM 1 - DSWE 1 - GEL 2312
+LOCATION:KT1 L1 05 LH1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Hasif Sharif
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c3a8984970dd9dced960ec7e0ff9490becabb862@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261105T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261105T110000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0612
+LOCATION:KT5-L12-001A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Siti Hawa Mokhtar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f4d2e954ccee605b8dfaec4d06b335cae2ceadd9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261109T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261109T130000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0653
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Bakhtiar Iman Awang\nNotes: Online Class\n
+ Calendar exception: Deepavali Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6d13868f7355c877a041c31553d8ba413fc44215@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261109T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261109T170000
+SUMMARY:SEM 1 - DSWE 1 - MAP 2223
+LOCATION:KT1-L3-16
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Aini Mastura Mustapa\nCalendar exception: 
+ Deepavali Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:01bf1107c3bf48e5feed2dbccd5182635b2885c3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261110T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261110T110000
+SUMMARY:SEM 1 - DSWE 1 - MPU 2222
+LOCATION:KT1-L3-07
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Nur Dhaniah Zainul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:40ba5d5789b7315ea76d0fc5072dc798f0853740@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261110T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261110T190000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0623
+LOCATION:KT5-L15-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Ainin Sofiya Hisham
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2f24304a270cf351b791125e611924168361c6db@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261111T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261111T110000
+SUMMARY:SEM 1 - DSWE 1 - SDT 2113
+LOCATION:KT5-L12-001C
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Firdaus Ahmad Azizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c497c8c55f8f8be1d64d9065f25216855d9137ea@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261111T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261111T130000
+SUMMARY:SEM 1 - DSWE 1 - GEL 2312
+LOCATION:KT1 L1 05 LH1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Hasif Sharif
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:389abc02ede230fa27eab9c4f53984b0e44bce06@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261112T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261112T110000
+SUMMARY:SEM 1 - DSWE 1 - CIT 0612
+LOCATION:KT5-L12-001A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DSWE 1\nLecturer: Siti Hawa Mokhtar
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR

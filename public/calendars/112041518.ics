@@ -1,0 +1,681 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Student Timetable//Class Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SEM 5 - DCRM 3
+X-WR-TIMEZONE:Asia/Kuala_Lumpur
+BEGIN:VTIMEZONE
+TZID:Asia/Kuala_Lumpur
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:MYT
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:6242a4c0f37d05fe6aa8312b65b1e49b6469d6ae@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260706T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260706T180000
+SUMMARY:SEM 5 - DCRM 3 - CRM 1972
+LOCATION:KT5-L04-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Nadia Mhd Yatim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fdd41318e71dd8a67fc2062a405fb0caa05d8f57@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260710T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260710T130000
+SUMMARY:SEM 5 - DCRM 3 - CMT 2083
+LOCATION:KT5-L15-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Siti Daniah Salleh
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:709b615917c9cf83f016ace2f41f305c6cd21bce@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260711T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260711T130000
+SUMMARY:SEM 5 - DCRM 3 - CRM 1963
+LOCATION:KT5-L12-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Ismah Haziq
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:caf800668c6955d0b6a967971a49458484966f0f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260713T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260713T180000
+SUMMARY:SEM 5 - DCRM 3 - CRM 1972
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Nadia Mhd Yatim\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ad7d37e203e8cc1ba7a5b1c6bebe2605676e89d1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260717T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260717T130000
+SUMMARY:SEM 5 - DCRM 3 - CMT 2083
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Siti Daniah Salleh\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:38564127632cb03a29b447d1cf20bf5096f14796@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260718T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260718T130000
+SUMMARY:SEM 5 - DCRM 3 - CRM 1963
+LOCATION:KT5-L12-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Ismah Haziq
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d496621379fdc6d2f22a76bafffa59373c2b0f95@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260720T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260720T180000
+SUMMARY:SEM 5 - DCRM 3 - CRM 1972
+LOCATION:KT5-L04-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Nadia Mhd Yatim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1a1d9cde3b27d46ee21f9db23bb71efa8cfb4a1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260724T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260724T130000
+SUMMARY:SEM 5 - DCRM 3 - CMT 2083
+LOCATION:KT5-L15-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Siti Daniah Salleh
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c1fc7617b40d0e155bef7e63e969fade566f719f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260725T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260725T130000
+SUMMARY:SEM 5 - DCRM 3 - CRM 1963
+LOCATION:KT5-L12-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Ismah Haziq
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:412c5f0469c502fe7f2bf0130445f0df201bec72@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260727T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260727T180000
+SUMMARY:SEM 5 - DCRM 3 - CRM 1972
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Nadia Mhd Yatim\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:46e716af04e6caa812dfc3a2665a1b800b867e29@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260731T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260731T130000
+SUMMARY:SEM 5 - DCRM 3 - CMT 2083
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Siti Daniah Salleh\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:00cda2c620f15ed5ebeefd62a48237b31c35c162@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260801T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260801T130000
+SUMMARY:SEM 5 - DCRM 3 - CRM 1963
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Ismah Haziq\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2164c3772d7ea30b6cb6d2fe99e1ee70ffdc9cd6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260803T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260803T180000
+SUMMARY:SEM 5 - DCRM 3 - CRM 1972
+LOCATION:KT5-L04-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Nadia Mhd Yatim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0b7acd033c97ecdd5bf79bb883944792d774da62@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260805T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260805T130000
+SUMMARY:SEM 5 - DCRM 3 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:69db2b88be8b6a3f017f90777c7c9bda80d02119@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260807T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260807T130000
+SUMMARY:SEM 5 - DCRM 3 - CMT 2083
+LOCATION:KT5-L15-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Siti Daniah Salleh
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:96b96873d7fe33485ba25a60e4ffff5d54334076@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260808T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260808T130000
+SUMMARY:SEM 5 - DCRM 3 - CRM 1963
+LOCATION:KT5-L12-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Ismah Haziq
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c78053955462f62038d8ce8d5332209f093057f7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260810T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260810T180000
+SUMMARY:SEM 5 - DCRM 3 - CRM 1972
+LOCATION:KT5-L04-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Nadia Mhd Yatim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:097ed329b57cebbae0d7187997c4a4159101a43e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260812T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20260812T220000
+SUMMARY:SEM 5 - DCRM 3 - CRM 1963
+LOCATION:KT5-L12-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Ismah Haziq
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8711c2d03b5350acfe0f77ebf6d6f54d11c0c6c3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260813T200000
+DTEND;TZID=Asia/Kuala_Lumpur:20260813T220000
+SUMMARY:SEM 5 - DCRM 3 - CRM 1963
+LOCATION:KT5-L12-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Ismah Haziq
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ef84fc3500aa14d77a1243c672dcd527709d0dc1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260814T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260814T130000
+SUMMARY:SEM 5 - DCRM 3 - CMT 2083
+LOCATION:KT5-L15-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Siti Daniah Salleh
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b8c744ad244b93c884a22d867fa135b20436c955@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260817T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260817T180000
+SUMMARY:SEM 5 - DCRM 3 - CRM 1972
+LOCATION:KT5-L04-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Nadia Mhd Yatim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:04844449cbf984f4c9d35f653ea796ff9936c854@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260821T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260821T130000
+SUMMARY:SEM 5 - DCRM 3 - CMT 2083
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Siti Daniah Salleh\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:804fee6faa113fcac1f730b7d930282e92c40028@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260822T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260822T130000
+SUMMARY:SEM 5 - DCRM 3 - CRM 1963
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Ismah Haziq\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:12e8ca9a960721aa1ab4e577ed195c57ac0d96da@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260824T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260824T180000
+SUMMARY:SEM 5 - DCRM 3 - CRM 1972
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Nadia Mhd Yatim\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:97d8616dddcd6e1fda9609c9ccef9d7b753cc000@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260828T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260828T130000
+SUMMARY:SEM 5 - DCRM 3 - CMT 2083
+LOCATION:KT5-L15-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Siti Daniah Salleh
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bfc3d533561770a9eb14950cd002f43bf530f2c6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260828T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260828T180000
+SUMMARY:SEM 5 - DCRM 3 - CRM 1972
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Nadia Mhd Yatim\nNotes: Online Replacement
+  Class (PH)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2f35fbb8e2fa10599f55452dfc1148280b6b2fec@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260829T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260829T130000
+SUMMARY:SEM 5 - DCRM 3 - CRM 1963
+LOCATION:KT5-L12-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Ismah Haziq
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d7b9e7839615c3388f55a7ecc2f80cb8849107b9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260907T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260907T130000
+SUMMARY:SEM 5 - DCRM 3 - Merdeka Celebration
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5d733e5f71a6068cd81bd5d3233b88b2dafec5eb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260907T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260907T180000
+SUMMARY:SEM 5 - DCRM 3 - CRM 1972
+LOCATION:KT5-L04-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Nadia Mhd Yatim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:33f6def936630fb467da164e305aa8a915a9c470@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260911T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260911T130000
+SUMMARY:SEM 5 - DCRM 3 - CMT 2083
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Siti Daniah Salleh\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d51fe31fd290a302cf610a8c9020df0fd3c73300@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260912T150000
+DTEND;TZID=Asia/Kuala_Lumpur:20260912T200000
+SUMMARY:SEM 5 - DCRM 3 - CRM 1963
+LOCATION:KT5-L12-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Ismah Haziq\nNotes: Replacement Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9c5f41165701744472664d9cb7966a51a375a3c6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260914T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260914T180000
+SUMMARY:SEM 5 - DCRM 3 - CRM 1972
+LOCATION:KT5-L04-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Nadia Mhd Yatim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ed81a26b8be2f60916270c7e0b752cbb6b7da6e7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260917T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260917T190000
+SUMMARY:SEM 5 - DCRM 3 - CRM 1963
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Ismah Haziq\nNotes: Online Replacement Cla
+ ss
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:48179c28315c5463fc68350a1c61f44f8e2308cc@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260918T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260918T130000
+SUMMARY:SEM 5 - DCRM 3 - CMT 2083
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Siti Daniah Salleh\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:46096456efbe35c8623c4edbbafa2a037f5db617@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260921T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260921T180000
+SUMMARY:SEM 5 - DCRM 3 - CRM 1972
+LOCATION:KT5-L04-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Nadia Mhd Yatim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b3d3d9b04a9ef4888135af042399f2a9a5604662@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260923T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260923T130000
+SUMMARY:SEM 5 - DCRM 3 - CRM 1963
+LOCATION:KT5-L12-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Ismah Haziq\nNotes: Replacement Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8c46240a7a79886a2b3be83d2dc38284694d7d10@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260925T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260925T130000
+SUMMARY:SEM 5 - DCRM 3 - CMT 2083
+LOCATION:KT5-L15-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Siti Daniah Salleh
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ad3bb49578fa7bc39f4cf3fb83bb93a3ea4d6785@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260928T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260928T180000
+SUMMARY:SEM 5 - DCRM 3 - CRM 1972
+LOCATION:KT5-L04-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Nadia Mhd Yatim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:792449106f7f7fc3e12ec2027dd37d35221731b9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261001T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261001T190000
+SUMMARY:SEM 5 - DCRM 3 - CRM 1963
+LOCATION:KT5-L15-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Ismah Haziq\nNotes: Replacement Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1c4bafef010835ee6c5d137f7ec0a326b1efa109@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261002T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261002T130000
+SUMMARY:SEM 5 - DCRM 3 - CMT 2083
+LOCATION:KT5-L15-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Siti Daniah Salleh
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4f91fb02e9457779a28bd5f7aa5c9d3883c7eeae@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261005T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261005T130000
+SUMMARY:SEM 5 - DCRM 3 - CMT 2083
+LOCATION:KT5-L15-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Siti Daniah Salleh\nNotes: Replacement Cla
+ ss (Personal)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4d2ab925415aec8ad5ebb1713905f373679f9e91@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261005T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261005T180000
+SUMMARY:SEM 5 - DCRM 3 - CRM 1972
+LOCATION:KT5-L04-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Nadia Mhd Yatim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f138e4e509f4db8824fc1654a33ad18b1563e800@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261007T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261007T130000
+SUMMARY:SEM 5 - DCRM 3 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5d5fd35b4f1d11ebfd18dad54112f1e073a6127d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261010T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261010T130000
+SUMMARY:SEM 5 - DCRM 3 - CRM 1963
+LOCATION:KT5-L12-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Ismah Haziq
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b4c59363328345a93230ed53be3f677b633cd102@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261012T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261012T180000
+SUMMARY:SEM 5 - DCRM 3 - CRM 1972
+LOCATION:KT5-L04-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Nadia Mhd Yatim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ac09198513d4b1af920d46cb8b29bf456c959efd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261016T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261016T130000
+SUMMARY:SEM 5 - DCRM 3 - CMT 2083
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Siti Daniah Salleh\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:07d390b80ea5a437629e5ed6a8cf3fdb996521e0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261017T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261017T130000
+SUMMARY:SEM 5 - DCRM 3 - CRM 1963
+LOCATION:KT5-L12-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Ismah Haziq
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fd0d1578f7cf54b726b01abecddb3f202c4bc8fd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261019T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261019T180000
+SUMMARY:SEM 5 - DCRM 3 - CRM 1972
+LOCATION:KT5-L04-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Nadia Mhd Yatim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4861b506eb2a215c0187c89a4fb15616a21274a5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261023T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261023T130000
+SUMMARY:SEM 5 - DCRM 3 - CMT 2083
+LOCATION:KT5-L15-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Siti Daniah Salleh
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7bce6b65ce2b2b5ebfb987bb5f13ac97cd5ec3e2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261024T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261024T130000
+SUMMARY:SEM 5 - DCRM 3 - CRM 1963
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Ismah Haziq\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:dceda505ecc49188f9bc81dea1c06b40eda67682@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261026T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261026T180000
+SUMMARY:SEM 5 - DCRM 3 - CRM 1972
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Nadia Mhd Yatim\nNotes: Online Class\nCale
+ ndar exception: JUBLI PERAK SELANGOR
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cb0cf60aacd6e7627595e8d2a8937097af6273f2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261028T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261028T130000
+SUMMARY:SEM 5 - DCRM 3 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b9ad90f35a7a0313c182579da1915c88ad131921@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261030T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261030T130000
+SUMMARY:SEM 5 - DCRM 3 - CMT 2083
+LOCATION:KT5-L15-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Siti Daniah Salleh
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:74c34d99c447bba368aca892a697a29d7508dbe5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261031T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261031T130000
+SUMMARY:SEM 5 - DCRM 3 - CRM 1963
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Ismah Haziq\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5cfbb3faed3442927b88c1a9a1b1bfbe4c15b6eb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261102T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261102T180000
+SUMMARY:SEM 5 - DCRM 3 - CRM 1972
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Nadia Mhd Yatim\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a05dd741b3f238780701063231fa751b151b9a47@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261106T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261106T130000
+SUMMARY:SEM 5 - DCRM 3 - CMT 2083
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Siti Daniah Salleh\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e491d65be06d77d7da9d16350e4e76ad193d66d7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261107T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261107T130000
+SUMMARY:SEM 5 - DCRM 3 - CRM 1963
+LOCATION:KT5-L12-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Ismah Haziq
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e9447f3f83c9b30ac6b11f4a53ea86d33b6b425c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261109T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261109T180000
+SUMMARY:SEM 5 - DCRM 3 - CRM 1972
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Nadia Mhd Yatim\nNotes: Online Class\nCale
+ ndar exception: Deepavali Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:963df610143f2b9f10388ba05b1baf6ee3e1d763@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261113T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261113T130000
+SUMMARY:SEM 5 - DCRM 3 - CMT 2083
+LOCATION:KT5-L15-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Siti Daniah Salleh
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5775a838d90ba8d0d564e8f3dd3c00ae0b633f75@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261114T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261114T130000
+SUMMARY:SEM 5 - DCRM 3 - CRM 1963
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 3\nLecturer: Ismah Haziq\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR

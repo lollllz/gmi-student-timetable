@@ -1,0 +1,1659 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Student Timetable//Class Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SEM 4 - DPIC
+X-WR-TIMEZONE:Asia/Kuala_Lumpur
+BEGIN:VTIMEZONE
+TZID:Asia/Kuala_Lumpur
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:MYT
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:b132b7eb52c17e613426f803c75a611b3fe155e2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260706T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260706T130000
+SUMMARY:SEM 4 - DPIC - PCI 1123
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Norlirubayah M Nasir\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6d34b20fb2e9dcc8c7122a9837a92d6b287189cf@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260707T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260707T130000
+SUMMARY:SEM 4 - DPIC - IAT 0913
+LOCATION:KT5-L08-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Syazwani Billah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8bbfe2a6ca5fdb89cbcda9e105f9f577ade868e7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260707T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260707T180000
+SUMMARY:SEM 4 - DPIC - EET 0142
+LOCATION:KT5-L06-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Ir Dr Ahmad Hafiz
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1759b8c4237ee4bd75e60b552234711202ac680f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260708T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260708T110000
+SUMMARY:SEM 4 - DPIC - IMT 2442
+LOCATION:KT1 L1 06 LH2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Fairuz Mustafa\nOverlapping class entry: che
+ ck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:585174980afcb9391949db61f1eede465a9a5449@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260708T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260708T110000
+SUMMARY:SEM 4 - DPIC - IMT 2442
+LOCATION:KT1 L1 06 LH2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Auna Batrisyia\nOverlapping class entry: che
+ ck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ad750519e85d62646fd1cd8bde2c91df04c28bf8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260708T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260708T190000
+SUMMARY:SEM 4 - DPIC - PCI 1193
+LOCATION:KT5-L01-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Ts Ahmad Rijaludin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8db86b679f2e13b6c8d975cf3e491ed289544d23@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260709T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260709T130000
+SUMMARY:SEM 4 - DPIC - IMT 2412
+LOCATION:KT1-L3-35
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Farizan Mohamad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e102250afa48855b3813a779d55ad5fd653cc944@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260710T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260710T130000
+SUMMARY:SEM 4 - DPIC - PCI 1163
+LOCATION:KT5-L02-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Norlirubayah M Nasir
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:85039c20ce482216707293ab67ea1cbda73250d9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260713T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260713T130000
+SUMMARY:SEM 4 - DPIC - PCI 1123
+LOCATION:KT5-L02-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Norlirubayah M Nasir
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:088260cb50dcdc9136217380a6ff9aca112b9fea@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260714T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260714T130000
+SUMMARY:SEM 4 - DPIC - IAT 0913
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Syazwani Billah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d944d28e6fec2a86f9555272a965e50a1ee0d942@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260714T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260714T180000
+SUMMARY:SEM 4 - DPIC - EET 0142
+LOCATION:KT5-L06-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Ir Dr Ahmad Hafiz
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d8a6edb826ddaae16693af7f905bf43c8da6a92d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260715T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260715T110000
+SUMMARY:SEM 4 - DPIC - IMT 2442
+LOCATION:KT1 L1 06 LH2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Fairuz Mustafa\nOverlapping class entry: che
+ ck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:61bf198b567a6c56b305f8b87b3b0f9c843015e2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260715T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260715T110000
+SUMMARY:SEM 4 - DPIC - IMT 2442
+LOCATION:KT1 L1 06 LH2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Auna Batrisyia\nOverlapping class entry: che
+ ck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ecb48ad244f80e59d1c7226281008937aad94fd4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260715T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260715T190000
+SUMMARY:SEM 4 - DPIC - PCI 1193
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Ts Ahmad Rijaludin\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4cd50827fb2beffee45e30c9c3f00079b60b2ebf@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260716T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260716T130000
+SUMMARY:SEM 4 - DPIC - IMT 2412
+LOCATION:KT1-L3-35
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Farizan Mohamad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4d82fb397fcbd5cb4c1ad5d7cc5c95e6ae4aca13@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260717T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260717T130000
+SUMMARY:SEM 4 - DPIC - PCI 1163
+LOCATION:KT5-L02-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Norlirubayah M Nasir
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:98a63ddfc156db3e151bc8e059dfa3842b3bd525@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260720T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260720T130000
+SUMMARY:SEM 4 - DPIC - PCI 1123
+LOCATION:KT5-L02-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Norlirubayah M Nasir
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d524dd55e49280e5aeaf4d63b7d33f48bff61d79@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260721T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260721T130000
+SUMMARY:SEM 4 - DPIC - IAT 0913
+LOCATION:KT5-L08-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Syazwani Billah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4dd283fc9fe8b6a48e5bdbaa6b6f0fb12e06a37e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260721T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260721T180000
+SUMMARY:SEM 4 - DPIC - EET 0142
+LOCATION:KT5-L06-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Ir Dr Ahmad Hafiz
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b22cfea1d7999d46800e2929a410fbeb214ae27e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260722T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260722T110000
+SUMMARY:SEM 4 - DPIC - IMT 2442
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Fairuz Mustafa\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:614248c695529d315229176229d0de1768b8203c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260722T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260722T190000
+SUMMARY:SEM 4 - DPIC - PCI 1193
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Ts Ahmad Rijaludin\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5165cfecb3e68f714985f2c3702fbcf7ba31c379@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260723T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260723T130000
+SUMMARY:SEM 4 - DPIC - IMT 2412
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Farizan Mohamad\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5419223d31478be88b98b9d975f5eafb164d3d20@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260724T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260724T130000
+SUMMARY:SEM 4 - DPIC - PCI 1163
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Norlirubayah M Nasir\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fb66f43a29c7b8a97c850bdbc8b4c26dd69bbe5c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260728T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260728T130000
+SUMMARY:SEM 4 - DPIC - IAT 0913
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Syazwani Billah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:712e1776d7090ecfa2ea0b99c5caa7f5821374dd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260728T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260728T180000
+SUMMARY:SEM 4 - DPIC - EET 0142
+LOCATION:KT5-L06-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Ir Dr Ahmad Hafiz
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:84a236eb7f59d31d13ebccc2f70c06819d9b3f9c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260729T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260729T110000
+SUMMARY:SEM 4 - DPIC - IMT 2442
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Fairuz Mustafa\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:11bc64d573273be14b9b3cc8415ef4229d20d326@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260729T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260729T190000
+SUMMARY:SEM 4 - DPIC - PCI 1193
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Ts Ahmad Rijaludin\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:521e65617ec54b2ca46f44300bb89dc56a21929d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260730T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260730T130000
+SUMMARY:SEM 4 - DPIC - IMT 2412
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Farizan Mohamad\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9c37df29979ac1a7f7ebd510257174bc28c259e0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260803T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260803T130000
+SUMMARY:SEM 4 - DPIC - PCI 1123
+LOCATION:KT5-L02-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Norlirubayah M Nasir
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d304f096c2cae0b1712e0d1b7af7fa2557859e7a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260804T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260804T130000
+SUMMARY:SEM 4 - DPIC - IAT 0913
+LOCATION:KT5-L08-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Syazwani Billah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b4d88da844663823b509651e440ce4e2c1e60335@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260804T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260804T180000
+SUMMARY:SEM 4 - DPIC - EET 0142
+LOCATION:KT5-L06-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Ir Dr Ahmad Hafiz
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b51b116476cf141407d6003534caf8fddb0710d0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260805T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260805T130000
+SUMMARY:SEM 4 - DPIC - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:32598b5743e115df86b8c6f57bbbbea7de1d1440@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260805T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260805T190000
+SUMMARY:SEM 4 - DPIC - PCI 1193
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Ts Ahmad Rijaludin\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f17db6a6038e7281b6099876402eec9b4ecfaed5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260806T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260806T110000
+SUMMARY:SEM 4 - DPIC - PCI 1123
+LOCATION:KT5-L02-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Norlirubayah M Nasir\nNotes: Replacement Cla
+ ss (EL)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4681e5caaa3636a0006162206520597430f3f527@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260806T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260806T130000
+SUMMARY:SEM 4 - DPIC - IMT 2412
+LOCATION:KT1-L3-35
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Farizan Mohamad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6fbc1ab6ab8386c652ea8c0fca01bc35e901e3c4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260807T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260807T130000
+SUMMARY:SEM 4 - DPIC - PCI 1163
+LOCATION:KT5-L02-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Norlirubayah M Nasir
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c6b631da2aee19d72a9fc43ee033c0f27aa7398e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260810T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260810T130000
+SUMMARY:SEM 4 - DPIC - PCI 1123
+LOCATION:KT5-L02-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Norlirubayah M Nasir
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3a926ed7c43247f8ecbb0e628172e5557dd588c7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260810T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260810T160000
+SUMMARY:SEM 4 - DPIC - PCI 1123
+LOCATION:KT5-L02-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Norlirubayah M Nasir\nNotes: Replacement Cla
+ ss (EL)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:363dcdfb56d3c608e4de96bae4ab1d3a6e853ae9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260811T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260811T130000
+SUMMARY:SEM 4 - DPIC - IAT 0913
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Syazwani Billah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:48d4a4e715a5015c32d040f22c33bd80d92ddf07@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260811T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260811T180000
+SUMMARY:SEM 4 - DPIC - EET 0142
+LOCATION:KT5-L06-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Ir Dr Ahmad Hafiz
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:02f9bad71bbcaac9bcf4f044b4979675679939c9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260812T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260812T110000
+SUMMARY:SEM 4 - DPIC - IMT 2442
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Fairuz Mustafa\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7b57a33e54022373effd1e8d640a522c0b3f3b63@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260812T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260812T130000
+SUMMARY:SEM 4 - DPIC - PCI 1163
+LOCATION:KT5-L02-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Norlirubayah M Nasir\nNotes: Online Replacem
+ ent Class (Meeting)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ecd7b588cd9f53e2db3134f5b2582defc39fc327@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260812T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260812T190000
+SUMMARY:SEM 4 - DPIC - PCI 1193
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Ts Ahmad Rijaludin\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9887fbe7e0a2803bc6dcfeab084d9a9a0e4fc45c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260813T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260813T110000
+SUMMARY:SEM 4 - DPIC - PCI 1163
+LOCATION:KT5-L02-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Norlirubayah M Nasir\nNotes: Online Replacem
+ ent Class (Meeting)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8c45d49318d8a36304fbb690040b41c9f3de9963@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260813T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260813T130000
+SUMMARY:SEM 4 - DPIC - IMT 2412
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Farizan Mohamad\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0053da9963a2b84349232f5694460fd5542ac801@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260814T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260814T130000
+SUMMARY:SEM 4 - DPIC - PCI 1163
+LOCATION:KT5-L02-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Norlirubayah M Nasir
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1d260b2321c2dd1fae03315913669bb42e2a853f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260817T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260817T130000
+SUMMARY:SEM 4 - DPIC - PCI 1123
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Norlirubayah M Nasir\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2c8b044d2475dbf1ed67d2834b350686df7c0177@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260818T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260818T130000
+SUMMARY:SEM 4 - DPIC - IAT 0913
+LOCATION:KT5-L08-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Syazwani Billah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b7e146a9c5b64918de246d46ecc7d1a4aac6041b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260818T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260818T180000
+SUMMARY:SEM 4 - DPIC - EET 0142
+LOCATION:KT5-L06-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Ir Dr Ahmad Hafiz
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a56754f9aaf3539dd879d8cb87d1ff4389aa83a9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260819T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260819T110000
+SUMMARY:SEM 4 - DPIC - IMT 2442
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Fairuz Mustafa\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0912587f75133ee359821f611c55b486a91d0672@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260819T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260819T190000
+SUMMARY:SEM 4 - DPIC - PCI 1193
+LOCATION:KT5-L01-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Ts Ahmad Rijaludin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3b6b9bde18b17bd47a75bfede3d58fa166ed2418@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260820T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260820T130000
+SUMMARY:SEM 4 - DPIC - IMT 2412
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Farizan Mohamad\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c441dc1ef0e97f764a5c9ca90f1c8f676ca401d1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260821T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260821T130000
+SUMMARY:SEM 4 - DPIC - PCI 1163
+LOCATION:KT5-L02-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Norlirubayah M Nasir
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a5bc0c78a564789f85598fcfde117ce363cddc4c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260824T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260824T130000
+SUMMARY:SEM 4 - DPIC - PCI 1123
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Norlirubayah M Nasir\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e761f222bb930abad85e2efc55e24bb767310fc9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260825T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260825T130000
+SUMMARY:SEM 4 - DPIC - IAT 0913
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Syazwani Billah\nNotes: Online Class\nCalend
+ ar exception: Maulidur Rasul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bee387e6dd8fe1eb936d2ec174ed523eb361959a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260825T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260825T180000
+SUMMARY:SEM 4 - DPIC - EET 0142
+LOCATION:KT5-L06-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Ir Dr Ahmad Hafiz\nCalendar exception: Mauli
+ dur Rasul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:42d806ffb9090092bddd8bbadb38e5614fd64972@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260826T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260826T110000
+SUMMARY:SEM 4 - DPIC - IMT 2442
+LOCATION:KT1 L1 06 LH2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Fairuz Mustafa\nOverlapping class entry: che
+ ck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f4cb5cb3817830ddfa8149f128d50a2e21058196@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260826T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260826T110000
+SUMMARY:SEM 4 - DPIC - IMT 2442
+LOCATION:KT1 L1 06 LH2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Auna Batrisyia\nOverlapping class entry: che
+ ck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f7e0183e51bef62e3dcefaf712c1354774a531e1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260826T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260826T130000
+SUMMARY:SEM 4 - DPIC - IMT 2442
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Fairuz Mustafa
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:29e64e9354533e95fe9e06574b0288383836c257@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260826T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260826T190000
+SUMMARY:SEM 4 - DPIC - PCI 1193
+LOCATION:KT5-L01-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Ts Ahmad Rijaludin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:58874a904ba6f8a06ca57c4a60f550d819a34ee1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260827T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260827T130000
+SUMMARY:SEM 4 - DPIC - IMT 2412
+LOCATION:KT1-L3-35
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Farizan Mohamad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:45c3c86b55df99850058f0b875989a41c7a36cea@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260827T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260827T180000
+SUMMARY:SEM 4 - DPIC - IMT 2442
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Fairuz Mustafa
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c78d198c6d93a91301f2ec01e4426b55b12a1d2f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260828T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260828T130000
+SUMMARY:SEM 4 - DPIC - PCI 1163
+LOCATION:KT5-L02-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Norlirubayah M Nasir
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7aaff2017df2ee91cb5efe30d28a255c45f314ec@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260828T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260828T160000
+SUMMARY:SEM 4 - DPIC - IMT 2442
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Fairuz Mustafa
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:66cc6dc61594aa6cb982e71f4347ec19f738b35e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260907T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260907T130000
+SUMMARY:SEM 4 - DPIC - Merdeka Celebration
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:04d042c081c1e2f07d5be373bb600553487180eb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260907T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260907T190000
+SUMMARY:SEM 4 - DPIC - PCI 1123
+LOCATION:KT5-L02-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Norlirubayah M Nasir\nNotes: Replacement Cla
+ ss (Merdeka 7/9)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c7d7799f05fc19279bf3f6ebea695fcbefee7be8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260908T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260908T130000
+SUMMARY:SEM 4 - DPIC - IAT 0913
+LOCATION:KT5-L08-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Syazwani Billah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:de7d7db36649e1668dc6384f945261c14214856c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260908T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260908T180000
+SUMMARY:SEM 4 - DPIC - EET 0142
+LOCATION:KT5-L06-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Ir Dr Ahmad Hafiz
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c99efccaa012cca2b5db97d47b245e554582fe67@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260909T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260909T190000
+SUMMARY:SEM 4 - DPIC - PCI 1193
+LOCATION:KT5-L01-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Ts Ahmad Rijaludin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d52a37f38e986912077ac5c056b407e2bbccacb1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260910T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260910T130000
+SUMMARY:SEM 4 - DPIC - IMT 2412
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Farizan Mohamad\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:96ec984a31710488f21b540ac72ac9985bfbb953@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260911T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260911T130000
+SUMMARY:SEM 4 - DPIC - PCI 1163
+LOCATION:KT5-L02-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Norlirubayah M Nasir
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:83f455c343ef4507d74072bbdfc29376e890c1b3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260914T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260914T130000
+SUMMARY:SEM 4 - DPIC - PCI 1123
+LOCATION:KT5-L02-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Norlirubayah M Nasir
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1d41baad4511b7c676d6f432821ed62af8b4feaa@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260915T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260915T180000
+SUMMARY:SEM 4 - DPIC - EET 0142
+LOCATION:KT5-L06-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Ir Dr Ahmad Hafiz
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb2fdaa975ef08b6437ea57a0a3c209309eacf6f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260916T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260916T110000
+SUMMARY:SEM 4 - DPIC - IMT 2442
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Fairuz Mustafa\nNotes: Online Class\nCalenda
+ r exception: Malaysia Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a8d4d1f8a2f89c4f2ff4eecbf595c25c4357572e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260916T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260916T190000
+SUMMARY:SEM 4 - DPIC - PCI 1193
+LOCATION:KT5-L01-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Ts Ahmad Rijaludin\nCalendar exception: Mala
+ ysia Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:64241e7112878a8736242125840ae17b67e2e866@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260917T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260917T130000
+SUMMARY:SEM 4 - DPIC - IMT 2412
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Farizan Mohamad\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2401d15d3ffc5ec5b7909cfdf578a1dc64f013dd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260917T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260917T190000
+SUMMARY:SEM 4 - DPIC - IAT 0913
+LOCATION:KT5-L08-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Syazwani Billah\nNotes: Replacement Class (T
+ raining)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a51672244b713fd3a959e8ac9ebc5ffce0f1181f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260918T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260918T130000
+SUMMARY:SEM 4 - DPIC - PCI 1163
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Norlirubayah M Nasir\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2a557e805dc5840dfa44546acb7aec7fee2ec230@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260918T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260918T180000
+SUMMARY:SEM 4 - DPIC - IMT 2442
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Fairuz Mustafa\nNotes: Online Replacement Cl
+ ass (Training)\nOverlapping class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4a924dfc39a6bd1195b33871b6440938e3b93320@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260918T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260918T180000
+SUMMARY:SEM 4 - DPIC - IMT 2442
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Auna Batrisyia\nOverlapping class entry: che
+ ck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7a3e09927fdfac100c56d9449342b0f5d69b4642@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260921T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260921T190000
+SUMMARY:SEM 4 - DPIC - PCI 1123
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Norlirubayah M Nasir\nNotes: Online Replacem
+ ent Class (21/9)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3f21ce4a1a4c8dc2aa94749205fda8ff446f02c6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260922T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260922T130000
+SUMMARY:SEM 4 - DPIC - IAT 0913
+LOCATION:KT5-L08-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Syazwani Billah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:eb8200f0432451a73511d48fb94f2eafe7533548@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260922T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260922T180000
+SUMMARY:SEM 4 - DPIC - EET 0142
+LOCATION:KT5-L06-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Ir Dr Ahmad Hafiz\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5071ae13f9cb995e1b5bf44288ebba937f9fff38@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260922T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260922T180000
+SUMMARY:SEM 4 - DPIC - EET 0142
+LOCATION:KT5-L06-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Mohd Faiq Aiman\nOverlapping class entry: ch
+ eck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9ee154cf8db53bf58528a339479467bf0901bbaf@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260923T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260923T130000
+SUMMARY:SEM 4 - DPIC - IMT 2442
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Fairuz Mustafa\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b807995e9e5f4419fec758f9ca9ce4d553934a54@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260923T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260923T190000
+SUMMARY:SEM 4 - DPIC - PCI 1193
+LOCATION:KT5-L01-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Ts Ahmad Rijaludin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7dd063c0ce97e9ed9bcf655be8c65fb2d40c5d5c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260924T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260924T130000
+SUMMARY:SEM 4 - DPIC - IMT 2412
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Farizan Mohamad\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:706f3be7673b2196f25094eb89601f166219cf60@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260925T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260925T130000
+SUMMARY:SEM 4 - DPIC - PCI 1163
+LOCATION:KT5-L02-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Norlirubayah M Nasir
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:78c756de933112fa260a6746d9b3e7a48180dc86@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260928T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260928T130000
+SUMMARY:SEM 4 - DPIC - PCI 1123
+LOCATION:KT5-L02-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Norlirubayah M Nasir
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ea06574002c089f27768417e5ed5de8652b53da8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260929T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260929T130000
+SUMMARY:SEM 4 - DPIC - IAT 0913
+LOCATION:KT5-L08-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Syazwani Billah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6d7b22fe02912e8d7fa943894914a0134c4ddf06@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260929T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260929T180000
+SUMMARY:SEM 4 - DPIC - EET 0142
+LOCATION:KT5-L06-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Ir Dr Ahmad Hafiz\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:52458b78f479cb5720050f01cfa94c49bb5695df@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260929T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260929T180000
+SUMMARY:SEM 4 - DPIC - EET 0142
+LOCATION:KT5-L06-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Mohd Faiq Aiman\nOverlapping class entry: ch
+ eck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7fbb13884039fcc8dce6821f64d2271ef8205fae@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260930T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260930T130000
+SUMMARY:SEM 4 - DPIC - IMT 2442
+LOCATION:KT1 L1 06 LH2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Auna Batrisyia
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:261e39c56b34b0412f35d5d68b2573e657da4a0b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260930T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260930T190000
+SUMMARY:SEM 4 - DPIC - PCI 1193
+LOCATION:KT5-L01-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Ts Ahmad Rijaludin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6a608bcb5ec785bbda7beac4da5058bd39afa3b7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261001T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261001T130000
+SUMMARY:SEM 4 - DPIC - IMT 2412
+LOCATION:KT1-L3-35
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Farizan Mohamad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9f898340af89da06c1c1b428a172f6ec94977a4c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261002T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261002T130000
+SUMMARY:SEM 4 - DPIC - PCI 1163
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Norlirubayah M Nasir\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a9342e60af46341fd2d9498ae82a3455d1c01db7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261005T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261005T130000
+SUMMARY:SEM 4 - DPIC - PCI 1123
+LOCATION:KT5-L02-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Norlirubayah M Nasir
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2d132a4d41e3338d076a3946ddf5d0d78940bbc2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261006T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261006T130000
+SUMMARY:SEM 4 - DPIC - IAT 0913
+LOCATION:KT5-L08-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Syazwani Billah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7c75e67fc98a309d90885f5ddbe9d974ad609958@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261006T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261006T180000
+SUMMARY:SEM 4 - DPIC - EET 0142
+LOCATION:KT5-L06-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Ir Dr Ahmad Hafiz\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c4fa4eee65ad4d1c0358223889e6a6b46cc95e6e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261006T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261006T180000
+SUMMARY:SEM 4 - DPIC - EET 0142
+LOCATION:KT5-L06-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Mohd Faiq Aiman\nOverlapping class entry: ch
+ eck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b68c40a848df3a6784281a95e95a716f5a600888@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261007T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261007T130000
+SUMMARY:SEM 4 - DPIC - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b3171dd0dcc97e3be828e58b6e1f183f6e9736a8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261007T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261007T190000
+SUMMARY:SEM 4 - DPIC - PCI 1193
+LOCATION:KT5-L01-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Ts Ahmad Rijaludin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3f7dad634a17c4074643227c30b0b6f661a9b0cd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261008T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261008T130000
+SUMMARY:SEM 4 - DPIC - IMT 2412
+LOCATION:KT1-L3-35
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Farizan Mohamad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6dfdc751451e47289bb639b5d7425d6c1da7ae6f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261008T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20261008T180000
+SUMMARY:SEM 4 - DPIC - IMT 2442
+LOCATION:KT1 L1 06 LH2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Auna Batrisyia
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1fe6ccff29bf3621ccb765ca8a9b8032a05174c2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261009T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261009T130000
+SUMMARY:SEM 4 - DPIC - PCI 1163
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Norlirubayah M Nasir\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6e739a0079f7cb5704517cb447e38468f94a3cb3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261012T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261012T130000
+SUMMARY:SEM 4 - DPIC - PCI 1123
+LOCATION:KT5-L02-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Norlirubayah M Nasir
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d91f37c5d79fd3eda3ee2d60e9e8fba5b78afb1d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261013T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261013T130000
+SUMMARY:SEM 4 - DPIC - IAT 0913
+LOCATION:KT5-L08-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Syazwani Billah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:aba87ad6b95875402e65a63d4f1388cf632560d6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261013T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261013T180000
+SUMMARY:SEM 4 - DPIC - EET 0142
+LOCATION:KT5-L06-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Ir Dr Ahmad Hafiz\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:309854b1b8796061f5d311d58a4bb43b397d1488@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261013T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261013T180000
+SUMMARY:SEM 4 - DPIC - EET 0142
+LOCATION:KT5-L06-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Mohd Faiq Aiman\nOverlapping class entry: ch
+ eck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9ef68a9e95e9be9d165b575b2335102d74dbea26@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261014T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261014T110000
+SUMMARY:SEM 4 - DPIC - IMT 2442
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Auna Batrisyia\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b79a06e5ce81e776a207aebf20b5982599429b74@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261014T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261014T190000
+SUMMARY:SEM 4 - DPIC - PCI 1193
+LOCATION:KT5-L01-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Ts Ahmad Rijaludin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f657de007b7ba6832e5455d98d0f1a5d7cb97e86@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261015T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261015T130000
+SUMMARY:SEM 4 - DPIC - IMT 2412
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Farizan Mohamad\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1f4e55900819c96889b3f5f11c5d94ccfaf76b77@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261016T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261016T130000
+SUMMARY:SEM 4 - DPIC - PCI 1163
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Norlirubayah M Nasir\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0e4eb6d9c201d4a393c3c9a485d05062ef6b15d7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261019T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261019T130000
+SUMMARY:SEM 4 - DPIC - PCI 1123
+LOCATION:KT5-L02-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Norlirubayah M Nasir
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c14886f7491c0fe0b72233f94e949b69133d2c56@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261020T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261020T130000
+SUMMARY:SEM 4 - DPIC - IAT 0913
+LOCATION:KT5-L08-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Syazwani Billah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9407df564b44631927bfc7b269b4e0c1bdb26d6e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261020T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261020T180000
+SUMMARY:SEM 4 - DPIC - EET 0142
+LOCATION:KT5-L06-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Ir Dr Ahmad Hafiz\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ec9d623ab20948e81645e51c8362c1ccb2697772@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261020T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261020T180000
+SUMMARY:SEM 4 - DPIC - EET 0142
+LOCATION:KT5-L06-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Mohd Faiq Aiman\nOverlapping class entry: ch
+ eck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e037671a7f6ad051f47ffcb4684758f31284dabe@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261021T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261021T110000
+SUMMARY:SEM 4 - DPIC - IMT 2442
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Auna Batrisyia\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:885d9240bf39e60e9c0c0f6cff56c1c38fd3f777@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261021T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261021T190000
+SUMMARY:SEM 4 - DPIC - PCI 1193
+LOCATION:KT5-L01-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Ts Ahmad Rijaludin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:79a08b5a2e9828ebe55a708f71222df18c3aa0d1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261022T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261022T130000
+SUMMARY:SEM 4 - DPIC - IMT 2412
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Farizan Mohamad\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d0b509897e202d5b6eb6235bca4db75d7d71421c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261023T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261023T130000
+SUMMARY:SEM 4 - DPIC - PCI 1163
+LOCATION:KT5-L02-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Norlirubayah M Nasir
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b540a186ce630472131c6a8e243e5f639fa80ee0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261026T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261026T130000
+SUMMARY:SEM 4 - DPIC - PCI 1123
+LOCATION:KT5-L02-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Norlirubayah M Nasir\nCalendar exception: JU
+ BLI PERAK SELANGOR
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b8c3959c338715985e2f2e876a862ef6cef45f99@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261027T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261027T130000
+SUMMARY:SEM 4 - DPIC - IAT 0913
+LOCATION:KT5-L08-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Syazwani Billah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:de4e9f743d8be92db9ab82d531143d99f17469cc@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261027T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261027T180000
+SUMMARY:SEM 4 - DPIC - EET 0142
+LOCATION:KT5-L06-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Ir Dr Ahmad Hafiz\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2687541876025eb09dabf949c9aebc2ce071a3e0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261027T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261027T180000
+SUMMARY:SEM 4 - DPIC - EET 0142
+LOCATION:KT5-L06-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Mohd Faiq Aiman\nOverlapping class entry: ch
+ eck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ce98a7c0446201d8cf0e6c7b9ed770d1234f204b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261028T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261028T130000
+SUMMARY:SEM 4 - DPIC - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6ccd8df8f8e5999a83ff21005793465cab6e3a3b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261028T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261028T190000
+SUMMARY:SEM 4 - DPIC - PCI 1193
+LOCATION:KT5-L01-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Ts Ahmad Rijaludin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:908c630fb9117d4e1fb0030b8a6a4d007d68e20a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261029T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261029T130000
+SUMMARY:SEM 4 - DPIC - IMT 2412
+LOCATION:KT1-L3-35
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Farizan Mohamad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6f2787e5c388fc36885d345911218ec0205547da@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261029T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20261029T180000
+SUMMARY:SEM 4 - DPIC - IMT 2442
+LOCATION:KT1 L1 06 LH2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Auna Batrisyia
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2febd8363176f8e820513527660a608866515f34@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261030T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261030T130000
+SUMMARY:SEM 4 - DPIC - PCI 1163
+LOCATION:KT5-L02-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Norlirubayah M Nasir
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1899e9335070bc38f1cdd29ebcf730f871e33a7a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261102T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261102T130000
+SUMMARY:SEM 4 - DPIC - PCI 1123
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Norlirubayah M Nasir\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e9500a088296d0b2cd2b919f002fb24072c689e2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261103T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261103T130000
+SUMMARY:SEM 4 - DPIC - IAT 0913
+LOCATION:KT5-L08-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Syazwani Billah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ba1b87e92a236ff765c2c9a4066157ca2ec6b997@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261103T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261103T180000
+SUMMARY:SEM 4 - DPIC - EET 0142
+LOCATION:KT5-L06-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Ir Dr Ahmad Hafiz\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:aaa1d2062a489d2888c78f0ac16dd03bc0065f4c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261103T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261103T180000
+SUMMARY:SEM 4 - DPIC - EET 0142
+LOCATION:KT5-L06-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Mohd Faiq Aiman\nOverlapping class entry: ch
+ eck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c475d9d88864d050add5ffa7e23f1b941dc97d24@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261104T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261104T130000
+SUMMARY:SEM 4 - DPIC - IMT 2442
+LOCATION:KT1 L1 06 LH2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Auna Batrisyia
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:461084164abd8946111d5d9a111f74b438be0640@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261104T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261104T190000
+SUMMARY:SEM 4 - DPIC - PCI 1193
+LOCATION:KT5-L01-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Ts Ahmad Rijaludin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:848dc40bce7cdae4da422f8bf1236dbfb4193003@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261105T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261105T130000
+SUMMARY:SEM 4 - DPIC - IMT 2412
+LOCATION:KT1-L3-35
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Farizan Mohamad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:35c7c51e2de94305d5d420dff46ccd6245945784@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261106T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261106T130000
+SUMMARY:SEM 4 - DPIC - PCI 1163
+LOCATION:KT5-L02-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Norlirubayah M Nasir
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b6437ab7562779cb4228bd6ff06204c947195ab6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261109T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261109T130000
+SUMMARY:SEM 4 - DPIC - PCI 1123
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Norlirubayah M Nasir\nNotes: Online Class\nC
+ alendar exception: Deepavali Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:888a591e824547cf3405c5067884defe3c153f11@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261110T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261110T130000
+SUMMARY:SEM 4 - DPIC - IAT 0913
+LOCATION:KT5-L08-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Syazwani Billah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e8fa83251de9399451f9f45b9602e52767b96ed7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261110T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261110T180000
+SUMMARY:SEM 4 - DPIC - EET 0142
+LOCATION:KT5-L06-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Ir Dr Ahmad Hafiz\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:24eab975c45a30def149c25e8ad1defc176ac8c6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261110T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261110T180000
+SUMMARY:SEM 4 - DPIC - EET 0142
+LOCATION:KT5-L06-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Mohd Faiq Aiman\nOverlapping class entry: ch
+ eck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:366bde834ef4195d9f4bd5f3a7b97afb13b0e30b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261111T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261111T130000
+SUMMARY:SEM 4 - DPIC - IMT 2442
+LOCATION:KT1 L1 06 LH2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Auna Batrisyia
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8c53a9a45ada8d9c9b66c252228112e79b68c3ce@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261111T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261111T190000
+SUMMARY:SEM 4 - DPIC - PCI 1193
+LOCATION:KT5-L01-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Ts Ahmad Rijaludin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2924f8377d7238c9ecba84a0136470c1d827dd95@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261112T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261112T130000
+SUMMARY:SEM 4 - DPIC - IMT 2412
+LOCATION:KT1-L3-35
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Farizan Mohamad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7af067ca9d8ee3978b7ff2d39442f1b2beed6c82@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261113T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261113T130000
+SUMMARY:SEM 4 - DPIC - PCI 1163
+LOCATION:KT5-L02-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DPIC\nLecturer: Norlirubayah M Nasir
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR

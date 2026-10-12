@@ -1,0 +1,772 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Student Timetable//Class Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:MED
+X-WR-TIMEZONE:Asia/Kuala_Lumpur
+BEGIN:VTIMEZONE
+TZID:Asia/Kuala_Lumpur
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:MYT
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:3af488d9c750e13c51179240f084ba11df53a285@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260406T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260406T170000
+SUMMARY:MED - STC
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Ts Mohamad Faezal\nNotes: Troubleshooting for Injecti
+ on Moulding
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:70c022690ba8fc829e02f95ba05463a781826721@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260407T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260407T170000
+SUMMARY:MED - STC
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Ts Mohamad Faezal\nNotes: Troubleshooting for Injecti
+ on Moulding
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e930177bdbf3ac3684380e5659ab4095c1970695@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260408T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260408T170000
+SUMMARY:MED - STC
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Ts Mohamad Faezal\nNotes: Troubleshooting for Injecti
+ on Moulding
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6b211875c21ad87f0cd19097b12c744751170b9f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260721T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260721T130000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Nurshakirin Zulkefli\nNotes: AUKOM GD&T\nOverlapping 
+ class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:df3f897ec6efd00006715a419a5afe7db9732440@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260721T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260721T130000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Nur Izzati Bakarudin\nNotes: AUKOM GD&T\nOverlapping 
+ class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:47289b937bbf2aca899fd3a3a69a1c301cc03e2d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260721T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260721T130000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Addam Paat\nNotes: AUKOM GD&T\nOverlapping class entr
+ y: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2b22ad48aac6fac37884ed0894978aba346c9860@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260721T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260721T130000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Ts Saifullizan\nNotes: AUKOM GD&T\nOverlapping class 
+ entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:64b95c5000313b2445cf3527236fdc629ec3cc71@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260721T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260721T130000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Nur Izzati Zulkifli\nNotes: AUKOM GD&T\nOverlapping c
+ lass entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:02275181fef4e10cad8a74c3577bcec3c96f9268@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260721T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260721T180000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Nurshakirin Zulkefli\nNotes: AUKOM GD&T\nOverlapping 
+ class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:44c128b6ebf75109767d12b820831050c39185f4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260721T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260721T180000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Nur Izzati Bakarudin\nNotes: AUKOM GD&T\nOverlapping 
+ class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ed13620e92551a4db27fc287c8b1059feea0db9c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260721T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260721T180000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Addam Paat\nNotes: AUKOM GD&T\nOverlapping class entr
+ y: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ae6fd82edd3a3428f4dbc69335976c80be2c9c4f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260721T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260721T180000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Ts Saifullizan\nNotes: AUKOM GD&T\nOverlapping class 
+ entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:dda8bb7c25f5add956d244236ad07ccbe407387f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260721T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260721T180000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Nur Izzati Zulkifli\nNotes: AUKOM GD&T\nOverlapping c
+ lass entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ab06e2454700f660a678ec5c9003fabbabad696b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260722T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260722T130000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Nurshakirin Zulkefli\nNotes: AUKOM GD&T\nOverlapping 
+ class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:81ecd9b310fe7cf650d51d99d499d4fa5db2dbee@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260722T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260722T130000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Nur Izzati Bakarudin\nNotes: AUKOM GD&T\nOverlapping 
+ class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ae876fc335d3457b79dafec4a2bfcc1a836f4b0b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260722T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260722T130000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Addam Paat\nNotes: AUKOM GD&T\nOverlapping class entr
+ y: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c9f37e2389c5b45d791985a2310f56863d0eeece@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260722T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260722T130000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Ts Saifullizan\nNotes: AUKOM GD&T\nOverlapping class 
+ entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1e5f38dcb861ab623f8731c1366be24e441dbf3b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260722T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260722T130000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Nur Izzati Zulkifli\nNotes: AUKOM GD&T\nOverlapping c
+ lass entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ee2ce13431ef2d442dbc310d888f28d03e07f6d8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260722T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260722T180000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Nurshakirin Zulkefli\nNotes: AUKOM GD&T\nOverlapping 
+ class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bd3b09012f18c35c99030b43e5385911bc23431d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260722T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260722T180000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Nur Izzati Bakarudin\nNotes: AUKOM GD&T\nOverlapping 
+ class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:29c23267ae2977b31ce242c2516e225f9a7203a9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260722T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260722T180000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Addam Paat\nNotes: AUKOM GD&T\nOverlapping class entr
+ y: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8de76774fe249bb9778e73eaabb3961766193ec4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260722T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260722T180000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Ts Saifullizan\nNotes: AUKOM GD&T\nOverlapping class 
+ entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fb809365c00e54731977265728e8c7da81cbd5d3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260722T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260722T180000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Nur Izzati Zulkifli\nNotes: AUKOM GD&T\nOverlapping c
+ lass entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0af6ed8ad01948cca69fd526932398cd6f7394bd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260723T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260723T130000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Nurshakirin Zulkefli\nNotes: AUKOM GD&T\nOverlapping 
+ class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:351c875a4f4441eb87e8baee1f890f47a2c5e05c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260723T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260723T130000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Nur Izzati Bakarudin\nNotes: AUKOM GD&T\nOverlapping 
+ class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8418c2e5a00b1f251891905d3c6c22a30a224ea7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260723T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260723T130000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Addam Paat\nNotes: AUKOM GD&T\nOverlapping class entr
+ y: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c603af1936a408189dee75a263524a0f3ea08691@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260723T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260723T130000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Ts Saifullizan\nNotes: AUKOM GD&T\nOverlapping class 
+ entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6a7a8e29474a74fab986d4632b237e0b36cdc113@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260723T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260723T130000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Nur Izzati Zulkifli\nNotes: AUKOM GD&T\nOverlapping c
+ lass entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fb7153e43ff070551f589d5f78a73086192c4d33@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260723T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260723T180000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Nurshakirin Zulkefli\nNotes: AUKOM GD&T\nOverlapping 
+ class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cbeb3af8c5cb9d0af48b1bd7d01ba49973f1407f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260723T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260723T180000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Nur Izzati Bakarudin\nNotes: AUKOM GD&T\nOverlapping 
+ class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e1cb521323429f8061506f71c7c8569bb2884810@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260723T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260723T180000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Addam Paat\nNotes: AUKOM GD&T\nOverlapping class entr
+ y: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e331a1f7667471cc7683a0a8df97eaff1e54e62b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260723T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260723T180000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Ts Saifullizan\nNotes: AUKOM GD&T\nOverlapping class 
+ entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3939605deb5f592bd436cfdf3d55b9a131dc86f1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260723T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260723T180000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Nur Izzati Zulkifli\nNotes: AUKOM GD&T\nOverlapping c
+ lass entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f8cca1447a0a28e9725b0da4b58e6c22db03882a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260724T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260724T130000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Nurshakirin Zulkefli\nNotes: AUKOM GD&T\nOverlapping 
+ class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:47683084a7f1b06b99064fe103f91ccf1b5036d8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260724T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260724T130000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Nur Izzati Bakarudin\nNotes: AUKOM GD&T\nOverlapping 
+ class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7538cecbfdee0b544c547bcc3a93af896d54cebd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260724T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260724T130000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Addam Paat\nNotes: AUKOM GD&T\nOverlapping class entr
+ y: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:990511b260e02a117d1af23725b229f94db94a08@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260724T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260724T130000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Ts Saifullizan\nNotes: AUKOM GD&T\nOverlapping class 
+ entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:aa1903d4bdded06cfc2e808f461d9a1723f64a13@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260724T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260724T130000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Nur Izzati Zulkifli\nNotes: AUKOM GD&T\nOverlapping c
+ lass entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8eb2d71fdf563dd5f512a86e67b7666c026a932c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260724T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260724T180000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Nurshakirin Zulkefli\nNotes: AUKOM GD&T\nOverlapping 
+ class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:be7566d5ebc2f8f31d026559ec4d67ac3269faf9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260724T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260724T180000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Nur Izzati Bakarudin\nNotes: AUKOM GD&T\nOverlapping 
+ class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:379067729ad15d39de601ebcabfa92225b8291ae@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260724T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260724T180000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Addam Paat\nNotes: AUKOM GD&T\nOverlapping class entr
+ y: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:873d75387513bb50879ab6c54a5ab1e96ec7788f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260724T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260724T180000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Ts Saifullizan\nNotes: AUKOM GD&T\nOverlapping class 
+ entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:087b8e4e39b31adf341459a7d20a9c0080e0b0de@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260724T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260724T180000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Nur Izzati Zulkifli\nNotes: AUKOM GD&T\nOverlapping c
+ lass entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:17a9e4b78bdda3cef0c9f7eda30f05ec5e3cfab2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260728T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260728T130000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Nurshakirin Zulkefli\nNotes: AUKOM GD&T\nOverlapping 
+ class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8e1ea9dbe5fa9bc9fed05154ccbc77bb33afed09@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260728T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260728T130000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Nur Izzati Zulkifli\nNotes: CALYPSO GD&T\nOverlapping
+  class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c355db1d0a713fc09bb25fb0ea523dc7edd80c75@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260728T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260728T130000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Addam Paat\nNotes: CALYPSO GD&T\nOverlapping class en
+ try: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6b48e072bd815a5dbf82d72da9f2715614f02067@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260728T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260728T130000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Ts Saifullizan\nNotes: CALYPSO GD&T\nOverlapping clas
+ s entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a05dde553062dcb9f78203732e9679691d32eece@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260728T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260728T130000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Nur Izzati Bakarudin\nNotes: CALYPSO GD&T\nOverlappin
+ g class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cddcf53ce99bcf7c4142a3e6c21a0538d67210e1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260728T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260728T180000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Nurshakirin Zulkefli\nNotes: AUKOM GD&T\nOverlapping 
+ class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:85e4e4b90e537ce234a6ce766afd16881718fe3b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260728T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260728T180000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Nur Izzati Zulkifli\nNotes: CALYPSO GD&T\nOverlapping
+  class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3e6a1bac4ccc519dd8e75684423815bf7aaebf43@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260728T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260728T180000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Addam Paat\nNotes: CALYPSO GD&T\nOverlapping class en
+ try: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:693fff5a877e37daa8dddb67a362ad287a0954b9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260728T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260728T180000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Ts Saifullizan\nNotes: CALYPSO GD&T\nOverlapping clas
+ s entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c8c33699bec280afb62eb46ae5f3f8d43585e83d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260728T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260728T180000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Nur Izzati Bakarudin\nNotes: CALYPSO GD&T\nOverlappin
+ g class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:40e2e4b289cd8149715092ea63eac17d74df0d42@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260729T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260729T130000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Nurshakirin Zulkefli\nNotes: AUKOM GD&T\nOverlapping 
+ class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4f53c4bbbd4bda6e38f053ffff91362ad8defe05@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260729T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260729T130000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Nur Izzati Zulkifli\nNotes: CALYPSO GD&T\nOverlapping
+  class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:612a7fff0389dd4c44db08a72288953d29abbae5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260729T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260729T130000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Addam Paat\nNotes: CALYPSO GD&T\nOverlapping class en
+ try: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ffb1f4ca0423a25ea1776cba653df4b677e8419a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260729T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260729T130000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Ts Saifullizan\nNotes: CALYPSO GD&T\nOverlapping clas
+ s entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:828dc3ab3ce2de9cd3046e0c189ab3461d3bb070@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260729T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260729T130000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Nur Izzati Bakarudin\nNotes: CALYPSO GD&T\nOverlappin
+ g class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:336b2c547f33423ed05fd79515d7f7b7bf1adc68@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260729T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260729T180000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Nurshakirin Zulkefli\nNotes: AUKOM GD&T\nOverlapping 
+ class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f791fab7703a325726306452a6d4cb164032c8ab@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260729T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260729T180000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Nur Izzati Zulkifli\nNotes: CALYPSO GD&T\nOverlapping
+  class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:229895920217ef51ee9f158e498f077e4db5f90c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260729T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260729T180000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Addam Paat\nNotes: CALYPSO GD&T\nOverlapping class en
+ try: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7485aa13205054ad4011169472574465c55707e1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260729T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260729T180000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Ts Saifullizan\nNotes: CALYPSO GD&T\nOverlapping clas
+ s entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:66d6c500be09540b4aa9bfe360433a4e12568733@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260729T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260729T180000
+SUMMARY:MED - TRAINING
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: MED\nLecturer: Nur Izzati Bakarudin\nNotes: CALYPSO GD&T\nOverlappin
+ g class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR

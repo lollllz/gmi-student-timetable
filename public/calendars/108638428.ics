@@ -1,0 +1,183 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Student Timetable//Class Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:EED
+X-WR-TIMEZONE:Asia/Kuala_Lumpur
+BEGIN:VTIMEZONE
+TZID:Asia/Kuala_Lumpur
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:MYT
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:87b3b66d543802607080acc32da034873840c54e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260122T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260122T170000
+SUMMARY:EED - FYP EED BRIEFING
+LOCATION:KT5-L07-MLTIPRPOSE 2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: EED
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:03beaca002be9d03d29f94a166e69eb21c14aa0a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260512T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260512T120000
+SUMMARY:EED - Robotic STEM
+LOCATION:KT5-L11-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: EED\nNotes: Booked by: Dr. Sham Firdaus\nOverlapping class entry: ch
+ eck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:17f4006448f57dcbaf960e87d7909e38c4cda083@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260512T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260512T120000
+SUMMARY:EED - Robotic STEM
+LOCATION:KT5-L11-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: EED\nNotes: Booked by: Dr. Sham Firdaus\nOverlapping class entry: ch
+ eck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e5e0ca2a3d05155e574dabf8a22dfac39591087e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260729T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260729T130000
+SUMMARY:EED - STC
+LOCATION:KT5-L09-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: EED\nLecturer: Izhar Ali\nNotes: Electrical Wiring Installation
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2570e432861df11bae3cc4900e5f063d22b94259@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260729T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260729T180000
+SUMMARY:EED - STC
+LOCATION:KT5-L09-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: EED\nLecturer: Izhar Ali\nNotes: Electrical Wiring Installation
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4ce5094d5318f088ec3c329575df1f67e424578a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260730T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260730T130000
+SUMMARY:EED - STC
+LOCATION:KT5-L09-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: EED\nLecturer: Izhar Ali\nNotes: Electrical Wiring Installation
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5b587dd2f1815b6d8df63e55b6e73642c94b466d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260730T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260730T180000
+SUMMARY:EED - STC
+LOCATION:KT5-L09-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: EED\nLecturer: Izhar Ali\nNotes: Electrical Wiring Installation
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9e4ee66c754650e7bddee34fe4d2adc9f3a9bce5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260804T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260804T170000
+SUMMARY:EED - STC
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: EED\nLecturer: Rozaki Seman\nNotes: Industrial Robot Simulation
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:19349d03a9217724d538540a8a914e0d6a9b9e0e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260805T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260805T170000
+SUMMARY:EED - STC
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: EED\nLecturer: Rozaki Seman\nNotes: Industrial Robot Simulation
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1039d165bb63398cf9a3a38f0cdf0fcee04ce85b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260812T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260812T170000
+SUMMARY:EED - STC
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: EED\nLecturer: Rozaki Seman\nNotes: Industrial Robot Simulation
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6800efb81465453916a9f8f906c9ddad94f365d4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260813T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260813T170000
+SUMMARY:EED - STC
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: EED\nLecturer: Rozaki Seman\nNotes: Industrial Robot Simulation
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6d71dd23201e255636066c5c405558aca66f5d48@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260819T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260819T130000
+SUMMARY:EED - STC
+LOCATION:KT5-L09-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: EED\nLecturer: Izhar Ali\nNotes: Electrical Wiring Installation
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f3a79e0a0965db825d7af9a000001e2e1614a5ff@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260819T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260819T180000
+SUMMARY:EED - STC
+LOCATION:KT5-L09-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: EED\nLecturer: Izhar Ali\nNotes: Electrical Wiring Installation
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e5cfbfbe50a7b33676890b89984dd5d75a55df1a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260820T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260820T130000
+SUMMARY:EED - STC
+LOCATION:KT5-L09-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: EED\nLecturer: Izhar Ali\nNotes: Electrical Wiring Installation
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d2d761378b4b58fe15a4696356fc06f75905f6bb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260820T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260820T180000
+SUMMARY:EED - STC
+LOCATION:KT5-L09-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: EED\nLecturer: Izhar Ali\nNotes: Electrical Wiring Installation
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR

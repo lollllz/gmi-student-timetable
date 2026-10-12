@@ -1,0 +1,1897 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Student Timetable//Class Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SEM 2 - MED B (MTM)
+X-WR-TIMEZONE:Asia/Kuala_Lumpur
+BEGIN:VTIMEZONE
+TZID:Asia/Kuala_Lumpur
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:MYT
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:cd73cec2bca39369723e216a82401df6c399fcf4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260706T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260706T100000
+SUMMARY:SEM 2 - MED B (MTM) - MAP 2192
+LOCATION:KT1-L3-09
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Hakim Ismail
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:39eac0769fc701fff3a1cd0f8719623f54cd8542@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260706T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260706T130000
+SUMMARY:SEM 2 - MED B (MTM) - MAS 0433
+LOCATION:KT2-L04-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fatimah Azzahran
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:92c2ef52e8a960f98d97b2b469ae6acce29203ba@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260706T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260706T160000
+SUMMARY:SEM 2 - MED B (MTM) - MPU 2342
+LOCATION:KT1-L3-13
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Siti Aisyah Humaira'
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:90c482e384328d3f42e6f492fc149773fafe79dc@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260706T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260706T180000
+SUMMARY:SEM 2 - MED B (MTM) - ESP 2042
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9af4f755bf04d86b981b6da4174630c684b573ac@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260707T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260707T110000
+SUMMARY:SEM 2 - MED B (MTM) - MAP 2173
+LOCATION:KT1-L3-28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Nur Ain Hameefatul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bd6950a82498f7f6345c51ac388520b42e8b295e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260707T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260707T130000
+SUMMARY:SEM 2 - MED B (MTM) - GMO 0313
+LOCATION:KT2-L03-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9ab09b345b48fdafcecfb1b7d467d8ebe54944e7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260707T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260707T180000
+SUMMARY:SEM 2 - MED B (MTM) - GMO 0313
+LOCATION:KT2-L03-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6b68b50ea3546aa5c35b306c907e9df6ad83fffc@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260709T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260709T130000
+SUMMARY:SEM 2 - MED B (MTM) - TEC 0553
+LOCATION:KT3-L02-20
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Rizal Samsudin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:adf760725a5b997674c42e40d3ccd03b1fff1e2d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260709T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260709T160000
+SUMMARY:SEM 2 - MED B (MTM) - QAS 0362
+LOCATION:KT2-L03-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Mohd Azizi Aqmar\nNotes: CNC & MEM CL
+ ASS ONLY
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b71a1087f5f0db6028d53a287731baf5314138ac@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260713T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260713T100000
+SUMMARY:SEM 2 - MED B (MTM) - MAP 2192
+LOCATION:KT1-L3-09
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Hakim Ismail
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f9a4e4ddb47c8d067123690a0e2524a09f8b54e0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260713T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260713T130000
+SUMMARY:SEM 2 - MED B (MTM) - MAS 0433
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fatimah Azzahran\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b4921c0e76fc21486284f9c41a6172011f98f9ac@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260713T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260713T160000
+SUMMARY:SEM 2 - MED B (MTM) - MPU 2342
+LOCATION:KT1-L3-13
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Siti Aisyah Humaira'
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9058b5999d298432472490a9135c8a446945fc70@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260713T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260713T180000
+SUMMARY:SEM 2 - MED B (MTM) - ESP 2042
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a4fc924976b1fde476d4793ed022eab006c7550b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260714T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260714T110000
+SUMMARY:SEM 2 - MED B (MTM) - MAP 2173
+LOCATION:KT1-L3-28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Nur Ain Hameefatul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9d4e50245c93512dd3d642c390397459fee01960@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260714T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260714T130000
+SUMMARY:SEM 2 - MED B (MTM) - GMO 0313
+LOCATION:KT2-L03-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6bc45ef7dc1f43a6c470d21d1d83e7e6b5712666@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260714T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260714T180000
+SUMMARY:SEM 2 - MED B (MTM) - GMO 0313
+LOCATION:KT2-L03-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f901c16daaf90b167068a166a95bdd0804de4d05@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260716T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260716T130000
+SUMMARY:SEM 2 - MED B (MTM) - TEC 0553
+LOCATION:KT3-L02-20
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Rizal Samsudin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2ec9fa621c2093901ddc4bc25faf7290d3447373@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260716T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260716T160000
+SUMMARY:SEM 2 - MED B (MTM) - QAS 0362
+LOCATION:KT2-L03-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Mohd Azizi Aqmar\nNotes: CNC & MEM CL
+ ASS ONLY
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b080ee73e10a929c186a0d2679d3d930d5e983f9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260720T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260720T100000
+SUMMARY:SEM 2 - MED B (MTM) - MAP 2192
+LOCATION:KT1-L3-09
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Hakim Ismail
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cd777e0713f7c67d0083b17114474cf25614c02e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260720T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260720T130000
+SUMMARY:SEM 2 - MED B (MTM) - MAS 0433
+LOCATION:KT2-L04-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fatimah Azzahran
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ac9c75e9cdfffcb7ea480bc8b4b5d4fcefc728b3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260720T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260720T160000
+SUMMARY:SEM 2 - MED B (MTM) - MPU 2342
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Siti Aisyah Humaira'\nNotes: Online C
+ lass
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a62db5579953b33f9abb45e793e4ed8787260b16@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260720T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260720T180000
+SUMMARY:SEM 2 - MED B (MTM) - ESP 2042
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:29033831f2d64d49a519d9587de87580772c7040@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260721T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260721T130000
+SUMMARY:SEM 2 - MED B (MTM) - GMO 0313
+LOCATION:KT2-L03-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:291d719f91eb2743313a3503c91f679547543198@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260721T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260721T180000
+SUMMARY:SEM 2 - MED B (MTM) - GMO 0313
+LOCATION:KT2-L03-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c27f8c253f3c0401fdd2e141d26f9eba7a936bf6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260723T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260723T130000
+SUMMARY:SEM 2 - MED B (MTM) - TEC 0553
+LOCATION:KT3-L02-20
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Rizal Samsudin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6b9de07e49a567b03a9459c373b80c974c9a147e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260723T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260723T160000
+SUMMARY:SEM 2 - MED B (MTM) - QAS 0362
+LOCATION:KT2-L03-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Mohd Azizi Aqmar\nNotes: CNC & MEM CL
+ ASS ONLY
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7a30ede4c913c68fb88d6c07f99e05b6ccbb8c9c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260727T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260727T100000
+SUMMARY:SEM 2 - MED B (MTM) - MAP 2192
+LOCATION:KT1-L3-09
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Hakim Ismail
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a66b9b446f14b394b6d14e6d6ec394bc72b22d1d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260727T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260727T130000
+SUMMARY:SEM 2 - MED B (MTM) - MAS 0433
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fatimah Azzahran\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:598da2c8fba6229fd9ca58af92ee8fafd7cbbe15@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260727T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260727T160000
+SUMMARY:SEM 2 - MED B (MTM) - MPU 2342
+LOCATION:KT1-L3-13
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Siti Aisyah Humaira'
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:567ae918ae0431b2574cf1faa62d703d962dc7ae@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260727T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260727T180000
+SUMMARY:SEM 2 - MED B (MTM) - ESP 2042
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b9eadb075693596510131624db4027cf8baa7083@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260728T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260728T110000
+SUMMARY:SEM 2 - MED B (MTM) - MAP 2173
+LOCATION:KT1-L3-28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Nur Ain Hameefatul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ebc64252e7a70315178aa4f14da213b4eea31028@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260728T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260728T130000
+SUMMARY:SEM 2 - MED B (MTM) - GMO 0313
+LOCATION:KT2-L03-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9bd9dc92b642e89670eb1d3588658702a87ced12@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260728T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260728T180000
+SUMMARY:SEM 2 - MED B (MTM) - GMO 0313
+LOCATION:KT2-L03-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:46475b5cb5e28df86d7ef4ef037c151f51e3e76d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260730T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260730T130000
+SUMMARY:SEM 2 - MED B (MTM) - TEC 0553
+LOCATION:KT3-L02-20
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Rizal Samsudin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:32e062195ea52119ecd5108cdb0dd201b7298e43@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260730T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260730T160000
+SUMMARY:SEM 2 - MED B (MTM) - QAS 0362
+LOCATION:KT2-L03-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Mohd Azizi Aqmar\nNotes: CNC & MEM CL
+ ASS ONLY
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7d18106df616410adc3ad9eac8f9d685d08f5d5a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260803T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260803T100000
+SUMMARY:SEM 2 - MED B (MTM) - MAP 2192
+LOCATION:KT1-L3-09
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Hakim Ismail
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f7f6116de126a28ecf2327f6a4aa69ac1b7e66bb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260803T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260803T130000
+SUMMARY:SEM 2 - MED B (MTM) - MAS 0433
+LOCATION:KT2-L04-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fatimah Azzahran
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fe22e427d93cd9d0f71961ecd6e2d69a93fd3b5e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260803T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260803T160000
+SUMMARY:SEM 2 - MED B (MTM) - MPU 2342
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Siti Aisyah Humaira'\nNotes: Online C
+ lass
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:dc86787fc75209a7792265f7280b99b9c0b8d73a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260803T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260803T180000
+SUMMARY:SEM 2 - MED B (MTM) - ESP 2042
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f428e26cf2eaffddf2ad42de2e0f3fedf8b5b8ae@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260804T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260804T110000
+SUMMARY:SEM 2 - MED B (MTM) - MAP 2173
+LOCATION:KT1-L3-28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Nur Ain Hameefatul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:87264e5d004113d1aef5ed767d38db0a7cbc8fd8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260804T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260804T130000
+SUMMARY:SEM 2 - MED B (MTM) - GMO 0313
+LOCATION:KT2-L03-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:dd002327167a1e95660c9f9dbf8ed8bb730944b6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260804T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260804T180000
+SUMMARY:SEM 2 - MED B (MTM) - GMO 0313
+LOCATION:KT2-L03-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1fa1312fc8ecf3ea966bf5cf4ec952ae62ec2c85@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260805T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260805T130000
+SUMMARY:SEM 2 - MED B (MTM) - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fd38d74024dc09217407790064e7e5c1959cc7a0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260806T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260806T130000
+SUMMARY:SEM 2 - MED B (MTM) - TEC 0553
+LOCATION:KT3-L02-20
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Rizal Samsudin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:93628bbde13067a5108cd6074e6692a9c89e2ad9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260806T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260806T160000
+SUMMARY:SEM 2 - MED B (MTM) - QAS 0362
+LOCATION:KT2-L03-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Mohd Azizi Aqmar\nNotes: CNC & MEM CL
+ ASS ONLY
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5bb35b830ef3bdb2845db170d173b734bc09d92a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260810T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260810T100000
+SUMMARY:SEM 2 - MED B (MTM) - MAP 2192
+LOCATION:KT1-L3-09
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Hakim Ismail
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:918190143e6a0690eccec237acd51524c64b60b0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260810T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260810T130000
+SUMMARY:SEM 2 - MED B (MTM) - MAS 0433
+LOCATION:KT2-L04-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fatimah Azzahran
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:de1ab09fded35548228f999962170474dd5fe6d9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260810T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260810T160000
+SUMMARY:SEM 2 - MED B (MTM) - MPU 2342
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Siti Aisyah Humaira'\nNotes: Online C
+ lass
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b459cd4f4bcf45c1e4f32d6580b4da7db7dde631@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260810T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260810T180000
+SUMMARY:SEM 2 - MED B (MTM) - ESP 2042
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:35253421af5ed49e56d53e7c40002e007f96d79a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260811T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260811T110000
+SUMMARY:SEM 2 - MED B (MTM) - MAP 2173
+LOCATION:KT1-L3-28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Nur Ain Hameefatul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:20ca719745809404084a8367117e14cb19c7a574@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260811T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260811T130000
+SUMMARY:SEM 2 - MED B (MTM) - GMO 0313
+LOCATION:KT2-L03-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:45c22a62372247dc3b92f3101b9c9b645d8725eb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260811T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260811T180000
+SUMMARY:SEM 2 - MED B (MTM) - GMO 0313
+LOCATION:KT2-L03-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7e589e81274f7482fca1955e5057e5d23df29da2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260813T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260813T130000
+SUMMARY:SEM 2 - MED B (MTM) - TEC 0553
+LOCATION:KT3-L02-20
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Rizal Samsudin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1412639a5d0257cb5c7b9ac57d91e3129b642ec2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260813T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260813T160000
+SUMMARY:SEM 2 - MED B (MTM) - QAS 0362
+LOCATION:KT2-L03-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Mohd Azizi Aqmar\nNotes: CNC & MEM CL
+ ASS ONLY
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:34cd95c527f33318687fa70b62c1a99dba5b34cb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260817T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260817T100000
+SUMMARY:SEM 2 - MED B (MTM) - MAP 2192
+LOCATION:KT1-L3-09
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Hakim Ismail
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bbd919f50bbe151c5660fbad218f167a393fdf66@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260817T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260817T130000
+SUMMARY:SEM 2 - MED B (MTM) - MAS 0433
+LOCATION:KT2-L04-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fatimah Azzahran
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d382aeaf1ce6f4933c33713b9268329453f989e3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260817T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260817T160000
+SUMMARY:SEM 2 - MED B (MTM) - MPU 2342
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Siti Aisyah Humaira'\nNotes: Online C
+ lass
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a5ce5f87b36343bc09aa61d8cbe40a667f8fdffc@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260817T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260817T180000
+SUMMARY:SEM 2 - MED B (MTM) - ESP 2042
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7c3eb3102579fd0658ebc5ed202515214ccb5981@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260818T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260818T110000
+SUMMARY:SEM 2 - MED B (MTM) - MAP 2173
+LOCATION:KT1-L3-28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Nur Ain Hameefatul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5c9eb7a08a6be538bf4f6d1c543d4b2fbfc780ad@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260818T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260818T130000
+SUMMARY:SEM 2 - MED B (MTM) - GMO 0313
+LOCATION:KT2-L03-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b3f8caa28e3273015a15c155794175ad7ead0f11@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260818T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260818T180000
+SUMMARY:SEM 2 - MED B (MTM) - GMO 0313
+LOCATION:KT2-L03-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c1308527f55cd8ba9101e4784c946f5f7e71431b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260820T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260820T130000
+SUMMARY:SEM 2 - MED B (MTM) - TEC 0553
+LOCATION:KT3-L02-20
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Rizal Samsudin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:db3760ab722728cf348de9cf0a14a3a60ac0a8ea@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260820T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260820T160000
+SUMMARY:SEM 2 - MED B (MTM) - QAS 0362
+LOCATION:KT2-L03-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Mohd Azizi Aqmar\nNotes: CNC & MEM CL
+ ASS ONLY
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:afe29d1b342f4dc4a983875166e23e177eec5d31@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260824T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260824T100000
+SUMMARY:SEM 2 - MED B (MTM) - MAP 2192
+LOCATION:KT1-L3-09
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Hakim Ismail
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a212166dddb95a3f365a0f377e09afc4be456d7c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260824T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260824T130000
+SUMMARY:SEM 2 - MED B (MTM) - MAS 0433
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fatimah Azzahran\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:feee42bac508d9f740b390ddf3216ba24b7b09ee@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260824T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260824T160000
+SUMMARY:SEM 2 - MED B (MTM) - MPU 2342
+LOCATION:KT1-L3-13
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Siti Aisyah Humaira'
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2d9ee16217f1dc7ace8e97127b3592b36c920211@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260824T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260824T180000
+SUMMARY:SEM 2 - MED B (MTM) - ESP 2042
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:eccf14ae9749f4224372b93d0175a2b0e395593e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260825T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260825T110000
+SUMMARY:SEM 2 - MED B (MTM) - MAP 2173
+LOCATION:KT1-L3-28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Nur Ain Hameefatul\nCalendar exceptio
+ n: Maulidur Rasul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:aa81cd8abcd9d2af0bffa7d63d05c948794ce16e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260825T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260825T130000
+SUMMARY:SEM 2 - MED B (MTM) - GMO 0313
+LOCATION:KT2-L03-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fauzi Arifin\nCalendar exception: Mau
+ lidur Rasul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:10efbef7e69bd4ccc83db99adcc69527079cd40d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260825T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260825T180000
+SUMMARY:SEM 2 - MED B (MTM) - GMO 0313
+LOCATION:KT2-L03-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fauzi Arifin\nCalendar exception: Mau
+ lidur Rasul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ed3ff912b7e175acde308301b4050ca364ab226b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260827T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260827T130000
+SUMMARY:SEM 2 - MED B (MTM) - TEC 0553
+LOCATION:KT3-L02-20
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Rizal Samsudin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0242984bf3df4690a8125fd59142d699c184951c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260827T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260827T160000
+SUMMARY:SEM 2 - MED B (MTM) - QAS 0362
+LOCATION:KT2-L03-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Mohd Azizi Aqmar\nNotes: CNC & MEM CL
+ ASS ONLY
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:09b4e7d60ea5f8a5700720e9be591f785637295f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260907T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260907T130000
+SUMMARY:SEM 2 - MED B (MTM) - Merdeka Celebration
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fc0ca343f81b0b2f5bba0b2e16c34a21d3a87bad@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260907T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260907T160000
+SUMMARY:SEM 2 - MED B (MTM) - MPU 2342
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Siti Aisyah Humaira'\nNotes: Online C
+ lass
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:11537a9c2ddff3da5ffbb87f44ac5ae34fd64d17@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260907T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260907T180000
+SUMMARY:SEM 2 - MED B (MTM) - ESP 2042
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3f1086db0508f05f5aa484525bc89bbb849cec0b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260908T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260908T130000
+SUMMARY:SEM 2 - MED B (MTM) - GMO 0313
+LOCATION:KT2-L03-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d24a5433022999bf3b7d5abf9e2cbc60179abe94@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260908T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260908T180000
+SUMMARY:SEM 2 - MED B (MTM) - GMO 0313
+LOCATION:KT2-L03-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1d0198eeb2264c93e993dc66670bfc21feb1bec9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260909T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260909T110000
+SUMMARY:SEM 2 - MED B (MTM) - MAP 2192
+LOCATION:KT1-L3-09
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Hakim Ismail\nNotes: Replacement Clas
+ s (Merdeka 7/9)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb1078814859e4cf75611eb7e2e62c4e8b1c77ba@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260910T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260910T130000
+SUMMARY:SEM 2 - MED B (MTM) - TEC 0553
+LOCATION:KT3-L02-20
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Rizal Samsudin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ad0a912c33e120e717b20ac5b38160d9028e01ab@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260910T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260910T160000
+SUMMARY:SEM 2 - MED B (MTM) - QAS 0362
+LOCATION:KT2-L03-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Mohd Azizi Aqmar\nNotes: CNC & MEM CL
+ ASS ONLY
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d90f5de04208ed2df9ad07cee15e9cbf6618e347@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260914T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260914T100000
+SUMMARY:SEM 2 - MED B (MTM) - MAP 2192
+LOCATION:KT1-L3-09
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Hakim Ismail
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5e6ae8c4948a7fd4417082b3ef5a9e9b9d852574@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260914T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260914T130000
+SUMMARY:SEM 2 - MED B (MTM) - MAS 0433
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fatimah Azzahran\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ee4e01c07a79d7ae25c4a7b53ce04ad60694ad04@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260914T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260914T160000
+SUMMARY:SEM 2 - MED B (MTM) - MPU 2342
+LOCATION:KT1-L3-13
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Siti Aisyah Humaira'
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3b1e2a7139e873acd470bb3e465c1a547260b093@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260914T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260914T180000
+SUMMARY:SEM 2 - MED B (MTM) - ESP 2042
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:76888c8b9fdac187f5e7203d14c65594a9ebdf17@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260915T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260915T110000
+SUMMARY:SEM 2 - MED B (MTM) - MAP 2173
+LOCATION:KT1-L3-28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Nur Ain Hameefatul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:dc5d05133e5272229242cd52ecfdba14b92e0117@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260915T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260915T130000
+SUMMARY:SEM 2 - MED B (MTM) - GMO 0313
+LOCATION:KT2-L03-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2e9b2835c7557d1e07ee7815b51845c5f69b0a5a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260915T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260915T180000
+SUMMARY:SEM 2 - MED B (MTM) - GMO 0313
+LOCATION:KT2-L03-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:53b9c9c5d81d19d2d2d33f9d5406f72ef70411a5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260917T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260917T130000
+SUMMARY:SEM 2 - MED B (MTM) - TEC 0553
+LOCATION:KT3-L02-20
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Rizal Samsudin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fa1e1c84fdfe2f88492bc15260fb4bcb3671ad59@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260917T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260917T160000
+SUMMARY:SEM 2 - MED B (MTM) - QAS 0362
+LOCATION:KT2-L03-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Mohd Azizi Aqmar\nNotes: CNC & MEM CL
+ ASS ONLY
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1d9efc04180e65b733db659559417d8093891d47@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260921T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260921T160000
+SUMMARY:SEM 2 - MED B (MTM) - MPU 2342
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Siti Aisyah Humaira'\nNotes: Online C
+ lass
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b0b405c981dd4ffabff818bb760ff17032dc4f8d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260921T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260921T180000
+SUMMARY:SEM 2 - MED B (MTM) - ESP 2042
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:28bd634e2f7b4fbf5fe69f012ecc423cf8cf103d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260922T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260922T110000
+SUMMARY:SEM 2 - MED B (MTM) - MAP 2173
+LOCATION:KT1-L3-28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Nur Ain Hameefatul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f243c224a5cc50e64feeb4ecdda207c13fa44188@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260922T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260922T130000
+SUMMARY:SEM 2 - MED B (MTM) - GMO 0313
+LOCATION:KT2-L03-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:15f983d8ca0b0c3ee69b92651896b68340a00f87@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260922T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260922T180000
+SUMMARY:SEM 2 - MED B (MTM) - GMO 0313
+LOCATION:KT2-L03-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1a4560c08f00bebcce4e6c08a870633fed56bbf9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260923T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260923T130000
+SUMMARY:SEM 2 - MED B (MTM) - MAS 0433
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fatimah Azzahran\nNotes: Online Repla
+ cement Class (21/9)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6d80a404952dcbdad37abde22dcef76a41549e3f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260923T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260923T170000
+SUMMARY:SEM 2 - MED B (MTM) - MAP 2173
+LOCATION:KT1-L3-28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Nur Ain Hameefatul\nNotes: Replacemen
+ t Class (AL)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:98887d2886039d5e12f0f71d7e903562860fa6ed@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260924T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260924T130000
+SUMMARY:SEM 2 - MED B (MTM) - TEC 0553
+LOCATION:KT3-L02-20
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Rizal Samsudin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b7e595c37e430358083374fcc4244f8a908dc09c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260924T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260924T160000
+SUMMARY:SEM 2 - MED B (MTM) - QAS 0362
+LOCATION:KT2-L03-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Mohd Azizi Aqmar\nNotes: CNC & MEM CL
+ ASS ONLY
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7551592c1297bb9205335636c3b27c531ac8a79c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260924T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260924T180000
+SUMMARY:SEM 2 - MED B (MTM) - MAP 2192
+LOCATION:KT1-L3-09
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Hakim Ismail
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fcf5e36bf91c7a3d7e7ec08d05e03194f1680b97@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260928T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260928T100000
+SUMMARY:SEM 2 - MED B (MTM) - MAP 2192
+LOCATION:KT1-L3-09
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Hakim Ismail
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a5831e6bcac392b3bd1f72928333d81a45321a68@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260928T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260928T130000
+SUMMARY:SEM 2 - MED B (MTM) - MAS 0433
+LOCATION:KT2-L04-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fatimah Azzahran
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:470e5b753438d5680c3d5ed0060b4cdd0926e677@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260928T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260928T160000
+SUMMARY:SEM 2 - MED B (MTM) - MPU 2342
+LOCATION:KT1-L3-13
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Siti Aisyah Humaira'
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:76b9c25b2a9d506fc539d8a2e76a26d20cb92dc9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260928T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260928T180000
+SUMMARY:SEM 2 - MED B (MTM) - ESP 2042
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5140821446d72b29eafc450606be6161d194d4f6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260929T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260929T110000
+SUMMARY:SEM 2 - MED B (MTM) - MAP 2173
+LOCATION:KT1-L3-28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Nur Ain Hameefatul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c74daaee5b20ea5405a7640bca162ef4259b2b15@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260929T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260929T130000
+SUMMARY:SEM 2 - MED B (MTM) - GMO 0313
+LOCATION:KT2-L03-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7c13c9889566ba7a854f5bfc8270dcef780efa0c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260929T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260929T180000
+SUMMARY:SEM 2 - MED B (MTM) - GMO 0313
+LOCATION:KT2-L03-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2de04b62c958e89af5dcf95f8925a7ff50d00406@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260930T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260930T170000
+SUMMARY:SEM 2 - MED B (MTM) - MAP 2173
+LOCATION:KT1-L3-28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Nur Ain Hameefatul\nNotes: Replacemen
+ t Class (PH)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:07ae709712f4024551987999334a3ba5664526a4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261001T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261001T130000
+SUMMARY:SEM 2 - MED B (MTM) - TEC 0553
+LOCATION:KT3-L02-20
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Rizal Samsudin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3f5bb30838a1fa335e89518d3b8b733065b87883@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261001T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261001T160000
+SUMMARY:SEM 2 - MED B (MTM) - QAS 0362
+LOCATION:KT2-L03-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Mohd Azizi Aqmar\nNotes: CNC & MEM CL
+ ASS ONLY
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7088b0270f307f8cea60b7a6f51556725f628230@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261005T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261005T100000
+SUMMARY:SEM 2 - MED B (MTM) - MAP 2192
+LOCATION:KT1-L3-09
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Hakim Ismail
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9cea4ce17ba8e08f747c7026cd44c7f8905f564a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261005T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20261005T130000
+SUMMARY:SEM 2 - MED B (MTM) - MAS 0433
+LOCATION:KT2-L04-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fatimah Azzahran
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ad66dd119ccee94c291c5895870061ef08efcc0d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261005T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261005T160000
+SUMMARY:SEM 2 - MED B (MTM) - MPU 2342
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Siti Aisyah Humaira'\nNotes: Online C
+ lass
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9db39c319e0424d55359775518954524e55ef455@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261005T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20261005T180000
+SUMMARY:SEM 2 - MED B (MTM) - ESP 2042
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bee81405c2d30b26a367b01b4ad33590f824a942@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261006T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261006T110000
+SUMMARY:SEM 2 - MED B (MTM) - MAP 2173
+LOCATION:KT1-L3-28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Nur Ain Hameefatul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:011bc1d8818d3b12b89af1e013f180bee8236dc8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261006T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261006T130000
+SUMMARY:SEM 2 - MED B (MTM) - GMO 0313
+LOCATION:KT2-L03-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c121be8fd69313957f64d019cb1e8606b1e0ecde@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261006T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261006T180000
+SUMMARY:SEM 2 - MED B (MTM) - GMO 0313
+LOCATION:KT2-L03-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2dd9d9864c8920da2ad25a1743e1eae563e0683d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261007T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261007T130000
+SUMMARY:SEM 2 - MED B (MTM) - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:74376e38cfda4dcebdcdc449f19b916e99598637@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261007T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261007T170000
+SUMMARY:SEM 2 - MED B (MTM) - MAP 2173
+LOCATION:KT1-L3-28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Nur Ain Hameefatul\nNotes: Replacemen
+ t Class (MC)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:47b2c9fba21859fd8ed9817a265812d2fb9bef9d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261008T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261008T130000
+SUMMARY:SEM 2 - MED B (MTM) - TEC 0553
+LOCATION:KT3-L02-20
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Rizal Samsudin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9ba3c8d3181e725192050eeae45708f3ef3c8732@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261008T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261008T160000
+SUMMARY:SEM 2 - MED B (MTM) - QAS 0362
+LOCATION:KT2-L03-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Mohd Azizi Aqmar\nNotes: CNC & MEM CL
+ ASS ONLY
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e81c939c4cdd9267adf913d45fa737b77aa50fbe@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261012T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261012T100000
+SUMMARY:SEM 2 - MED B (MTM) - MAP 2192
+LOCATION:KT1-L3-09
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Hakim Ismail
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:25c155fadd786b8c0af982b8cddcd94fe53b881f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261012T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20261012T130000
+SUMMARY:SEM 2 - MED B (MTM) - MAS 0433
+LOCATION:KT2-L04-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fatimah Azzahran
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:641e4f12d925222955377ae3cd96e30df80d4f3b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261012T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261012T160000
+SUMMARY:SEM 2 - MED B (MTM) - MPU 2342
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Siti Aisyah Humaira'\nNotes: Online C
+ lass
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:114f083e69d009f3f7f786353f3b3b4562c81fa9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261012T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20261012T180000
+SUMMARY:SEM 2 - MED B (MTM) - ESP 2042
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:10c1a9df724e3939a823f8926f66cec913cb108d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261013T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261013T110000
+SUMMARY:SEM 2 - MED B (MTM) - MAP 2173
+LOCATION:KT1-L3-28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Nur Ain Hameefatul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:30e8d67acb8bfc688dad0e22427122f13180f6a2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261013T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261013T130000
+SUMMARY:SEM 2 - MED B (MTM) - GMO 0313
+LOCATION:KT2-L03-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bd7a3904cc340cf559fb8618bd7974b11308af02@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261013T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261013T180000
+SUMMARY:SEM 2 - MED B (MTM) - GMO 0313
+LOCATION:KT2-L03-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fabe643ce2ddc42f826dc0bcfb89e831fceda17c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261015T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261015T130000
+SUMMARY:SEM 2 - MED B (MTM) - TEC 0553
+LOCATION:KT3-L02-20
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Rizal Samsudin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4413ae1466a3fd015d7418c128faf0ad87101150@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261015T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261015T160000
+SUMMARY:SEM 2 - MED B (MTM) - QAS 0362
+LOCATION:KT2-L03-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Mohd Azizi Aqmar\nNotes: CNC & MEM CL
+ ASS ONLY
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ff54a80115fc5e703dcb2a05960a80c07e31464e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261019T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261019T100000
+SUMMARY:SEM 2 - MED B (MTM) - MAP 2192
+LOCATION:KT1-L3-09
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Hakim Ismail
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4a8009cb2fba0f0747244ccdef8a78741a50048f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261019T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20261019T130000
+SUMMARY:SEM 2 - MED B (MTM) - MAS 0433
+LOCATION:KT2-L04-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fatimah Azzahran
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:076a6911ee9b4ed9d1954f3865c8dcc32b498dbe@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261019T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261019T160000
+SUMMARY:SEM 2 - MED B (MTM) - MPU 2342
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Siti Aisyah Humaira'\nNotes: Online C
+ lass
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a5e6267a785ac6232a2a34e9ff08cc9cc34f8b00@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261019T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20261019T180000
+SUMMARY:SEM 2 - MED B (MTM) - ESP 2042
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:85c03f13a5d2cf65da7eb4ed43a340a6f0aa6378@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261020T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261020T110000
+SUMMARY:SEM 2 - MED B (MTM) - MAP 2173
+LOCATION:KT1-L3-28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Nur Ain Hameefatul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4dfa1deb652a79bd56c524d11fb383cf37e74d73@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261020T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261020T130000
+SUMMARY:SEM 2 - MED B (MTM) - GMO 0313
+LOCATION:KT2-L03-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f2677639245ff7ded7422d83a8782fd7221fc65e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261020T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261020T180000
+SUMMARY:SEM 2 - MED B (MTM) - GMO 0313
+LOCATION:KT2-L03-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8c11b7db05551597392d8ab37cbceae0004415a0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261022T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261022T130000
+SUMMARY:SEM 2 - MED B (MTM) - TEC 0553
+LOCATION:KT3-L02-20
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Rizal Samsudin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:692333d04c727a2529685b613c070d78a7cc376f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261022T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261022T160000
+SUMMARY:SEM 2 - MED B (MTM) - QAS 0362
+LOCATION:KT2-L03-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Mohd Azizi Aqmar\nNotes: CNC & MEM CL
+ ASS ONLY
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1746040d1ee36dd662984bc2cd5ece83b318ba5c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261026T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261026T100000
+SUMMARY:SEM 2 - MED B (MTM) - MAP 2192
+LOCATION:KT1-L3-09
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Hakim Ismail\nCalendar exception: JUB
+ LI PERAK SELANGOR
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:aa328c5d4f5ddaff8c4257fde337038ee63c7916@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261026T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20261026T130000
+SUMMARY:SEM 2 - MED B (MTM) - MAS 0433
+LOCATION:KT2-L04-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fatimah Azzahran\nCalendar exception:
+  JUBLI PERAK SELANGOR
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:080b5293177f537f371f77f8fe0b50b80a9a183c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261026T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261026T160000
+SUMMARY:SEM 2 - MED B (MTM) - MPU 2342
+LOCATION:KT1-L3-13
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Siti Aisyah Humaira'\nCalendar except
+ ion: JUBLI PERAK SELANGOR
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2a4decddeb1bd72aadd69353180c9f89947bf3d2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261026T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20261026T180000
+SUMMARY:SEM 2 - MED B (MTM) - ESP 2042
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Nur Syazana Ishak\nCalendar exception
+ : JUBLI PERAK SELANGOR
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:95f8810cb4b270c2fe43a2e92f38700077440ac4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261027T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261027T110000
+SUMMARY:SEM 2 - MED B (MTM) - MAP 2173
+LOCATION:KT1-L3-28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Nur Ain Hameefatul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a77d0c001c32e3a63915167320ffb9f931a21277@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261027T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261027T130000
+SUMMARY:SEM 2 - MED B (MTM) - GMO 0313
+LOCATION:KT2-L03-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2e69062398e3143402044fbef8b66cb9f8e2453f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261027T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261027T180000
+SUMMARY:SEM 2 - MED B (MTM) - GMO 0313
+LOCATION:KT2-L03-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:dc5c98a2d1d13d59a45ec1f1dffa53fc00cc61be@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261028T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261028T130000
+SUMMARY:SEM 2 - MED B (MTM) - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:76dc3d24869b4d4a2ddc9c69bc61465f5df1e1e0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261028T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261028T160000
+SUMMARY:SEM 2 - MED B (MTM) - MPU 2342
+LOCATION:KT1-L3-13
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Siti Aisyah Humaira'\nNotes: Replacem
+ ent Class (Jubli Perak)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9e91227948a8631ec1bf767337e84bf0287af498@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261029T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261029T130000
+SUMMARY:SEM 2 - MED B (MTM) - TEC 0553
+LOCATION:KT3-L02-20
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Rizal Samsudin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e5372e03483f57b4fa09b9a59e10fbb929130a2e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261029T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261029T160000
+SUMMARY:SEM 2 - MED B (MTM) - QAS 0362
+LOCATION:KT2-L03-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Mohd Azizi Aqmar\nNotes: CNC & MEM CL
+ ASS ONLY
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:31ca77ca86430ca80e091d9872993455dbf284d5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261102T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261102T100000
+SUMMARY:SEM 2 - MED B (MTM) - MAP 2192
+LOCATION:KT1-L3-09
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Hakim Ismail
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cbc44b1d6b23eba1b8606b511f21c947933ae43c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261102T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20261102T130000
+SUMMARY:SEM 2 - MED B (MTM) - MAS 0433
+LOCATION:KT2-L04-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fatimah Azzahran
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0be1cca66be59c3bbab4035903fa932a31eff160@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261102T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261102T160000
+SUMMARY:SEM 2 - MED B (MTM) - MPU 2342
+LOCATION:KT1-L3-13
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Siti Aisyah Humaira'
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:239abc5f29c03f880eeff9aafcb58b171fcdc529@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261102T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20261102T180000
+SUMMARY:SEM 2 - MED B (MTM) - ESP 2042
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9e82d0167a9018323ab0d895484e59183c7551d0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261103T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261103T110000
+SUMMARY:SEM 2 - MED B (MTM) - MAP 2173
+LOCATION:KT1-L3-28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Nur Ain Hameefatul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:362e4011a955c6d6d757168bceb4c34b4f70a96e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261103T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261103T130000
+SUMMARY:SEM 2 - MED B (MTM) - GMO 0313
+LOCATION:KT2-L03-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:66eaef1a67a123a79522d4813b1886425231c065@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261103T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261103T180000
+SUMMARY:SEM 2 - MED B (MTM) - GMO 0313
+LOCATION:KT2-L03-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d9272faba1e1c58bf02191f2e341a743440576e9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261105T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261105T130000
+SUMMARY:SEM 2 - MED B (MTM) - TEC 0553
+LOCATION:KT3-L02-20
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Rizal Samsudin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a20510da972edea44d793704631ab73844679c95@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261105T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261105T160000
+SUMMARY:SEM 2 - MED B (MTM) - QAS 0362
+LOCATION:KT2-L03-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Mohd Azizi Aqmar\nNotes: CNC & MEM CL
+ ASS ONLY
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c2bea17db9de11e1418db7bd33c4a1e4279ad58a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261109T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261109T100000
+SUMMARY:SEM 2 - MED B (MTM) - MAP 2192
+LOCATION:KT1-L3-09
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Hakim Ismail\nCalendar exception: Dee
+ pavali Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b5763740024b9bef5fd03c6724465590a5a455a6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261109T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20261109T130000
+SUMMARY:SEM 2 - MED B (MTM) - MAS 0433
+LOCATION:KT2-L04-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fatimah Azzahran\nCalendar exception:
+  Deepavali Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b5d15b96462ee08d2601547852e1cff183cb8765@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261109T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261109T160000
+SUMMARY:SEM 2 - MED B (MTM) - MPU 2342
+LOCATION:KT1-L3-13
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Siti Aisyah Humaira'\nCalendar except
+ ion: Deepavali Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f7ac7448d95333e3c480cb96fc19cc08291bc4e1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261109T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20261109T180000
+SUMMARY:SEM 2 - MED B (MTM) - ESP 2042
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Nur Syazana Ishak\nCalendar exception
+ : Deepavali Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:89c93223b5a1851f41726ca57619f67d8a6d0934@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261110T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261110T110000
+SUMMARY:SEM 2 - MED B (MTM) - MAP 2173
+LOCATION:KT1-L3-28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Nur Ain Hameefatul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:764b28101ff387841e7d31110dfcab7e4e105a0b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261110T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261110T130000
+SUMMARY:SEM 2 - MED B (MTM) - GMO 0313
+LOCATION:KT2-L03-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:793f4517163e58bea6c3ee4c258fcbcaca874398@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261110T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261110T180000
+SUMMARY:SEM 2 - MED B (MTM) - GMO 0313
+LOCATION:KT2-L03-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:344ef6a05c5bb2eb16fe20ef68dabcee5761b4d8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261112T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261112T130000
+SUMMARY:SEM 2 - MED B (MTM) - TEC 0553
+LOCATION:KT3-L02-20
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Rizal Samsudin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3b58759d00fa835b954623f7617994145b32ddec@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261112T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261112T160000
+SUMMARY:SEM 2 - MED B (MTM) - QAS 0362
+LOCATION:KT2-L03-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 2 - MED B (MTM)\nLecturer: Mohd Azizi Aqmar\nNotes: CNC & MEM CL
+ ASS ONLY
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR

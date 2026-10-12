@@ -1,0 +1,902 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Student Timetable//Class Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SEM 5 - BELT
+X-WR-TIMEZONE:Asia/Kuala_Lumpur
+BEGIN:VTIMEZONE
+TZID:Asia/Kuala_Lumpur
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:MYT
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:535a11fffeb6c362afe537e672bcf1ee8090e2cd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260930T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260930T110000
+SUMMARY:SEM 5 - BELT - BELU 3803
+LOCATION:KT5-L11-009A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Integrated Design
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c944b0069fe6cc3e13df7764791d22c8c817a388@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261001T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261001T110000
+SUMMARY:SEM 5 - BELT - BELT 2361
+LOCATION:KT5-L06-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Ir Dr Ahmad Hafiz\nNotes: Electric Engineer 
+ Tech
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:553eac67324bd470cf3dacf0f8f88c2194abf685@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261005T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261005T130000
+SUMMARY:SEM 5 - BELT - BELT 3803
+LOCATION:KT5-L02-014
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Nur Syamimi Noor\nNotes: Renew Energy System
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:236707388c9f682a2dbd236ab71a2e5b3476a3dd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261006T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261006T120000
+SUMMARY:SEM 5 - BELT - BELK 2383
+LOCATION:KT5-L11-009A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Power System
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ee47490938030eec38fcbfc9b71ed40009094492@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261006T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261006T170000
+SUMMARY:SEM 5 - BELT - BELK 2383
+LOCATION:KT5-L11-009A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Power System
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b89235c4a7e7beb6fd2c9a42f7a3f407427c3d05@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261007T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261007T120000
+SUMMARY:SEM 5 - BELT - BELK 2383
+LOCATION:KT5-L11-009A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Power System
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:efed851d38dbd6ffc424b1f115ef0791694709a7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261007T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261007T170000
+SUMMARY:SEM 5 - BELT - BELK 2383
+LOCATION:KT5-L11-009A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Power System
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8de90ee9ae3a3329388f28cd952649933df3ca13@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261008T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261008T110000
+SUMMARY:SEM 5 - BELT - BELU 3803
+LOCATION:KT5-L14-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Integrated Design
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9627e6ff9e2478eab7e9cd2420a60b4f91e5956c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261012T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261012T130000
+SUMMARY:SEM 5 - BELT - BELT 3803
+LOCATION:KT5-L02-014
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Nur Syamimi Noor\nNotes: Renew Energy System
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c60fd04fc8b6a836ee8b8ac7f330fe9b22b0992d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261013T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261013T120000
+SUMMARY:SEM 5 - BELT - BELT 3823
+LOCATION:KT5-L11-009A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Energy Storage
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6af70542abacb28762481a0747064a26511a9398@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261013T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261013T170000
+SUMMARY:SEM 5 - BELT - BELT 3823
+LOCATION:KT5-L11-009A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Energy Storage
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:13061fafbe0e93ca20330cdc032fd6dc5bcf4023@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261014T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261014T120000
+SUMMARY:SEM 5 - BELT - BELT 3823
+LOCATION:KT5-L11-009A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Energy Storage
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3cd2806f5e627fe98e943d9ccf8647ee5673bf6e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261014T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261014T170000
+SUMMARY:SEM 5 - BELT - BELT 3823
+LOCATION:KT5-L11-009A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Energy Storage
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9d1f82837b7eabf13dcfe0a7616374ff929efd49@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261015T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261015T100000
+SUMMARY:SEM 5 - BELT - BELU 3803
+LOCATION:KT5-L14-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Integrated Design
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:996820ffda81f615942ec3b58ab1a63ccef34a2a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261019T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261019T130000
+SUMMARY:SEM 5 - BELT - BELT 3803
+LOCATION:KT5-L02-014
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Nur Syamimi Noor\nNotes: Renew Energy System
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ac78d7d891d26204cda4ebf88ebc420fa3822329@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261020T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261020T120000
+SUMMARY:SEM 5 - BELT - BLHW 2772
+LOCATION:KT5-L11-009A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Appreci. Ethics
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:eaab40f722b77278deb82c91663bd4a5f8b4cad8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261020T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261020T150000
+SUMMARY:SEM 5 - BELT - BLHW 2772
+LOCATION:KT5-L11-009A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Appreci. Ethics
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f659e6b3f80a4a874ffa8e6541db4c8e44a58e75@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261020T150000
+DTEND;TZID=Asia/Kuala_Lumpur:20261020T170000
+SUMMARY:SEM 5 - BELT - BLHW 2772
+LOCATION:KT5-L11-009A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Appreci. Ethics
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9d2beecb55fa8f3b4e8063b3e7f8b3fe61f73128@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261021T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261021T090000
+SUMMARY:SEM 5 - BELT - BLHW 2772
+LOCATION:KT5-L11-009A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Appreci. Ethics
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0f467465e25424f71990016a6fc29c9ab97a510a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261021T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261021T110000
+SUMMARY:SEM 5 - BELT - BLHW 2772
+LOCATION:KT5-L11-009A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Appreci. Ethics
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:015520aa43613e6dbbcf913ebe601827efb18c33@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261021T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261021T120000
+SUMMARY:SEM 5 - BELT - BLHW 2772
+LOCATION:KT5-L11-009A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Appreci. Ethics
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c2cc4b90630aa552986e3f97c21654894afeadbb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261021T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261021T170000
+SUMMARY:SEM 5 - BELT - BLHW 2772
+LOCATION:KT5-L11-009A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Appreci. Ethics
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e653b282706fa671f26fb5179fa059908ad3244d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261022T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261022T110000
+SUMMARY:SEM 5 - BELT - BELT 2361
+LOCATION:KT5-L06-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Ir Dr Ahmad Hafiz\nNotes: Electric Engineer 
+ Tech
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e16ccccc07107dedd5bf95174a34940cdd180fe7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261022T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261022T120000
+SUMMARY:SEM 5 - BELT - BELU 3803
+LOCATION:KT5-L14-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Integrated Design
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6e87aa4377a693715447039f2b254c2fe6269215@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261028T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261028T130000
+SUMMARY:SEM 5 - BELT - BELT 3803
+LOCATION:KT5-L02-014
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Nur Syamimi Noor\nNotes: Renew Energy System
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d04e4dc730a3e2b8c0565cdd42e53c07bbb2d285@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261029T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261029T100000
+SUMMARY:SEM 5 - BELT - BELU 3803
+LOCATION:KT5-L14-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Integrated Design
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:29dfaee5cdcba709f770fe3807f01b1e1274be34@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261102T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261102T130000
+SUMMARY:SEM 5 - BELT - BELT 3803
+LOCATION:KT5-L02-014
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Nur Syamimi Noor\nNotes: Renew Energy System
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:32eb4d342f1f4ab7feb114b975f61bfdd31c0dac@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261104T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261104T100000
+SUMMARY:SEM 5 - BELT - BELU 3803
+LOCATION:KT5-L14-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Integrated Design
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:73c9ac1b220efde0cc1040b5ec79f0bc92965f43@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261105T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261105T110000
+SUMMARY:SEM 5 - BELT - BELT 2361
+LOCATION:KT5-L06-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Ir Dr Ahmad Hafiz\nNotes: Electric Engineer 
+ Tech
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a2b3a4e282c5ed6a1d58ae1d615ef640ac2f439d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261111T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261111T100000
+SUMMARY:SEM 5 - BELT - BELU 3803
+LOCATION:KT5-L11-009A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Integrated Design
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d59fec46a03bc00c4d7f7e41dc2e96724978146e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261112T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261112T120000
+SUMMARY:SEM 5 - BELT - BELT 2361
+LOCATION:KT5-L06-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Ir Dr Ahmad Hafiz\nNotes: Electric Engineer 
+ Tech
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:02abc37e5ea6630f957771398ac0d5422b418898@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261112T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261112T180000
+SUMMARY:SEM 5 - BELT - BELT 2361
+LOCATION:KT5-L06-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Ir Dr Ahmad Hafiz\nNotes: Electric Engineer 
+ Tech
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0299d18410dc51ee4c59be68bd2ff5312b6792c3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261116T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261116T130000
+SUMMARY:SEM 5 - BELT - BELT 3803
+LOCATION:KT5-L02-014
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Nur Syamimi Noor\nNotes: Renew Energy System
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f159f2720564cf6f1dfb70e20a866f5a5aff07f4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261117T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261117T120000
+SUMMARY:SEM 5 - BELT - BELK 2383
+LOCATION:KT5-L14-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Power System
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d9e9a2d589a6a322a72e0ef1b5a2ed152dd686b1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261117T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261117T160000
+SUMMARY:SEM 5 - BELT - BELK 2383
+LOCATION:KT5-L14-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Power System
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f68b20bb106f1e7eeefb2585e901b2f813a72b89@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261117T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20261117T170000
+SUMMARY:SEM 5 - BELT - BELK 2383
+LOCATION:KT5-L14-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Power System
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0658b02a64976f7af188f78d711e1aac8d5068a1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261118T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261118T090000
+SUMMARY:SEM 5 - BELT - BELK 2383
+LOCATION:KT5-L14-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Power System
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6b41cdd11c73ad7c995f6f7a027ad34d3900eb93@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261118T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261118T120000
+SUMMARY:SEM 5 - BELT - BELK 2383
+LOCATION:KT5-L14-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Power System
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ba7ae1a8ff9007b3d7b5d9cdb2c7380e50913d11@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261118T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261118T170000
+SUMMARY:SEM 5 - BELT - BELK 2383
+LOCATION:KT5-L14-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Power System
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d2265fbfca964424be130e645f41b4e3df0d4c9c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261119T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261119T100000
+SUMMARY:SEM 5 - BELT - BELU 3803
+LOCATION:KT5-L14-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Integrated Design
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4992eb6284624c29c9e436804b3e7084a4b715e4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261123T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261123T130000
+SUMMARY:SEM 5 - BELT - BELT 3803
+LOCATION:KT5-L02-014
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Nur Syamimi Noor\nNotes: Renew Energy System
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ccd2874c4f9f067830a3a39c2ece48b7d4e3c75e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261124T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261124T120000
+SUMMARY:SEM 5 - BELT - BELT 3823
+LOCATION:KT5-L14-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Energy Storage
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:90c744e43083a13b7d09e9c2b38b01ab2b7785e3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261124T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261124T170000
+SUMMARY:SEM 5 - BELT - BELT 3823
+LOCATION:KT5-L14-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Energy Storage
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:67b77114a6ed8ac91e716e11c949f1f2c524b974@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261125T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261125T120000
+SUMMARY:SEM 5 - BELT - BELT 3823
+LOCATION:KT5-L14-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Energy Storage
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:86f15fcb142bd9b29e08ec328dc82fd687254d8e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261125T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261125T170000
+SUMMARY:SEM 5 - BELT - BELT 3823
+LOCATION:KT5-L14-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Energy Storage
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:767227662641d0a68b47e7c12b72cdfb6217333c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261126T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261126T100000
+SUMMARY:SEM 5 - BELT - BELU 3803
+LOCATION:KT5-L14-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Integrated Design
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2b7e28802cade8e886ae033817a582fb9e3a76c3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261130T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261130T130000
+SUMMARY:SEM 5 - BELT - BELT 3803
+LOCATION:KT5-L02-014
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Nur Syamimi Noor\nNotes: Renew Energy System
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7a94da7731ceb9117bcb3464f3688bb7fa61c3f2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261201T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261201T120000
+SUMMARY:SEM 5 - BELT - BLHW 2772
+LOCATION:KT5-L11-009A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Appreci. Ethics
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0588f881bee79b3962ded96bb157fa1e08281466@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261201T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261201T150000
+SUMMARY:SEM 5 - BELT - BLHW 2772
+LOCATION:KT5-L11-009A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Appreci. Ethics
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:febf49073f2b0e1e11757a0976cae1550314ebb0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261201T150000
+DTEND;TZID=Asia/Kuala_Lumpur:20261201T160000
+SUMMARY:SEM 5 - BELT - BLHW 2772
+LOCATION:KT5-L11-009A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Appreci. Ethics
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:416344e0a068cff98cf3bf9fbd1e467786bee826@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261201T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20261201T170000
+SUMMARY:SEM 5 - BELT - BLHW 2772
+LOCATION:KT5-L11-009A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Appreci. Ethics
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:035cc16c302716c44e41ebd5d13a509ccc46d166@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261202T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261202T090000
+SUMMARY:SEM 5 - BELT - BLHW 2772
+LOCATION:KT5-L11-009A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Appreci. Ethics
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:36ce5046a7f055660943a92676fbb2623e865ead@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261202T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261202T110000
+SUMMARY:SEM 5 - BELT - BLHW 2772
+LOCATION:KT5-L11-009A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Appreci. Ethics
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bbd2abbee531e71a3cd4d2a675d97e7e49b32b8d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261202T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261202T120000
+SUMMARY:SEM 5 - BELT - BLHW 2772
+LOCATION:KT5-L11-009A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Appreci. Ethics
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:716a6a28519d44942846d45d5d6a90cf22386212@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261202T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261202T170000
+SUMMARY:SEM 5 - BELT - BLHW 2772
+LOCATION:KT5-L11-009A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Appreci. Ethics
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c269e0e8e9939913fa1bb244ed043a866e9e0fb1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261203T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261203T100000
+SUMMARY:SEM 5 - BELT - BELU 3803
+LOCATION:KT5-L14-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Integrated Design
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:167b70803b86fa4e64776fb0ad024692ff92c719@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261207T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261207T130000
+SUMMARY:SEM 5 - BELT - BELT 3803
+LOCATION:KT5-L02-014
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Nur Syamimi Noor\nNotes: Renew Energy System
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:beec274ce4d98ad1f31ea59b2ba062ae16a30af0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261210T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261210T110000
+SUMMARY:SEM 5 - BELT - BELT 2361
+LOCATION:KT5-L06-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Ir Dr Ahmad Hafiz\nNotes: Electric Engineer 
+ Tech
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c3ffa615be7395387be3551b9cc73d830059088d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261210T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261210T120000
+SUMMARY:SEM 5 - BELT - BELU 3803
+LOCATION:KT5-L14-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Integrated Design
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:239f53c73068f0294a19ad34e8fab474a05af0cb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261214T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261214T130000
+SUMMARY:SEM 5 - BELT - BELT 3803
+LOCATION:KT5-L02-014
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Nur Syamimi Noor\nNotes: Renew Energy System
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6531e7c0d6e957892ad6fdfe3eeff6cfcfb84171@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261215T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261215T120000
+SUMMARY:SEM 5 - BELT - BELK 2383
+LOCATION:KT5-L14-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Power System
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:811f8cd76d1be5702dc9391e737687e5c1216a01@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261215T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261215T150000
+SUMMARY:SEM 5 - BELT - BELK 2383
+LOCATION:KT5-L14-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Power System
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:747be88d50fcd80a9f98f2cc18c402372d023071@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261215T150000
+DTEND;TZID=Asia/Kuala_Lumpur:20261215T170000
+SUMMARY:SEM 5 - BELT - BELK 2383
+LOCATION:KT5-L14-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Power System
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2d6fb95c80898610027f7591130034c2c797c3d4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261216T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261216T090000
+SUMMARY:SEM 5 - BELT - BELK 2383
+LOCATION:KT5-L14-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Power System
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:50c8b0764381b177aea9f11e841e185316c4576c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261216T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261216T120000
+SUMMARY:SEM 5 - BELT - BELK 2383
+LOCATION:KT5-L14-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Power System
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:77f14ee8d47536f58ba904581ea554e24ee74eaf@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261216T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261216T160000
+SUMMARY:SEM 5 - BELT - BELK 2383
+LOCATION:KT5-L14-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Power System
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fc2a35feb0e20a9f0f9a7479f38ee526b71b1fdb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261216T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20261216T170000
+SUMMARY:SEM 5 - BELT - BELK 2383
+LOCATION:KT5-L14-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Power System
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:aee4a9f6fa4b001adba151125518fc6fb69a353b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261217T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261217T090000
+SUMMARY:SEM 5 - BELT - BELK 2383
+LOCATION:KT5-L14-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Power System
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:111744645e88e86ba75043fda909b723f63e931c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261217T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261217T120000
+SUMMARY:SEM 5 - BELT - BELK 2383
+LOCATION:KT5-L14-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Power System
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:eeb62d0a99450332e6d648d83fa973cca2afaea4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261217T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261217T170000
+SUMMARY:SEM 5 - BELT - BELK 2383
+LOCATION:KT5-L14-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Power System
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c8e934ec140663a9fdaab7b434e2fc6d0179c8bd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261221T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261221T130000
+SUMMARY:SEM 5 - BELT - BELT 3803
+LOCATION:KT5-L02-014
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Nur Syamimi Noor\nNotes: Renew Energy System
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:85b17529e8682101a59f3c78a0f1e66dedbece8b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261223T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261223T100000
+SUMMARY:SEM 5 - BELT - BELU 3803
+LOCATION:KT5-L14-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Integrated Design
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c7f12ac9933a0066e4d160341e1ddb2c790a011f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261228T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261228T130000
+SUMMARY:SEM 5 - BELT - BELT 3803
+LOCATION:KT5-L02-014
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Nur Syamimi Noor\nNotes: Renew Energy System
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8e381dca4fc1fcd76df8818fc75fbdcea64c765d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261229T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261229T120000
+SUMMARY:SEM 5 - BELT - BELT 3823
+LOCATION:KT5-L14-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Energy Storage
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:53d901cb004c99df68a418968eff2aeb95ce10a5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261229T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261229T170000
+SUMMARY:SEM 5 - BELT - BELT 3823
+LOCATION:KT5-L14-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Energy Storage
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4f33f6907ef339a0efef5d1fe420e69f51a4bd0e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261230T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261230T120000
+SUMMARY:SEM 5 - BELT - BELT 3823
+LOCATION:KT5-L14-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Energy Storage
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0f6348cf19a450e4f16d6dc1c8703ad2785444c2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261230T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261230T170000
+SUMMARY:SEM 5 - BELT - BELT 3823
+LOCATION:KT5-L14-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Energy Storage
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e24035ce4965879470aa3bcac821f898776eca7b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261231T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261231T120000
+SUMMARY:SEM 5 - BELT - BELT 3823
+LOCATION:KT5-L14-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Energy Storage
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:372c7e6e14395d0efed2dce770fb2f67b0c9c034@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261231T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261231T170000
+SUMMARY:SEM 5 - BELT - BELT 3823
+LOCATION:KT5-L14-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Energy Storage
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b0f946eec726eada7444dd8236ff8535e8fdb28c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20270106T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20270106T110000
+SUMMARY:SEM 5 - BELT - BELU 3803
+LOCATION:KT5-L14-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - BELT\nLecturer: Integrated Design
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR

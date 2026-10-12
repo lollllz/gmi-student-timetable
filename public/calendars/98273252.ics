@@ -1,0 +1,2349 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Student Timetable//Class Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SEM 5 - DCPT 2
+X-WR-TIMEZONE:Asia/Kuala_Lumpur
+BEGIN:VTIMEZONE
+TZID:Asia/Kuala_Lumpur
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:MYT
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:4744cdd6452950d42f9b86008f8ceed23bb0ad1c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260706T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260706T130000
+SUMMARY:SEM 5 - DCPT 2 - GMO 0292
+LOCATION:KT3-L05-01
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Sufiyan Amril
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:37c8418ab5b0cd47870643478a01781764db7a88@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260706T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260706T180000
+SUMMARY:SEM 5 - DCPT 2 - IAT 0952
+LOCATION:KT5-L08-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Ts Dr Syarifah Yunus
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fa5bd3ab6e6e0430d8da72d762b3b5d2b4e716cb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260707T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260707T130000
+SUMMARY:SEM 5 - DCPT 2 - EDM 0743
+LOCATION:KT3-L03-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Abdul Rahman
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e3682ea4b9d1648b1751d476254f526512afa1d3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260707T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260707T180000
+SUMMARY:SEM 5 - DCPT 2 - EDM 0743
+LOCATION:KT3-L03-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Abdul Rahman
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c29a8b9852878399e106e8d91de6e11ca0922715@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260708T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260708T130000
+SUMMARY:SEM 5 - DCPT 2 - MPU 2183
+LOCATION:KT1-L3-27
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Norsannah Hamzah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4b19beacd16ee6c0d792af2c17f73f41c71c446f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260709T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260709T130000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Zairul Nazim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:98624191abca46f9a1b4033f4faafd13c0425584@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260710T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260710T120000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Hafiz Adnan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6a02662afa155c28b169b43ecd0f5d0d54cd7cdc@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260710T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260710T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Rashdin Ramli\nOverlapping class entry: ch
+ eck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:03ed8773a86133ee07c5dd00a3276fdef243b70c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260710T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260710T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Siti Sarah Thuraiya\nOverlapping class ent
+ ry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:00233f4bb6685e0f00c16df222c329d478cde8de@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260710T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260710T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Ts Saiful Azril\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:814d3360cb423bdf567f27026c07ddd4b23d5527@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260713T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260713T130000
+SUMMARY:SEM 5 - DCPT 2 - GMO 0292
+LOCATION:KT3-L05-01
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Sufiyan Amril
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:28a29910097a6aa490e3c1e63699d1d065cde466@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260713T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260713T180000
+SUMMARY:SEM 5 - DCPT 2 - IAT 0952
+LOCATION:KT5-L08-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Ts Dr Syarifah Yunus
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f22a63da34c80e4ae4d698dae2aa3ffac104301b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260714T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260714T130000
+SUMMARY:SEM 5 - DCPT 2 - EDM 0743
+LOCATION:KT3-L03-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Abdul Rahman
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d54d7aebc30805ab8871308218aa5bfcd65ef626@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260714T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260714T180000
+SUMMARY:SEM 5 - DCPT 2 - EDM 0743
+LOCATION:KT3-L03-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Abdul Rahman
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:00fa4700456e7b9e4e05267ef8a5cea8aecff585@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260715T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260715T130000
+SUMMARY:SEM 5 - DCPT 2 - MPU 2183
+LOCATION:KT1-L3-27
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Norsannah Hamzah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:45cc9cc33adbadf369657e7a628b40d8ce865b98@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260716T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260716T130000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Zairul Nazim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9a5c13a14a8bb9cdab1c92e240954ce3f15cc0ee@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260716T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260716T160000
+SUMMARY:SEM 5 - DCPT 2 - MPU 2212
+LOCATION:KT1-L3-10
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Wan Nur Aishah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:95502c1b7e0232b07433ad4fb0ed67ee56c48ecc@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260717T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260717T120000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Hafiz Adnan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:45bec4414331372645941d71bb5ebaf8edeb33c2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260717T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260717T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Rashdin Ramli\nOverlapping class entry: ch
+ eck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e92d2939a604ed90ace40e7a8ba32937697f5b71@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260717T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260717T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Siti Sarah Thuraiya\nOverlapping class ent
+ ry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:581fdb07c165f125b6260ceadd300e7fef61d73e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260717T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260717T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Ts Saiful Azril\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:13c9d516c9a9d7d565490d64d5803eec26b816c4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260720T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260720T130000
+SUMMARY:SEM 5 - DCPT 2 - GMO 0292
+LOCATION:KT3-L05-01
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Sufiyan Amril
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:897554a5674cd0558dca70bf85a7d851612500be@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260720T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260720T180000
+SUMMARY:SEM 5 - DCPT 2 - IAT 0952
+LOCATION:KT5-L08-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Ts Dr Syarifah Yunus
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1acff0893f80ddc7d06782f67c660eab2b9d734f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260721T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260721T130000
+SUMMARY:SEM 5 - DCPT 2 - EDM 0743
+LOCATION:KT3-L03-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Abdul Rahman
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d82b84aee30a2e1a3eeaf3153500080059141817@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260721T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260721T180000
+SUMMARY:SEM 5 - DCPT 2 - EDM 0743
+LOCATION:KT3-L03-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Abdul Rahman
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a01ea3abf0a4ba65c0d042567c47f8c4808037cb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260722T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260722T130000
+SUMMARY:SEM 5 - DCPT 2 - MPU 2183
+LOCATION:KT1-L3-27
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Norsannah Hamzah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:aa68e1c9e30a238048b4437a1768af574462ee66@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260723T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260723T130000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Zairul Nazim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6bc40af51b21b49585b3137c70d4ba1da0c3f987@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260723T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260723T160000
+SUMMARY:SEM 5 - DCPT 2 - MPU 2212
+LOCATION:KT1-L3-10
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Wan Nur Aishah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5e3109c487d4c7d0dcce8702ce6eb031273d6ebd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260724T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260724T120000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Hafiz Adnan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:676453367fe386a44fe71ff2b185840bb82136a7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260724T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260724T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Rashdin Ramli\nOverlapping class entry: ch
+ eck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0ed14d1ab149bfb06b36f11a5950bb1c301ed191@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260724T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260724T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Siti Sarah Thuraiya\nOverlapping class ent
+ ry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e44d32eb1ef729c149d39ae5d6486c106ba05a68@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260724T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260724T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Ts Saiful Azril\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f8f2e2cb1e4b3b639341c62b416c469e08206978@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260727T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260727T130000
+SUMMARY:SEM 5 - DCPT 2 - GMO 0292
+LOCATION:KT3-L05-01
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Sufiyan Amril
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:24a29dc632fe5b58681d8c5abc559a4a11fea0b4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260727T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260727T180000
+SUMMARY:SEM 5 - DCPT 2 - IAT 0952
+LOCATION:KT5-L08-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Ts Dr Syarifah Yunus
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:46c574de345846a9ffa18f82d68d1050f462fa79@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260728T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260728T130000
+SUMMARY:SEM 5 - DCPT 2 - EDM 0743
+LOCATION:KT3-L03-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Abdul Rahman
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ae63c02de06f8991cb3e6d2b050258b1deff53d3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260728T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260728T180000
+SUMMARY:SEM 5 - DCPT 2 - EDM 0743
+LOCATION:KT3-L03-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Abdul Rahman
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e5b82137cee33e5ded9b55848d97b96b4bbf7dd8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260729T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260729T130000
+SUMMARY:SEM 5 - DCPT 2 - MPU 2183
+LOCATION:KT1-L3-27
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Norsannah Hamzah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:81bd90d0d68384485d1263785aca3e98d6a5a964@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260730T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260730T130000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Zairul Nazim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:75f759ca75a3e53e81a92097ad95aa8e6d9ae1fd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260730T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260730T160000
+SUMMARY:SEM 5 - DCPT 2 - MPU 2212
+LOCATION:KT1-L3-10
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Wan Nur Aishah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7f24dc5307bd66035c105b44754b076535a42717@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260731T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260731T120000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Hafiz Adnan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3e91abd66791e7005d156ad49670a8aa84a23518@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260731T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260731T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Rashdin Ramli\nOverlapping class entry: ch
+ eck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9af9385886efda170802991c02021a2520a8aac2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260731T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260731T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Siti Sarah Thuraiya\nOverlapping class ent
+ ry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1b484758943e83868e2b421c7c8ea82fd1142604@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260731T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260731T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Ts Saiful Azril\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:62d4da589c59b3c31623fa7151358cbbfb083293@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260803T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260803T130000
+SUMMARY:SEM 5 - DCPT 2 - GMO 0292
+LOCATION:KT3-L05-01
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Sufiyan Amril
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c3c6eb40854355d598855d8a99eb8e5ba87a8559@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260803T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260803T180000
+SUMMARY:SEM 5 - DCPT 2 - IAT 0952
+LOCATION:KT5-L08-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Ts Dr Syarifah Yunus
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3b90ed4a904c5d42781587b78935339a757c7e01@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260804T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260804T130000
+SUMMARY:SEM 5 - DCPT 2 - EDM 0743
+LOCATION:KT3-L03-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Abdul Rahman
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e6b5d1fdf27c7c1825cabe4e5cd95feb1c919da2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260804T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260804T180000
+SUMMARY:SEM 5 - DCPT 2 - EDM 0743
+LOCATION:KT3-L03-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Abdul Rahman
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ffe94fa845ccd9ffa25963b4950eba81cf042372@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260805T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260805T130000
+SUMMARY:SEM 5 - DCPT 2 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:88e9978af8560f523099d0910e1edd25a2b09de9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260806T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260806T130000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Zairul Nazim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bad2088010842cad531f33d9fd83b17e53826e7d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260806T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260806T160000
+SUMMARY:SEM 5 - DCPT 2 - MPU 2212
+LOCATION:KT1-L3-10
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Wan Nur Aishah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f70117df54cb805034c17ebd1ae1681e1552674c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260807T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260807T120000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Hafiz Adnan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:240dc72012f6153f15c0c1415dcce474049976d8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260807T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260807T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Rashdin Ramli\nOverlapping class entry: ch
+ eck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ef9e5436f548ca3589a740308b209122cb716ea7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260807T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260807T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Siti Sarah Thuraiya\nOverlapping class ent
+ ry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2936c7af9453f4a06f2a681335772fbdb1001f8f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260807T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260807T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Ts Saiful Azril\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bc7f93343576e0d73aa97b35c78676aa4e29efde@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260810T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260810T130000
+SUMMARY:SEM 5 - DCPT 2 - GMO 0292
+LOCATION:KT3-L05-01
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Sufiyan Amril
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d4df314c78cf59e1e682bbbf6d38152a03639662@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260810T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260810T180000
+SUMMARY:SEM 5 - DCPT 2 - IAT 0952
+LOCATION:KT5-L08-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Ts Dr Syarifah Yunus
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:21ce6ae055f80afdf540d321556ca2a933b6e5a6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260811T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260811T130000
+SUMMARY:SEM 5 - DCPT 2 - EDM 0743
+LOCATION:KT3-L03-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Abdul Rahman
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:036a3d2c220620f40e2b8ec00a1f85a56dce50f9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260811T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260811T180000
+SUMMARY:SEM 5 - DCPT 2 - EDM 0743
+LOCATION:KT3-L03-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Abdul Rahman
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:176f25083f26e7853a57a64015a97c973e92d112@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260812T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260812T130000
+SUMMARY:SEM 5 - DCPT 2 - MPU 2183
+LOCATION:KT1-L3-27
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Norsannah Hamzah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:77a821365e8bf0aa3b775c55576516c8aad8901a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260813T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260813T130000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Zairul Nazim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb1f56c8bd40bddfeaa4291bf0ccafa07334f452@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260813T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260813T160000
+SUMMARY:SEM 5 - DCPT 2 - MPU 2212
+LOCATION:KT1-L3-10
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Wan Nur Aishah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b2d7ad837a5f680102fb5d2b18c080193ab376b2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260814T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260814T120000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Hafiz Adnan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ebfea61b9a6e05ccd67cb34a942559d7e680aa06@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260814T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260814T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Rashdin Ramli\nOverlapping class entry: ch
+ eck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f4122d1c27b195a50f43cb6d3ad1a25b0484d780@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260814T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260814T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Siti Sarah Thuraiya\nOverlapping class ent
+ ry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:05e04e03fb4fe2f158696a2622e57fa0023bc3a9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260814T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260814T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Ts Saiful Azril\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d3702adf19078b7b27b9192e29a3b6390524d050@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260817T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260817T130000
+SUMMARY:SEM 5 - DCPT 2 - GMO 0292
+LOCATION:KT3-L05-01
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Sufiyan Amril
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f5b6fec456c34464f7cdf9f03f86cc55db7b492e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260817T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260817T180000
+SUMMARY:SEM 5 - DCPT 2 - IAT 0952
+LOCATION:KT5-L08-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Ts Dr Syarifah Yunus
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:61ad14a97a7a2508678fc37f4c2bcf332372cc7e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260818T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260818T130000
+SUMMARY:SEM 5 - DCPT 2 - EDM 0743
+LOCATION:KT3-L03-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Abdul Rahman
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a671c44852564443b4fd3803b88bf8f44cd60b19@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260818T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260818T180000
+SUMMARY:SEM 5 - DCPT 2 - EDM 0743
+LOCATION:KT3-L03-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Abdul Rahman
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fc344002df2f38f321ca0c4c05d887e392cbbe35@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260819T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260819T130000
+SUMMARY:SEM 5 - DCPT 2 - MPU 2183
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Norsannah Hamzah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c0998299e5029951368428844a6c5b51a46064db@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260820T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260820T130000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Zairul Nazim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5a21130102e7e55e8ced1ed0ddbe86fa4950a076@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260820T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260820T160000
+SUMMARY:SEM 5 - DCPT 2 - MPU 2212
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Wan Nur Aishah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f18d8559cdbc39a2ccc387ffc011c31f2707ce93@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260821T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260821T120000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Hafiz Adnan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ab9d141bfee9794b74960b1c1b25b4deb2a968db@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260821T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260821T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Rashdin Ramli\nOverlapping class entry: ch
+ eck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9165a7f43a69545f34d490ec1de7f5b51df8f8fe@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260821T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260821T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Siti Sarah Thuraiya\nOverlapping class ent
+ ry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f9d06751846678e9230e67b595a9665c806c3e64@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260821T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260821T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Ts Saiful Azril\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c1de9e7f91d99b6d12da5e1e82da18c5bd565b2c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260824T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260824T130000
+SUMMARY:SEM 5 - DCPT 2 - GMO 0292
+LOCATION:KT3-L05-01
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Sufiyan Amril
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:38d0fc8893a1f4cd075ce91028e4c770f1e297a4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260824T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260824T180000
+SUMMARY:SEM 5 - DCPT 2 - IAT 0952
+LOCATION:KT5-L08-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Ts Dr Syarifah Yunus
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0937fdc0f57c7b809daff2aa1848f6f489b55a99@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260825T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260825T130000
+SUMMARY:SEM 5 - DCPT 2 - EDM 0743
+LOCATION:KT3-L03-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Abdul Rahman\nCalendar exception: Maulidur
+  Rasul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:887fbfcb72b55aa59ea491ef41d34a9c751d4ed2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260825T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260825T180000
+SUMMARY:SEM 5 - DCPT 2 - EDM 0743
+LOCATION:KT3-L03-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Abdul Rahman\nCalendar exception: Maulidur
+  Rasul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ac3c739872cbed0957d659952dff903cf2f76fd6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260826T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260826T130000
+SUMMARY:SEM 5 - DCPT 2 - MPU 2183
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Norsannah Hamzah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:00554ba3f045365ea7a50a3f2386bd30e19898fb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260827T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260827T130000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Zairul Nazim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a9a8833177aaac6df9fb4a5995c4332f8a367d89@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260827T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260827T160000
+SUMMARY:SEM 5 - DCPT 2 - MPU 2212
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Wan Nur Aishah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:22db4eb8a834c53ad97b66e5468abf339776a4ba@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260828T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260828T120000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Hafiz Adnan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:081e73aa9b3fed43ac96a76ad049bb437aaec900@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260828T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260828T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Rashdin Ramli\nOverlapping class entry: ch
+ eck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3a336fa2003d34a7802c989e9d7aa0b6e19c7bcc@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260828T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260828T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Siti Sarah Thuraiya\nOverlapping class ent
+ ry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c562fd0b8271e8e4d273bd5f4fb9cc4b0f54d150@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260828T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260828T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Ts Saiful Azril\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9bbec86155e21066ba37e70616a0a24d746ef6fd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260907T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260907T130000
+SUMMARY:SEM 5 - DCPT 2 - Merdeka Celebration
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9f547203a30db9c272f2c2ef9fa1581641e0fb44@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260907T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260907T180000
+SUMMARY:SEM 5 - DCPT 2 - IAT 0952
+LOCATION:KT5-L08-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Ts Dr Syarifah Yunus
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:109f853255f587f6760691742dc66bd934c81dce@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260908T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260908T130000
+SUMMARY:SEM 5 - DCPT 2 - EDM 0743
+LOCATION:KT3-L03-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Abdul Rahman
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5642a1036126073c48844e7359e41d15731645a6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260908T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260908T180000
+SUMMARY:SEM 5 - DCPT 2 - EDM 0743
+LOCATION:KT3-L03-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Abdul Rahman
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:837c41af35b0f977d3217b27fdee670199a6e1bc@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260909T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260909T100000
+SUMMARY:SEM 5 - DCPT 2 - MPU 2183
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Norsannah Hamzah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5c5bcb0ef36af4551887e5394ffc6a9742054124@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260909T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260909T130000
+SUMMARY:SEM 5 - DCPT 2 - MPU 2183
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Norsannah Hamzah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:503b80777056f0ac01d29f85e26e63734ffab39b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260910T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260910T130000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Zairul Nazim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7bdb572417890271232e4ce76d3a092de1d6698d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260910T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260910T160000
+SUMMARY:SEM 5 - DCPT 2 - MPU 2212
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Wan Nur Aishah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c89cb89a81c875aab1cf11d142819fc4d55c4b54@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260911T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260911T120000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Hafiz Adnan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7489b620098c154c3d75a2c632a078cc59218c1b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260911T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260911T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Rashdin Ramli\nOverlapping class entry: ch
+ eck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4c67cd51e36e51db531f7817e993b48989db9d74@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260911T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260911T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Siti Sarah Thuraiya\nOverlapping class ent
+ ry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b82a301a1e9afe69b897a26e17d04693857d0d2e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260911T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260911T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Ts Saiful Azril\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:34d5a82df2a43496ba0b2683597434dd01fdf20b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260914T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260914T130000
+SUMMARY:SEM 5 - DCPT 2 - GMO 0292
+LOCATION:KT3-L05-01
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Sufiyan Amril
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3242b96308584cacc6ed55e99c9f5f17e1403760@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260914T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260914T180000
+SUMMARY:SEM 5 - DCPT 2 - IAT 0952
+LOCATION:KT5-L08-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Ts Dr Syarifah Yunus
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3e7e4a564cfe19626156d597c81d7c4935cb3308@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260915T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260915T130000
+SUMMARY:SEM 5 - DCPT 2 - EDM 0743
+LOCATION:KT3-L03-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Abdul Rahman
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:afe98f6897e8b66763ebfddb1fb7d08ffe36759a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260915T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260915T180000
+SUMMARY:SEM 5 - DCPT 2 - EDM 0743
+LOCATION:KT3-L03-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Abdul Rahman
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7a9490613801269ce43c98041e1f39abb85873aa@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260916T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260916T130000
+SUMMARY:SEM 5 - DCPT 2 - MPU 2183
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Norsannah Hamzah\nNotes: Online Class\nCal
+ endar exception: Malaysia Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a46ed160afdfbaaf3c81a100daef186f01ddb56d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260917T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260917T130000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Zairul Nazim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e1cacdce74d5b7e39305a220d2a3f3f7b26484a9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260917T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260917T160000
+SUMMARY:SEM 5 - DCPT 2 - MPU 2212
+LOCATION:KT1-L3-10
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Wan Nur Aishah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3632e0225e2aa27cf8f414576f3f620fe4db6b96@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260918T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260918T120000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Hafiz Adnan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:00b26f404cb79354785ce5fd5a3f0de795efa68f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260918T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260918T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Rashdin Ramli\nOverlapping class entry: ch
+ eck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5a1437237c0218c9ba8bdc22bfa367f1b78be30f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260918T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260918T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Ts Saiful Azril\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c6f9c8122b48f51dfb8d373b563e9c8f25cde30a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260921T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260921T180000
+SUMMARY:SEM 5 - DCPT 2 - IAT 0952
+LOCATION:KT5-L08-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Ts Dr Syarifah Yunus
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7abcbfb3820585a47d7441220c7fae2742126d9f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260922T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260922T130000
+SUMMARY:SEM 5 - DCPT 2 - EDM 0743
+LOCATION:KT3-L03-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Abdul Rahman
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9e35fdbe1c15c8f5c1c778674f9127c2baeace5e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260922T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260922T180000
+SUMMARY:SEM 5 - DCPT 2 - EDM 0743
+LOCATION:KT3-L03-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Abdul Rahman
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6b99816842056f1de7a242977b0f74596a7dd7c0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260923T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260923T100000
+SUMMARY:SEM 5 - DCPT 2 - GMO 0292
+LOCATION:KT3-L05-01
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Sufiyan Amril\nNotes: Replacement Class 21
+ /9
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ec4328eb1d608f48ffe27be4c64ac92def5367d7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260923T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260923T130000
+SUMMARY:SEM 5 - DCPT 2 - MPU 2183
+LOCATION:KT1-L3-27
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Norsannah Hamzah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:757c1d8d26290398efce1e4b80265d4287ce1df4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260924T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260924T130000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Zairul Nazim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3d2a75259d10fc8de00a75a4d96b9aaee2d87805@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260924T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260924T160000
+SUMMARY:SEM 5 - DCPT 2 - MPU 2212
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Wan Nur Aishah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fa175e32675ad6bfd96f9acbba3ad7f57ca9df54@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260925T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260925T120000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Hafiz Adnan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:eacc846e2fa6bec58c88999469c465582c42b9c7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260925T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260925T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Rashdin Ramli\nOverlapping class entry: ch
+ eck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3a4d1238bf4586b2aa32bf222d197d9dbaf5504c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260925T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260925T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Siti Sarah Thuraiya\nOverlapping class ent
+ ry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0ff3f137f6622f55525de3e23f5d6c13a0c25433@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260925T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260925T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Ts Saiful Azril\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8ea25c88e87975f70e391ac8fa07074849b1d3b7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260928T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260928T090000
+SUMMARY:SEM 5 - DCPT 2 - GMO 0292
+LOCATION:KT3-L05-01
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Sufiyan Amril
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1b7f27255f3fc4b6ffeb303df53bce194b3c093f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260928T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260928T130000
+SUMMARY:SEM 5 - DCPT 2 - GMO 0292
+LOCATION:KT3-L05-01
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Sufiyan Amril
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d12763753713e66d58abb697fdf071247c6deb25@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260928T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260928T180000
+SUMMARY:SEM 5 - DCPT 2 - IAT 0952
+LOCATION:KT5-L08-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Ts Dr Syarifah Yunus
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:55c9662e3d2959fbe29ebce1330f8d84733340ac@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260929T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260929T130000
+SUMMARY:SEM 5 - DCPT 2 - EDM 0743
+LOCATION:KT3-L03-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Abdul Rahman
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:99701b65ee79fc80531520ae7a072ff411e6c6a2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260929T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260929T180000
+SUMMARY:SEM 5 - DCPT 2 - EDM 0743
+LOCATION:KT3-L03-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Abdul Rahman
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:08b9154bf4630f31f89b7609e21e1c394f7bae13@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260930T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260930T130000
+SUMMARY:SEM 5 - DCPT 2 - MPU 2183
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Norsannah Hamzah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7fb427d0570c1b889f0fb992e6c36bd436feb9ea@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261001T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20261001T130000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Zairul Nazim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3e81643cd1eca95e4afc4e83ba75af530e77868e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261001T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261001T160000
+SUMMARY:SEM 5 - DCPT 2 - MPU 2212
+LOCATION:KT1-L3-10
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Wan Nur Aishah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9e137ace1de4272e7c910ec650d33746ec5784c0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261001T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20261001T180000
+SUMMARY:SEM 5 - DCPT 2 - MPU 2212
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Wan Nur Aishah\nNotes: Online Replacement 
+ Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c75d0edb2c0eaf51447437d0fbd39b4c3ede9915@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261002T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261002T120000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Hafiz Adnan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:697fade91746d1e06eb80cd4bbf5b7e07cafd5ea@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261002T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261002T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Rashdin Ramli\nOverlapping class entry: ch
+ eck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6697c72a41008e82b43901824c890c88df04c27e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261002T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261002T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Siti Sarah Thuraiya\nOverlapping class ent
+ ry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ee4c5d361b04ac7cd365c6becd5f71dfa3757ea4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261002T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261002T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Ts Saiful Azril\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f2a3e9a1bc95ada210e3203be090d6b5706c8db4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261005T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261005T090000
+SUMMARY:SEM 5 - DCPT 2 - GMO 0292
+LOCATION:KT3-L05-01
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Sufiyan Amril
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c73136445fc539add66dc25dc495f9f5550aee05@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261005T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261005T130000
+SUMMARY:SEM 5 - DCPT 2 - GMO 0292
+LOCATION:KT3-L05-01
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Sufiyan Amril
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0d3c424bd8afff45c951478abb02843a78108b98@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261005T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261005T180000
+SUMMARY:SEM 5 - DCPT 2 - IAT 0952
+LOCATION:KT5-L08-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Ts Dr Syarifah Yunus
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ffe3388c92765d8b7c03c8d6da81266108769d2c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261006T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261006T130000
+SUMMARY:SEM 5 - DCPT 2 - EDM 0743
+LOCATION:KT3-L03-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Abdul Rahman
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1bd4d49c097c9403a58f6fbbf50890f76c47cd5b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261006T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261006T180000
+SUMMARY:SEM 5 - DCPT 2 - EDM 0743
+LOCATION:KT3-L03-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Abdul Rahman
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:431e8fc7faf0be9623a8518732e5313dfd3caf85@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261007T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261007T130000
+SUMMARY:SEM 5 - DCPT 2 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fc1224f7853178b19d0473421f09146022196132@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261007T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261007T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Hafiz Adnan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7144d881632403575e599b237937656fd83669eb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261008T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20261008T130000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Zairul Nazim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f6b1f28dbd7c1bce3a9ebc0b81b5d991ea0883b8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261008T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261008T160000
+SUMMARY:SEM 5 - DCPT 2 - MPU 2212
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Wan Nur Aishah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b359941e8ce5255775576455f75b65df7b47836f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261009T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261009T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Rashdin Ramli\nOverlapping class entry: ch
+ eck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2ac403e9e21f990dc924d466ff628b4d0096cb27@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261009T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261009T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Siti Sarah Thuraiya\nOverlapping class ent
+ ry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4707cd36555ed25eaa575e913f82786dafcb4652@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261009T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261009T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Ts Saiful Azril\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:74a56a2b38dc2514d96c5531faa4edd89133ae6d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261012T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261012T090000
+SUMMARY:SEM 5 - DCPT 2 - GMO 0292
+LOCATION:KT3-L05-01
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Sufiyan Amril
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:645968ea0535e9b89a5ee56c6daa8828f6e5fdb6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261012T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261012T130000
+SUMMARY:SEM 5 - DCPT 2 - GMO 0292
+LOCATION:KT3-L05-01
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Sufiyan Amril
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7f8284c6afca9b5e73962997932dee4892f4361e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261012T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261012T180000
+SUMMARY:SEM 5 - DCPT 2 - IAT 0952
+LOCATION:KT5-L08-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Ts Dr Syarifah Yunus
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:456d0203484303fa2a85c225e3986b0e26117007@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261013T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261013T130000
+SUMMARY:SEM 5 - DCPT 2 - EDM 0743
+LOCATION:KT3-L03-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Abdul Rahman
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a4a035d0b734fb27fe44b3151fdff1e996becf1e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261013T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261013T180000
+SUMMARY:SEM 5 - DCPT 2 - EDM 0743
+LOCATION:KT3-L03-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Abdul Rahman
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b9dfc101a5dc31808cf7f0e098f7859a410a3d3d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261014T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20261014T130000
+SUMMARY:SEM 5 - DCPT 2 - MPU 2183
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Norsannah Hamzah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1a42a7a3ecfa5a7c28d44c49ab51bee619d45f63@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261014T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261014T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Hafiz Adnan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:abe30fb8e50049e92c35dca08645c0f5064107ff@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261015T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20261015T130000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Zairul Nazim\nOverlapping class entry: che
+ ck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:babfb4958aec3f219a84a08bf70ace1dab350b2e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261015T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20261015T130000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Siti Sarah Thuraiya\nOverlapping class ent
+ ry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3e81cce8569dd290488fd0d9666e467d65ac5c10@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261015T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261015T160000
+SUMMARY:SEM 5 - DCPT 2 - MPU 2212
+LOCATION:KT1-L3-10
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Wan Nur Aishah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8ade1ba39e71c9ad650f96f2b282bb9467d194bc@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261016T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261016T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Rashdin Ramli\nOverlapping class entry: ch
+ eck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:eb3fa1f0899f5cf67c20ccf3557e4249972122b0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261016T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261016T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Ts Saiful Azril\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c396d41139c41e92db2b140c1f1cd2bd7cb38774@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261019T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261019T090000
+SUMMARY:SEM 5 - DCPT 2 - GMO 0292
+LOCATION:KT3-L05-01
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Sufiyan Amril
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0c045fbb82684e35aad4326ce3a6b236795214ff@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261019T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261019T130000
+SUMMARY:SEM 5 - DCPT 2 - GMO 0292
+LOCATION:KT3-L05-01
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Sufiyan Amril
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:44a534196c32f606000e83f98065fe062696cce7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261019T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261019T180000
+SUMMARY:SEM 5 - DCPT 2 - IAT 0952
+LOCATION:KT5-L08-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Ts Dr Syarifah Yunus
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:df14c8a81ba9f2f8aa58752d3ca9e9616ad52961@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261020T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261020T130000
+SUMMARY:SEM 5 - DCPT 2 - EDM 0743
+LOCATION:KT3-L03-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Abdul Rahman
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2d682606fa85e814958caf8fa60f81a5b01d8699@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261020T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261020T180000
+SUMMARY:SEM 5 - DCPT 2 - EDM 0743
+LOCATION:KT3-L03-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Abdul Rahman
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:27fd9d8c0ce461b0933ca7b4e9807dfd85124845@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261021T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20261021T130000
+SUMMARY:SEM 5 - DCPT 2 - MPU 2183
+LOCATION:KT1-L3-27
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Norsannah Hamzah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a466cba5145ad3504554a6a02fa95c180111d4d9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261022T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20261022T130000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Zairul Nazim\nOverlapping class entry: che
+ ck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0c9580dc85b2df2192527671f886b236fcc43c64@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261022T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20261022T130000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Siti Sarah Thuraiya\nOverlapping class ent
+ ry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:99f54e07fc355015e0515f06545ebf1463934f8e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261022T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261022T160000
+SUMMARY:SEM 5 - DCPT 2 - MPU 2212
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Wan Nur Aishah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:94132ecad8ac96c6a318829f5de3ce097f643f01@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261023T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261023T120000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Hafiz Adnan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:583e64435b8e61cb3b34d2942694642b0b389b9d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261023T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261023T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Rashdin Ramli\nOverlapping class entry: ch
+ eck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9d94c4356bd430b702f2988de8edd5bd9da752b7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261023T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261023T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Ts Saiful Azril\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4a920f91edac3ea9e68f81a5a8cde1571d69843a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261026T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261026T090000
+SUMMARY:SEM 5 - DCPT 2 - GMO 0292
+LOCATION:KT3-L05-01
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Sufiyan Amril\nCalendar exception: JUBLI P
+ ERAK SELANGOR
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:816f3aabf8990e06fdd15446661f9e1505e9511e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261026T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261026T130000
+SUMMARY:SEM 5 - DCPT 2 - GMO 0292
+LOCATION:KT3-L05-01
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Sufiyan Amril\nCalendar exception: JUBLI P
+ ERAK SELANGOR
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ed9fc4633b796047780e24f144eb0519d4f756f1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261026T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261026T180000
+SUMMARY:SEM 5 - DCPT 2 - IAT 0952
+LOCATION:KT5-L08-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Ts Dr Syarifah Yunus\nCalendar exception: 
+ JUBLI PERAK SELANGOR
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0a8208a816286af11f9f90dc91aa35a38eed053a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261027T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261027T130000
+SUMMARY:SEM 5 - DCPT 2 - EDM 0743
+LOCATION:KT3-L03-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Abdul Rahman
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:55c9aef6948fd8cada7ec7270504e50d2154bd8f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261027T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261027T180000
+SUMMARY:SEM 5 - DCPT 2 - EDM 0743
+LOCATION:KT3-L03-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Abdul Rahman
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:29703ba67632e4da10779d024a178463a3e89a44@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261028T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261028T130000
+SUMMARY:SEM 5 - DCPT 2 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c7aaf91245c4e5fd12ab324a234ed413c99e5812@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261028T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261028T180000
+SUMMARY:SEM 5 - DCPT 2 - IAT 0952
+LOCATION:KT5-L08-005
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Ts Dr Syarifah Yunus\nNotes: Replacement C
+ lass (Jubli Perak Selangor)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:36a1774a81d38fe998830178048c577fac4414a3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261029T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20261029T130000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Zairul Nazim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:31ece6d19552c3c4c359db7e1237789dd11f658a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261029T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261029T160000
+SUMMARY:SEM 5 - DCPT 2 - MPU 2212
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Wan Nur Aishah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:25288787006e046c7b5950e41c84f6dceee35413@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261030T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261030T120000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Hafiz Adnan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bc0529068807bcfe9a4bfcaed0d54fce729d42df@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261030T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261030T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Rashdin Ramli\nOverlapping class entry: ch
+ eck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8a52a396dd6edffca9a2db036f1882575370968f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261030T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261030T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Siti Sarah Thuraiya\nOverlapping class ent
+ ry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3a0512d59f03e1961a0020306c3644dbb0e7f1f4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261030T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261030T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Ts Saiful Azril\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:58f52bcc7fd599c3b726a0687306a645cbe44ecb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261102T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261102T090000
+SUMMARY:SEM 5 - DCPT 2 - GMO 0292
+LOCATION:KT3-L05-01
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Sufiyan Amril
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:39cb3dd383a04279d9572e084de5c64bad042a4e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261102T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261102T130000
+SUMMARY:SEM 5 - DCPT 2 - GMO 0292
+LOCATION:KT3-L05-01
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Sufiyan Amril
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a2339e3493a379db0aee312c246e5edddda98f65@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261102T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261102T180000
+SUMMARY:SEM 5 - DCPT 2 - IAT 0952
+LOCATION:KT5-L08-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Ts Dr Syarifah Yunus
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:aa93534aeaaf124eaff7de63aa16e710f5474f8a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261103T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261103T130000
+SUMMARY:SEM 5 - DCPT 2 - EDM 0743
+LOCATION:KT3-L03-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Abdul Rahman
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3aa7826041dae5806ea937e783055e71e01383ce@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261103T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261103T180000
+SUMMARY:SEM 5 - DCPT 2 - EDM 0743
+LOCATION:KT3-L03-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Abdul Rahman
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b26b5ede5e7f0af1d6552dc8622694e3f07f80b2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261104T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20261104T130000
+SUMMARY:SEM 5 - DCPT 2 - MPU 2183
+LOCATION:KT1-L3-27
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Norsannah Hamzah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:502e85aebb56e0e4941bda66b6c19355066c836a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261105T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20261105T130000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Zairul Nazim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d904dddbcb4d3d27d1a76897cbd4f7a0523d1112@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261105T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261105T160000
+SUMMARY:SEM 5 - DCPT 2 - MPU 2212
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Wan Nur Aishah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:744ed7eab14208d25aeaedb7db4e069e95014706@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261106T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261106T120000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Hafiz Adnan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9dbfdab2d16c937137488dea6c8c04f3a182d8f9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261106T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261106T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Rashdin Ramli\nOverlapping class entry: ch
+ eck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b97cdc09fb626699e831d7a04a5c34e94f0c1528@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261106T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261106T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Siti Sarah Thuraiya\nOverlapping class ent
+ ry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:20daa365fcc1bb42617c86ad20a4573e8e52a7bf@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261106T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261106T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Ts Saiful Azril\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:81fe758b8db68dc086cf961fd87434fc1d8c0967@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261109T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261109T130000
+SUMMARY:SEM 5 - DCPT 2 - GMO 0292
+LOCATION:KT3-L05-01
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Sufiyan Amril\nCalendar exception: Deepava
+ li Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:936cb4d6ea52a56ca7517e6ea1928a40b5f24585@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261109T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261109T180000
+SUMMARY:SEM 5 - DCPT 2 - IAT 0952
+LOCATION:KT5-L08-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Ts Dr Syarifah Yunus\nCalendar exception: 
+ Deepavali Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:69299a90e43e1010b681bf4c33b84919f8bc3736@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261110T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261110T130000
+SUMMARY:SEM 5 - DCPT 2 - EDM 0743
+LOCATION:KT3-L03-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Abdul Rahman
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a97407c58587be6db7e5b255622e29b6b6117557@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261110T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261110T180000
+SUMMARY:SEM 5 - DCPT 2 - EDM 0743
+LOCATION:KT3-L03-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Abdul Rahman
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:90c4e3558a9e0ec2f5b9a825cce3f7e9a913616e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261111T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20261111T130000
+SUMMARY:SEM 5 - DCPT 2 - MPU 2183
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Norsannah Hamzah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:438d49d6b605a60e7f04b16000d7ea516d10d8a9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261111T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261111T180000
+SUMMARY:SEM 5 - DCPT 2 - IAT 0952
+LOCATION:KT5-L08-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Ts Dr Syarifah Yunus\nNotes: Replacement C
+ lass (Deepavali)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0fa6b35242ce12b2ea270da6967d8499d38f729c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261112T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20261112T130000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Zairul Nazim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:517934dad6801b740414af278f494570d322dfca@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261112T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261112T160000
+SUMMARY:SEM 5 - DCPT 2 - MPU 2212
+LOCATION:KT1-L3-10
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Wan Nur Aishah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:eab1aef39c2b3703ff1a94397a925a2e3077ec68@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261113T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261113T120000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Hafiz Adnan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a516aff95b10a1884c29286712ec1f5ac225cd72@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261113T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261113T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Rashdin Ramli\nOverlapping class entry: ch
+ eck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:887cd30eab008a16f70d73a04c7184e7c530c751@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261113T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261113T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Siti Sarah Thuraiya\nOverlapping class ent
+ ry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a4052da5242fd7d58783d1402c7a5691b4bf2a8d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261113T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261113T170000
+SUMMARY:SEM 5 - DCPT 2 - PTP 1424 CPT
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCPT 2\nLecturer: Ts Saiful Azril\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR

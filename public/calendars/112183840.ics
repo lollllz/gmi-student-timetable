@@ -1,0 +1,1864 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Student Timetable//Class Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SEM 1 - DMEM
+X-WR-TIMEZONE:Asia/Kuala_Lumpur
+BEGIN:VTIMEZONE
+TZID:Asia/Kuala_Lumpur
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:MYT
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:9d8a9de1e364f38cd370b971952c9fd43cee9abd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260706T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260706T130000
+SUMMARY:SEM 1 - DMEM - GMO 0323
+LOCATION:KT2-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0b499fd99189ad07d306c686f3289f0f939b851d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260706T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260706T180000
+SUMMARY:SEM 1 - DMEM - GMO 0323
+LOCATION:KT2-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3afa876153b1bbce262c60124051e4a478d9d059@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260707T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260707T110000
+SUMMARY:SEM 1 - DMEM - MAP 2163
+LOCATION:KT1-L3-29
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Farah Zahraa Salleh
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e6873f6bf0b4d98c2ed41e0d9c91d92c79c24f25@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260707T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260707T130000
+SUMMARY:SEM 1 - DMEM - MPT 0173
+LOCATION:KT2-L05-09A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Raja Azlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6403db8d8cb3aeead6edbb5163f07c836a664830@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260707T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260707T180000
+SUMMARY:SEM 1 - DMEM - MPT 0173
+LOCATION:KT2-L05-09A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Raja Azlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:25f5f978eb0da2730761637e82c9780ee319c750@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260708T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260708T190000
+SUMMARY:SEM 1 - DMEM - QAS 0313
+LOCATION:KT2-L03-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Nur Izzati Zulkifli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9f3dea3e1ce087d41081915be05a51856df09aa9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260709T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260709T130000
+SUMMARY:SEM 1 - DMEM - TEC 0542
+LOCATION:KT3-L04-04B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Siti Nursyahirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5ac69c5076a67b989a72b2d5966f63bdbaaabdc8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260709T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260709T160000
+SUMMARY:SEM 1 - DMEM - MPU 2222
+LOCATION:KT1-L3-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:467811ec8f6c7f43a34e3f773209c24c3ff9630e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260709T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260709T180000
+SUMMARY:SEM 1 - DMEM - MPT 0192
+LOCATION:KT2-L04-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Abdul Qaiyyum
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:68078874da861dec300549fde53529d4520573b6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260713T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260713T130000
+SUMMARY:SEM 1 - DMEM - GMO 0323
+LOCATION:KT2-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:959462b2be8a49592aca591aa0be4311cf697260@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260713T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260713T180000
+SUMMARY:SEM 1 - DMEM - GMO 0323
+LOCATION:KT2-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c1f970c33b4414adaff23d7f6f7029457733c611@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260714T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260714T110000
+SUMMARY:SEM 1 - DMEM - MAP 2163
+LOCATION:KT1-L3-29
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Farah Zahraa Salleh
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bffe75b32b1c093810d973fdeb67ef2575c79ae4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260714T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260714T130000
+SUMMARY:SEM 1 - DMEM - MPT 0173
+LOCATION:KT2-L05-09A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Raja Azlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:eaa5304badf15707badc8613594f077ee6767c6a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260714T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260714T180000
+SUMMARY:SEM 1 - DMEM - MPT 0173
+LOCATION:KT2-L05-09A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Raja Azlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8a6eaad154bdd0be2c546752246b1b7d244743e9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260715T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260715T190000
+SUMMARY:SEM 1 - DMEM - QAS 0313
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Nur Izzati Zulkifli\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:13b642e6c779abd471b623565a0593d8bf47bbf7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260716T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260716T130000
+SUMMARY:SEM 1 - DMEM - TEC 0542
+LOCATION:KT3-L04-04B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Siti Nursyahirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bc9ad304d62d4f662c6054c9bb57bec004284c70@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260716T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260716T160000
+SUMMARY:SEM 1 - DMEM - MPU 2222
+LOCATION:KT1-L3-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:eedab146df6f92147e2e50222bcdd5c0e24f1dd6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260716T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260716T180000
+SUMMARY:SEM 1 - DMEM - MPT 0192
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Abdul Qaiyyum\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ea4118411749aaddfc08b85b8cfdc9ba837303c0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260720T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260720T130000
+SUMMARY:SEM 1 - DMEM - GMO 0323
+LOCATION:KT2-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:44b4198b157ea345896cce67e8a8efb66e243c06@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260720T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260720T180000
+SUMMARY:SEM 1 - DMEM - GMO 0323
+LOCATION:KT2-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ed3f2317266dd7628deba761d3ce422e68c3545d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260721T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260721T110000
+SUMMARY:SEM 1 - DMEM - MAP 2163
+LOCATION:KT1-L3-29
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Farah Zahraa Salleh
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9e339cec3a835906c1c2b5704fead54fc944540e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260721T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260721T130000
+SUMMARY:SEM 1 - DMEM - MPT 0173
+LOCATION:KT2-L05-09A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Raja Azlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5eb86e0b5d779eba6a7cdf0f40976a04af45933e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260721T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260721T180000
+SUMMARY:SEM 1 - DMEM - MPT 0173
+LOCATION:KT2-L05-09A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Raja Azlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bee1439694d59c80b234a7fea2b5e2bdad9d582a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260723T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260723T130000
+SUMMARY:SEM 1 - DMEM - TEC 0542
+LOCATION:KT3-L04-04B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Siti Nursyahirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:30d38894b4e614b7a444e1c6bfb4ff94b2acaf9a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260723T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260723T160000
+SUMMARY:SEM 1 - DMEM - MPU 2222
+LOCATION:KT1-L3-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:761fbca9538aaf3d2c7c52d04a50a7b7e1840726@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260723T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260723T180000
+SUMMARY:SEM 1 - DMEM - MPT 0192
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Abdul Qaiyyum\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:84c8678ab31f27cc979d21519a0daf2da828d950@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260727T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260727T130000
+SUMMARY:SEM 1 - DMEM - GMO 0323
+LOCATION:KT2-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1456f13bea902c5862d5573c3bf92b3d1dd4962a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260727T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260727T180000
+SUMMARY:SEM 1 - DMEM - GMO 0323
+LOCATION:KT2-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4ab0072e46b3d513d8d2eb6bd4a8957e46a504e9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260728T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260728T130000
+SUMMARY:SEM 1 - DMEM - MPT 0173
+LOCATION:KT2-L05-09A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Raja Azlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2050a58d09b143ffc517432de3de3e632a884595@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260728T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260728T180000
+SUMMARY:SEM 1 - DMEM - MPT 0173
+LOCATION:KT2-L05-09A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Raja Azlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f643eef37274f23a262009999f2953b355d1452d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260730T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260730T130000
+SUMMARY:SEM 1 - DMEM - TEC 0542
+LOCATION:KT3-L04-04B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Siti Nursyahirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7aab4b43235adee735c044caafbd4069ce8e0e72@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260730T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260730T160000
+SUMMARY:SEM 1 - DMEM - MPU 2222
+LOCATION:KT1-L3-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5adacc5209b77de531d03ddc08b96d5ab99e8e44@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260730T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260730T180000
+SUMMARY:SEM 1 - DMEM - MPT 0192
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Abdul Qaiyyum\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:30f52be8dff516d0200986e1a00afee3f4b9511d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260803T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260803T130000
+SUMMARY:SEM 1 - DMEM - GMO 0323
+LOCATION:KT2-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:628f4d80d0fc18dcf4a84ceb98f215158919ed38@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260803T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260803T180000
+SUMMARY:SEM 1 - DMEM - GMO 0323
+LOCATION:KT2-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0784737374509333ff5ec50128d0a7d85f4dbcc8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260804T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260804T110000
+SUMMARY:SEM 1 - DMEM - MAP 2163
+LOCATION:KT1-L3-29
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Farah Zahraa Salleh
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f4befa8c65e64ec4ca64804fc06d08c7731a2698@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260804T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260804T130000
+SUMMARY:SEM 1 - DMEM - MPT 0173
+LOCATION:KT2-L05-09A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Raja Azlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:658301ce0ad91f4e7705ef6eb1e036c4237e6d6b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260804T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260804T180000
+SUMMARY:SEM 1 - DMEM - MPT 0173
+LOCATION:KT2-L05-09A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Raja Azlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cc9e7cef85e68c11dcc10a6443a88907155c867c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260805T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260805T130000
+SUMMARY:SEM 1 - DMEM - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:03c153bf7fbcbd0c0b608a43fe1f62824a2ba616@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260805T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260805T190000
+SUMMARY:SEM 1 - DMEM - QAS 0313
+LOCATION:KT2-L03-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Nur Izzati Zulkifli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d3c0ef3897ffac88d6e3febc78aa886915564f2e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260806T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260806T130000
+SUMMARY:SEM 1 - DMEM - TEC 0542
+LOCATION:KT3-L04-04B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Siti Nursyahirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:759d9e4caee1da8171a7fc6006d70dd294a55a1c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260806T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260806T160000
+SUMMARY:SEM 1 - DMEM - MPU 2222
+LOCATION:KT1-L3-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:480acf95663679294be273dd1faf027279347ca1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260806T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260806T180000
+SUMMARY:SEM 1 - DMEM - MPT 0192
+LOCATION:KT2-L04-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Abdul Qaiyyum
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f56d2e5806034515dc5e2cecccb14e8e7982ee8e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260810T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260810T110000
+SUMMARY:SEM 1 - DMEM - MAP 2163
+LOCATION:KT1-L3-29
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Farah Zahraa Salleh\nNotes: Replacement Clas
+ s
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e46629d52f838aa54d00ed9943d0207bdddc4b3b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260810T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260810T130000
+SUMMARY:SEM 1 - DMEM - GMO 0323
+LOCATION:KT2-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:be6fd8e9d655a80ddc224c5b285aa93e4b072a24@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260810T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260810T180000
+SUMMARY:SEM 1 - DMEM - GMO 0323
+LOCATION:KT2-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a2582be4d1fbe91958d55e525d37b66fad8e0142@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260811T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260811T110000
+SUMMARY:SEM 1 - DMEM - MAP 2163
+LOCATION:KT1-L3-29
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Farah Zahraa Salleh
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:eca55422e259eea31bc47fa5c88281eb80604d25@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260811T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260811T130000
+SUMMARY:SEM 1 - DMEM - MPT 0173
+LOCATION:KT2-L05-09A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Raja Azlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:62de45fa82abe71082ba51cfe3070341a4f9e673@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260811T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260811T180000
+SUMMARY:SEM 1 - DMEM - MPT 0173
+LOCATION:KT2-L05-09A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Raja Azlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:192e7ed8f286ad07cc7cea1e8f09c0a06bdba986@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260812T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260812T190000
+SUMMARY:SEM 1 - DMEM - QAS 0313
+LOCATION:KT2-L03-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Nur Izzati Zulkifli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fb54d5e80d930d1031892ae7d97b345c57ac0d46@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260813T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260813T130000
+SUMMARY:SEM 1 - DMEM - TEC 0542
+LOCATION:KT3-L04-04B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Siti Nursyahirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:869ba3d769e33b3dcb44e0e02dfab43f9c2bc56c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260813T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260813T160000
+SUMMARY:SEM 1 - DMEM - MPU 2222
+LOCATION:KT1-L3-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3cd27ae6b815b8df08c60c00094681bdb0d7415e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260813T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260813T180000
+SUMMARY:SEM 1 - DMEM - MPT 0192
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Abdul Qaiyyum\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4bfb09efbcb844a504def45ff079ae1c86352f02@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260817T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260817T110000
+SUMMARY:SEM 1 - DMEM - MAP 2163
+LOCATION:KT1-L3-29
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Farah Zahraa Salleh\nNotes: Replacement Clas
+ s
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6d44e367d4bd3f3eed6accb0c032bc8a360a05a7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260817T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260817T130000
+SUMMARY:SEM 1 - DMEM - GMO 0323
+LOCATION:KT2-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0f46dbe089de1f4cc77fd01aea7a49f8c8a86743@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260817T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260817T180000
+SUMMARY:SEM 1 - DMEM - GMO 0323
+LOCATION:KT2-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2560eb95e8cb064c449a979305e7e8bab421a340@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260818T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260818T110000
+SUMMARY:SEM 1 - DMEM - MAP 2163
+LOCATION:KT1-L3-29
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Farah Zahraa Salleh
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fbff8e8b94bd6a91380d882ac2e7787280c2b99b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260818T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260818T130000
+SUMMARY:SEM 1 - DMEM - MPT 0173
+LOCATION:KT2-L05-09A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Raja Azlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:af0bf59c70283b36e2aca681aa67a03a61f4ee2d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260818T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260818T180000
+SUMMARY:SEM 1 - DMEM - MPT 0173
+LOCATION:KT2-L05-09A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Raja Azlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e37a7d4f9617d36c7a212d753834b0a2c096af4d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260819T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260819T190000
+SUMMARY:SEM 1 - DMEM - QAS 0313
+LOCATION:KT2-L03-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Nur Izzati Zulkifli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5dc562062de20408d8eab1dbb7fc8bd34d958838@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260820T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260820T130000
+SUMMARY:SEM 1 - DMEM - TEC 0542
+LOCATION:KT3-L04-04B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Siti Nursyahirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:91819e5ab3362e888a0a7dcf221d5915248b5ce8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260820T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260820T160000
+SUMMARY:SEM 1 - DMEM - MPU 2222
+LOCATION:KT1-L3-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cabf5c2345574cdc3b47d30ffa74daaa56fe098a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260820T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260820T180000
+SUMMARY:SEM 1 - DMEM - MPT 0192
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Abdul Qaiyyum\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fda3a272912a6361e4329f3746e18322ba8504e4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260824T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260824T130000
+SUMMARY:SEM 1 - DMEM - GMO 0323
+LOCATION:KT2-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e556f89195f3f6c4532ad2166d06f758540d0692@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260824T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260824T180000
+SUMMARY:SEM 1 - DMEM - GMO 0323
+LOCATION:KT2-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:efa9df9f2b9f0b5722738bfcb101e7f204470562@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260825T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260825T110000
+SUMMARY:SEM 1 - DMEM - MAP 2163
+LOCATION:KT1-L3-29
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Farah Zahraa Salleh\nCalendar exception: Mau
+ lidur Rasul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4a5f899f3cc8d3033cdfbc4664a0897ef0c58b54@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260825T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260825T130000
+SUMMARY:SEM 1 - DMEM - MPT 0173
+LOCATION:KT2-L05-09A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Raja Azlan\nCalendar exception: Maulidur Ras
+ ul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a7b6f3a98c2b7ad32f9632b1de5761a8d8ac0a10@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260825T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260825T180000
+SUMMARY:SEM 1 - DMEM - MPT 0173
+LOCATION:KT2-L05-09A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Raja Azlan\nCalendar exception: Maulidur Ras
+ ul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d6966cf3940cdc37e33980e5777ef6adb7e77d6a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260826T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260826T190000
+SUMMARY:SEM 1 - DMEM - QAS 0313
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Nur Izzati Zulkifli\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6b32526560d1b5c5ed067d755262f73a434f716e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260827T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260827T130000
+SUMMARY:SEM 1 - DMEM - TEC 0542
+LOCATION:KT3-L04-04B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Siti Nursyahirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b61d4e4b0be54a96c42e2a5a1183d90bbdd1ea14@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260827T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260827T160000
+SUMMARY:SEM 1 - DMEM - MPU 2222
+LOCATION:KT1-L3-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:73f15d49e8ce4a7054c166b5ebee73252c2c838d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260827T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260827T180000
+SUMMARY:SEM 1 - DMEM - MPT 0192
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Abdul Qaiyyum\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:741b529dc2f4e64d8101ba8e662fe4a12800ce77@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260907T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260907T130000
+SUMMARY:SEM 1 - DMEM - Merdeka Celebration
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9f12148da37b970adb8ee168c70e767dfca2b7a3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260907T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260907T180000
+SUMMARY:SEM 1 - DMEM - GMO 0323
+LOCATION:KT2-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8aefaa3e643df931e14495f5d711ba671a6f27ab@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260908T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260908T110000
+SUMMARY:SEM 1 - DMEM - MAP 2163
+LOCATION:KT1-L3-29
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Farah Zahraa Salleh
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4fbaf582e37afb8dcb3e52021db34a2e23eb4afd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260908T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260908T130000
+SUMMARY:SEM 1 - DMEM - MPT 0173
+LOCATION:KT2-L05-09A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Raja Azlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:de3d0b61ed214278650e843123e5795d4ec1d8a4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260908T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260908T180000
+SUMMARY:SEM 1 - DMEM - MPT 0173
+LOCATION:KT2-L05-09A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Raja Azlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1a38cb1f75c466883640efaebfb9ac06bc59405b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260909T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260909T190000
+SUMMARY:SEM 1 - DMEM - QAS 0313
+LOCATION:KT2-L03-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Nur Izzati Zulkifli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:27d06d28982d759ef57ce5194b305b9542eb7be3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260910T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260910T130000
+SUMMARY:SEM 1 - DMEM - TEC 0542
+LOCATION:KT3-L04-04B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Siti Nursyahirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a6779bdc98ffffdbfdcde20dde729ba70478beec@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260910T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260910T160000
+SUMMARY:SEM 1 - DMEM - MPU 2222
+LOCATION:KT1-L3-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:94bfb74cbc5123a5d281fcbb172866a8b696bb76@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260910T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260910T180000
+SUMMARY:SEM 1 - DMEM - MPT 0192
+LOCATION:KT2-L04-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Abdul Qaiyyum
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0297e032cdc75cf299c39e34abae568f29ef73bc@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260914T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260914T110000
+SUMMARY:SEM 1 - DMEM - QAS 0313
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Nur Izzati Zulkifli\nNotes: Online Replaceme
+ nt Class (PH)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6be1d02660003671f99355617f456436e211eaf2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260914T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260914T130000
+SUMMARY:SEM 1 - DMEM - GMO 0323
+LOCATION:KT2-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7c9cade08dd95c5c0c1dfb1acd08dd3accb4d8e2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260914T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260914T180000
+SUMMARY:SEM 1 - DMEM - GMO 0323
+LOCATION:KT2-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d1e928908a22af235ebdfd8b27a52c2d905f7d67@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260915T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260915T110000
+SUMMARY:SEM 1 - DMEM - MAP 2163
+LOCATION:KT1-L3-29
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Farah Zahraa Salleh
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e6af803abf0d041c8850f43f73da4323586664a1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260915T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260915T130000
+SUMMARY:SEM 1 - DMEM - MPT 0173
+LOCATION:KT2-L05-09A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Raja Azlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:969d81c2e433f748a3c09d415073b40b04c57d3a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260915T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260915T180000
+SUMMARY:SEM 1 - DMEM - MPT 0173
+LOCATION:KT2-L05-09A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Raja Azlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb9f3bf759d269b5849076b2d5ce2a6a1ea8b563@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260916T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260916T190000
+SUMMARY:SEM 1 - DMEM - QAS 0313
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Nur Izzati Zulkifli\nNotes: Online Class\nCa
+ lendar exception: Malaysia Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5913d73d758b1ddf820386997257f860c3a12c3a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260917T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260917T130000
+SUMMARY:SEM 1 - DMEM - TEC 0542
+LOCATION:KT3-L04-04B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Siti Nursyahirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c212c751e87c93678aed864e6513fd89222a58bc@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260917T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260917T160000
+SUMMARY:SEM 1 - DMEM - MPU 2222
+LOCATION:KT1-L3-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f3e71751c73b0ce386ed741d42495ab25177e442@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260917T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260917T180000
+SUMMARY:SEM 1 - DMEM - MPT 0192
+LOCATION:KT2-L04-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Abdul Qaiyyum
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3090355253fc14ec1a43db360ca59011e8882059@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260921T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260921T180000
+SUMMARY:SEM 1 - DMEM - GMO 0323
+LOCATION:KT2-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2aa27dcd4b5ec88a29eb7a71aba388b7f8634092@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260922T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260922T110000
+SUMMARY:SEM 1 - DMEM - MAP 2163
+LOCATION:KT1-L3-29
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Farah Zahraa Salleh
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:69dce9ecc870f4e7e1ace1699268cacb5b4384a9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260922T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260922T130000
+SUMMARY:SEM 1 - DMEM - MPT 0173
+LOCATION:KT2-L05-09A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Raja Azlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:16016a014ad0292d819d4d0ca8f91b08d64155a3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260922T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260922T180000
+SUMMARY:SEM 1 - DMEM - MPT 0173
+LOCATION:KT2-L05-09A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Raja Azlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0910c69dcfba5ee42f05317505a9a3239427cd99@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260923T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260923T130000
+SUMMARY:SEM 1 - DMEM - TEC 0542
+LOCATION:KT3-L04-04B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Siti Nursyahirah\nNotes: Replacement Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4cbc251094cc1b8944bed03b7cf25e29f8c47547@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260923T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260923T190000
+SUMMARY:SEM 1 - DMEM - QAS 0313
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Nur Izzati Zulkifli\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d1e242f218422d34d6cfddd40ab16f73a21a077b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260924T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260924T130000
+SUMMARY:SEM 1 - DMEM - TEC 0542
+LOCATION:KT3-L04-04B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Siti Nursyahirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ba3feb79c9f502549e472dcbd5467949edf3866a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260924T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260924T160000
+SUMMARY:SEM 1 - DMEM - MPU 2222
+LOCATION:KT1-L3-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bc0c57a0f870b339bdb111e2bf1838d9fdfe3c3d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260924T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260924T180000
+SUMMARY:SEM 1 - DMEM - MPT 0192
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Abdul Qaiyyum\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8a5b732c8f145a9d7dea9af56a6b54552515a972@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260928T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260928T130000
+SUMMARY:SEM 1 - DMEM - GMO 0323
+LOCATION:KT2-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:161c586a51581611c75ad777315e12bf462e79ac@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260928T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260928T180000
+SUMMARY:SEM 1 - DMEM - GMO 0323
+LOCATION:KT2-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f649305423eacee11f2126e99557f369b0ed95ae@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260929T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260929T110000
+SUMMARY:SEM 1 - DMEM - MAP 2163
+LOCATION:KT1-L3-29
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Farah Zahraa Salleh
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7b30c54cfc5c22e8d41df38fbaf31b75e4f37b57@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260929T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260929T130000
+SUMMARY:SEM 1 - DMEM - MPT 0173
+LOCATION:KT2-L05-09A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Raja Azlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:187889275fcb02b5a93d06e63a26263470de4ece@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260929T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260929T180000
+SUMMARY:SEM 1 - DMEM - MPT 0173
+LOCATION:KT2-L05-09A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Raja Azlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:56604948a2ed9f892a0b324bacea59dd5dccb834@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260930T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260930T190000
+SUMMARY:SEM 1 - DMEM - QAS 0313
+LOCATION:KT2-L02-15_A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Nur Izzati Zulkifli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:eacabdf3fd553068ad12d004ea0ef73b720249fb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261001T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261001T130000
+SUMMARY:SEM 1 - DMEM - TEC 0542
+LOCATION:KT3-L04-04B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Siti Nursyahirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:264af0654b8e05005db08cf5816d713c32cff49e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261001T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261001T160000
+SUMMARY:SEM 1 - DMEM - MPU 2222
+LOCATION:KT1-L3-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cc7da1eabc0663a26a708f1c87164f80c295cf9a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261001T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20261001T180000
+SUMMARY:SEM 1 - DMEM - MPT 0192
+LOCATION:KT2-L04-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Abdul Qaiyyum
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c89bffe1ca3d34d8c73aa5f709961aa8bf69bfb8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261005T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261005T130000
+SUMMARY:SEM 1 - DMEM - GMO 0323
+LOCATION:KT2-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:10b6ffcd3b2eb72805e8b532e0199879ac2066aa@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261005T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261005T180000
+SUMMARY:SEM 1 - DMEM - GMO 0323
+LOCATION:KT2-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:342f606bfd8da95905e6ede745889ed4a46cb04e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261006T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261006T110000
+SUMMARY:SEM 1 - DMEM - MAP 2163
+LOCATION:KT1-L3-29
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Farah Zahraa Salleh
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:08ff2959fd37a45f38fc8b852e53d233af3ad00a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261006T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261006T130000
+SUMMARY:SEM 1 - DMEM - MPT 0173
+LOCATION:KT2-L05-09A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Raja Azlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c5d96196166c7bd915162ee909842e0941446a75@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261006T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261006T180000
+SUMMARY:SEM 1 - DMEM - MPT 0173
+LOCATION:KT2-L05-09A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Raja Azlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:26cdbf4b9d036c05c8a86e5c856ae83417088268@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261007T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261007T130000
+SUMMARY:SEM 1 - DMEM - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9551d00f4de49380c9e686e8f9ca75c5a7819ad8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261007T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261007T190000
+SUMMARY:SEM 1 - DMEM - QAS 0313
+LOCATION:KT2-L02-15_A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Nur Izzati Zulkifli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4cb53bb7033529b9482999efb030c43fa4bdf3fc@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261008T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261008T130000
+SUMMARY:SEM 1 - DMEM - TEC 0542
+LOCATION:KT3-L04-04B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Siti Nursyahirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9070f68b981b97e96af21cd5bb8ab1467a40c3a9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261008T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261008T160000
+SUMMARY:SEM 1 - DMEM - MPU 2222
+LOCATION:KT1-L3-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:da78c23ea9078a69f63f320bb6ae410de6336838@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261008T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20261008T180000
+SUMMARY:SEM 1 - DMEM - MPT 0192
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Abdul Qaiyyum\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ee75a0941de8a483209f39f8a8403468b1827621@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261012T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261012T130000
+SUMMARY:SEM 1 - DMEM - GMO 0323
+LOCATION:KT2-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1bb80863f780250644c545ace5a888d911e9b66@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261012T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261012T180000
+SUMMARY:SEM 1 - DMEM - GMO 0323
+LOCATION:KT2-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ca32e4f7a338c7f1c4cf51c6aa7f5bffadb19291@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261013T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261013T110000
+SUMMARY:SEM 1 - DMEM - MAP 2163
+LOCATION:KT1-L3-29
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Farah Zahraa Salleh
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:662f8e589cfb2758a9f50a2f6037d7d6cb5658be@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261013T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261013T130000
+SUMMARY:SEM 1 - DMEM - MPT 0173
+LOCATION:KT2-L05-09A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Raja Azlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0a776a00e26195d1f8e1dea4ab7b7b01396bddcb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261013T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261013T180000
+SUMMARY:SEM 1 - DMEM - MPT 0173
+LOCATION:KT2-L05-09A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Raja Azlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e842282fbb25df2b31d810c12ca7fad81cca7444@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261014T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261014T190000
+SUMMARY:SEM 1 - DMEM - QAS 0313
+LOCATION:KT2-L02-15_A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Nur Izzati Zulkifli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ee826281e2eebac358b50e6d301d8c669f93b8ef@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261015T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261015T130000
+SUMMARY:SEM 1 - DMEM - TEC 0542
+LOCATION:KT3-L04-04B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Siti Nursyahirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c727a033085657c172cc189e282c63588b6d9c87@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261015T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261015T160000
+SUMMARY:SEM 1 - DMEM - MPU 2222
+LOCATION:KT1-L3-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c5a19f8c214cf3515a161a0d38b95e10ce0a2f71@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261015T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20261015T180000
+SUMMARY:SEM 1 - DMEM - MPT 0192
+LOCATION:KT2-L04-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Abdul Qaiyyum
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2087b7d67a0d0e43869beeecb8abc1d81d970f44@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261016T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261016T120000
+SUMMARY:SEM 1 - DMEM - MPT 0173
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Raja Azlan\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:16febf4349c30a8425c25cc55c2efb25e3b799ff@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261019T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261019T130000
+SUMMARY:SEM 1 - DMEM - GMO 0323
+LOCATION:KT2-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bf27663f9385cac304efff420bfdba511206a041@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261019T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261019T180000
+SUMMARY:SEM 1 - DMEM - GMO 0323
+LOCATION:KT2-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9511d16341b794723aa19900e00e62344bf398f2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261020T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261020T110000
+SUMMARY:SEM 1 - DMEM - MAP 2163
+LOCATION:KT1-L3-29
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Farah Zahraa Salleh
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:419095aecdc906c25c1a83313a5e2696794aa583@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261020T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261020T130000
+SUMMARY:SEM 1 - DMEM - MPT 0173
+LOCATION:KT2-L05-09A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Raja Azlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:eae2c67fbb956ec8d77cce5a2aca4514c823fe3a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261020T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261020T180000
+SUMMARY:SEM 1 - DMEM - MPT 0173
+LOCATION:KT2-L05-09A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Raja Azlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f53b665681ce15852735b12fb6930c89ea87a2aa@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261021T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261021T190000
+SUMMARY:SEM 1 - DMEM - QAS 0313
+LOCATION:KT2-L02-15_A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Nur Izzati Zulkifli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:68b6a93c58f0d623ed2a038591f47ee6b085429c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261022T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261022T130000
+SUMMARY:SEM 1 - DMEM - TEC 0542
+LOCATION:KT3-L04-04B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Siti Nursyahirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bbf568c4c9573fba4ea225942f5254f4757b22c3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261022T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261022T160000
+SUMMARY:SEM 1 - DMEM - MPU 2222
+LOCATION:KT1-L3-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e96efe362e3ccf52d00dbe53a19baa2c65c1f912@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261022T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20261022T180000
+SUMMARY:SEM 1 - DMEM - MPT 0192
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Abdul Qaiyyum\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1b3017c94199bb1ea63d3b42f06b26641ec11761@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261023T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261023T120000
+SUMMARY:SEM 1 - DMEM - MPT 0173
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Raja Azlan\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:63b70c82c4a18c871f51ddc9ee22cc5914197a6e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261026T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261026T130000
+SUMMARY:SEM 1 - DMEM - GMO 0323
+LOCATION:KT2-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Fauzi Arifin\nCalendar exception: JUBLI PERA
+ K SELANGOR
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:de78df89ee46f18857af61116518cd3480a77217@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261026T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261026T180000
+SUMMARY:SEM 1 - DMEM - GMO 0323
+LOCATION:KT2-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Fauzi Arifin\nCalendar exception: JUBLI PERA
+ K SELANGOR
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ba6350565e15ea5b508c6d0c1f15e4f48862e6c7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261027T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261027T110000
+SUMMARY:SEM 1 - DMEM - MAP 2163
+LOCATION:KT1-L3-29
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Farah Zahraa Salleh
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:39a9c1c00e46494867f42dd794beaa0cdf8977b8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261027T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261027T130000
+SUMMARY:SEM 1 - DMEM - MPT 0173
+LOCATION:KT2-L05-09A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Raja Azlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:81db84853c942df5fa0db1572bec13bbb4680145@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261027T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261027T180000
+SUMMARY:SEM 1 - DMEM - MPT 0173
+LOCATION:KT2-L05-09A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Raja Azlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:db962aea8f8b6bbbce5ff861bc50570304b306a4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261028T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261028T130000
+SUMMARY:SEM 1 - DMEM - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4bbd42553cf490b0d701eb311a3876a92f8efeb3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261028T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261028T190000
+SUMMARY:SEM 1 - DMEM - QAS 0313
+LOCATION:KT2-L02-15_A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Nur Izzati Zulkifli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:53b8494ac9dfa21dc5eb1ea815f6f90473c4e3be@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261029T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261029T130000
+SUMMARY:SEM 1 - DMEM - TEC 0542
+LOCATION:KT3-L04-04B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Siti Nursyahirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c830a6bf1426c1fc41870a8a44ff428d96400b20@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261029T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261029T160000
+SUMMARY:SEM 1 - DMEM - MPU 2222
+LOCATION:KT1-L3-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f7100817f273107b9b751ca7dfa9f44831d32058@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261029T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20261029T180000
+SUMMARY:SEM 1 - DMEM - MPT 0192
+LOCATION:KT2-L04-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Abdul Qaiyyum
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ede7f4a76e2d7654e845527f5b93b3e6752ad030@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261102T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261102T130000
+SUMMARY:SEM 1 - DMEM - GMO 0323
+LOCATION:KT2-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8c276755c52866e5f9f4ecbe053be8a550022d6a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261102T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261102T180000
+SUMMARY:SEM 1 - DMEM - GMO 0323
+LOCATION:KT2-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Fauzi Arifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4efaf9d9b76686ef84540dbd68c2bd95f776c845@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261103T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261103T110000
+SUMMARY:SEM 1 - DMEM - MAP 2163
+LOCATION:KT1-L3-29
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Farah Zahraa Salleh
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:959ceee12359b1c1965e837ebe3cdea56c7b69aa@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261103T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261103T130000
+SUMMARY:SEM 1 - DMEM - MPT 0173
+LOCATION:KT2-L05-09A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Raja Azlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:207e157a3c81a0d392a7ec202a2841ed15b69ce5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261103T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261103T180000
+SUMMARY:SEM 1 - DMEM - MPT 0173
+LOCATION:KT2-L05-09A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Raja Azlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:520df28ee022f81b768c990403b1c70908e9f79e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261104T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261104T190000
+SUMMARY:SEM 1 - DMEM - QAS 0313
+LOCATION:KT2-L02-15_A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Nur Izzati Zulkifli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2f8a18c031a4f6fffa24226c102153d1d73bdb1a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261105T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261105T130000
+SUMMARY:SEM 1 - DMEM - TEC 0542
+LOCATION:KT3-L04-04B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Siti Nursyahirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0e395aea06bbd15461c7de80462aed7ea741da41@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261105T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261105T160000
+SUMMARY:SEM 1 - DMEM - MPU 2222
+LOCATION:KT1-L3-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a65c4cb757c7ebf2c76fd7a5928ba7830ed37b84@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261105T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20261105T180000
+SUMMARY:SEM 1 - DMEM - MPT 0192
+LOCATION:KT2-L04-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Abdul Qaiyyum
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fa25dc640a5259e502e8608b93ac420a19802d7b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261109T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261109T130000
+SUMMARY:SEM 1 - DMEM - GMO 0323
+LOCATION:KT2-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Fauzi Arifin\nCalendar exception: Deepavali 
+ Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:888edecbf9a90200f3efc2cad58ea2f78e8f0dac@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261109T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261109T180000
+SUMMARY:SEM 1 - DMEM - GMO 0323
+LOCATION:KT2-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Fauzi Arifin\nCalendar exception: Deepavali 
+ Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:969a1417a6b8dbd13f16170301e8456502008206@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261110T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261110T110000
+SUMMARY:SEM 1 - DMEM - MAP 2163
+LOCATION:KT1-L3-29
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Farah Zahraa Salleh
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fd91014aaf89152b71424eed3f89fcb1f5911604@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261110T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261110T130000
+SUMMARY:SEM 1 - DMEM - MPT 0173
+LOCATION:KT2-L05-09A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Raja Azlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e44c481eed7d2b1b7a5c3379e03f15d44039e97a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261110T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261110T180000
+SUMMARY:SEM 1 - DMEM - MPT 0173
+LOCATION:KT2-L05-09A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Raja Azlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7c93d00bb5515a74295ca737448fb03876fa4fde@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261111T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261111T190000
+SUMMARY:SEM 1 - DMEM - QAS 0313
+LOCATION:KT2-L02-15_A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Nur Izzati Zulkifli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4efc84e44c0429e38ac3f92d7940d08a71c32b79@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261112T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261112T130000
+SUMMARY:SEM 1 - DMEM - TEC 0542
+LOCATION:KT3-L04-04B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Siti Nursyahirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f121e6532848003ad04d56cdc4d87f63c2ef882b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261112T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261112T160000
+SUMMARY:SEM 1 - DMEM - MPU 2222
+LOCATION:KT1-L3-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7aa0949909897c913deaace9be6fb6daeab5f6e5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261112T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20261112T180000
+SUMMARY:SEM 1 - DMEM - MPT 0192
+LOCATION:KT2-L04-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DMEM\nLecturer: Abdul Qaiyyum
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR

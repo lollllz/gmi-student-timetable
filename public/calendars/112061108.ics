@@ -1,0 +1,869 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Student Timetable//Class Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SEM 5 - DSPD 3
+X-WR-TIMEZONE:Asia/Kuala_Lumpur
+BEGIN:VTIMEZONE
+TZID:Asia/Kuala_Lumpur
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:MYT
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:db9c3460637826ad37325b341827b55e00b09467@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260706T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260706T130000
+SUMMARY:SEM 5 - DSPD 3 - PWS 1323
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Ayuni Jalaluddin\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:76bdb245c22969ebfc7d2f4e8fdc3c598ea08f0d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260707T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260707T170000
+SUMMARY:SEM 5 - DSPD 3 - PWS 1352
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Syamimi Noor\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c3600dc169f8f669f0d4e17acdffc7b86559d589@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260709T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260709T130000
+SUMMARY:SEM 5 - DSPD 3 - IAT 0913
+LOCATION:KT5-L08-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Syazwani Billah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:32d7acd3e6ebe626fad7d8b348ee8f0f969bba2a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260713T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260713T130000
+SUMMARY:SEM 5 - DSPD 3 - PWS 1323
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Ayuni Jalaluddin\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:53d33663e4fd1d87c0f16e2e24fee3212a41b541@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260713T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260713T190000
+SUMMARY:SEM 5 - DSPD 3 - SES 1483
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Hazirah Sudin\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:deade5951367557647d687fb0f4c2624217a3e42@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260714T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260714T170000
+SUMMARY:SEM 5 - DSPD 3 - PWS 1352
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Syamimi Noor\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:55ba4e4013f38a5359c0d128c4da4f1e43b7f337@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260716T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260716T130000
+SUMMARY:SEM 5 - DSPD 3 - IAT 0913
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Syazwani Billah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:742d403b93ec9b59755ae6c9438874fb019d2b84@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260720T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260720T130000
+SUMMARY:SEM 5 - DSPD 3 - PWS 1323
+LOCATION:KT5-L02-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Ayuni Jalaluddin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ed336b7a1785b08dac308b091e52a4054e3edd1b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260720T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260720T190000
+SUMMARY:SEM 5 - DSPD 3 - SES 1483
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Hazirah Sudin\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0e1abb9a27f86344ebd34468b0d17d96c6e35cb6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260721T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260721T170000
+SUMMARY:SEM 5 - DSPD 3 - PWS 1352
+LOCATION:KT5-L02-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Syamimi Noor
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1eadb8703fb7946ddaf6c5642eceae4f306e866d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260723T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260723T130000
+SUMMARY:SEM 5 - DSPD 3 - IAT 0913
+LOCATION:KT5-L08-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Syazwani Billah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e2c0f024712d3984e9c7295b646ca930d9c61a4f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260727T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260727T130000
+SUMMARY:SEM 5 - DSPD 3 - PWS 1323
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Ayuni Jalaluddin\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:895b9e552fcf30f616073a4d6efc10df8b2f3daa@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260727T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260727T190000
+SUMMARY:SEM 5 - DSPD 3 - SES 1483
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Hazirah Sudin\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bd8330532ee82293e60d86e5f9cb9ae9ad86a514@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260728T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260728T170000
+SUMMARY:SEM 5 - DSPD 3 - PWS 1352
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Syamimi Noor\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4383093f030802427e04596a48bdf75405291007@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260729T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260729T130000
+SUMMARY:SEM 5 - DSPD 3 - IAT 0913
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Syazwani Billah\nNotes: Replacement Class 
+ (Online Class)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6c834225306a192fa9c392c68f90aa1d204b705e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260803T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260803T130000
+SUMMARY:SEM 5 - DSPD 3 - PWS 1323
+LOCATION:KT5-L02-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Ayuni Jalaluddin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4e54cb2e13563c106cd8f69b9d23c875d9d1455c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260803T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260803T190000
+SUMMARY:SEM 5 - DSPD 3 - SES 1483
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Hazirah Sudin\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:326c96016b575550be3382e119dd6daa29a0c689@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260804T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260804T170000
+SUMMARY:SEM 5 - DSPD 3 - PWS 1352
+LOCATION:KT5-L02-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Syamimi Noor
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b92dd94122b6c06703a38c9ca57a77b7ebbfe641@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260805T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260805T130000
+SUMMARY:SEM 5 - DSPD 3 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c1004a46b159760ec0c46e3a18acd15535fe0c1b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260805T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260805T190000
+SUMMARY:SEM 5 - DSPD 3 - IAT 0913
+LOCATION:KT5-L08-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Syazwani Billah\nNotes: Replacement Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5316b9319eb2bb1dad6a43e3dc22bb5100f6e285@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260810T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260810T130000
+SUMMARY:SEM 5 - DSPD 3 - PWS 1323
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Ayuni Jalaluddin\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:663c35a8a162c2a2c55cdb336073d04705425491@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260810T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260810T190000
+SUMMARY:SEM 5 - DSPD 3 - SES 1483
+LOCATION:KT5-L02-015B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Hazirah Sudin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:930efcdc631f6c996a207748b39dd7b622a1856e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260811T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260811T170000
+SUMMARY:SEM 5 - DSPD 3 - PWS 1352
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Syamimi Noor\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0c720eed3e933152aaa93bc3419c87acb3697716@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260814T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260814T130000
+SUMMARY:SEM 5 - DSPD 3 - IAT 0913
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Syazwani Billah\nNotes: Replacement Class 
+ (Online Class)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5b39164ce40a601b792eee6041f0ea17a3dbab4f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260817T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260817T130000
+SUMMARY:SEM 5 - DSPD 3 - PWS 1323
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Ayuni Jalaluddin\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f8dffaeedb3a08501ea2fae9275e005edc0222e2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260817T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260817T190000
+SUMMARY:SEM 5 - DSPD 3 - SES 1483
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Hazirah Sudin\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1473d8516d1c0109a5396476c43e238a49c44329@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260818T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260818T170000
+SUMMARY:SEM 5 - DSPD 3 - PWS 1352
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Syamimi Noor\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7084b4de300649ee0afe0f627accd1ae0584494c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260820T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260820T130000
+SUMMARY:SEM 5 - DSPD 3 - IAT 0913
+LOCATION:KT5-L08-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Syazwani Billah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:00d649929a5a374c9bb403d0096d595e65871ad5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260824T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260824T130000
+SUMMARY:SEM 5 - DSPD 3 - PWS 1323
+LOCATION:KT5-L02-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Ayuni Jalaluddin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:dcaae1d46b99ab3a0a14f0eef28026299b085ca3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260824T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260824T190000
+SUMMARY:SEM 5 - DSPD 3 - SES 1483
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Hazirah Sudin\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e20de3913bfeae617369ab8956c6544160252fcb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260825T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260825T170000
+SUMMARY:SEM 5 - DSPD 3 - PWS 1352
+LOCATION:KT5-L02-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Syamimi Noor\nCalendar exception: Maul
+ idur Rasul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e31eee65ed43461b20bb470468e6e2aada5eebb0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260827T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260827T130000
+SUMMARY:SEM 5 - DSPD 3 - IAT 0913
+LOCATION:KT5-L08-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Syazwani Billah\nNotes: Replacement Class 
+ (Labwork)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6b9b3741930ccbc0ab7e1ce7996829feeb0c4a18@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260907T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260907T130000
+SUMMARY:SEM 5 - DSPD 3 - Merdeka Celebration
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3e717cbb4adfd55d5f6c90615c384b639f48a712@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260908T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260908T170000
+SUMMARY:SEM 5 - DSPD 3 - PWS 1352
+LOCATION:KT5-L02-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Syamimi Noor
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:762627533703d23db35ad6d1d83a2c9892e554c0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260909T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260909T130000
+SUMMARY:SEM 5 - DSPD 3 - IAT 0913
+LOCATION:KT5-L08-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Syazwani Billah\nNotes: Replacement Class 
+ (Training)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3e51bdf56cc3c19f51ba2600b440de4e377c0298@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260911T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260911T130000
+SUMMARY:SEM 5 - DSPD 3 - PWS 1323
+LOCATION:KT5-L02-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Ayuni Jalaluddin\nNotes: Replacement C
+ lass (Merdeka 8/9)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:50d14d3bbd64937eedf9e724d7c0550168c5eac2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260914T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260914T130000
+SUMMARY:SEM 5 - DSPD 3 - PWS 1323
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Ayuni Jalaluddin\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:78ddc307b7cabf539a7d1873a511bcfe03d067fe@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260915T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260915T170000
+SUMMARY:SEM 5 - DSPD 3 - PWS 1352
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Syamimi Noor\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:402cb660dcb385a6ab5175897f385903574aba01@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260917T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260917T130000
+SUMMARY:SEM 5 - DSPD 3 - IAT 0913
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Syazwani Billah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:715f064d7ba1bf7b4de003d56549c7e9a48c4644@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260922T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260922T170000
+SUMMARY:SEM 5 - DSPD 3 - PWS 1352
+LOCATION:KT5-L02-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Syamimi Noor
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7219aeeb5f175b961386759ef27c0a23da319356@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260923T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260923T130000
+SUMMARY:SEM 5 - DSPD 3 - PWS 1323
+LOCATION:KT5-L02-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Ayuni Jalaluddin\nNotes: Replacement C
+ lass (21/9)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ab1800b1acae60b1acbd2c4e34777410d9e96818@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260923T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260923T190000
+SUMMARY:SEM 5 - DSPD 3 - IAT 0913
+LOCATION:KT5-L08-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Syazwani Billah\nNotes: Replacement Class 
+ (Training)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:acaa871f2625f2feff72832fa33a0ae31b51b417@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260929T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260929T170000
+SUMMARY:SEM 5 - DSPD 3 - PWS 1352
+LOCATION:KT5-L02-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Syamimi Noor
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:467b330ac8fb92131cdd702b41764c5fdc331657@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260930T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260930T130000
+SUMMARY:SEM 5 - DSPD 3 - PWS 1323
+LOCATION:KT5-L02-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Ayuni Jalaluddin\nNotes: Replacement C
+ lass (28/9)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8b7fda4082806d7343d2d38478980d40dfb2a3a9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261001T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261001T130000
+SUMMARY:SEM 5 - DSPD 3 - IAT 0913
+LOCATION:KT5-L08-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Syazwani Billah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1a2b964bdae34e9cfbf29def023651b9d69458cf@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261005T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261005T130000
+SUMMARY:SEM 5 - DSPD 3 - PWS 1323
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Ayuni Jalaluddin\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d48c99ead2e193f3d33a9307c8d7fe102b504cb6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261005T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261005T190000
+SUMMARY:SEM 5 - DSPD 3 - SES 1483
+LOCATION:KT5-L02-015B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Hazirah Sudin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a84c8eef0e841d626cfc403bc513ab77c5fad418@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261006T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261006T170000
+SUMMARY:SEM 5 - DSPD 3 - PWS 1352
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Syamimi Noor\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:668af9b62d4cd7073741fcc39206550dc028283b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261007T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261007T130000
+SUMMARY:SEM 5 - DSPD 3 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bf7ba03ee91657848c7095dfb43977eeac927a90@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261008T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261008T130000
+SUMMARY:SEM 5 - DSPD 3 - IAT 0913
+LOCATION:KT5-L08-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Syazwani Billah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2c26ef8d2055196d2df2596eb3d63bf1866d2a4d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261012T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261012T130000
+SUMMARY:SEM 5 - DSPD 3 - PWS 1323
+LOCATION:KT5-L02-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Ayuni Jalaluddin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0b85c7ec8e6f3af9d6f0278bdbc3cedbcbcef39f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261012T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261012T190000
+SUMMARY:SEM 5 - DSPD 3 - SES 1483
+LOCATION:KT5-L02-015B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Hazirah Sudin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6eb6e6b3e162d2934bb2e12ee7e617836ab45a69@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261013T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261013T130000
+SUMMARY:SEM 5 - DSPD 3 - SES 1483
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Hazirah Sudin\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e788c7bddfd5fa379019acc94cb169c8abe5f900@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261013T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261013T170000
+SUMMARY:SEM 5 - DSPD 3 - PWS 1352
+LOCATION:KT5-L02-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Syamimi Noor
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:23b019111a3bbd4b7444218072afae98a3732f9e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261014T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261014T130000
+SUMMARY:SEM 5 - DSPD 3 - SES 1483
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Hazirah Sudin\nNotes: Online Replaceme
+ nt Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e2ff51dd87dc15e0ebce3a4d0fa151120e30fa70@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261015T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261015T130000
+SUMMARY:SEM 5 - DSPD 3 - IAT 0913
+LOCATION:KT5-L08-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Syazwani Billah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b0a1c94073fecfb9278cba3b2bc56147b2709b54@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261019T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261019T130000
+SUMMARY:SEM 5 - DSPD 3 - PWS 1323
+LOCATION:KT5-L02-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Ayuni Jalaluddin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:18d1a8a2e5fc8f3cbfaf380c10b28f4ff6497330@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261019T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261019T190000
+SUMMARY:SEM 5 - DSPD 3 - SES 1483
+LOCATION:KT5-L02-015B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Hazirah Sudin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:935977907e0bd824308ef44f0dc75ff3685b48b9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261020T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261020T130000
+SUMMARY:SEM 5 - DSPD 3 - SES 1483
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Hazirah Sudin\nNotes: Online Replaceme
+ nt Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:22d099c37e637a231034f0c895a8897bcacf93b6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261020T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261020T170000
+SUMMARY:SEM 5 - DSPD 3 - PWS 1352
+LOCATION:KT5-L02-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Syamimi Noor
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cf61de1fd9e64f02b50d77bf392e40d94a5bf4f5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261021T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261021T130000
+SUMMARY:SEM 5 - DSPD 3 - SES 1483
+LOCATION:KT5-L02-015B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Hazirah Sudin\nNotes: Replacement Clas
+ s
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fff093ada71c0826fb0b60c059f2dad1732998fb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261022T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261022T130000
+SUMMARY:SEM 5 - DSPD 3 - IAT 0913
+LOCATION:KT5-L08-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Syazwani Billah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:146a95dcc1c8dc193fe410989ecee955507d056b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261026T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261026T130000
+SUMMARY:SEM 5 - DSPD 3 - PWS 1323
+LOCATION:KT5-L02-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Ayuni Jalaluddin\nCalendar exception: 
+ JUBLI PERAK SELANGOR
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:48eb8ab1dadfa4c62467a2405eb412b319f0556f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261026T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261026T190000
+SUMMARY:SEM 5 - DSPD 3 - SES 1483
+LOCATION:KT5-L02-015B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Hazirah Sudin\nCalendar exception: JUB
+ LI PERAK SELANGOR
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:33321a2eadcfc1f224bceca815da56a20c3613d2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261027T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261027T130000
+SUMMARY:SEM 5 - DSPD 3 - SES 1483
+LOCATION:KT5-L02-015B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Hazirah Sudin\nNotes: Replacement Clas
+ s
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:59dcb2ada93e47a5da84698cddca98b6ee6345e4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261027T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261027T170000
+SUMMARY:SEM 5 - DSPD 3 - PWS 1352
+LOCATION:KT5-L02-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Syamimi Noor
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0c2bf2354a9a138e0346cb8ac4b364245c78bc1c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261028T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261028T130000
+SUMMARY:SEM 5 - DSPD 3 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:79de5a7a4da79e7fdb89d3fc9994c1716c8b9f94@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261029T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261029T130000
+SUMMARY:SEM 5 - DSPD 3 - IAT 0913
+LOCATION:KT5-L08-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Syazwani Billah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:344d58a032834d265cf287cfe82707fed953adc4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261102T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261102T130000
+SUMMARY:SEM 5 - DSPD 3 - PWS 1323
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Ayuni Jalaluddin\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:71e1a8b0473d8f0469f47e8daf9deb61735ac174@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261102T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261102T190000
+SUMMARY:SEM 5 - DSPD 3 - SES 1483
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Hazirah Sudin\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0eaa1400eec5d7c5dedd1ec1d2b0c2339c335dd4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261103T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261103T170000
+SUMMARY:SEM 5 - DSPD 3 - PWS 1352
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Syamimi Noor\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ba765a5dde693ef7a7b3a2837b66aa09fd55cc22@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261104T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261104T130000
+SUMMARY:SEM 5 - DSPD 3 - SES 1483
+LOCATION:KT5-L02-015B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Hazirah Sudin\nNotes: Replacement Clas
+ s
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9e6e0a0436e38fb5df17e139b54156d0f07ffedf@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261105T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261105T130000
+SUMMARY:SEM 5 - DSPD 3 - IAT 0913
+LOCATION:KT5-L08-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Syazwani Billah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:43e8b2676ff4f81e643f94fef6aa8424edecb930@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261109T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261109T130000
+SUMMARY:SEM 5 - DSPD 3 - PWS 1323
+LOCATION:KT5-L02-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Ayuni Jalaluddin\nCalendar exception: 
+ Deepavali Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0b12a38ff1696b55054817b1b6998bded904dd49@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261110T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261110T170000
+SUMMARY:SEM 5 - DSPD 3 - PWS 1352
+LOCATION:KT5-L02-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Nur Syamimi Noor
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1eaddfe42ab1bae9aafef94f23d6e88875fbbbc4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261112T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261112T130000
+SUMMARY:SEM 5 - DSPD 3 - IAT 0913
+LOCATION:KT5-L08-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 3\nLecturer: Syazwani Billah
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR

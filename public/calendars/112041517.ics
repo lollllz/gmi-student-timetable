@@ -1,0 +1,881 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Student Timetable//Class Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SEM 5 - DCRM 2
+X-WR-TIMEZONE:Asia/Kuala_Lumpur
+BEGIN:VTIMEZONE
+TZID:Asia/Kuala_Lumpur
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:MYT
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:91288d9f43a8507e6977a0b72e630a8a3909a8b8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260707T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260707T130000
+SUMMARY:SEM 5 - DCRM 2 - CMT 2083
+LOCATION:KT5-L15-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Filzah Zahilah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:13121d77f9828ce3d9b18f57cb098f9a6606080b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260708T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260708T180000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1972
+LOCATION:KT5-L04-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Bayu Munajat Elias
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e9d637ac738bb1f7eb2c2c2229797f2e00691630@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260708T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20260708T220000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1963
+LOCATION:KT5-L12-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Ismah Haziq
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f188247d305c1e554395688cf058fa6d437d24cf@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260709T200000
+DTEND;TZID=Asia/Kuala_Lumpur:20260709T220000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1963
+LOCATION:KT5-L12-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Ismah Haziq
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:64e3598bca8af4def1a3ecdbf44ef1160ed7576d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260714T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260714T130000
+SUMMARY:SEM 5 - DCRM 2 - CMT 2083
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Filzah Zahilah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9877ae51bcfb879173901847b4c6f132a06a4e0a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260715T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260715T180000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1972
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Bayu Munajat Elias\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:20b2cb0c9950440c58f6d1a634ddfb2b5b22dd3f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260715T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20260715T220000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1963
+LOCATION:KT5-L12-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Ismah Haziq
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e78b6e427bc274e3cd9a992a4d82fc4bfdaeba67@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260716T200000
+DTEND;TZID=Asia/Kuala_Lumpur:20260716T220000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1963
+LOCATION:KT5-L12-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Ismah Haziq
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:69f3dea65465b35f04375c2c60d22bb1596c1fa1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260721T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260721T130000
+SUMMARY:SEM 5 - DCRM 2 - CMT 2083
+LOCATION:KT5-L15-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Filzah Zahilah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c494120f54a8e0f3744b8a72d27e5363719ebded@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260722T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260722T180000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1972
+LOCATION:KT5-L04-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Bayu Munajat Elias
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e04b4f99a2aeafac19d0761c061b08b641885cd1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260722T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20260722T220000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1963
+LOCATION:KT5-L12-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Ismah Haziq
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bc070e923b7eef787f3185872e2759c4fc69bca6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260723T200000
+DTEND;TZID=Asia/Kuala_Lumpur:20260723T220000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1963
+LOCATION:KT5-L12-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Ismah Haziq
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:049cbe00d8e66fbd782e20ceaadd173a6aca8601@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260729T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260729T180000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1972
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Bayu Munajat Elias\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cde96c9c4e8c4c6f8b063eff17249c8adb78e994@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260729T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20260729T220000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1963
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Ismah Haziq\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2934f7fb4b8dd7660d13b5550fdbf749395b412c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260730T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260730T130000
+SUMMARY:SEM 5 - DCRM 2 - CMT 2083
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Filzah Zahilah\nNotes: Replacement Class (
+ Online)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ba7435849a0fb1e92a57037af25301e8f84bf88f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260730T200000
+DTEND;TZID=Asia/Kuala_Lumpur:20260730T220000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1963
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Ismah Haziq\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bfd228a17b6400b0da060aeb7dcb60d7b1531c5c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260804T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260804T130000
+SUMMARY:SEM 5 - DCRM 2 - CMT 2083
+LOCATION:KT5-L15-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Filzah Zahilah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6986221a9bd0ffb9f18e6b0cc0ea90bb024bf16d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260805T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260805T130000
+SUMMARY:SEM 5 - DCRM 2 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c84bbe2f4de454da0800f20a8e8cdb88f5249809@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260805T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260805T180000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1972
+LOCATION:KT5-L04-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Bayu Munajat Elias
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cd7546415dc515bfa227183db1ddf0e9f47f5176@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260805T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20260805T220000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1963
+LOCATION:KT5-L12-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Ismah Haziq
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1d3e9876b01dd1a4ed41a43a4a2c72811e02eda5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260806T200000
+DTEND;TZID=Asia/Kuala_Lumpur:20260806T220000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1963
+LOCATION:KT5-L12-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Ismah Haziq
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e5e2efac161fb0a1012544a8fa9a3a12cccfb0a7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260811T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260811T130000
+SUMMARY:SEM 5 - DCRM 2 - CMT 2083
+LOCATION:KT5-L15-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Filzah Zahilah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:950a53c1110ddbe073924374fe5d6b8bc38a169e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260812T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260812T180000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1972
+LOCATION:KT5-L04-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Bayu Munajat Elias
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1947fc0cc1074d84513ae46dbcf729d985b5750a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260813T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260813T130000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1963
+LOCATION:KT5-L12-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Ismah Haziq
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:47e7b44a002b0314148073b57cda5477e07cd8df@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260818T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260818T130000
+SUMMARY:SEM 5 - DCRM 2 - CMT 2083
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Filzah Zahilah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:204787feb71c7be2f1aba62b854e638531abe293@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260819T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260819T180000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1972
+LOCATION:KT5-L04-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Bayu Munajat Elias
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4cf8fb3fad76d4487a9bf19fa4bc69aaf547e015@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260819T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20260819T220000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1963
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Ismah Haziq\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:973bd5dac54eba2521ec4889f21c531ab995da1f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260820T200000
+DTEND;TZID=Asia/Kuala_Lumpur:20260820T220000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1963
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Ismah Haziq\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0ee9687be465fcd1f9d4035e725c1e0fc31f84e2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260825T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260825T130000
+SUMMARY:SEM 5 - DCRM 2 - CMT 2083
+LOCATION:KT5-L15-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Filzah Zahilah\nCalendar exception: Maulid
+ ur Rasul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e1b9d26aa9b7e500caa2d74b388f3c77ba16c014@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260826T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260826T180000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1972
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Bayu Munajat Elias\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f9b8cda38a2acab960e17a22d2045597480eb45d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260826T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20260826T220000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1963
+LOCATION:KT5-L12-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Ismah Haziq
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9d0bb02fa7c6087e2f07fdfcb7aaf073f5814944@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260827T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260827T190000
+SUMMARY:SEM 5 - DCRM 2 - CMT 2083
+LOCATION:KT5-L15-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Filzah Zahilah\nNotes: Replacement Class (
+ PH)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d08d14cbb86641621728b07c6a83f6aff086908f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260827T200000
+DTEND;TZID=Asia/Kuala_Lumpur:20260827T220000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1963
+LOCATION:KT5-L12-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Ismah Haziq
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:011af5e509cfc2c801dddc233c554408ff913a84@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260907T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260907T130000
+SUMMARY:SEM 5 - DCRM 2 - Merdeka Celebration
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5ab1808a35bd1a5160378cdd245de1b0ba11e744@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260908T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260908T130000
+SUMMARY:SEM 5 - DCRM 2 - CMT 2083
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Filzah Zahilah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2316b13acc2f745338155642990f8be1b931dd2d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260909T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260909T180000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1972
+LOCATION:KT5-L04-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Bayu Munajat Elias
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:603476767d6bfb925968418d7f4ec87ed1880e56@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260909T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20260909T220000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1963
+LOCATION:KT5-L12-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Ismah Haziq
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f13c50d8dfd51c07ec892847d43deea0d62667b2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260910T200000
+DTEND;TZID=Asia/Kuala_Lumpur:20260910T220000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1963
+LOCATION:KT5-L12-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Ismah Haziq
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4b8e689d805b1bd9507fb9c7d3bb6398968a2fc5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260915T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260915T130000
+SUMMARY:SEM 5 - DCRM 2 - CMT 2083
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Filzah Zahilah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:25e4529c6098e3cd82cd635da3dc9aff6cdb59b9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260915T150000
+DTEND;TZID=Asia/Kuala_Lumpur:20260915T180000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1963
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Ismah Haziq\nNotes: Online Replacement Cla
+ ss
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b51d7fe20757179a1045b0160536f5af8e5985d2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260916T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260916T180000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1972
+LOCATION:KT5-L04-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Bayu Munajat Elias\nCalendar exception: Ma
+ laysia Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bd7b5259643139766b70d1d5d67782c4d3989780@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260916T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20260916T220000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1963
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Ismah Haziq\nNotes: Online Class\nCalendar
+  exception: Malaysia Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:98f9a6ab213cc7a0da0593a4412af27c86bfd723@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260917T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260917T130000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1972
+LOCATION:KT5-L12-007
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Bayu Munajat Elias\nNotes: Replacement Cla
+ ss (PH)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2f4e3c6ab937e25696ff38940569d4277d2e3617@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260917T200000
+DTEND;TZID=Asia/Kuala_Lumpur:20260917T220000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1963
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Ismah Haziq\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:00a4223b9cc8961da71b6dfb5b40379e6c2bc6ab@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260922T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260922T130000
+SUMMARY:SEM 5 - DCRM 2 - CMT 2083
+LOCATION:KT5-L15-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Filzah Zahilah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:197639923fcdf5de67e297cdc2ebe82e9cdbcbdb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260923T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260923T180000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1972
+LOCATION:KT5-L04-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Bayu Munajat Elias
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:dd1c764ea5e0698811bb1680cb5abde34cbc133c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260923T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20260923T220000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1963
+LOCATION:KT5-L12-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Ismah Haziq
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2c7ff01158c59f3eded77113b5ec3acad22b2355@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260924T200000
+DTEND;TZID=Asia/Kuala_Lumpur:20260924T220000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1963
+LOCATION:KT5-L12-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Ismah Haziq
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2d96c23fee5a8c22e3e10f2e467d0010d7ab4638@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260929T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260929T130000
+SUMMARY:SEM 5 - DCRM 2 - CMT 2083
+LOCATION:KT5-L15-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Filzah Zahilah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2f5f985faccaf17d35537f655c95fd9aa345c836@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260930T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260930T180000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1972
+LOCATION:KT5-L04-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Bayu Munajat Elias
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:03280f4683a43351980667ac6cf8008178b6505d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260930T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20260930T220000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1963
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Ismah Haziq\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6993dbf73a31c1dbb43aeecd7f91acbfcdfa735f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261001T200000
+DTEND;TZID=Asia/Kuala_Lumpur:20261001T220000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1963
+LOCATION:KT5-L12-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Ismah Haziq
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d0674e688df5cdf3bfaccd1118920ecb5c889016@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261006T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261006T130000
+SUMMARY:SEM 5 - DCRM 2 - CMT 2083
+LOCATION:KT5-L15-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Filzah Zahilah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:db6f9f696b2864f1765872018a19174ce65a95e3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261007T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261007T130000
+SUMMARY:SEM 5 - DCRM 2 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:38b75f360e270e1c99cdffe572e2928d552fd4f5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261007T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261007T180000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1972
+LOCATION:KT5-L04-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Bayu Munajat Elias
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7ed480c927978ee100790bf032df3a79aaea152e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261007T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20261007T220000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1963
+LOCATION:KT5-L12-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Ismah Haziq
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3b85d06d35b45a4c3c55c96bc699c130dc9dabad@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261008T200000
+DTEND;TZID=Asia/Kuala_Lumpur:20261008T220000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1963
+LOCATION:KT5-L12-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Ismah Haziq
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5cb8e554eec882eba4f4aa28650695889b0775e0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261013T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261013T130000
+SUMMARY:SEM 5 - DCRM 2 - CMT 2083
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Filzah Zahilah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4de39e62f08229867df83b339a3b3037066a2067@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261014T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261014T180000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1972
+LOCATION:KT5-L04-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Bayu Munajat Elias
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9e74a04470e3e6ea90e606fab848667b864ac773@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261014T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20261014T220000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1963
+LOCATION:KT5-L12-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Ismah Haziq
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d1d190b6cc0b53950da8fb6bc0bd453339988f86@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261015T200000
+DTEND;TZID=Asia/Kuala_Lumpur:20261015T220000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1963
+LOCATION:KT5-L12-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Ismah Haziq
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2bf539e226f19e13b3af218fa29d60eb6ff58067@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261020T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261020T130000
+SUMMARY:SEM 5 - DCRM 2 - CMT 2083
+LOCATION:KT5-L15-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Filzah Zahilah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e8630d2bb836f96d80e02530a77e23d44ac59545@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261021T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261021T180000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1972
+LOCATION:KT5-L04-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Bayu Munajat Elias
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7aa42da3f14ff5235756e894e397af110513546c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261021T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20261021T220000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1963
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Ismah Haziq\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:405a447eb008cda9571593f50a6b1adb1597364d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261022T200000
+DTEND;TZID=Asia/Kuala_Lumpur:20261022T220000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1963
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Ismah Haziq\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6138faba5837577d42268a8cf6a89386d00ed34c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261027T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261027T130000
+SUMMARY:SEM 5 - DCRM 2 - CMT 2083
+LOCATION:KT5-L15-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Filzah Zahilah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c55acfa8851a9ca93aa15aa95ab7d58e76bed939@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261028T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261028T130000
+SUMMARY:SEM 5 - DCRM 2 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:79d02056815d50c2a02aebe52ea58a0714857b6e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261028T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261028T180000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1972
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Bayu Munajat Elias\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a7db4a3a12ad7322a67bbb38fd8deccd65304e37@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261028T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20261028T220000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1963
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Ismah Haziq\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a2d9886351faa947ab068458aa188c94138c0457@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261029T200000
+DTEND;TZID=Asia/Kuala_Lumpur:20261029T220000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1963
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Ismah Haziq\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:33fee40149d70d77be0594b683cd5c2b556298eb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261103T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261103T130000
+SUMMARY:SEM 5 - DCRM 2 - CMT 2083
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Filzah Zahilah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ed5bddea0bcca9fcb962fb336ea069d92be6664c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261104T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261104T180000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1972
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Bayu Munajat Elias\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:27815e53175815ac7786c6bb97f2862e31c8a0b5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261104T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20261104T220000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1963
+LOCATION:KT5-L12-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Ismah Haziq
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f4930cc74083fd0e18ad8e027e2d7989ebb6a614@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261105T200000
+DTEND;TZID=Asia/Kuala_Lumpur:20261105T220000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1963
+LOCATION:KT5-L12-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Ismah Haziq
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8a287b645129e178eb2645c9469684176c7de4a9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261110T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261110T130000
+SUMMARY:SEM 5 - DCRM 2 - CMT 2083
+LOCATION:KT5-L15-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Filzah Zahilah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:76fb5b04463afd38d393a611f2015c531b1bb9b7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261111T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261111T180000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1972
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Bayu Munajat Elias\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a87c9368eeda89bd24bd133292d826414afbc05f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261111T190000
+DTEND;TZID=Asia/Kuala_Lumpur:20261111T220000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1963
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Ismah Haziq\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4f6a6915db39e1534aa07cb0d8dde7efce3dacd3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261112T200000
+DTEND;TZID=Asia/Kuala_Lumpur:20261112T220000
+SUMMARY:SEM 5 - DCRM 2 - CRM 1963
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCRM 2\nLecturer: Ismah Haziq\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR

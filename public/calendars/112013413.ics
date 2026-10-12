@@ -1,0 +1,2599 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Student Timetable//Class Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SEM 5 - DMTM
+X-WR-TIMEZONE:Asia/Kuala_Lumpur
+BEGIN:VTIMEZONE
+TZID:Asia/Kuala_Lumpur
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:MYT
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:90bf8fe4eca3dc10242e319d7d009269443933d4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260706T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260706T110000
+SUMMARY:SEM 5 - DMTM - MTM 1892
+LOCATION:KT2-L03-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Addam Paat
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0ec323632235c043455434c888d3dec32e38261b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260706T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260706T170000
+SUMMARY:SEM 5 - DMTM - MPU 2183
+LOCATION:KT1-L3-20
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Aida Zahirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:18c1fd9e12d4e492bf5127a39a1123e5542a68b3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260708T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260708T180000
+SUMMARY:SEM 5 - DMTM - MPT 0132
+LOCATION:KT2-L01-09
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Isa Mohamad Ashaari
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4e4b1614363d6c04f067f5d417b218e754a0503c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260709T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260709T110000
+SUMMARY:SEM 5 - DMTM - MET 2122
+LOCATION:KT2-L04-05_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Ts Saifullizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7eadd87d76ea710aa6aac25df044d580d9383232@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260709T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260709T130000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Ts Saifullizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8dad9c8ec2fe003d1f8ee7e2c825bdb216b2b5b0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260709T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260709T180000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Ts Saifullizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c5f8f388109fc84abec96945cb5b09fb4c755208@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260710T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260710T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Khairul Munir Hanif\nOverlapping class entry
+ : check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6551fd039b97bd32575f8abe0401bdd207853855@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260710T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260710T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Nur Izzati Bakarudin\nOverlapping class entr
+ y: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:887058a923c38cdab07974ef04532d4a9c2b6721@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260710T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260710T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Sufiyan Amril\nOverlapping class entry: chec
+ k with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:801d4890d49757cdcf721ffef72ed6808ca643a2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260710T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260710T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Dr Faizal Tukimon\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:af044cc613b7fc652e9252d0098b189c03b8959f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260710T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260710T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Nazrin Mohd Nazri\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e0ebd51af4fc31859bc1834f50c412c3101fd22e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260713T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260713T110000
+SUMMARY:SEM 5 - DMTM - MTM 1892
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Addam Paat\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:278acd65da7d031f9dca424e758c7f112bc8afd8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260713T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260713T170000
+SUMMARY:SEM 5 - DMTM - MPU 2183
+LOCATION:KT1-L3-20
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Aida Zahirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:672ba915b3c54fc994d1dff6f77ab8641da7d6eb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260715T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260715T180000
+SUMMARY:SEM 5 - DMTM - MPT 0132
+LOCATION:KT2-L01-09
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Isa Mohamad Ashaari
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:eeaa93949d6a0f6d798d2da56fa6277e31f0baf5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260716T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260716T110000
+SUMMARY:SEM 5 - DMTM - MET 2122
+LOCATION:KT2-L04-05_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Ts Saifullizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:89191bc5fe6d666357af4e5164c5ec48bc57f1cc@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260716T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260716T130000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Ts Saifullizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:df701ab45c5ca45c6ab74fd829cb75c44a0785c8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260716T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260716T180000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Ts Saifullizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbf6aec63d2f67d1f82b3f366dd4d9118350d94@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260717T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260717T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Khairul Munir Hanif\nOverlapping class entry
+ : check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:dd0c65fba2318b370cb4cfa19d6830c62015b84f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260717T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260717T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Nur Izzati Bakarudin\nOverlapping class entr
+ y: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:adbd5b6b6d7d491b2514d8bf07a1d1941be60ac0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260717T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260717T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Sufiyan Amril\nOverlapping class entry: chec
+ k with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cdd417724a99d50466d747a41335c2069eab3ace@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260717T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260717T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Dr Faizal Tukimon\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d258fd109cb45c8397a52c0fa6b30aa3f83e9ce0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260717T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260717T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Nazrin Mohd Nazri\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:70387b8a19765367b0c50befa6c8a7e0ac8d5d8d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260720T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260720T110000
+SUMMARY:SEM 5 - DMTM - MTM 1892
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Addam Paat\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:33f44c0027db358943b564d91b27bce3a0d08e3a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260720T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260720T170000
+SUMMARY:SEM 5 - DMTM - MPU 2183
+LOCATION:KT1-L3-20
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Aida Zahirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2b77660fa3eea850f8173f6df2f5b03bca139ee7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260722T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260722T180000
+SUMMARY:SEM 5 - DMTM - MPT 0132
+LOCATION:KT2-L01-09
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Isa Mohamad Ashaari
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1592654b4c256d76307853f6aa52a2588b83f9ca@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260724T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260724T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Khairul Munir Hanif\nOverlapping class entry
+ : check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3b8e063f36a714902e1b1877a739e8dac2e877e7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260724T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260724T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Sufiyan Amril\nOverlapping class entry: chec
+ k with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f2453b3c840ec65cbb89e33341ad0e8e11fc532e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260724T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260724T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Dr Faizal Tukimon\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0d8833ab66304fc3ebc0e10b21d262114e356eab@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260724T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260724T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Nazrin Mohd Nazri\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e75b0cbde1e7311efe83b9c4dc6f35678ef180c2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260727T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260727T110000
+SUMMARY:SEM 5 - DMTM - MTM 1892
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Addam Paat\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:625c0a493e2be4b4d923aee52a6ec7af3c767261@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260727T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260727T170000
+SUMMARY:SEM 5 - DMTM - MPU 2183
+LOCATION:KT1-L3-20
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Aida Zahirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bf62a4b0003bc124d1e2f386c3dc205a90031ddb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260729T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260729T180000
+SUMMARY:SEM 5 - DMTM - MPT 0132
+LOCATION:KT2-L01-09
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Isa Mohamad Ashaari
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a20b51956fbee29aa549de4cefe475be8a7d68d8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260730T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260730T130000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Ts Saifullizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5f08fe258ce516be6445d46e119cd11ed12307a8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260730T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260730T180000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Ts Saifullizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cc201aee7290d443957acad444065d5300ea8f8e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260731T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260731T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Khairul Munir Hanif\nOverlapping class entry
+ : check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:00b79398dac07bef6f6c6f5130c2beb5bbc63e1c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260731T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260731T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Nur Izzati Bakarudin\nOverlapping class entr
+ y: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0afd45bf27ee6830244e160abb13187d2e485dac@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260731T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260731T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Sufiyan Amril\nOverlapping class entry: chec
+ k with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:50d6ea218b5fbc9fb6e20ca0d9f659c60baf63ba@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260731T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260731T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Dr Faizal Tukimon\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a0fc64c44f52d8016dcb61ac75a40a804c9372ec@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260731T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260731T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Nazrin Mohd Nazri\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8ae6e874c4f88e73d31a2fdd75030c1a15011613@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260803T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260803T110000
+SUMMARY:SEM 5 - DMTM - MTM 1892
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Addam Paat\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:37f97f1e70594239ffec71c2204846b771191ce8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260803T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260803T170000
+SUMMARY:SEM 5 - DMTM - MPU 2183
+LOCATION:KT1-L3-20
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Aida Zahirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:832b05e9a42dc12480f0c50f4286f278a297c36e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260805T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260805T130000
+SUMMARY:SEM 5 - DMTM - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2057730d4e0d60cbeae1da652f75ed629568be92@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260805T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260805T180000
+SUMMARY:SEM 5 - DMTM - MPT 0132
+LOCATION:KT2-L01-09
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Isa Mohamad Ashaari
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:91e42735c0cad1d4353535eae23dc3c509832e82@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260806T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260806T110000
+SUMMARY:SEM 5 - DMTM - MET 2122
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Ts Saifullizan\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:da622f90fb8039f1f37b7455b091236811e2dfac@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260806T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260806T130000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Ts Saifullizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b33be830f9bf81b64bd7ace84ec098078702c81d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260806T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260806T180000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Ts Saifullizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:86f99c754016e8e322ca2c3e64ee08347ca8283e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260807T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260807T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Khairul Munir Hanif\nOverlapping class entry
+ : check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3a08e37541105162212ae9183fe23df56328970d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260807T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260807T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Nur Izzati Bakarudin\nOverlapping class entr
+ y: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:150de3df3a1a976c2dd9ecdb611c1364b35aee35@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260807T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260807T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Sufiyan Amril\nOverlapping class entry: chec
+ k with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:45195c56ac511ffa10f7d793a58159ed07631ff5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260807T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260807T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Dr Faizal Tukimon\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7cb86fb6ccdb1119204b090ed47c5d83e77c41dd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260807T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260807T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Nazrin Mohd Nazri\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:975381b61c5b0b5787e4f6602526d74365451250@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260810T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260810T110000
+SUMMARY:SEM 5 - DMTM - MTM 1892
+LOCATION:KT2-L03-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Addam Paat
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:467ae93d4e02a9713ffc4d3a719649c00cef1f78@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260811T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260811T110000
+SUMMARY:SEM 5 - DMTM - MTM 1892
+LOCATION:KT2-L03-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Addam Paat\nNotes: Replacement Hours
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ef944349505c0c4507bbebfbcb181fc9fe03052f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260812T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260812T180000
+SUMMARY:SEM 5 - DMTM - MPT 0132
+LOCATION:KT2-L01-09
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Isa Mohamad Ashaari
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:44c33e9d3a4dda3dffbd9449137c81a4097d2b9a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260813T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260813T110000
+SUMMARY:SEM 5 - DMTM - MET 2122
+LOCATION:KT2-L04-05_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Ts Saifullizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d195626b25d119ccb30347fda42d3603b5ba1356@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260813T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260813T130000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Ts Saifullizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6a30deb6550b5168150eb855fbb358a7e2a05b81@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260813T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260813T180000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Ts Saifullizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:952168b028ac26b1ddce734da7b67bcbe076f182@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260814T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260814T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Khairul Munir Hanif\nOverlapping class entry
+ : check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:af11ef5d71e38fcdd197756ecbcc120f78e8ac1d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260814T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260814T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Nur Izzati Bakarudin\nOverlapping class entr
+ y: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:33a3b5520f04beea6629eabc48b4af10290ee55c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260814T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260814T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Sufiyan Amril\nOverlapping class entry: chec
+ k with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:78b2e96f92cfd2a10e5e622f93684be991e04656@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260814T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260814T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Dr Faizal Tukimon\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:34288dd50951fa8f5a85f61d0657bfbcba998e94@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260814T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260814T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Nazrin Mohd Nazri\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:20933c5c822cf5ae3eeeff7755d7c5f41c087394@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260814T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260814T170000
+SUMMARY:SEM 5 - DMTM - MPU 2183
+LOCATION:KT1-L3-20
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Aida Zahirah\nNotes: Replacement Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1b868f551e11068c0fc6f3e6d55728fadae458b4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260817T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260817T110000
+SUMMARY:SEM 5 - DMTM - MTM 1892
+LOCATION:KT2-L03-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Addam Paat
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ce47ecabba4d29405a7f985b721fd43a13757942@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260817T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260817T170000
+SUMMARY:SEM 5 - DMTM - MPU 2183
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Aida Zahirah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:178d054ce5f29b2597f039b3619ad7dc85bde625@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260819T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260819T130000
+SUMMARY:SEM 5 - DMTM - MET 2122
+LOCATION:KT2-L04-05_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Ts Saifullizan\nNotes: Replacement Hours
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:61d8822d8cc277e0ad3d312d1d9d0e51b589851e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260819T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260819T180000
+SUMMARY:SEM 5 - DMTM - MPT 0132
+LOCATION:KT2-L01-09
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Isa Mohamad Ashaari
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:546c9fe404115fd20428fa7e3579c502b41244a2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260820T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260820T110000
+SUMMARY:SEM 5 - DMTM - MET 2122
+LOCATION:KT2-L04-05_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Ts Saifullizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d297c5c9bd5dc2c7aa56a523ad73adc779ea17e7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260820T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260820T130000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Ts Saifullizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e5e75967d1ea017332f75eccdd8b693075073926@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260820T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260820T180000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Ts Saifullizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:de7b4428991eca96755faeda79c50d6b2a338014@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260821T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260821T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Khairul Munir Hanif\nOverlapping class entry
+ : check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4263453796627f151bc81ac189371997769360d5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260821T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260821T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Nur Izzati Bakarudin\nOverlapping class entr
+ y: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a7ac253f70b77a1e7cb32c6d4cc26d30efe20244@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260821T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260821T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Sufiyan Amril\nOverlapping class entry: chec
+ k with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4d1ab6b03d1bec11d8d1e106c3ab0950430c236a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260821T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260821T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Dr Faizal Tukimon\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:66246e2f2e650be5859bbf2084e34671c0cf1858@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260821T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260821T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Nazrin Mohd Nazri\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ce7f3aecde242dbe8821ff746a9e09bbfde4f0cc@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260824T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260824T110000
+SUMMARY:SEM 5 - DMTM - MTM 1892
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Addam Paat\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d59fbf87c95d68e965f0a491abeb44272b8ead1c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260824T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260824T170000
+SUMMARY:SEM 5 - DMTM - MPU 2183
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Aida Zahirah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:22563e15bfd8a1a75f742462d03689f5482c5d5c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260826T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260826T180000
+SUMMARY:SEM 5 - DMTM - MPT 0132
+LOCATION:KT2-L01-09
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Isa Mohamad Ashaari
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d4fc50865988e72983c4052add9eb4de9a48b9f1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260827T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260827T110000
+SUMMARY:SEM 5 - DMTM - MET 2122
+LOCATION:KT2-L04-05_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Ts Saifullizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:449ae73a44149eeb396923b7d72c919f64007ad8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260827T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260827T130000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Ts Saifullizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:39aa4b5dc1361f9b72fb600fad18fa754af0739f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260827T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260827T180000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Ts Saifullizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:84e3e0550cc8654dea8682b2aeb2f5642fc7994e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260828T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260828T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Khairul Munir Hanif\nOverlapping class entry
+ : check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:da12b4d4f584e2a4e71c863de1efcf0b442df31b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260828T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260828T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Nur Izzati Bakarudin\nOverlapping class entr
+ y: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:48d892632b926a47231a6ba1f8f63463fa781cad@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260828T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260828T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Sufiyan Amril\nOverlapping class entry: chec
+ k with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fa35e8ae90d037b4fa05e5c0e6c33870fb7e0ca7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260828T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260828T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Dr Faizal Tukimon\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:38769a2142a026d16bce726b349411538631581b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260828T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260828T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Nazrin Mohd Nazri\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:614ab6852af82c34e06a272d19c8bf9b58e1770e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260907T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260907T130000
+SUMMARY:SEM 5 - DMTM - Merdeka Celebration
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4592baf56fd71bbcbd1cabde9801e3c7f608980d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260907T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260907T170000
+SUMMARY:SEM 5 - DMTM - MPU 2183
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Aida Zahirah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8bea5402fa271b527459fe0c96cd2071c840e8a1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260908T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260908T130000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Umar Patthi\nOverlapping class entry: check 
+ with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d8aa61beb760c1655b5641429c2518ed5e265c04@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260908T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260908T130000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Khairul Munir Hanif\nNotes: Seconder\nOverla
+ pping class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a7f4fa2e496d6f5a03bbb5e08db82a85cd04a7eb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260908T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260908T160000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Umar Patthi\nOverlapping class entry: check 
+ with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:61cbf230d7e26a60a60ce6c0e4aa6c38d64bc9e6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260908T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260908T160000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Khairul Munir Hanif\nNotes: Seconder\nOverla
+ pping class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:497fa98364d9c41fb2053c18a63fcad991c3f552@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260909T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260909T180000
+SUMMARY:SEM 5 - DMTM - MPT 0132
+LOCATION:KT2-L01-09
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Isa Mohamad Ashaari
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:079cf42feefd1bf6a81c034ddf337c416a41b7e1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260910T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260910T110000
+SUMMARY:SEM 5 - DMTM - MTM 1892
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Addam Paat\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2d3267a9a84309dc8353857deed3720fe4580a49@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260910T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260910T170000
+SUMMARY:SEM 5 - DMTM - MET 2122
+LOCATION:KT2-L04-05_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Dr Faizal Tukimon
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d17c6cb42fa0bfafaba2455805d3b5bfb1efefd4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260911T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260911T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Khairul Munir Hanif\nOverlapping class entry
+ : check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:333013509a4e624b169c2558261fd6ec7d616a36@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260911T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260911T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Nur Izzati Bakarudin\nOverlapping class entr
+ y: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4da732d7b891f3da1ef24e568b4123e5c367352b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260911T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260911T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Sufiyan Amril\nOverlapping class entry: chec
+ k with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3b84e14e87caf7b45d670d52a5201e49d7eda2db@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260911T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260911T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Dr Faizal Tukimon\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6f306b36ab2230ac814dc7f63d3e282a5f14f4e2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260911T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260911T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Nazrin Mohd Nazri\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:72e83a412e8d87701421b30d97522d3d576f86a3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260914T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260914T110000
+SUMMARY:SEM 5 - DMTM - MTM 1892
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Addam Paat\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e3741144049ea98b1a8808c2a397c6d59a00ee49@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260914T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260914T170000
+SUMMARY:SEM 5 - DMTM - MPU 2183
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Aida Zahirah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:201b1ebe74cf3ed9e21594583c0d0bf979f0f59c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260915T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260915T130000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Umar Patthi\nOverlapping class entry: check 
+ with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:39107b462531ba617ab789fead2cb738979fdbb3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260915T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260915T130000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Khairul Munir Hanif\nNotes: Seconder\nOverla
+ pping class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:763d1d8f1469fc0ac7af09aaa65132cba5a1e054@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260915T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260915T160000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Umar Patthi\nOverlapping class entry: check 
+ with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f5164200be35b9856225e6cec88c955c5cbfed60@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260915T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260915T160000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Khairul Munir Hanif\nNotes: Seconder\nOverla
+ pping class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:84115cd9ec88cb1785d320f1f03fbc37b0996502@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260916T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260916T180000
+SUMMARY:SEM 5 - DMTM - MPT 0132
+LOCATION:KT2-L01-09
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Isa Mohamad Ashaari\nCalendar exception: Mal
+ aysia Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c0111d3860f5d1ff19ab691a1499829b348c9235@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260917T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260917T170000
+SUMMARY:SEM 5 - DMTM - MET 2122
+LOCATION:KT2-L04-05_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Dr Faizal Tukimon
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:03c0db89f24d496bdd2fb18f6d40227bd6ba19d7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260918T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260918T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Khairul Munir Hanif\nOverlapping class entry
+ : check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e8c34bd195f5aeea7d15ae3e056840f97caa37fc@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260918T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260918T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Nur Izzati Bakarudin\nOverlapping class entr
+ y: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8bb70666dd646dcfef8c2f58055be47a158967a3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260918T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260918T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Sufiyan Amril\nOverlapping class entry: chec
+ k with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:487f30031531ef35aa672dc0865c1687f9f300d4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260918T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260918T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Dr Faizal Tukimon\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:15e98e7faecc117c0dcc7b3ad161dbdcf1219e23@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260918T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260918T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Nazrin Mohd Nazri\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a906e155b80959516decec528e49af696084b8e6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260921T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260921T170000
+SUMMARY:SEM 5 - DMTM - MPU 2183
+LOCATION:KT1-L3-20
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Aida Zahirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:daf139559368b05b90aaa4f6ee185a289efc6725@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260922T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260922T130000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Umar Patthi\nOverlapping class entry: check 
+ with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:35bd47297e2766334466f1cb813d9ee74d55523d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260922T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260922T130000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Khairul Munir Hanif\nNotes: Seconder\nOverla
+ pping class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6d8024af03aa2ef3cc0a97df437992a48e1ce430@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260922T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260922T160000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Umar Patthi\nOverlapping class entry: check 
+ with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3c8ddfa39b072cc56fcbaa61659dfcd247069515@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260922T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260922T160000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Khairul Munir Hanif\nNotes: Seconder\nOverla
+ pping class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a648b62b4681f1b2d9ba45f8162988d0f1c6ffcc@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260923T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260923T130000
+SUMMARY:SEM 5 - DMTM - MTM 1892
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Addam Paat\nNotes: Online Class (21/9)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3bec4f46bb23746f7fed63340ec8a28c25f2bfc2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260923T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260923T180000
+SUMMARY:SEM 5 - DMTM - MPT 0132
+LOCATION:KT2-L01-09
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Isa Mohamad Ashaari
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0aaa0b9af6faf574c13f8ca99e1e52badf78f2bd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260924T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260924T170000
+SUMMARY:SEM 5 - DMTM - MET 2122
+LOCATION:KT2-L04-05_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Dr Faizal Tukimon
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:879bdffa18ffbebc8c0d8535c5d0a407248157e0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260925T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260925T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Khairul Munir Hanif\nOverlapping class entry
+ : check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bf3d6cc1cfefba89d6d5b0ecad0efeb626f4251d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260925T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260925T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Nur Izzati Bakarudin\nOverlapping class entr
+ y: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0350123093b72d6ddfdfbf5f4c8da3371c58dde1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260925T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260925T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Sufiyan Amril\nOverlapping class entry: chec
+ k with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6e495cb6b14af8cc8432d79e5d95d9069e03dbb0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260925T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260925T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Nazrin Mohd Nazri\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9a8088d093ef6dd92b187199cb7f8d975876333c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260928T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260928T110000
+SUMMARY:SEM 5 - DMTM - MTM 1892
+LOCATION:KT2-L03-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Addam Paat
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:390aac2b8898581622b3872fb274d0f7aaa93d6c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260928T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260928T170000
+SUMMARY:SEM 5 - DMTM - MPU 2183
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Aida Zahirah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:55e9a408fda7a46c54cf69f3517994142ac9444f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260929T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260929T130000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Umar Patthi\nOverlapping class entry: check 
+ with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0d19e1c6d1edcaed7671f9adfb5b4204fbd1dfc8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260929T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260929T130000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Khairul Munir Hanif\nNotes: Seconder\nOverla
+ pping class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:12ceb25ccb83902c233feac33f733fa7aa4bccf0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260929T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260929T160000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Umar Patthi\nOverlapping class entry: check 
+ with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:dcc134d38c82660022274986a115d21e4ed1462a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260929T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260929T160000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Khairul Munir Hanif\nNotes: Seconder\nOverla
+ pping class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3833c3890d1817202922d4583adbab46a7ea9b87@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260930T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260930T180000
+SUMMARY:SEM 5 - DMTM - MPT 0132
+LOCATION:KT2-L01-09
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Isa Mohamad Ashaari
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0c59a743ad40d923fad8363da292bdeaed73387a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261001T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261001T170000
+SUMMARY:SEM 5 - DMTM - MET 2122
+LOCATION:KT2-L04-05_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Dr Faizal Tukimon
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cae1a20dfd992e06cd2b3dbeba468f5cb152eb6a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261002T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261002T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Khairul Munir Hanif\nOverlapping class entry
+ : check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:03bd97c48798c1bc2fa75971a4e605528ef101b7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261002T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261002T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Nur Izzati Bakarudin\nOverlapping class entr
+ y: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7ca4091154f4e228a51fc7741140786b52bd871b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261002T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261002T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Sufiyan Amril\nOverlapping class entry: chec
+ k with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ea012a47e31da479a25bf2fdb68b2efaf41ef208@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261002T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261002T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Dr Faizal Tukimon\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ab0570b6ecf91dcf476338d40468215883e15269@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261002T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261002T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Nazrin Mohd Nazri\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e46420220bca5d1c5280fe772b31e26843d5b278@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261005T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261005T090000
+SUMMARY:SEM 5 - DMTM - MET 2122
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Dr Faizal Tukimon\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d9cdcf9501e8c700fa9cd8856a3f7b4eabd19047@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261005T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261005T110000
+SUMMARY:SEM 5 - DMTM - MTM 1892
+LOCATION:KT2-L03-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Addam Paat
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1324593219900f4207b1fc55e1ff128998d90ae3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261005T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261005T130000
+SUMMARY:SEM 5 - DMTM - MET 2122
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Dr Faizal Tukimon\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:837bf6f637d2c154d8cbbed27a85be34fa0051c1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261005T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261005T170000
+SUMMARY:SEM 5 - DMTM - MPU 2183
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Aida Zahirah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d0a672790ba7ebc84da0faa218a1a7ed54df60d4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261005T170000
+DTEND;TZID=Asia/Kuala_Lumpur:20261005T180000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Dr Faizal Tukimon
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b6f286af6547399eafe374cebccac4475d82c2fd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261006T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261006T090000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Dr Faizal Tukimon
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d41d9d1edc10aecac5b2647b535b5998e0ae9aa6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261006T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261006T130000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Umar Patthi\nOverlapping class entry: check 
+ with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c92ea598cb100a5654df8da80aee94f75bbcfff2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261006T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261006T130000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Khairul Munir Hanif\nNotes: Seconder\nOverla
+ pping class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f9a7d27cd971245fd5eca86b9b636f85b861b114@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261006T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261006T160000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Umar Patthi\nOverlapping class entry: check 
+ with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7f4d54108a23fb00b5f312306c19d29a6c112dbb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261006T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261006T160000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Khairul Munir Hanif\nNotes: Seconder\nOverla
+ pping class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:00bf2f2fe32fbfdcf13f67c960b4c286078ab5e7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261007T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261007T130000
+SUMMARY:SEM 5 - DMTM - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e6bdbbbc82949586243f9fab8d7bb1714b3686bb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261007T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261007T180000
+SUMMARY:SEM 5 - DMTM - MPT 0132
+LOCATION:KT2-L01-09
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Isa Mohamad Ashaari
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e02a8c913ac0cd72e23e248e08888d8b4d7ca6c2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261008T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261008T090000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Dr Faizal Tukimon
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:456a13b3a2b91aa7bfeaf267512443278a40e0b7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261009T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261009T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Khairul Munir Hanif\nOverlapping class entry
+ : check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a8284ce7254b3ad1e8c4bd4e5c1f5d0d060f99c2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261009T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261009T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Nur Izzati Bakarudin\nOverlapping class entr
+ y: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6ba1d90ce1af95739ca7023af05a087e2b6a6a8e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261009T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261009T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Sufiyan Amril\nOverlapping class entry: chec
+ k with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4447c4a073d88b3d22f866abeb9cc11e1945bb74@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261009T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261009T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Nazrin Mohd Nazri\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0101ec43f806aa4a3e75fcbf6291199d2a4bf75d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261012T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261012T110000
+SUMMARY:SEM 5 - DMTM - MTM 1892
+LOCATION:KT2-L03-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Addam Paat
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:573fecca2c86d7f7fbe95ef36368f9eea0a4db7d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261012T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261012T170000
+SUMMARY:SEM 5 - DMTM - MPU 2183
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Aida Zahirah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a7b275b456a4de2952fe5f34f93286a3d942607e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261013T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261013T130000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Umar Patthi\nOverlapping class entry: check 
+ with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5f291590e311187078f6c0051a2625bc6a9ed2b1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261013T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261013T130000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Khairul Munir Hanif\nNotes: Seconder\nOverla
+ pping class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:518798e62b2c793ef13d512342ff09492101f4ec@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261013T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261013T160000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Umar Patthi\nOverlapping class entry: check 
+ with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:09e0dce33cc6bc1c943c1c70caa4975270a49aee@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261013T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261013T160000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Khairul Munir Hanif\nNotes: Seconder\nOverla
+ pping class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:51a1cd85a86f4ad9151de3409214dd88a6610c5d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261014T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261014T110000
+SUMMARY:SEM 5 - DMTM - MET 2122
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Dr Faizal Tukimon\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:12bfa2bedb8db200e2168f2eb7478d153adf828c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261014T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261014T130000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Dr Faizal Tukimon
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2a31af117175d7046f2f9f8dd34a1c68d7002907@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261014T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261014T180000
+SUMMARY:SEM 5 - DMTM - MPT 0132
+LOCATION:KT2-L01-09
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Isa Mohamad Ashaari
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:44e5709fddf2d3742001695b5d62496649c5816f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261015T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261015T090000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Dr Faizal Tukimon
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3202c187bccf15d0cd30e9429a1c279942854236@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261016T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261016T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Khairul Munir Hanif\nOverlapping class entry
+ : check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e9aa0d71eb19c2dfa89f3d33493c55921f125e6d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261016T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261016T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Nur Izzati Bakarudin\nOverlapping class entr
+ y: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:764b76ed764d720c19cedbac3743e16f9d0df66e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261016T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261016T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Sufiyan Amril\nOverlapping class entry: chec
+ k with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb62947ae0b995e348637e3d800489c408cd2fb6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261016T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261016T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Nazrin Mohd Nazri\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6e35cf063803af510743953d851aa09cbae363e0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261019T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261019T110000
+SUMMARY:SEM 5 - DMTM - MTM 1892
+LOCATION:KT2-L03-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Addam Paat
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:453bc11b20a726e74b1ea84690f65998b1c4fe13@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261019T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261019T130000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Dr Faizal Tukimon
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1616d1ad6b0fa07c2839a16d5f04334f10579dce@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261019T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261019T170000
+SUMMARY:SEM 5 - DMTM - MPU 2183
+LOCATION:KT1-L3-20
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Aida Zahirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2bb44e7f0f0edc73f214054231bdca023ed25036@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261020T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261020T130000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Umar Patthi\nOverlapping class entry: check 
+ with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fe1bd11deea650f12726fb2153a3958100fa780a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261020T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261020T130000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Khairul Munir Hanif\nNotes: Seconder\nOverla
+ pping class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0e97c7743a767d48b9f60e397f6c66de0bdac029@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261020T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261020T160000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Umar Patthi\nOverlapping class entry: check 
+ with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:17a4c1ce2c34bb14b4572041e5d696666227f73a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261020T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261020T160000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Khairul Munir Hanif\nNotes: Seconder\nOverla
+ pping class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8c8863e4794b375d24cf9d31dad00ab638b94af8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261021T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261021T100000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Dr Faizal Tukimon
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f3cf7562756b44eeaccbc45486f244081f737677@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261021T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20261021T130000
+SUMMARY:SEM 5 - DMTM - MET 2122
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Dr Faizal Tukimon\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2aafca72fe291f2f84b6d6c82d47585636ba74f8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261021T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261021T180000
+SUMMARY:SEM 5 - DMTM - MPT 0132
+LOCATION:KT2-L01-09
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Isa Mohamad Ashaari
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:236738144f05d333f8f824bd1e78b76c7f98443c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261023T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261023T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Khairul Munir Hanif\nOverlapping class entry
+ : check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:db48018c7aef3921d192776d8e6688ab47043c2b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261023T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261023T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Nur Izzati Bakarudin\nOverlapping class entr
+ y: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:07fc0fe22d5a7a081a558c6910d721e7ca26c9ec@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261023T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261023T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Sufiyan Amril\nOverlapping class entry: chec
+ k with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a430ecfdb497076e96a28e8814d16a2d47883166@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261023T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261023T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Nazrin Mohd Nazri\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:94eb9fe610c54f1cb067e3232095e6fddba860f8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261026T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261026T110000
+SUMMARY:SEM 5 - DMTM - MTM 1892
+LOCATION:KT2-L03-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Addam Paat\nCalendar exception: JUBLI PERAK 
+ SELANGOR
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:dc62438916cbc76377460ab1c1198d2a521fc2a9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261026T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261026T170000
+SUMMARY:SEM 5 - DMTM - MPU 2183
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Aida Zahirah\nNotes: Online Class\nCalendar 
+ exception: JUBLI PERAK SELANGOR
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f87caf91269ad4691042e8b7ff1dd0d88852dc86@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261027T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261027T130000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Umar Patthi\nOverlapping class entry: check 
+ with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:11dacfc0cef492cb505269bb720169a8367ba6d7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261027T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261027T130000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Khairul Munir Hanif\nNotes: Seconder\nOverla
+ pping class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:34599d9c6027937875035562f251cac39adc5ca4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261027T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261027T160000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Umar Patthi\nOverlapping class entry: check 
+ with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7b315311eed2799bfe0779c53755939441045cd4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261027T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261027T160000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Khairul Munir Hanif\nNotes: Seconder\nOverla
+ pping class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d5821a48a892e8b00057a77501638653d6a4fc08@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261028T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261028T130000
+SUMMARY:SEM 5 - DMTM - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:de500fb16510666ddebe7f44525127f02836a3c3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261028T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261028T180000
+SUMMARY:SEM 5 - DMTM - MPT 0132
+LOCATION:KT2-L01-09
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Isa Mohamad Ashaari
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:22b4b642bd161dec7b7c7aae9370a11e8c6f6d04@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261029T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261029T170000
+SUMMARY:SEM 5 - DMTM - MET 2122
+LOCATION:KT2-L04-05_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Dr Faizal Tukimon
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:58e3ddfd18337158e84236623f07e4ed1955a278@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261030T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261030T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Khairul Munir Hanif\nOverlapping class entry
+ : check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d5c3adde009737f23a8a3f4aa221f6edfc7c94b2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261030T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261030T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Nur Izzati Bakarudin\nOverlapping class entr
+ y: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4e952eb11a7d49d27032828197e5a7730e9b1389@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261030T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261030T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Sufiyan Amril\nOverlapping class entry: chec
+ k with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f43e2c9f5115a3df4a199b3fb9b952718e7f4a0e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261030T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261030T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Dr Faizal Tukimon\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:28bc6deb671c87dd529af6222c238c62df6d025e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261030T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261030T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Nazrin Mohd Nazri\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:44b902ef5297b3a4bdbe9708a4aa94dd664601c6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261102T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261102T110000
+SUMMARY:SEM 5 - DMTM - MTM 1892
+LOCATION:KT2-L03-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Addam Paat
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cdcb54c9038b840defc77f5ebfe6fee125c6897d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261102T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261102T170000
+SUMMARY:SEM 5 - DMTM - MPU 2183
+LOCATION:KT1-L3-20
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Aida Zahirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c81420f76002003b9d6e822d1171003a91fc370e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261103T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261103T130000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Umar Patthi\nOverlapping class entry: check 
+ with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b39592262a8a7d5e006c0c80c30ae41da7c00abf@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261103T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261103T130000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Khairul Munir Hanif\nNotes: Seconder\nOverla
+ pping class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2195c3bd3dbc3ac67e1d669fe4d4bb4c88f05bc8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261103T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261103T160000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Umar Patthi\nOverlapping class entry: check 
+ with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e54f92658234cfbb3e24aaf75638c4cc37febb36@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261103T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261103T160000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Khairul Munir Hanif\nNotes: Seconder\nOverla
+ pping class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:aaf76442a446a3bed8799e807dff9346d7a56cdc@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261104T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261104T180000
+SUMMARY:SEM 5 - DMTM - MPT 0132
+LOCATION:KT2-L01-09
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Isa Mohamad Ashaari
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c56ee3a121b63f14693d5de344d36c50025bb9a1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261105T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261105T170000
+SUMMARY:SEM 5 - DMTM - MET 2122
+LOCATION:KT2-L04-05_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Dr Faizal Tukimon
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3b5ee8536174974aa8b2cd620625a3adbaade996@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261106T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261106T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Khairul Munir Hanif\nOverlapping class entry
+ : check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ed167e714414090d35eb71b7c362fd32c290a789@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261106T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261106T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Nur Izzati Bakarudin\nOverlapping class entr
+ y: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7540bdd7f0ef0df611e01300b0a53c4004a135ef@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261106T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261106T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Sufiyan Amril\nOverlapping class entry: chec
+ k with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3341ef7366d997bdf3e34c194a6e916c525e1cd9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261106T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261106T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Dr Faizal Tukimon\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0c1365e272332b0856828ce5f145a87692f0262e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261106T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261106T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Nazrin Mohd Nazri\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d635b00076109ea4f48eb11cf1cb25ac87e38834@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261109T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261109T110000
+SUMMARY:SEM 5 - DMTM - MTM 1892
+LOCATION:KT2-L03-04
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Addam Paat\nCalendar exception: Deepavali Da
+ y
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:35978ceb8340c97e244075627dd948815d8414a4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261109T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261109T170000
+SUMMARY:SEM 5 - DMTM - MPU 2183
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Aida Zahirah\nNotes: Online Class\nCalendar 
+ exception: Deepavali Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6c2405a6475c4e46e859bae18622470fa651e5e7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261110T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261110T130000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Umar Patthi\nOverlapping class entry: check 
+ with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6f2f4641eb7d6b231a120d81e97154c35a7deee0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261110T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261110T130000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Khairul Munir Hanif\nNotes: Seconder\nOverla
+ pping class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:700415864913b71be45e4b550f0e9eb11b4d7787@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261110T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261110T160000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Umar Patthi\nOverlapping class entry: check 
+ with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f7fe60b5cc1236a617395a2a03c2f342b4f9951f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261110T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261110T160000
+SUMMARY:SEM 5 - DMTM - MTM 1863
+LOCATION:KT3-L03-17A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Khairul Munir Hanif\nNotes: Seconder\nOverla
+ pping class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e2f497ff24ed773a1962d439245e8e0535007294@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261111T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261111T180000
+SUMMARY:SEM 5 - DMTM - MPT 0132
+LOCATION:KT2-L01-09
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Isa Mohamad Ashaari
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ec78fd65fd1f2b11f0c20d3457c83f5600b38e51@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261112T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261112T170000
+SUMMARY:SEM 5 - DMTM - MET 2122
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Dr Faizal Tukimon\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:aa549a6c48713ee9fa2bfcdfe8e77d94f9cc1f27@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261113T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261113T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Khairul Munir Hanif\nOverlapping class entry
+ : check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1263aaf7c26f6e12011da758ed16810576945523@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261113T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261113T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Nur Izzati Bakarudin\nOverlapping class entr
+ y: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:49befec247137462e6313bc26763317302d8b123@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261113T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261113T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Sufiyan Amril\nOverlapping class entry: chec
+ k with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:010d159cec38b9a39a6e20fde0ce299a65abc77c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261113T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261113T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Dr Faizal Tukimon\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:001b681c7cd771222cf0aa4b129933cbbfa79073@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261113T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261113T120000
+SUMMARY:SEM 5 - DMTM - PTP 1424 MTM
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMTM\nLecturer: Nazrin Mohd Nazri\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR

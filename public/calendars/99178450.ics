@@ -1,0 +1,1084 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Student Timetable//Class Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SEM 5 - DEIT 1
+X-WR-TIMEZONE:Asia/Kuala_Lumpur
+BEGIN:VTIMEZONE
+TZID:Asia/Kuala_Lumpur
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:MYT
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:4b8d4731f45fcb7008dc7836e7d79b2fa07afa07@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260706T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260706T130000
+SUMMARY:SEM 5 - DEIT 1 - MPC 0833
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Faizal Ismail\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:64cb26e23071f49805a2ba30834389555da2381a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260706T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260706T190000
+SUMMARY:SEM 5 - DEIT 1 - COS 0673
+LOCATION:KT5-L10-010
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Tengku Muhamad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:03cc026c398a28d408110facbc189ebf807d82e0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260707T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260707T130000
+SUMMARY:SEM 5 - DEIT 1 - SPG 0422
+LOCATION:KT5-L11-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Dr Sham Firdaus
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:498c251bbd25231d23ba2e260fd01dd8f6ed56d7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260707T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260707T190000
+SUMMARY:SEM 5 - DEIT 1 - COS 0623
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Roshilah Ramli\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:64f56d52cb2f968669d2ed05e02358f9ec6868b7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260709T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260709T130000
+SUMMARY:SEM 5 - DEIT 1 - IEP 0734
+LOCATION:KT5-L14-005B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Nur Azrina Dzulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:25348768e757d40a7f6957c1592a67c203edb53e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260713T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260713T130000
+SUMMARY:SEM 5 - DEIT 1 - MPC 0833
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Faizal Ismail\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:27dddafacdaff91de0f2e0efdd25d2408582ec85@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260713T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260713T190000
+SUMMARY:SEM 5 - DEIT 1 - COS 0673
+LOCATION:KT5-L10-010
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Tengku Muhamad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:19717452c5092c47f06b765ea15f2678f8efc5c4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260714T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260714T130000
+SUMMARY:SEM 5 - DEIT 1 - SPG 0422
+LOCATION:KT5-L11-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Dr Sham Firdaus
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5a665e961a8a8533ce556ed1f71c2eeb3808a1cf@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260714T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260714T190000
+SUMMARY:SEM 5 - DEIT 1 - COS 0623
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Roshilah Ramli\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9b21f3c2efb15e3e8d7f5d6c4b62967bed6bf711@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260716T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260716T130000
+SUMMARY:SEM 5 - DEIT 1 - IEP 0734
+LOCATION:KT5-L14-005B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Nur Azrina Dzulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:82ccb7a54896ea64cc5fad0acb95f90bf955c9cc@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260720T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260720T130000
+SUMMARY:SEM 5 - DEIT 1 - MPC 0833
+LOCATION:KT5-L11-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Faizal Ismail
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:71fe0ad148b259368d15f401b5be9130d091da9f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260720T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260720T190000
+SUMMARY:SEM 5 - DEIT 1 - COS 0673
+LOCATION:KT5-L10-010
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Tengku Muhamad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:66d79fe92ab777240426a0ec60226e5a02753054@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260721T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260721T130000
+SUMMARY:SEM 5 - DEIT 1 - SPG 0422
+LOCATION:KT5-L11-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Dr Sham Firdaus
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e7398d8549718408e14d38f9b1c0180e1683dc0d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260721T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260721T190000
+SUMMARY:SEM 5 - DEIT 1 - COS 0623
+LOCATION:KT5-L10-010
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Roshilah Ramli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d8c6a3a88ddfb240ff70fc5c2945881ee9f0c7c9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260723T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260723T130000
+SUMMARY:SEM 5 - DEIT 1 - IEP 0734
+LOCATION:KT5-L14-005B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Nur Azrina Dzulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8ab22685e5be15cc83eda2182dcb68a825dd3b9c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260727T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260727T130000
+SUMMARY:SEM 5 - DEIT 1 - MPC 0833
+LOCATION:KT5-L11-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Faizal Ismail
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:685acf57ea89d2ad424fba118c48bf616b854466@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260727T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260727T190000
+SUMMARY:SEM 5 - DEIT 1 - COS 0673
+LOCATION:KT5-L10-010
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Tengku Muhamad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ce01215f9e229bb80f3cc494bc59f4f48eceae62@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260728T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260728T190000
+SUMMARY:SEM 5 - DEIT 1 - COS 0623
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Roshilah Ramli\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7eb888ba96ecf7c31ec1641db6d74adca738be3a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260729T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260729T130000
+SUMMARY:SEM 5 - DEIT 1 - SPG 0422
+LOCATION:KT5-L11-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Dr Sham Firdaus\nNotes: Replacement Class 
+ (Townhall)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e20f461731af4e07e8ece601cb80949843268bc9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260730T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260730T130000
+SUMMARY:SEM 5 - DEIT 1 - IEP 0734
+LOCATION:KT5-L14-005B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Nur Azrina Dzulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ba269ce1ff3d0e8a814dabf36fe8df777e70ba6d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260803T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260803T130000
+SUMMARY:SEM 5 - DEIT 1 - MPC 0833
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Faizal Ismail\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c69b80409b5b6133af8b0fa015861e7bc973b415@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260803T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260803T190000
+SUMMARY:SEM 5 - DEIT 1 - COS 0673
+LOCATION:KT5-L10-010
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Tengku Muhamad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:56647cf67850382022c029cf36af526d01e8c766@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260804T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260804T190000
+SUMMARY:SEM 5 - DEIT 1 - COS 0623
+LOCATION:KT5-L10-010
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Roshilah Ramli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ca686840c6a2f76181167bc88e0f35efa9794941@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260805T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260805T130000
+SUMMARY:SEM 5 - DEIT 1 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d2a7297aee078e97bb414e87decb8363b13d45ce@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260805T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260805T180000
+SUMMARY:SEM 5 - DEIT 1 - SPG 0422
+LOCATION:KT5-L11-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Dr Sham Firdaus\nNotes: Replacement Class 
+ (Outstation)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9539ed252f0a2ea3de7fc1d3a66780e322ae6243@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260806T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260806T130000
+SUMMARY:SEM 5 - DEIT 1 - IEP 0734
+LOCATION:KT5-L14-005B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Nur Azrina Dzulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d2f37bef678076669fa529021ad4e5ef7066c879@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260810T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260810T130000
+SUMMARY:SEM 5 - DEIT 1 - MPC 0833
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Faizal Ismail\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3a958603931aacffc7e4c01a3f75b7b126981dcb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260810T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260810T190000
+SUMMARY:SEM 5 - DEIT 1 - COS 0673
+LOCATION:KT5-L10-010
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Tengku Muhamad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:63328e59b9cb532a5ca42293de9baccc406b8336@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260811T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260811T190000
+SUMMARY:SEM 5 - DEIT 1 - COS 0623
+LOCATION:KT5-L10-010
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Roshilah Ramli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2c91d79a7367549f94f15c7ef7885619a0158195@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260812T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260812T130000
+SUMMARY:SEM 5 - DEIT 1 - SPG 0422
+LOCATION:KT5-L11-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Dr Sham Firdaus\nNotes: Replacement Class 
+ (GermanVisit)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:69190d56e531a5094a7f99c82da4d5d0b6cf1437@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260813T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260813T130000
+SUMMARY:SEM 5 - DEIT 1 - IEP 0734
+LOCATION:KT5-L14-005B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Nur Azrina Dzulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8ba884eb1784c5340db4f7d05f2f0797f9b22c71@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260817T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260817T130000
+SUMMARY:SEM 5 - DEIT 1 - MPC 0833
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Faizal Ismail\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:39b6568da1f8103bd8a73bfe7fa09af7f53abdc9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260817T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260817T190000
+SUMMARY:SEM 5 - DEIT 1 - COS 0673
+LOCATION:KT5-L10-010
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Tengku Muhamad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fec66e39915cee7a47b36a1fd202b5ce0c4376b1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260818T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260818T130000
+SUMMARY:SEM 5 - DEIT 1 - SPG 0422
+LOCATION:KT5-L11-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Dr Sham Firdaus
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d5bec70b331f9367f56aee669ec7a6e547f0fec1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260818T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260818T190000
+SUMMARY:SEM 5 - DEIT 1 - COS 0623
+LOCATION:KT5-L10-010
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Roshilah Ramli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c196516d2eb5d7beca20766337ad18e5b1ef6a1a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260819T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260819T130000
+SUMMARY:SEM 5 - DEIT 1 - SPG 0422
+LOCATION:KT5-L11-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Dr Sham Firdaus\nNotes: Replacement Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9f13c288948d8b5a65d5b44983b64f8e59454b16@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260819T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260819T180000
+SUMMARY:SEM 5 - DEIT 1 - SPG 0422
+LOCATION:KT5-L11-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Dr Sham Firdaus\nNotes: Replacement Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4e885608dfa0fbc581721a18da9eea8de846333e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260820T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260820T130000
+SUMMARY:SEM 5 - DEIT 1 - IEP 0734
+LOCATION:KT5-L14-005B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Nur Azrina Dzulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ede0637fefe2d8374c14273cd3643b1abbdbe9d6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260824T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260824T130000
+SUMMARY:SEM 5 - DEIT 1 - MPC 0833
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Faizal Ismail\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:71de512535900e008ebb3b8d4864a7e12afcc797@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260824T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260824T190000
+SUMMARY:SEM 5 - DEIT 1 - COS 0673
+LOCATION:KT5-L10-010
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Tengku Muhamad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c763a5c01071607101c8cf8cc08dfe94e9986917@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260825T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260825T130000
+SUMMARY:SEM 5 - DEIT 1 - SPG 0422
+LOCATION:KT5-L11-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Dr Sham Firdaus\nCalendar exception: Mauli
+ dur Rasul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d162599d8ece69172c8a249c0abfb4fb776485a1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260825T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260825T190000
+SUMMARY:SEM 5 - DEIT 1 - COS 0623
+LOCATION:KT5-L10-010
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Roshilah Ramli\nCalendar exception: Maulid
+ ur Rasul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:50c36462bfdba1e52b7f93197d5b7f8162b5597a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260827T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260827T130000
+SUMMARY:SEM 5 - DEIT 1 - IEP 0734
+LOCATION:KT5-L14-005B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Nur Azrina Dzulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6dbec32c003b593f23992c276901d60e1204046a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260907T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260907T130000
+SUMMARY:SEM 5 - DEIT 1 - Merdeka Celebration
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4a6fdcc8a66830acb676e749ca9fd8c1caf45a51@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260907T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260907T190000
+SUMMARY:SEM 5 - DEIT 1 - COS 0673
+LOCATION:KT5-L10-010
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Tengku Muhamad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:91c6b5bbd492d54900b023fec5dfa5452ee1e389@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260908T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260908T130000
+SUMMARY:SEM 5 - DEIT 1 - SPG 0422
+LOCATION:KT5-L11-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Dr Sham Firdaus
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7e8ff01675a2e77738b3f26e08d00f6aba73d3e0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260910T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260910T130000
+SUMMARY:SEM 5 - DEIT 1 - IEP 0734
+LOCATION:KT5-L14-005B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Nur Azrina Dzulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:31c03a5606b7332a83a9da0b774e6fd0ee412166@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260914T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260914T130000
+SUMMARY:SEM 5 - DEIT 1 - MPC 0833
+LOCATION:KT5-L11-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Faizal Ismail
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7c4ff23c7cf9e3c5b3b9d0b06ab2a847b6e237f6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260914T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260914T190000
+SUMMARY:SEM 5 - DEIT 1 - COS 0673
+LOCATION:KT5-L10-010
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Tengku Muhamad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a0601c1ef4f4e8767adc7e957d723000e5663db7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260915T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260915T130000
+SUMMARY:SEM 5 - DEIT 1 - SPG 0422
+LOCATION:KT5-L11-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Dr Sham Firdaus
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6bb90f7237212dbb0ebcf5a09e159fc13e9b7a21@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260915T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260915T190000
+SUMMARY:SEM 5 - DEIT 1 - COS 0623
+LOCATION:KT5-L10-010
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Roshilah Ramli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:36b4e180cc2d623847ce39bd1228273d6242d72d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260917T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260917T130000
+SUMMARY:SEM 5 - DEIT 1 - IEP 0734
+LOCATION:KT5-L14-005B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Nur Azrina Dzulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fbbf0f7eb0bfbcc70bca38db792ef97b76962988@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260918T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260918T180000
+SUMMARY:SEM 5 - DEIT 1 - SPG 0422
+LOCATION:KT5-L11-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Dr Sham Firdaus\nNotes: Replacement Class 
+ (PH)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2a4692027c69cd15bbbd9b9394bdc35f431b789c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260921T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260921T190000
+SUMMARY:SEM 5 - DEIT 1 - COS 0673
+LOCATION:KT5-L10-010
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Tengku Muhamad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8aea58f9a74ca87d497ba7d7999552c8c0b310e5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260922T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260922T130000
+SUMMARY:SEM 5 - DEIT 1 - SPG 0422
+LOCATION:KT5-L11-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Dr Sham Firdaus
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f42e0986f2829a2131a6c74b78e4e99f6cb8f570@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260922T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260922T190000
+SUMMARY:SEM 5 - DEIT 1 - COS 0623
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Roshilah Ramli\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cc5838baf408dfb13fa3c8cf5a26ebf0e6215d1f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260923T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260923T130000
+SUMMARY:SEM 5 - DEIT 1 - MPC 0833
+LOCATION:KT5-L11-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Faizal Ismail\nNotes: Replacement Class (2
+ 1/9)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:451c01295f00bd2c4b46ae05e9e4f155dc6aaa96@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260924T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260924T130000
+SUMMARY:SEM 5 - DEIT 1 - IEP 0734
+LOCATION:KT5-L14-005B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Nur Azrina Dzulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:851433c3fec9730745accf967ef671a05952a4ab@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260925T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260925T130000
+SUMMARY:SEM 5 - DEIT 1 - COS 0623
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Roshilah Ramli\nNotes: Online Replacement 
+ Class (CANSAT)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0e13280ad5e7ce824bb833323d643a75480be63b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260928T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260928T130000
+SUMMARY:SEM 5 - DEIT 1 - MPC 0833
+LOCATION:KT5-L11-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Faizal Ismail
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:986920b3f84e902a599d818c7cb5ac638cac7ded@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260928T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260928T190000
+SUMMARY:SEM 5 - DEIT 1 - COS 0673
+LOCATION:KT5-L10-010
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Tengku Muhamad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:077aa334d07ed11745a1910a8371f0fc5847c6cd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260929T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260929T130000
+SUMMARY:SEM 5 - DEIT 1 - SPG 0422
+LOCATION:KT5-L11-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Dr Sham Firdaus
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1bce66a0972bed33b2ddc92fbab6bfdb1576fd97@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260929T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260929T190000
+SUMMARY:SEM 5 - DEIT 1 - COS 0623
+LOCATION:KT5-L10-010
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Roshilah Ramli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:806756fc01264f233d956a98022c12ea0764b98f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261001T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261001T130000
+SUMMARY:SEM 5 - DEIT 1 - IEP 0734
+LOCATION:KT5-L14-005B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Nur Azrina Dzulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d8d983b4f58eb19f635e3c608742ca0104132fb4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261005T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261005T130000
+SUMMARY:SEM 5 - DEIT 1 - MPC 0833
+LOCATION:KT5-L11-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Faizal Ismail
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:05e9dfef231039902c7ce1debdef1f94b11b752b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261005T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261005T190000
+SUMMARY:SEM 5 - DEIT 1 - COS 0673
+LOCATION:KT5-L10-010
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Tengku Muhamad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7b0cd43d60268a5c0ae395ed3f0d1f6eb76814f8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261006T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261006T130000
+SUMMARY:SEM 5 - DEIT 1 - SPG 0422
+LOCATION:KT5-L11-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Dr Sham Firdaus
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:adf7282c4c4537391aa65322e06c5089a4bdca8f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261006T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261006T190000
+SUMMARY:SEM 5 - DEIT 1 - COS 0623
+LOCATION:KT5-L10-010
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Roshilah Ramli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ff512c6c1b001d3c526c7171ae65c3c05055b366@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261007T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261007T130000
+SUMMARY:SEM 5 - DEIT 1 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b45f62c342f61477258384721148b56fc5aa88bf@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261008T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261008T130000
+SUMMARY:SEM 5 - DEIT 1 - IEP 0734
+LOCATION:KT5-L14-005B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Nur Azrina Dzulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d87685696e75600b059434dc668bae613b76bd64@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261012T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261012T130000
+SUMMARY:SEM 5 - DEIT 1 - MPC 0833
+LOCATION:KT5-L11-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Faizal Ismail
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6000ae3c2255ec28a0eba18d5162213e6ed751e7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261012T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261012T190000
+SUMMARY:SEM 5 - DEIT 1 - COS 0673
+LOCATION:KT5-L10-010
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Tengku Muhamad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8e1fb2ed8961420eb8efb9c7a15da690f96a72c8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261013T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261013T130000
+SUMMARY:SEM 5 - DEIT 1 - SPG 0422
+LOCATION:KT5-L11-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Dr Sham Firdaus
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0f5c09874ba8cb52ec33d4ac123d9ad567ecf8bf@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261013T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261013T190000
+SUMMARY:SEM 5 - DEIT 1 - COS 0623
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Roshilah Ramli\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c14a418d00fb6823c4a329fa52b491e81ded8f5c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261015T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261015T130000
+SUMMARY:SEM 5 - DEIT 1 - IEP 0734
+LOCATION:KT5-L14-005B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Nur Azrina Dzulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6b9ac7eb955709ec9aed2d4b1df7e28f5c03e85b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261019T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261019T130000
+SUMMARY:SEM 5 - DEIT 1 - MPC 0833
+LOCATION:KT5-L11-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Faizal Ismail
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:405572f4529392c532000eed64f8a340ae5d7e61@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261019T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261019T190000
+SUMMARY:SEM 5 - DEIT 1 - COS 0673
+LOCATION:KT5-L10-010
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Tengku Muhamad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d83f5f412ab04614bd87ea55ca444e78354d435b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261020T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261020T130000
+SUMMARY:SEM 5 - DEIT 1 - SPG 0422
+LOCATION:KT5-L11-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Dr Sham Firdaus
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:33e5dd25060ecfd361d5e68a837c03fb8e70e4b6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261020T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261020T190000
+SUMMARY:SEM 5 - DEIT 1 - COS 0623
+LOCATION:KT5-L10-010
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Roshilah Ramli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:763338ff48e060342ccea4059fe8b7fa65bfdf13@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261022T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261022T130000
+SUMMARY:SEM 5 - DEIT 1 - IEP 0734
+LOCATION:KT5-L14-005B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Nur Azrina Dzulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fd7eac23e93d3ccf54b3b8790502bc3ef6a3196a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261026T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261026T130000
+SUMMARY:SEM 5 - DEIT 1 - MPC 0833
+LOCATION:KT5-L11-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Faizal Ismail\nCalendar exception: JUBLI P
+ ERAK SELANGOR
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d7808b32aaf0b8b97d7eb2de22850866d174ba21@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261026T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261026T190000
+SUMMARY:SEM 5 - DEIT 1 - COS 0673
+LOCATION:KT5-L10-010
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Tengku Muhamad\nCalendar exception: JUBLI 
+ PERAK SELANGOR
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b65060c736ed853edacbb3fe7cb2c677d2214570@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261027T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261027T130000
+SUMMARY:SEM 5 - DEIT 1 - SPG 0422
+LOCATION:KT5-L11-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Dr Sham Firdaus
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8fe1d5a766ef279045900cb8437d9d220cd59be8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261027T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261027T190000
+SUMMARY:SEM 5 - DEIT 1 - COS 0623
+LOCATION:KT5-L10-010
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Roshilah Ramli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9969d1302c4b0251fccd2d659617c6aed6233ea2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261028T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261028T130000
+SUMMARY:SEM 5 - DEIT 1 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d0e8c82f028afe29940cf60120b33e90a6570257@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261029T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261029T130000
+SUMMARY:SEM 5 - DEIT 1 - IEP 0734
+LOCATION:KT5-L14-005B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Nur Azrina Dzulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b8ee55c8798d5c8365d026586e24e6972c17f0ce@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261102T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261102T130000
+SUMMARY:SEM 5 - DEIT 1 - MPC 0833
+LOCATION:KT5-L11-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Faizal Ismail
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:51e922c509a741833ac90124a6e45398bc0e1256@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261102T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261102T190000
+SUMMARY:SEM 5 - DEIT 1 - COS 0673
+LOCATION:KT5-L10-010
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Tengku Muhamad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d112411537a114b94912f59ba8f6107894a25cf6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261103T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261103T130000
+SUMMARY:SEM 5 - DEIT 1 - SPG 0422
+LOCATION:KT5-L11-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Dr Sham Firdaus
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a8939654fd37bf7b574f989125716b5c61077d46@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261103T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261103T190000
+SUMMARY:SEM 5 - DEIT 1 - COS 0623
+LOCATION:KT5-L10-010
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Roshilah Ramli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:404b43d83038334a54e09632e1227795fb890f0c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261105T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261105T130000
+SUMMARY:SEM 5 - DEIT 1 - IEP 0734
+LOCATION:KT5-L14-005B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Nur Azrina Dzulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e4b0380a63ed6f0e030730f30ca858bdf2390b78@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261109T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261109T130000
+SUMMARY:SEM 5 - DEIT 1 - MPC 0833
+LOCATION:KT5-L11-006
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Faizal Ismail\nCalendar exception: Deepava
+ li Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cfa18301c9d007c48cb55b29232c5684cc3577a6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261109T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261109T190000
+SUMMARY:SEM 5 - DEIT 1 - COS 0673
+LOCATION:KT5-L10-010
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Tengku Muhamad\nCalendar exception: Deepav
+ ali Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c5d0b60df2b34925762be995ec745789296d2c23@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261110T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261110T130000
+SUMMARY:SEM 5 - DEIT 1 - SPG 0422
+LOCATION:KT5-L11-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Dr Sham Firdaus
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ca86f7edc72627326f9ce2e547e24a9ef49f1d67@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261110T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261110T190000
+SUMMARY:SEM 5 - DEIT 1 - COS 0623
+LOCATION:KT5-L10-010
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Roshilah Ramli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:84cec78062042ed71c3f0e177fb5218f19641c77@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261112T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261112T130000
+SUMMARY:SEM 5 - DEIT 1 - IEP 0734
+LOCATION:KT5-L14-005B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DEIT 1\nLecturer: Nur Azrina Dzulkefli
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1146 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Student Timetable//Class Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SEM 5 - DCBS 6
+X-WR-TIMEZONE:Asia/Kuala_Lumpur
+BEGIN:VTIMEZONE
+TZID:Asia/Kuala_Lumpur
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:MYT
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:44f5790d89486b865ff1f7c2c179bd4c61ae2d2d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260706T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260706T130000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2372
+LOCATION:KT2-L05-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Mahidir Hj Ayup
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3ecffc150ed5df2836596cbd97b5068d0f78ce67@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260707T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260707T130000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2383
+LOCATION:KT5-L10-005
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Mahidir Hj Ayup
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:20c1813c85dc6f5e269cf6f2d977dd6bae1149bd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260707T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260707T190000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2363
+LOCATION:KT5-L15-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Areef Aiman
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:dda8810ba48dfaaefb16885bb9899a5f53d18db8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260710T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260710T130000
+SUMMARY:SEM 5 - DCBS 6 - NTC 1052
+LOCATION:KT5-L15-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Syauqi
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f0a6329832b7d9b03dded5abde6369fc06099ca4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260713T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260713T130000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2372
+LOCATION:KT2-L05-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Mahidir Hj Ayup
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8fa2a22ef88983ef6686010f3de53d75881dac8f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260714T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260714T130000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2383
+LOCATION:KT5-L10-005
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Mahidir Hj Ayup
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5c0bda5869b689acec73fd7641ef7bd8d110f863@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260714T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260714T190000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2363
+LOCATION:KT5-L15-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Areef Aiman
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:aaf185025774f69602b9a6e9d66b4edeae859290@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260717T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260717T130000
+SUMMARY:SEM 5 - DCBS 6 - NTC 1052
+LOCATION:KT5-L15-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Syauqi
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ccfc1517fdab2fc78f2a524d4d7d30ab8e93615c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260720T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260720T130000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2372
+LOCATION:KT2-L05-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Mahidir Hj Ayup
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c51df9235394e8dbed5585a791b527316195f957@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260721T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260721T130000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2383
+LOCATION:KT5-L10-005
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Mahidir Hj Ayup
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:61d3453fa4758f7ae46ff2b86736939572750054@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260721T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260721T190000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2363
+LOCATION:KT5-L15-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Areef Aiman
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:31d2c099fa584879753f76de11af8e9f98b64d62@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260724T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260724T130000
+SUMMARY:SEM 5 - DCBS 6 - NTC 1052
+LOCATION:KT5-L15-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Syauqi
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:01bc2951ef1ff167cf95064576598e25d6512070@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260724T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260724T180000
+SUMMARY:SEM 5 - DCBS 6 - SPG 0562
+LOCATION:KT5-L10-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Syamiel Amirun
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6ac28f2f0251dddad93871bc2c52d876e3841389@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260727T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260727T130000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2372
+LOCATION:KT2-L05-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Mahidir Hj Ayup
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ffc2d2adeb1e8368700f624c847a058718c0f361@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260727T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260727T180000
+SUMMARY:SEM 5 - DCBS 6 - SPG 0562
+LOCATION:KT5-L12-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Syamiel Amirun
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7a2543dc431253abbb7aead10b4cb90792fb628e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260728T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260728T130000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2383
+LOCATION:KT5-L10-005
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Mahidir Hj Ayup
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4c53decef5a5f2ae56bb0b09a45165c8b456c1f5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260728T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260728T190000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2363
+LOCATION:KT5-L15-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Areef Aiman
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b067f6810b74e61b6f5687a35c7f4a3eb2baa252@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260731T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260731T130000
+SUMMARY:SEM 5 - DCBS 6 - NTC 1052
+LOCATION:KT5-L15-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Syauqi
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a70e3797b47a0b1004e64c428fe75c435e9bce7f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260803T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260803T120000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2372
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Mahidir Hj Ayup\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:277dc344690c1d4c5671919ec0327bbeeb6c4354@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260803T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260803T180000
+SUMMARY:SEM 5 - DCBS 6 - SPG 0562
+LOCATION:KT5-L12-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Syamiel Amirun
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:66c7543647e2a870cfc55164a4253590a3b4cc18@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260804T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260804T130000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2383
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Mahidir Hj Ayup\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:29bc0ff2e4afea5cf986d7c07408826295b6192c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260804T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260804T190000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2363
+LOCATION:KT5-L15-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Areef Aiman
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1719e7abcdb31026584bde5b7f117098bbd37b15@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260805T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260805T130000
+SUMMARY:SEM 5 - DCBS 6 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:488ca6bd6eb04fa3753507db4a6ee9a87ffcc676@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260807T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260807T130000
+SUMMARY:SEM 5 - DCBS 6 - NTC 1052
+LOCATION:KT5-L15-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Syauqi
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0fd530e94174339974213c6a70e0f2a36cba2c1b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260810T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260810T120000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2372
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Mahidir Hj Ayup\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d62600f9d2b1a6bcf529a636851d1d8d4fe946f1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260810T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260810T180000
+SUMMARY:SEM 5 - DCBS 6 - SPG 0562
+LOCATION:KT5-L12-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Syamiel Amirun
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:50f56c9f17995af6035fbea5887617bb9f3cf03a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260811T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260811T130000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2383
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Mahidir Hj Ayup\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bc6ed56e51bb2088ec96b5c24d81732fb65bd3eb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260811T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260811T190000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2363
+LOCATION:KT5-L15-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Areef Aiman
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1abd1e38fa0e58eb75769684b3d05634560304d9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260814T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260814T130000
+SUMMARY:SEM 5 - DCBS 6 - NTC 1052
+LOCATION:KT5-L15-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Syauqi
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7543bf5169a3d70d54468a3a9e56e16872219d6d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260817T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260817T120000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2372
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Mahidir Hj Ayup\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7d2653ea3411eba01d28bcb0feece6a50d032c3a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260817T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260817T180000
+SUMMARY:SEM 5 - DCBS 6 - SPG 0562
+LOCATION:KT5-L12-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Syamiel Amirun
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9c4bc0882137a30aebe185da814deae8aead9e77@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260818T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260818T130000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2383
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Mahidir Hj Ayup\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fd16467fb3cf259f927f529f2857201628c9d6d2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260818T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260818T190000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2363
+LOCATION:KT5-L15-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Areef Aiman
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6f5f827de7998c5e1ec9edaabdf656a67b225949@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260821T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260821T130000
+SUMMARY:SEM 5 - DCBS 6 - NTC 1052
+LOCATION:KT5-L15-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Syauqi
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f292d74be953b92b56cf9362df41647238ed48ca@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260824T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260824T120000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2372
+LOCATION:KT5-L10-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Mahidir Hj Ayup
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:38753a80c71f34abaabd959b6c86d90bd99aac24@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260824T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260824T180000
+SUMMARY:SEM 5 - DCBS 6 - SPG 0562
+LOCATION:KT5-L12-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Syamiel Amirun
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f6c112cdb48ee830e56f36e8d72b6f34aa4da846@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260825T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260825T130000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2383
+LOCATION:KT5-L10-005
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Mahidir Hj Ayup\nCalendar exception: Mauli
+ dur Rasul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8469aa44d67a66284e29faef323f1127c9367a3f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260828T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260828T130000
+SUMMARY:SEM 5 - DCBS 6 - NTC 1052
+LOCATION:KT5-L15-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Syauqi
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0ea2fed545d01a0257d9e0a38e59bdd6675ad5d1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260907T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260907T130000
+SUMMARY:SEM 5 - DCBS 6 - Merdeka Celebration
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:53c6cb4f7c658dc2e881ef14993bd7cf92b30c67@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260907T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260907T180000
+SUMMARY:SEM 5 - DCBS 6 - SPG 0562
+LOCATION:KT5-L12-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Syamiel Amirun
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:46cb5c6ce5dc3d0ffc32520bcf974aa1cbd572ec@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260908T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260908T190000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2363
+LOCATION:KT5-L15-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Areef Aiman
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7b587ad0ac1d3f7487e1a0d33a4cefda6b001457@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260909T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260909T120000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2372
+LOCATION:KT5-L15-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Mahidir Hj Ayup\nNotes: Replacement Class 
+ (merdeka 7/9)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d77c6c8e1a2c69c8602059e7c79d817ddcb56880@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260910T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260910T190000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2383
+LOCATION:KT5-L10-007
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Mahidir Hj Ayup\nNotes: Replacement Class 
+ (training)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d5d0c2d879a1017111cd9d0ea20918e1a446025d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260911T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260911T130000
+SUMMARY:SEM 5 - DCBS 6 - NTC 1052
+LOCATION:KT5-L15-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Syauqi
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:53371fd86122e6e3a0a02cba346c17af08b38c98@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260914T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260914T120000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2372
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Mahidir Hj Ayup\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a7c8a70699b66a0021783b7d3b28cd137f135d53@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260914T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260914T180000
+SUMMARY:SEM 5 - DCBS 6 - SPG 0562
+LOCATION:KT5-L12-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Syamiel Amirun
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:25257ef948f242f66d6b62e2c7f0452675e3ea7b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260915T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260915T160000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2363
+LOCATION:KT5-L15-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Areef Aiman
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8dcd4879ad2b4d0a3de726f0ba256ce0fb3949fa@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260915T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260915T180000
+SUMMARY:SEM 5 - DCBS 6 - VERIFIER FYP2 JULY26
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Nurul Zafirah\nOverlapping class entry: ch
+ eck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ea9e467e6898067dbfb73f1d88ee574cbfca1b9a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260915T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260915T180000
+SUMMARY:SEM 5 - DCBS 6 - VERIFIER FYP2 JULY26
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Syafiq Hashim\nOverlapping class entry: ch
+ eck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f3d1a7421eabd0c4c81dff02860ef734ac4893e5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260917T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260917T190000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2383
+LOCATION:KT5-L10-005
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Mahidir Hj Ayup\nNotes: Replacement Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ca124c1ba2812344570c8111f59bdf55f6b1af2a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260918T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260918T130000
+SUMMARY:SEM 5 - DCBS 6 - NTC 1052
+LOCATION:KT5-L15-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Syauqi
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2451f41e9c98416caf46ced2ab0204cc4b946b0e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260921T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260921T100000
+SUMMARY:SEM 5 - DCBS 6 - VERIFIER FYP2 JULY26
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Nurul Zafirah\nOverlapping class entry: ch
+ eck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:554f11ff6e8bf78e5f2fa30ebdfbc0043b826c0a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260921T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260921T100000
+SUMMARY:SEM 5 - DCBS 6 - VERIFIER FYP2 JULY26
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Syafiq Hashim\nOverlapping class entry: ch
+ eck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d12627440e77712f148fc49a6bc1f49c49b1c753@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260921T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260921T180000
+SUMMARY:SEM 5 - DCBS 6 - SPG 0562
+LOCATION:KT5-L12-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Syamiel Amirun
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4be90d1c1b6416512754cf6ad6483d625c372a24@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260922T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260922T130000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2383
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Mahidir Hj Ayup\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7a6abdd15af6a1185333ce7cf742cbf1d89e32be@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260922T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260922T190000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2363
+LOCATION:KT5-L15-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Areef Aiman
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:542a0d559206e55ac3dfe6c7c0fc3b4d113f2a73@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260923T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260923T130000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2372
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Mahidir Hj Ayup\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:74f31674d6f6f7728bafd36ab755c890d9788637@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260925T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260925T130000
+SUMMARY:SEM 5 - DCBS 6 - NTC 1052
+LOCATION:KT5-L15-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Syauqi
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e74601a732f6b886dd9820f128fc52c1d00b0110@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260928T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260928T120000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2372
+LOCATION:KT5-L10-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Mahidir Hj Ayup
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:64d8ea63209354fc76c231da39ac64fa204f3dce@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260928T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260928T180000
+SUMMARY:SEM 5 - DCBS 6 - SPG 0562
+LOCATION:KT5-L12-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Syamiel Amirun
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2ffda5a197258cf1f43c26fdc80e649465d89e1e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260929T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260929T130000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2383
+LOCATION:KT5-L10-005
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Mahidir Hj Ayup
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1699c0eb15da933caa292129c3ee154c0bc17168@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260929T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260929T190000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2363
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Areef Aiman\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c449ac983670f7e9d29ab3b13b60020699128a68@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261002T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261002T130000
+SUMMARY:SEM 5 - DCBS 6 - NTC 1052
+LOCATION:KT5-L15-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Syauqi
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:14a103c3e914007159aa0b4ba2a5c1f9879180c6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261005T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261005T120000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2372
+LOCATION:KT5-L10-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Mahidir Hj Ayup
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1b541ee7953a444eac64e01b8cbae2ef69597745@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261005T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261005T180000
+SUMMARY:SEM 5 - DCBS 6 - SPG 0562
+LOCATION:KT5-L12-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Syamiel Amirun
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:09a27d62ac3a8efb60c479f4048bbe78b37f3b97@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261006T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261006T130000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2383
+LOCATION:KT5-L10-005
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Mahidir Hj Ayup
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a519e2d014d81fd87d31125d38d0a124b6eac82e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261006T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261006T190000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2363
+LOCATION:KT5-L15-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Areef Aiman
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ee4c41a2bbb149c6765c30d2ca57e51a58eafe0d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261007T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261007T130000
+SUMMARY:SEM 5 - DCBS 6 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a01cb2299d993379725d34e5ad4ca0e1acb42188@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261009T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261009T130000
+SUMMARY:SEM 5 - DCBS 6 - NTC 1052
+LOCATION:KT5-L15-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Syauqi
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e90c9332a2b4ebb93e293b12a3d84bcc1306b7f6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261012T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261012T120000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2372
+LOCATION:KT5-L10-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Mahidir Hj Ayup
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7a3017042821e4c49010876f3c77a796a256d339@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261012T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261012T180000
+SUMMARY:SEM 5 - DCBS 6 - SPG 0562
+LOCATION:KT5-L12-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Syamiel Amirun
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a8cde54906007c3e835b9a92de01ca08dda1372b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261013T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261013T160000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2363
+LOCATION:KT5-L15-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Areef Aiman
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8686c5524565d193416361c99d1ff86d596086ea@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261013T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20261013T180000
+SUMMARY:SEM 5 - DCBS 6 - VERIFIER FYP2 JULY26
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Nurul Zafirah\nOverlapping class entry: ch
+ eck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fc1702b918899a1f0e442f7d1dbc0b1370f9dea7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261013T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20261013T180000
+SUMMARY:SEM 5 - DCBS 6 - VERIFIER FYP2 JULY26
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Syafiq Hashim\nOverlapping class entry: ch
+ eck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8437a98f40090a1086194db6a2565a30d9d70cbf@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261014T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261014T100000
+SUMMARY:SEM 5 - DCBS 6 - VERIFIER FYP2 JULY26
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Nurul Zafirah\nOverlapping class entry: ch
+ eck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7e3bf71ca2b5462e4aad098fa0d3bbd1fbcccd89@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261014T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261014T100000
+SUMMARY:SEM 5 - DCBS 6 - VERIFIER FYP2 JULY26
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Syafiq Hashim\nOverlapping class entry: ch
+ eck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bf2363e02096592262aab5059887ad8e2a0624a0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261016T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261016T130000
+SUMMARY:SEM 5 - DCBS 6 - NTC 1052
+LOCATION:KT5-L15-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Syauqi
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4ac5414af92e27808b701eca3ac66d4259dfe51d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261019T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261019T120000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2372
+LOCATION:KT5-L10-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Mahidir Hj Ayup
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:862431463304322d386d0ea706edba3f23f11a7e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261019T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261019T180000
+SUMMARY:SEM 5 - DCBS 6 - SPG 0562
+LOCATION:KT5-L12-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Syamiel Amirun
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7c37e976c41827ddcdd7e9accee6d563f88c56fe@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261020T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261020T130000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2383
+LOCATION:KT5-L10-005
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Mahidir Hj Ayup
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c7cde9c7a362cd4136acef3a659dd9632716ba06@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261020T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261020T190000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2363
+LOCATION:KT5-L15-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Areef Aiman
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2775a986d5e4845e6e7d5ad04b173a42d2bcde72@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261023T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261023T130000
+SUMMARY:SEM 5 - DCBS 6 - NTC 1052
+LOCATION:KT5-L15-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Syauqi
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7e058c8e104300405ea1491449990b9d8a75d842@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261026T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261026T120000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2372
+LOCATION:KT5-L10-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Mahidir Hj Ayup\nCalendar exception: JUBLI
+  PERAK SELANGOR
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:da675a29c8fd46f7a56c8eaa92d1fe6bcf6d0c38@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261026T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261026T180000
+SUMMARY:SEM 5 - DCBS 6 - SPG 0562
+LOCATION:KT5-L12-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Syamiel Amirun\nCalendar exception: JUBLI 
+ PERAK SELANGOR
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8cd6956c9f677b32584a6debc6fb65837b667e46@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261027T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20261027T180000
+SUMMARY:SEM 5 - DCBS 6 - VERIFIER FYP2 JULY26
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Nurul Zafirah\nOverlapping class entry: ch
+ eck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d76f0123ad032caa28a37a545080e3b079be0094@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261027T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20261027T180000
+SUMMARY:SEM 5 - DCBS 6 - VERIFIER FYP2 JULY26
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Syafiq Hashim\nOverlapping class entry: ch
+ eck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4858d00dd81c48195c1b099ae2ed6651cfbc6d60@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261028T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261028T130000
+SUMMARY:SEM 5 - DCBS 6 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7fa2f38095f12d40619b354a32487bf882fe64b1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261029T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261029T130000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2363
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Areef Aiman\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3756a5518521ac90a742b5138cc25b7332add739@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261030T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261030T130000
+SUMMARY:SEM 5 - DCBS 6 - NTC 1052
+LOCATION:KT5-L15-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Syauqi
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d68339f65c38910cf536383e8aef5cbe0f325062@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261102T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261102T100000
+SUMMARY:SEM 5 - DCBS 6 - VERIFIER FYP2 JULY26
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Nurul Zafirah\nOverlapping class entry: ch
+ eck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2e6fe01d329a58c5624054324e68318c967583fc@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261102T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261102T100000
+SUMMARY:SEM 5 - DCBS 6 - VERIFIER FYP2 JULY26
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Syafiq Hashim\nOverlapping class entry: ch
+ eck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4575b8f0f75dd55190956874158e755b6cd4db17@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261102T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20261102T130000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2372
+LOCATION:KT5-L10-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Mahidir Hj Ayup
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ccd32c35b17534f972a91869c4bbc1dfd0dff626@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261102T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261102T180000
+SUMMARY:SEM 5 - DCBS 6 - SPG 0562
+LOCATION:KT5-L12-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Syamiel Amirun
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:70ef207a9662aadabca861a65c8a0eea11e98fe7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261103T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261103T130000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2383
+LOCATION:KT5-L10-005
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Mahidir Hj Ayup
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:21f65b391595c057204526ff9ef4bbb1e6319a86@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261103T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261103T190000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2363
+LOCATION:KT5-L15-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Areef Aiman
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b005f1c843b426a6c04cb8b06c2bc20d9816f7af@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261106T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261106T130000
+SUMMARY:SEM 5 - DCBS 6 - NTC 1052
+LOCATION:KT5-L15-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Syauqi
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f60f3ac01b24577f267b46c3dd6ff13aad24fa73@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261109T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261109T120000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2372
+LOCATION:KT5-L10-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Mahidir Hj Ayup\nCalendar exception: Deepa
+ vali Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f130f8d482d64d191706a201f952ae4cfad022b2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261109T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261109T180000
+SUMMARY:SEM 5 - DCBS 6 - SPG 0562
+LOCATION:KT5-L12-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Syamiel Amirun\nCalendar exception: Deepav
+ ali Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:53ce5bff2e609c1e09cf90309bd78ac0de1df72d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261110T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261110T130000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2383
+LOCATION:KT5-L10-005
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Mahidir Hj Ayup
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:041f0efcf13251ed940ceb6ca8e5d368e3641964@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261110T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261110T190000
+SUMMARY:SEM 5 - DCBS 6 - CBS 2363
+LOCATION:KT5-L15-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Areef Aiman
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d69a2a5aad9c3348b0fe69bf71a60334d1a73bc4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261113T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261113T130000
+SUMMARY:SEM 5 - DCBS 6 - NTC 1052
+LOCATION:KT5-L15-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DCBS 6\nLecturer: Syauqi
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR

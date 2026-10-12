@@ -1,0 +1,1580 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Student Timetable//Class Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SEM 3 - DMCH 3
+X-WR-TIMEZONE:Asia/Kuala_Lumpur
+BEGIN:VTIMEZONE
+TZID:Asia/Kuala_Lumpur
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:MYT
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:c7902983fcce7acc31a6b219e3be5c558f136440@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260706T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260706T110000
+SUMMARY:SEM 3 - DMCH 3 - ESP 2052
+LOCATION:KT1-L3-07
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Nur Dhaniah Zainul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:adc0a22194d63cb342226eafedc1bbb90c6d7906@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260706T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260706T130000
+SUMMARY:SEM 3 - DMCH 3 - MPU 2342
+LOCATION:KT1-L3-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Abdul Muzil
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e066fa51ffa9e4421a51a1f45cb6c37d76e42a10@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260706T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260706T170000
+SUMMARY:SEM 3 - DMCH 3 - IAT 0972
+LOCATION:KT5-L08-005
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Dr Zatil Hazrati
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e6bc89b0727a57d61fe3996b0d05678eae7a49d9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260707T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260707T130000
+SUMMARY:SEM 3 - DMCH 3 - IAT 0953
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Dr Nurul Hanan\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e7b4da197356d7fb98c1d783264dd5cf7e63630d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260707T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260707T180000
+SUMMARY:SEM 3 - DMCH 3 - MPU 2422
+LOCATION:KT1-L3-27
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Norsannah Hamzah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:99427aa93a54b488193bc193499bed69fc23c156@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260708T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260708T190000
+SUMMARY:SEM 3 - DMCH 3 - ECT 0323
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Noorfazyhana\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:867ff9b0945a2b46eca36aa142468a21b3c21c3d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260709T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260709T130000
+SUMMARY:SEM 3 - DMCH 3 - EET 0133
+LOCATION:KT5-L14-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Zawani Zakri
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:51432dc590a2d8567a1afe47e6f6f845eb760c70@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260709T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260709T170000
+SUMMARY:SEM 3 - DMCH 3 - QAS 0372
+LOCATION:KT2-L03-06
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Mohamad Faezal
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d18ef6f8b707813fca5b728ccddb979419e0d563@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260713T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260713T110000
+SUMMARY:SEM 3 - DMCH 3 - ESP 2052
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Nur Dhaniah Zainul\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d337092588d61d56a73a5d92c3a1c30fbd24cfb6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260713T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260713T130000
+SUMMARY:SEM 3 - DMCH 3 - MPU 2342
+LOCATION:KT1-L3-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Abdul Muzil
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:594a9fcce243049f9b36d06366313e7229664613@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260714T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260714T130000
+SUMMARY:SEM 3 - DMCH 3 - IAT 0953
+LOCATION:KT5-L09-007
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Dr Nurul Hanan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e9df5ae317ba18885db90e2b681de8c6f253a139@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260714T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260714T180000
+SUMMARY:SEM 3 - DMCH 3 - MPU 2422
+LOCATION:KT1-L3-27
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Norsannah Hamzah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:51edff10f773f26337416992885acd63e51698df@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260715T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260715T190000
+SUMMARY:SEM 3 - DMCH 3 - ECT 0323
+LOCATION:KT5-L05-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Noorfazyhana
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:996a36aa41b344759d2531d5a47b54efbb5c5122@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260716T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260716T130000
+SUMMARY:SEM 3 - DMCH 3 - EET 0133
+LOCATION:KT5-L14-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Zawani Zakri
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:07ee4ca6ddfcf9e29e1188c34c76325633fc87cb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260716T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260716T170000
+SUMMARY:SEM 3 - DMCH 3 - QAS 0372
+LOCATION:KT2-L03-06
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Mohamad Faezal
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fe9245ff97ac42dfa489626c44381a174b19c394@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260717T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260717T110000
+SUMMARY:SEM 3 - DMCH 3 - IAT 0972
+LOCATION:KT5-L08-005
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Dr Zatil Hazrati
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1fd9610a03664db42a207f3f5818037d0d4fb9f3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260720T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260720T110000
+SUMMARY:SEM 3 - DMCH 3 - ESP 2052
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Nur Dhaniah Zainul\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e7c5cb26c6544f9c592393fd4f2f01d2f60369b8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260720T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260720T130000
+SUMMARY:SEM 3 - DMCH 3 - MPU 2342
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Abdul Muzil\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:144416bcb8bba22b46ab1f66f262c678d3b6ba0e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260720T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260720T170000
+SUMMARY:SEM 3 - DMCH 3 - IAT 0972
+LOCATION:KT5-L08-005
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Dr Zatil Hazrati
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:34051310e620b883009b5aff8ce481fe9e9cfeb8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260721T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260721T130000
+SUMMARY:SEM 3 - DMCH 3 - IAT 0953
+LOCATION:KT5-L09-007
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Dr Nurul Hanan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:70a86268e2bebb59509ea68444968e021793ae14@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260721T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260721T180000
+SUMMARY:SEM 3 - DMCH 3 - MPU 2422
+LOCATION:KT1-L3-27
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Norsannah Hamzah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:28856d354ba2f4e9e0815ab6f2474af64c092fb2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260722T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260722T190000
+SUMMARY:SEM 3 - DMCH 3 - ECT 0323
+LOCATION:KT5-L05-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Noorfazyhana
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c51bf7a5238824a29d54aeb01a27f1e4afa76708@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260723T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260723T130000
+SUMMARY:SEM 3 - DMCH 3 - EET 0133
+LOCATION:KT5-L14-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Zawani Zakri
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f8716d927aa03f1c6c8bcd4315a13d2ee8b192b4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260723T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260723T170000
+SUMMARY:SEM 3 - DMCH 3 - QAS 0372
+LOCATION:KT2-L03-06
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Mohamad Faezal
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3c9ef53e90e2f0a1c44fadb15c1eff0582f827ab@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260727T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260727T110000
+SUMMARY:SEM 3 - DMCH 3 - ESP 2052
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Nur Dhaniah Zainul\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:12468db6a6ef07f655b3d10c9143e635d8ba4886@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260727T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260727T130000
+SUMMARY:SEM 3 - DMCH 3 - MPU 2342
+LOCATION:KT1-L3-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Abdul Muzil
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9e855c14027cf6991674665eaa31025705b92da5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260727T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260727T170000
+SUMMARY:SEM 3 - DMCH 3 - IAT 0972
+LOCATION:KT5-L08-005
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Dr Zatil Hazrati
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:48612a132904ac63442848a8ca4752bb2c99c619@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260728T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260728T180000
+SUMMARY:SEM 3 - DMCH 3 - MPU 2422
+LOCATION:KT1-L3-27
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Norsannah Hamzah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:127d52491416a01727cb51de62ab1b2d198deb3c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260729T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260729T190000
+SUMMARY:SEM 3 - DMCH 3 - ECT 0323
+LOCATION:KT5-L05-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Noorfazyhana
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:78b4d56f9a5f1b7f701712a592088731a063c3df@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260730T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260730T170000
+SUMMARY:SEM 3 - DMCH 3 - QAS 0372
+LOCATION:KT2-L03-06
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Mohamad Faezal
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3d5858325a9da70c4416312eb37a389c8728c42c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260803T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260803T110000
+SUMMARY:SEM 3 - DMCH 3 - ESP 2052
+LOCATION:KT1-L3-07
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Nur Dhaniah Zainul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ad159ee64f42ec518217011db24d9d0d9205e2e1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260803T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260803T130000
+SUMMARY:SEM 3 - DMCH 3 - MPU 2342
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Abdul Muzil\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:901339553771f0bc94365b065a4b61025869dd4f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260803T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260803T170000
+SUMMARY:SEM 3 - DMCH 3 - IAT 0972
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Dr Zatil Hazrati\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b312165eeb27083e1654b5775d68c85263b0bba5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260804T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260804T130000
+SUMMARY:SEM 3 - DMCH 3 - IAT 0953
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Dr Nurul Hanan\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ccdaa95d3ccb8c85315539247581e121ede8303f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260804T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260804T180000
+SUMMARY:SEM 3 - DMCH 3 - MPU 2422
+LOCATION:KT1-L3-27
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Norsannah Hamzah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:23d975f8b08fa6cb8cfe88962ef46cab6bea515a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260805T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260805T130000
+SUMMARY:SEM 3 - DMCH 3 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8940340edbee21dc82ea33ea1c0bcab207c6ba9c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260805T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260805T190000
+SUMMARY:SEM 3 - DMCH 3 - ECT 0323
+LOCATION:KT5-L05-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Noorfazyhana
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bcdb1f8cc12eaa7ec90c6d9333d2d093a02b09ad@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260806T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260806T130000
+SUMMARY:SEM 3 - DMCH 3 - EET 0133
+LOCATION:KT5-L14-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Zawani Zakri
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7cff4a813e6b6f508f3ce48c623f4aa451b8716d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260806T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260806T170000
+SUMMARY:SEM 3 - DMCH 3 - QAS 0372
+LOCATION:KT2-L03-06
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Mohamad Faezal
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:af5c540707b184c2d28a574d2a9d77b0a96697eb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260807T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260807T130000
+SUMMARY:SEM 3 - DMCH 3 - IAT 0953
+LOCATION:KT5-L09-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Dr Nurul Hanan\nNotes: Replacement Class (
+ StudentAssembly)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cebdcc1d1031808c589f278c333377d9ed1ea5d5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260810T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260810T110000
+SUMMARY:SEM 3 - DMCH 3 - ESP 2052
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Nur Dhaniah Zainul\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5813b1069f7874af843824ff6cf516f83eeb1b54@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260810T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260810T130000
+SUMMARY:SEM 3 - DMCH 3 - MPU 2342
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Abdul Muzil\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:982e75f822c3ee948c32cd3f59b2a574b86ea2d8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260810T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260810T190000
+SUMMARY:SEM 3 - DMCH 3 - EET 0133
+LOCATION:KT5-L14-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Zawani Zakri\nNotes: Replacement Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b3b93ca08ab6f9584f71801d79b058bea72ee76d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260811T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260811T130000
+SUMMARY:SEM 3 - DMCH 3 - IAT 0953
+LOCATION:KT5-L09-007
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Dr Nurul Hanan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3fa45a5dfac5054386de92239673f1844cd66273@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260811T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260811T180000
+SUMMARY:SEM 3 - DMCH 3 - MPU 2422
+LOCATION:KT1-L3-27
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Norsannah Hamzah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7aae143272afbbcd02c041ed9d8f53b85eab4059@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260812T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260812T190000
+SUMMARY:SEM 3 - DMCH 3 - ECT 0323
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Noorfazyhana\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:15acc3562eb33caaa0088cb89daef5c07a857c8d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260813T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260813T130000
+SUMMARY:SEM 3 - DMCH 3 - EET 0133
+LOCATION:KT5-L14-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Zawani Zakri
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:539bc08747e2540ddd66546692e9d9b118fa96b4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260813T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260813T170000
+SUMMARY:SEM 3 - DMCH 3 - QAS 0372
+LOCATION:KT2-L03-06
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Mohamad Faezal
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6513afcde888ed4569b0b636fd5c671152c6b5ca@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260814T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260814T110000
+SUMMARY:SEM 3 - DMCH 3 - IAT 0972
+LOCATION:KT5-L08-005
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Dr Zatil Hazrati
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:450a99617626eed001927e425162df96162621a6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260817T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260817T110000
+SUMMARY:SEM 3 - DMCH 3 - ESP 2052
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Nur Dhaniah Zainul\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a9c918eaa20aaf70e0da67de9977bca6528076bf@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260817T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260817T130000
+SUMMARY:SEM 3 - DMCH 3 - MPU 2342
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Abdul Muzil\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c58b4171a5d827917e5f789840d2f35375c801e1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260817T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260817T170000
+SUMMARY:SEM 3 - DMCH 3 - IAT 0972
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Dr Zatil Hazrati\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:07525e0d04d490d1b0b8363759dbc5d90f695399@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260818T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260818T130000
+SUMMARY:SEM 3 - DMCH 3 - IAT 0953
+LOCATION:KT5-L09-007
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Dr Nurul Hanan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:edd9223adb1838ae779a71a5ec5d4291dfaea1dd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260818T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260818T180000
+SUMMARY:SEM 3 - DMCH 3 - MPU 2422
+LOCATION:KT1-L3-27
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Norsannah Hamzah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2f8f9c666a0825103b6f865a006f33b3dcdbb266@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260819T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260819T190000
+SUMMARY:SEM 3 - DMCH 3 - ECT 0323
+LOCATION:KT5-L05-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Noorfazyhana
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:059539fa6723ea02060a4e6093c4484e66df0367@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260820T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260820T130000
+SUMMARY:SEM 3 - DMCH 3 - EET 0133
+LOCATION:KT5-L14-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Zawani Zakri
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c0c27468418576fbd99724aee2bddaf41cf04b51@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260820T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260820T170000
+SUMMARY:SEM 3 - DMCH 3 - QAS 0372
+LOCATION:KT2-L03-06
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Mohamad Faezal
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1ec23a0203e010fbdff73f398f8e97c241ee25f8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260824T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260824T110000
+SUMMARY:SEM 3 - DMCH 3 - ESP 2052
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Nur Dhaniah Zainul\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ac3eb642e89e043f29fd2d7334d3ef61de838e72@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260824T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260824T130000
+SUMMARY:SEM 3 - DMCH 3 - MPU 2342
+LOCATION:KT1-L3-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Abdul Muzil
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:945baeb07473c1de818a0285384f6c1622616b42@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260824T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260824T170000
+SUMMARY:SEM 3 - DMCH 3 - IAT 0972
+LOCATION:KT5-L08-005
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Dr Zatil Hazrati
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0f29f5126c726aea3780c22330b9da22bf9eedc3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260825T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260825T130000
+SUMMARY:SEM 3 - DMCH 3 - IAT 0953
+LOCATION:KT5-L09-007
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Dr Nurul Hanan\nCalendar exception: Maulid
+ ur Rasul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4809fc73a8323adf8d2295aca13b2674755cc2a0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260825T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260825T180000
+SUMMARY:SEM 3 - DMCH 3 - MPU 2422
+LOCATION:KT1-L3-27
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Norsannah Hamzah\nCalendar exception: Maul
+ idur Rasul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5a6f4239e9f1172f43c490d6980137686c2e5469@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260826T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260826T190000
+SUMMARY:SEM 3 - DMCH 3 - ECT 0323
+LOCATION:KT5-L05-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Noorfazyhana
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b360818ade9ddb62615dd70e1661245fad7a9a71@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260827T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260827T130000
+SUMMARY:SEM 3 - DMCH 3 - EET 0133
+LOCATION:KT5-L14-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Zawani Zakri
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:89be831d9b846feba56dbd6f7329f06d488f1631@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260827T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260827T170000
+SUMMARY:SEM 3 - DMCH 3 - QAS 0372
+LOCATION:KT2-L03-06
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Mohamad Faezal
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ac7b4fe81919af770421e4ed456ecf54d90caff2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260907T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260907T130000
+SUMMARY:SEM 3 - DMCH 3 - Merdeka Celebration
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bbf77d843829a0b7a05d47098577234c2cbce12f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260907T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260907T170000
+SUMMARY:SEM 3 - DMCH 3 - IAT 0972
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Dr Zatil Hazrati\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0c9bbcaacbaf65b3cf8953c1fca4f22511201bad@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260908T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260908T130000
+SUMMARY:SEM 3 - DMCH 3 - IAT 0953
+LOCATION:KT5-L09-007
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Dr Nurul Hanan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cb949ca7196d264afa4c9d22f010fa3dc7257fcf@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260908T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260908T180000
+SUMMARY:SEM 3 - DMCH 3 - MPU 2422
+LOCATION:KT1-L3-27
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Norsannah Hamzah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4d2d48aeeb9b43f3d5b2fd85689243dfd7f47d90@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260909T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260909T130000
+SUMMARY:SEM 3 - DMCH 3 - IAT 0953
+LOCATION:KT5-L09-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Dr Nurul Hanan\nNotes: Replacement Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a5c2aa7b179b2069655ecb47a78590cc2e0166be@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260909T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260909T190000
+SUMMARY:SEM 3 - DMCH 3 - ECT 0323
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Noorfazyhana\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:947708d19d3630fd272dbfe148b1e2c436ad96b7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260910T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260910T130000
+SUMMARY:SEM 3 - DMCH 3 - EET 0133
+LOCATION:KT5-L14-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Zawani Zakri
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:10dee9f030dfba55c541572db01ba7ceb2454c40@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260910T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260910T170000
+SUMMARY:SEM 3 - DMCH 3 - QAS 0372
+LOCATION:KT2-L03-06
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Mohamad Faezal
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c4c24c4932cd35477e5a9dbd11900f26759e9ef1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260911T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260911T110000
+SUMMARY:SEM 3 - DMCH 3 - ESP 2052
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Nur Dhaniah Zainul\nNotes: Online Replacem
+ ent Class (Merdeka 7/9)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f3c9fe815b0ed55b20d3010a678772f1808add16@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260911T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260911T130000
+SUMMARY:SEM 3 - DMCH 3 - MPU 2342
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Abdul Muzil\nNotes: Online Replacement Cla
+ ss (Merdeka 7/9)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9e88c84c53388e1b7a71f17a168339d6b79a633c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260914T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260914T110000
+SUMMARY:SEM 3 - DMCH 3 - ESP 2052
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Nur Dhaniah Zainul\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:40d3c9801413e82667117f2bbaae4d8d3f2ea87e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260914T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260914T130000
+SUMMARY:SEM 3 - DMCH 3 - MPU 2342
+LOCATION:KT1-L3-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Abdul Muzil
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8a3e1e4bb72c92fed12809c9efc200140c18156b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260914T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260914T170000
+SUMMARY:SEM 3 - DMCH 3 - IAT 0972
+LOCATION:KT5-L08-005
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Dr Zatil Hazrati
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:843bc4d4560c889b1579a510b4cc5efeac9c7c3e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260915T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260915T130000
+SUMMARY:SEM 3 - DMCH 3 - IAT 0953
+LOCATION:KT5-L09-007
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Dr Nurul Hanan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3fee0cca16b58a92b75baf7de0ea6a61b27f0a81@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260916T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260916T190000
+SUMMARY:SEM 3 - DMCH 3 - ECT 0323
+LOCATION:KT5-L05-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Noorfazyhana\nCalendar exception: Malay
+ sia Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f23aa18fd2315d9c9e14b01251ee18487fdd83bd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260917T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260917T130000
+SUMMARY:SEM 3 - DMCH 3 - EET 0133
+LOCATION:KT5-L14-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Zawani Zakri
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:12be5a36ea32a911a787872ff6a77adf88f8891e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260917T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260917T170000
+SUMMARY:SEM 3 - DMCH 3 - QAS 0372
+LOCATION:KT2-L03-06
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Mohamad Faezal
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6e86ce367bcad7fe375651b0b7b1fd7394e1af49@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260921T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260921T170000
+SUMMARY:SEM 3 - DMCH 3 - IAT 0972
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Dr Zatil Hazrati\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0f2e360ea36e1eb67e7ea6f660894096e333e87b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260922T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260922T130000
+SUMMARY:SEM 3 - DMCH 3 - IAT 0953
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Dr Nurul Hanan\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d60c02366ffbf41399d180ae7e4103e107c0e4d9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260923T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260923T110000
+SUMMARY:SEM 3 - DMCH 3 - ESP 2052
+LOCATION:KT1-L3-07
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Nur Dhaniah Zainul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:18aa6bd650939c25c1e89bc3bc79559be0accb7a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260923T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260923T130000
+SUMMARY:SEM 3 - DMCH 3 - MPU 2342
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Abdul Muzil\nNotes: Online Replacement Cla
+ ss 21/9
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a948034d5a737e02e08cbd04293724c33c3b6a4d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260923T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260923T190000
+SUMMARY:SEM 3 - DMCH 3 - ECT 0323
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Noorfazyhana\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:71e5c68be6abf4c01721cfa23906a60fbed4a1bc@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260924T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260924T130000
+SUMMARY:SEM 3 - DMCH 3 - EET 0133
+LOCATION:KT5-L14-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Zawani Zakri
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3f379f9289de53fb6ac7f66d75130784bd5267f3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260924T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260924T170000
+SUMMARY:SEM 3 - DMCH 3 - QAS 0372
+LOCATION:KT2-L03-06
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Mohamad Faezal
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3f7f367486105bff5b1fa592052e4bff92bf8791@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260928T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260928T110000
+SUMMARY:SEM 3 - DMCH 3 - ESP 2052
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Nur Dhaniah Zainul\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9ed6d09a64abad6b474054192c543d690c6575a8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260928T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260928T130000
+SUMMARY:SEM 3 - DMCH 3 - MPU 2342
+LOCATION:KT1-L3-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Abdul Muzil
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:55e4b57924ef4469d51e5a903a15cd403a29b2ac@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260928T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260928T170000
+SUMMARY:SEM 3 - DMCH 3 - IAT 0972
+LOCATION:KT5-L08-005
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Dr Zatil Hazrati
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cf8ee301744544d2d86ffb9ef398bb3c6fa4d649@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260929T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260929T130000
+SUMMARY:SEM 3 - DMCH 3 - IAT 0953
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Dr Nurul Hanan\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1c3ccb390001a973d51a8cbd30950d45b13031c7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260930T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260930T190000
+SUMMARY:SEM 3 - DMCH 3 - ECT 0323
+LOCATION:KT5-L05-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Noorfazyhana
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:46311e6bc495aac48b254a67def6352f2ea94226@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261001T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261001T130000
+SUMMARY:SEM 3 - DMCH 3 - EET 0133
+LOCATION:KT5-L14-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Zawani Zakri
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e60dd8a35bc9f29712f2dbe0731f3f5ae3b28fee@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261001T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261001T170000
+SUMMARY:SEM 3 - DMCH 3 - QAS 0372
+LOCATION:KT2-L03-06
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Mohamad Faezal
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:65456dbc8ccbb4d6dd48e9f22795efd5f6224279@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261005T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261005T110000
+SUMMARY:SEM 3 - DMCH 3 - ESP 2052
+LOCATION:KT1-L3-07
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Nur Dhaniah Zainul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb22613e8ba41d26a98c1f175823c4528360dd85@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261005T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261005T130000
+SUMMARY:SEM 3 - DMCH 3 - MPU 2342
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Abdul Muzil\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3178c41761bac35974629def6ef041b8b205c7c9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261005T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261005T170000
+SUMMARY:SEM 3 - DMCH 3 - IAT 0972
+LOCATION:KT5-L08-005
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Dr Zatil Hazrati
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6c4a300379835da330df341c0ac9206d53bed7f8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261007T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261007T130000
+SUMMARY:SEM 3 - DMCH 3 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4b2fbb6eec16b818d63b369da44cb6dc6ee2f71d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261007T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261007T190000
+SUMMARY:SEM 3 - DMCH 3 - ECT 0323
+LOCATION:KT5-L05-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Noorfazyhana
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:34adcb14e618713b152be0f2305b9d5d99cfea47@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261008T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261008T130000
+SUMMARY:SEM 3 - DMCH 3 - EET 0133
+LOCATION:KT5-L14-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Zawani Zakri
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:493d1a2673cdcaacaa266258364800b8bb995936@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261008T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261008T170000
+SUMMARY:SEM 3 - DMCH 3 - QAS 0372
+LOCATION:KT2-L03-06
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Mohamad Faezal
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e99c04133b389fb983523de8a4974d33e191a486@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261009T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261009T100000
+SUMMARY:SEM 3 - DMCH 3 - THEORY TEST
+LOCATION:KT5-L14-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nNotes: TEST 1
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:dcf4e3d7427ddf8f2236427ba09dbf2b364d0464@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261012T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261012T110000
+SUMMARY:SEM 3 - DMCH 3 - ESP 2052
+LOCATION:KT1-L3-07
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Nur Dhaniah Zainul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5598d084d986681fa582e0896ccb5c552c210968@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261012T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261012T130000
+SUMMARY:SEM 3 - DMCH 3 - MPU 2342
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Abdul Muzil\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2886b2eeefd5443e05e328fdb85d5645e3ddf891@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261012T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261012T170000
+SUMMARY:SEM 3 - DMCH 3 - IAT 0972
+LOCATION:KT5-L08-005
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Dr Zatil Hazrati
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c44a0c46ba34c53708ce0790653cb543402778b0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261013T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261013T130000
+SUMMARY:SEM 3 - DMCH 3 - IAT 0953
+LOCATION:KT5-L09-007
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Dr Nurul Hanan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f2e35d3e9a60863c41b84a46ebf268f092bdfc32@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261014T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261014T190000
+SUMMARY:SEM 3 - DMCH 3 - ECT 0323
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Noorfazyhana\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ee62b1f7e2a79cb445eccfce40083b26e6cf8b5b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261015T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261015T130000
+SUMMARY:SEM 3 - DMCH 3 - EET 0133
+LOCATION:KT5-L14-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Zawani Zakri
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4aa59ca9e8deba0df95d579874b30c4b2a8b73a7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261015T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261015T170000
+SUMMARY:SEM 3 - DMCH 3 - QAS 0372
+LOCATION:KT2-L03-06
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Mohamad Faezal
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1314949a59d299a0b7e3f946a15ee09566c729e5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261016T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261016T130000
+SUMMARY:SEM 3 - DMCH 3 - IAT 0953
+LOCATION:KT5-L09-007
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Dr Nurul Hanan\nNotes: Replacement Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:14aada106423dd8c59b0335f4486888216b82c88@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261019T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261019T110000
+SUMMARY:SEM 3 - DMCH 3 - ESP 2052
+LOCATION:KT1-L3-07
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Nur Dhaniah Zainul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8b5416ce31759600a565439ff0dc576d70847440@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261019T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261019T130000
+SUMMARY:SEM 3 - DMCH 3 - MPU 2342
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Abdul Muzil\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a58f51f5b81bbfcbfc27fe98d9ec2740d8e9cebb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261019T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261019T170000
+SUMMARY:SEM 3 - DMCH 3 - IAT 0972
+LOCATION:KT5-L08-005
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Dr Zatil Hazrati
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a9e645be1861f4e7dc8a7138bd2c7f4ad95a80dc@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261021T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261021T190000
+SUMMARY:SEM 3 - DMCH 3 - ECT 0323
+LOCATION:KT5-L05-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Noorfazyhana
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1e58d30208427ff360909dc38b4539dc7f84a484@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261022T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261022T130000
+SUMMARY:SEM 3 - DMCH 3 - EET 0133
+LOCATION:KT5-L14-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Zawani Zakri
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:78c72e3144c1b4277589a3adb8243fe53c28e32d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261022T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261022T170000
+SUMMARY:SEM 3 - DMCH 3 - QAS 0372
+LOCATION:KT2-L03-06
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Mohamad Faezal
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cf5f8f692a81db986324206094e1240d0d0ad02b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261023T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261023T130000
+SUMMARY:SEM 3 - DMCH 3 - IAT 0953
+LOCATION:KT5-L09-007
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Dr Nurul Hanan\nNotes: Replacement Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fb5bd12d5b1cc96564085f7a9e4eedc91211fd5b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261026T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261026T110000
+SUMMARY:SEM 3 - DMCH 3 - ESP 2052
+LOCATION:KT1-L3-07
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Nur Dhaniah Zainul\nCalendar exception: JU
+ BLI PERAK SELANGOR
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:267f0ee8501d6be718e3e5829322d87de8ea1202@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261026T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261026T130000
+SUMMARY:SEM 3 - DMCH 3 - MPU 2342
+LOCATION:KT1-L3-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Abdul Muzil\nCalendar exception: JUBLI PER
+ AK SELANGOR
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6790936bba7eaaa44e30d2728dc4511a3b5f91fe@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261026T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261026T170000
+SUMMARY:SEM 3 - DMCH 3 - IAT 0972
+LOCATION:KT5-L08-005
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Dr Zatil Hazrati\nCalendar exception: J
+ UBLI PERAK SELANGOR
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5eb4ed475f61941e886755942d5cdf4f14f89ad6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261027T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261027T130000
+SUMMARY:SEM 3 - DMCH 3 - IAT 0953
+LOCATION:KT5-L09-007
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Dr Nurul Hanan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:aadf44f7321a21b0fc09d4c02ecc08baf2481ee7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261028T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261028T130000
+SUMMARY:SEM 3 - DMCH 3 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ef4a0191df8c094518f5b5607ff150485fa82278@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261028T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261028T190000
+SUMMARY:SEM 3 - DMCH 3 - ECT 0323
+LOCATION:KT5-L05-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Noorfazyhana
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:47aaf3805eb7a54861d5802bec0cb5a298076f64@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261029T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261029T130000
+SUMMARY:SEM 3 - DMCH 3 - EET 0133
+LOCATION:KT5-L14-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Zawani Zakri
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:78d03c6775897ec417eaf529de9c786d2e9626f2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261029T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261029T170000
+SUMMARY:SEM 3 - DMCH 3 - QAS 0372
+LOCATION:KT2-L03-06
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Mohamad Faezal
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:56f1ad26355f168534dcfa3229be2e4bfba53d8a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261102T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261102T110000
+SUMMARY:SEM 3 - DMCH 3 - ESP 2052
+LOCATION:KT1-L3-07
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Nur Dhaniah Zainul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c11295dab0511c0fe3ff5d0cf31fdc3fa1a85a15@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261102T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261102T130000
+SUMMARY:SEM 3 - DMCH 3 - MPU 2342
+LOCATION:KT1-L3-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Abdul Muzil
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:76869b06923e96fd64534064238c7f9c333b2d5d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261102T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261102T170000
+SUMMARY:SEM 3 - DMCH 3 - IAT 0972
+LOCATION:KT5-L08-005
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Dr Zatil Hazrati
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a2c96db91d73c6b7b0a4551cdd9483956a65bda8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261103T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261103T130000
+SUMMARY:SEM 3 - DMCH 3 - IAT 0953
+LOCATION:KT5-L09-007
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Dr Nurul Hanan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d9bbbf5ca1d5e9d3a08e200a7d1f0804dafa7863@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261104T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261104T190000
+SUMMARY:SEM 3 - DMCH 3 - ECT 0323
+LOCATION:KT5-L05-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Noorfazyhana
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bf76d25b3a2ed7c635a665fb95fe995fdc9228b4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261105T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261105T130000
+SUMMARY:SEM 3 - DMCH 3 - EET 0133
+LOCATION:KT5-L14-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Zawani Zakri
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5a6664027855c1d366dc08c10d006f498efbf022@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261105T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261105T170000
+SUMMARY:SEM 3 - DMCH 3 - QAS 0372
+LOCATION:KT2-L03-06
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Mohamad Faezal
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3bbae66e052d88b505e30cba2a01f7f33d0f5b25@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261109T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261109T110000
+SUMMARY:SEM 3 - DMCH 3 - ESP 2052
+LOCATION:KT1-L3-07
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Nur Dhaniah Zainul\nCalendar exception: De
+ epavali Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:749f3e5b3319bfef5cd1cd9b86e2fcc1c3412515@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261109T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261109T130000
+SUMMARY:SEM 3 - DMCH 3 - MPU 2342
+LOCATION:KT1-L3-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Abdul Muzil\nCalendar exception: Deepavali
+  Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:66cd71953730bd7573841feb5c1761cdc725ab80@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261109T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261109T170000
+SUMMARY:SEM 3 - DMCH 3 - IAT 0972
+LOCATION:KT5-L08-005
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Dr Zatil Hazrati\nCalendar exception: D
+ eepavali Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:528a14a13c88886a7a9733b34cca6fd59e186d4f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261110T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261110T130000
+SUMMARY:SEM 3 - DMCH 3 - IAT 0953
+LOCATION:KT5-L09-007
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Dr Nurul Hanan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:34f6748494f36f7e5e5db531ed95f0acab7d5e0a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261111T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261111T190000
+SUMMARY:SEM 3 - DMCH 3 - ECT 0323
+LOCATION:KT5-L05-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Noorfazyhana
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5004e9aa03e0987765e2f81a6493a5bfc0f39e10@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261112T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261112T130000
+SUMMARY:SEM 3 - DMCH 3 - EET 0133
+LOCATION:KT5-L14-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Zawani Zakri
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2836cee447be7b6e70f010da6412a40c0ac6719a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261112T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261112T170000
+SUMMARY:SEM 3 - DMCH 3 - QAS 0372
+LOCATION:KT2-L03-06
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DMCH 3\nLecturer: Ts Mohamad Faezal
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR

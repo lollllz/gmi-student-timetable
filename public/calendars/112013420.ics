@@ -1,0 +1,1829 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Student Timetable//Class Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SEM 3 - DIQE
+X-WR-TIMEZONE:Asia/Kuala_Lumpur
+BEGIN:VTIMEZONE
+TZID:Asia/Kuala_Lumpur
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:MYT
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:cdc7b7342b1ca1de8ea4302ed518809abf5c1637@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260706T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260706T130000
+SUMMARY:SEM 3 - DIQE - IQM 2043
+LOCATION:KT2-L04-05_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Ts Saifullizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4f154a042e3b7d532a9f37f315c36551c3e8713a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260706T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260706T170000
+SUMMARY:SEM 3 - DIQE - IQM 2113
+LOCATION:KT2-L04-05_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ea123105138f9d97d280ce2faf1d5f70b35536e4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260707T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260707T130000
+SUMMARY:SEM 3 - DIQE - MET 2112
+LOCATION:KT3-L05-08
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Sufiyan Amril
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ed5f7c895460290ec2b405a80dbf7f81753fad78@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260707T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260707T180000
+SUMMARY:SEM 3 - DIQE - ESP 2052
+LOCATION:KT1-L3-33
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Dhaarsini AP Thamby
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:486cfec6572bd1fecaa7ea2d5ffa4fdad6c1b467@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260708T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260708T130000
+SUMMARY:SEM 3 - DIQE - CNC 0653
+LOCATION:KT3-L02-19
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Zairul Nazim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:90d8597ed78e7f65f19424345c10947bff773f1d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260708T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260708T180000
+SUMMARY:SEM 3 - DIQE - CNC 0653
+LOCATION:KT3-L02-19
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Zairul Nazim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a03fd8484470b26dfc33487b4b5c787dc4f10eff@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260709T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260709T110000
+SUMMARY:SEM 3 - DIQE - IQM 2133
+LOCATION:KT2-L04-19_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:007c27fc1dac1c485cb6cb229bb3daedc37009a8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260710T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260710T100000
+SUMMARY:SEM 3 - DIQE - GEL 2312
+LOCATION:KT1 L1 06 LH2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Edham Nur Hazwan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:766c8ccaeefd8c55c534bd71717a7e192b2da8bb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260710T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260710T180000
+SUMMARY:SEM 3 - DIQE - MPU 2422
+LOCATION:KT1-L3-11
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Wan Nur Aishah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5c0bfa51ac1e74b5bf82564d2ebb1957c6dca404@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260713T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260713T130000
+SUMMARY:SEM 3 - DIQE - IQM 2043
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Ts Saifullizan\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:dbc13f2a13a7146a10df03fd3f94b18128abfff2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260713T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260713T170000
+SUMMARY:SEM 3 - DIQE - IQM 2113
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e695da5e6dab235cde99e72be787bf6052de381e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260714T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260714T130000
+SUMMARY:SEM 3 - DIQE - MET 2112
+LOCATION:KT3-L05-08
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Sufiyan Amril
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b6b715c5398dc42e4b7a7993280b9852689cd018@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260715T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260715T130000
+SUMMARY:SEM 3 - DIQE - CNC 0653
+LOCATION:KT3-L02-19
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Zairul Nazim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:63642db675b4e1dac6b92cf7a83d3304dbac249a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260715T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260715T180000
+SUMMARY:SEM 3 - DIQE - CNC 0653
+LOCATION:KT3-L02-19
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Zairul Nazim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c14ff67fb7b4f60c53109b51470b286e112467e8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260716T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260716T110000
+SUMMARY:SEM 3 - DIQE - IQM 2133
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:72fa2a0106ff402435543253fd3af7598f1c32c0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260717T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260717T100000
+SUMMARY:SEM 3 - DIQE - GEL 2312
+LOCATION:KT1 L1 06 LH2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Edham Nur Hazwan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d47b3432bc26ee197ef88aa7febc22f375da8324@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260717T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260717T120000
+SUMMARY:SEM 3 - DIQE - ESP 2052
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Dhaarsini AP Thamby\nNotes: Replacement Clas
+ s
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ce7550d920efd5d5ad8d6a9c8235ea46e11c8bf9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260717T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260717T180000
+SUMMARY:SEM 3 - DIQE - MPU 2422
+LOCATION:KT1-L3-11
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Wan Nur Aishah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7981eaa13cf829d1fac926f3d10c78ede98fdf08@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260720T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260720T170000
+SUMMARY:SEM 3 - DIQE - IQM 2113
+LOCATION:KT2-L04-05_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6f9101fee9879b635e84c62be31b1f9af4e0a2c7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260721T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260721T130000
+SUMMARY:SEM 3 - DIQE - MET 2112
+LOCATION:KT3-L05-08
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Sufiyan Amril
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8fd3f5bd34a820c66cdb623a6eb858d71450a3bd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260721T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260721T180000
+SUMMARY:SEM 3 - DIQE - ESP 2052
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Dhaarsini AP Thamby\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3bce0f1a5784486e4ef4b063931a27fe95eec860@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260722T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260722T130000
+SUMMARY:SEM 3 - DIQE - CNC 0653
+LOCATION:KT3-L02-19
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Zairul Nazim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:03f3c1087a50d3584a90326aec9b2ce3e49e688b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260722T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260722T180000
+SUMMARY:SEM 3 - DIQE - CNC 0653
+LOCATION:KT3-L02-19
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Zairul Nazim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ed47f25c143828ac4e1424b76fec7d406fbe67a6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260724T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260724T100000
+SUMMARY:SEM 3 - DIQE - GEL 2312
+LOCATION:KT1 L1 06 LH2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Edham Nur Hazwan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:df50ceece382b413d96d2db061ddf61518ab1de1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260724T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260724T180000
+SUMMARY:SEM 3 - DIQE - MPU 2422
+LOCATION:KT1-L3-11
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Wan Nur Aishah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c7339ff841fbf57428b044ace6e4c73912d13c51@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260727T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260727T170000
+SUMMARY:SEM 3 - DIQE - IQM 2113
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4df9affc74dfca43f4450940e2bfcf648609639f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260728T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260728T130000
+SUMMARY:SEM 3 - DIQE - MET 2112
+LOCATION:KT3-L05-08
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Sufiyan Amril
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9fb1072093e60e7868c2dd7668264c16a45ac1ae@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260728T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260728T180000
+SUMMARY:SEM 3 - DIQE - ESP 2052
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Dhaarsini AP Thamby\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:228d029a4cd543937df7af309f89f5e7f2384313@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260729T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260729T130000
+SUMMARY:SEM 3 - DIQE - CNC 0653
+LOCATION:KT3-L02-19
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Zairul Nazim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7ec77157a4939ca9d47aeb77ff6617907235e041@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260729T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260729T180000
+SUMMARY:SEM 3 - DIQE - CNC 0653
+LOCATION:KT3-L02-19
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Zairul Nazim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:245a83f66469f878c61fc71679358ba23577f19d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260731T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260731T180000
+SUMMARY:SEM 3 - DIQE - MPU 2422
+LOCATION:KT1-L3-11
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Wan Nur Aishah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2eb51191a8298beef6992435863aa108ce30bb9e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260803T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260803T130000
+SUMMARY:SEM 3 - DIQE - IQM 2043
+LOCATION:KT2-L04-05_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Ts Saifullizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d37af9cc66a007e7e6576935f715e71ba5d1e4ae@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260803T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260803T170000
+SUMMARY:SEM 3 - DIQE - IQM 2113
+LOCATION:KT2-L04-05_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4f67095378738475b7ba11f5280c6697eabfbe26@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260804T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260804T130000
+SUMMARY:SEM 3 - DIQE - MET 2112
+LOCATION:KT3-L05-08
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Sufiyan Amril
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:94241928f43f9aa77e4c020096a1606b5c1536cf@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260804T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260804T180000
+SUMMARY:SEM 3 - DIQE - ESP 2052
+LOCATION:KT1-L3-33
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Dhaarsini AP Thamby
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0402dc10eb2967e112a2d98384850dc0ecef22f9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260805T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260805T130000
+SUMMARY:SEM 3 - DIQE - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:224df14add3b3d66077c12f74864626f91d960d2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260805T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260805T180000
+SUMMARY:SEM 3 - DIQE - CNC 0653
+LOCATION:KT3-L02-19
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Zairul Nazim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:833299f9fb0bde68f7f2ffc69c6a0caf71c74ca3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260806T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260806T110000
+SUMMARY:SEM 3 - DIQE - IQM 2133
+LOCATION:KT2-L04-19_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1365a37a9db5461f39929229cf162fced9044c3a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260807T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260807T100000
+SUMMARY:SEM 3 - DIQE - GEL 2312
+LOCATION:KT1 L1 06 LH2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Edham Nur Hazwan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2577ff67f23f995e1648b1b006c114102e40137d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260807T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260807T180000
+SUMMARY:SEM 3 - DIQE - MPU 2422
+LOCATION:KT1-L3-11
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Wan Nur Aishah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:599dc9a9cde5817390ec8c67bdb645282f69bfb9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260810T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260810T130000
+SUMMARY:SEM 3 - DIQE - IQM 2043
+LOCATION:KT2-L04-05_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Ts Saifullizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:efa5b0c765f2f474acae7001543abf5ff6c54471@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260810T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260810T170000
+SUMMARY:SEM 3 - DIQE - IQM 2113
+LOCATION:KT2-L04-05_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:30481e36a27ddf575daccfead450ef610de4ed9f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260811T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260811T130000
+SUMMARY:SEM 3 - DIQE - MET 2112
+LOCATION:KT3-L05-08
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Sufiyan Amril
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:77894e293e01525dd1bb0329dd3b810ce4de4d6c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260812T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260812T130000
+SUMMARY:SEM 3 - DIQE - CNC 0653
+LOCATION:KT3-L02-19
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Zairul Nazim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6401c98052511233509ea7c585789cfa5ca51cf0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260812T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260812T180000
+SUMMARY:SEM 3 - DIQE - CNC 0653
+LOCATION:KT3-L02-19
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Zairul Nazim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9bac571f8b6a80c542effca5a9813eaa724df874@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260813T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260813T110000
+SUMMARY:SEM 3 - DIQE - IQM 2133
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:37a4b6c7b60b32d9b3af16d151e4b1cab4495de9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260814T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260814T100000
+SUMMARY:SEM 3 - DIQE - GEL 2312
+LOCATION:KT1 L1 06 LH2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Edham Nur Hazwan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ec2c6b21636fbb46449c20ac3d6116fdd8ea9d9f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260814T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260814T180000
+SUMMARY:SEM 3 - DIQE - MPU 2422
+LOCATION:KT1-L3-11
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Wan Nur Aishah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1de1dc06b662ac9a245c31fbb334fccccdd41927@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260817T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260817T130000
+SUMMARY:SEM 3 - DIQE - IQM 2043
+LOCATION:KT2-L04-05_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Ts Saifullizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0e1253183df30e5c96523da16cbca36ad3834177@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260817T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260817T170000
+SUMMARY:SEM 3 - DIQE - IQM 2113
+LOCATION:KT2-L04-05_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:550361138bea23cc02b9b6b50839e0e9a72d996c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260817T170000
+DTEND;TZID=Asia/Kuala_Lumpur:20260817T190000
+SUMMARY:SEM 3 - DIQE - ESP 2052
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Dhaarsini AP Thamby\nNotes: Online Replaceme
+ nt Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6bfe34902f1380f3345c18243289cb39857408ce@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260818T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260818T130000
+SUMMARY:SEM 3 - DIQE - MET 2112
+LOCATION:KT3-L05-08
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Sufiyan Amril
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:798fab6cd1aa0b22483a63239df72ca62df96a07@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260818T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260818T180000
+SUMMARY:SEM 3 - DIQE - ESP 2052
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Dhaarsini AP Thamby\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:665eca5c6fe1e5cc91150dbac4c5470aa1010949@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260819T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260819T130000
+SUMMARY:SEM 3 - DIQE - CNC 0653
+LOCATION:KT3-L02-19
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Zairul Nazim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1d1b6a1c7bac4eee1da2bc5cce330d40c64adba@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260819T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260819T180000
+SUMMARY:SEM 3 - DIQE - CNC 0653
+LOCATION:KT3-L02-19
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Zairul Nazim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4603be8a71c20e296fe1ac0137cf549a05686797@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260820T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260820T110000
+SUMMARY:SEM 3 - DIQE - IQM 2133
+LOCATION:KT2-L04-19_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f0d4d626215e2e357b2012f87d95b182e9e95384@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260821T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260821T100000
+SUMMARY:SEM 3 - DIQE - GEL 2312
+LOCATION:KT1 L1 06 LH2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Edham Nur Hazwan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5d6f5077873fe28092a38b51720e5cb041af47ce@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260821T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260821T180000
+SUMMARY:SEM 3 - DIQE - MPU 2422
+LOCATION:KT1-L3-11
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Wan Nur Aishah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:27ee658181fc70a9d1b9f19518f14b1028a10179@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260824T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260824T130000
+SUMMARY:SEM 3 - DIQE - IQM 2043
+LOCATION:KT2-L04-05_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Ts Saifullizan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:53161d83fde5cefb4f5d815e09630fa2f46e9c72@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260824T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260824T170000
+SUMMARY:SEM 3 - DIQE - IQM 2113
+LOCATION:KT2-L04-05_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cacfd0ce4b24bb8935a6fd18ad5a9812fc99d910@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260825T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260825T130000
+SUMMARY:SEM 3 - DIQE - MET 2112
+LOCATION:KT3-L05-08
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Sufiyan Amril\nCalendar exception: Maulidur 
+ Rasul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5c5087a2c78bbfd5a1af8e3bd6fea29ec9b66ed6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260825T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260825T180000
+SUMMARY:SEM 3 - DIQE - ESP 2052
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Dhaarsini AP Thamby\nNotes: Online Class\nCa
+ lendar exception: Maulidur Rasul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:24c75401e6e6b54ce0e7abcd201e88862a5e6592@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260826T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260826T130000
+SUMMARY:SEM 3 - DIQE - CNC 0653
+LOCATION:KT3-L02-19
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Zairul Nazim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6d3809b0f884af566015acd8fe9d534d0a3296c1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260826T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260826T180000
+SUMMARY:SEM 3 - DIQE - CNC 0653
+LOCATION:KT3-L02-19
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Zairul Nazim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8f13b9afa6dcac5ac9922cc1fcfc045b2de25e80@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260827T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260827T110000
+SUMMARY:SEM 3 - DIQE - IQM 2133
+LOCATION:KT2-L04-19_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:42379d66695a8277f0cabeac3f3f7eb686038454@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260828T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260828T100000
+SUMMARY:SEM 3 - DIQE - GEL 2312
+LOCATION:KT1 L1 06 LH2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Edham Nur Hazwan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e50ea51c37b682e4fa0b1be49d652721005241b8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260828T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260828T120000
+SUMMARY:SEM 3 - DIQE - ESP 2052
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Dhaarsini AP Thamby\nNotes: Online Replaceme
+ nt Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:30b00ea9164e92ba17d80b4ac848bf7b412bb044@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260828T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260828T180000
+SUMMARY:SEM 3 - DIQE - MPU 2422
+LOCATION:KT1-L3-11
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Wan Nur Aishah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4b9822514d1e44c39af87351e6d8ece689272680@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260907T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260907T130000
+SUMMARY:SEM 3 - DIQE - IQM 2043
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e301f73758cd6c03f864ac1c18ff71e5f0afc63c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260907T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260907T150000
+SUMMARY:SEM 3 - DIQE - IQM 2043
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:24b50a2d48148789941534d5d964b25bfa8edd08@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260907T150000
+DTEND;TZID=Asia/Kuala_Lumpur:20260907T180000
+SUMMARY:SEM 3 - DIQE - IQM 2113
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7befd07bea95ed01223839aab8675375c98b962e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260908T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260908T130000
+SUMMARY:SEM 3 - DIQE - MET 2112
+LOCATION:KT3-L05-08
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Sufiyan Amril
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e69181a7843ddc3c5d26a0529411c90196392815@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260908T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260908T180000
+SUMMARY:SEM 3 - DIQE - ESP 2052
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Dhaarsini AP Thamby\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4e97d32c3710d3b01d2c8ceba2aa1a82aad200de@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260909T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260909T110000
+SUMMARY:SEM 3 - DIQE - CNC 0653
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Zairul Nazim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9ff5479340754b7aa7b1f6f91b9e385c816a960f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260909T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260909T130000
+SUMMARY:SEM 3 - DIQE - CNC 0653
+LOCATION:KT3-L02-19
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Zairul Nazim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7ae55107ab27bfb75c98a6f8d8b1c6f6c69b1bc1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260909T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260909T180000
+SUMMARY:SEM 3 - DIQE - CNC 0653
+LOCATION:KT3-L02-19
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Zairul Nazim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:58a6076d87224284c3260d89e1e68e16c0129a4d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260910T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260910T110000
+SUMMARY:SEM 3 - DIQE - IQM 2133
+LOCATION:KT2-L04-19_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1357d53524925cf7e4f18ceb8871b731854620c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260911T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260911T100000
+SUMMARY:SEM 3 - DIQE - GEL 2312
+LOCATION:KT1 L1 06 LH2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Edham Nur Hazwan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bae7ac16c8d67700904c542386f1969ee8e9d48f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260911T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260911T180000
+SUMMARY:SEM 3 - DIQE - MPU 2422
+LOCATION:KT1-L3-11
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Wan Nur Aishah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:45ce6b6a8f465688e95eaf4b2ade3e7dee7c1283@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260914T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260914T130000
+SUMMARY:SEM 3 - DIQE - IQM 2043
+LOCATION:KT2-L04-05_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:88e52ade1ba32b88813d86c30bb2745d7f6d2db0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260914T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260914T150000
+SUMMARY:SEM 3 - DIQE - IQM 2043
+LOCATION:KT2-L04-05_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9915110ed42fd7a69f555f65496dd3869b728104@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260914T150000
+DTEND;TZID=Asia/Kuala_Lumpur:20260914T180000
+SUMMARY:SEM 3 - DIQE - IQM 2113
+LOCATION:KT2-L04-05_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5efd75af1f98597bfa767d95ab4e2aba2527bbcd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260915T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260915T130000
+SUMMARY:SEM 3 - DIQE - MET 2112
+LOCATION:KT3-L05-08
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Sufiyan Amril
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1d82dc3ec8bb64494a88dc7d5d505b48bb8b005c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260915T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260915T180000
+SUMMARY:SEM 3 - DIQE - ESP 2052
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Dhaarsini AP Thamby\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c730ecb89ea26a6f278c5a3de0dadc6b8d2f79fb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260916T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260916T130000
+SUMMARY:SEM 3 - DIQE - CNC 0653
+LOCATION:KT3-L02-19
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Zairul Nazim\nCalendar exception: Malaysia D
+ ay
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ea02137b6b4ec2cc4bfdcc96e00177c40fe57faf@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260916T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260916T180000
+SUMMARY:SEM 3 - DIQE - CNC 0653
+LOCATION:KT3-L02-19
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Zairul Nazim\nCalendar exception: Malaysia D
+ ay
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8fa87d894867865630da52d3d01a2f7300139c40@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260917T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260917T110000
+SUMMARY:SEM 3 - DIQE - IQM 2133
+LOCATION:KT2-L04-19_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c97b32ba2dd86e530edd2cb61e6fd4be5f628067@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260918T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260918T100000
+SUMMARY:SEM 3 - DIQE - GEL 2312
+LOCATION:KT1 L1 06 LH2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Edham Nur Hazwan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:def3498ef19704ecace356dd65c8393d4360e84c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260918T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260918T180000
+SUMMARY:SEM 3 - DIQE - IQM 2043
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3dc22c063cefaebf93b256422c2eeea853ca3d64@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260921T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260921T170000
+SUMMARY:SEM 3 - DIQE - IQM 2113
+LOCATION:KT2-L04-05_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3a51997a16583747cce3819d75df07de01682d9a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260921T170000
+DTEND;TZID=Asia/Kuala_Lumpur:20260921T190000
+SUMMARY:SEM 3 - DIQE - IQM 2043
+LOCATION:KT2-L04-05_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli\nNotes: Replacement Cla
+ ss 21/9
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a52702ae2b53e095d0743eb87e980c51feffcc19@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260922T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260922T130000
+SUMMARY:SEM 3 - DIQE - MET 2112
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Sufiyan Amril\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:631dae40984e38c72a976c0b27d7ddece6a29273@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260922T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260922T180000
+SUMMARY:SEM 3 - DIQE - ESP 2052
+LOCATION:KT1-L3-33
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Dhaarsini AP Thamby
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d90aaeba60b6b4d764cdc18899fc826a722d4abe@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260923T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260923T110000
+SUMMARY:SEM 3 - DIQE - IQM 2043
+LOCATION:KT2-L04-05_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli\nNotes: Replacement Cla
+ ss 21/9
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cec62223948560c8774cca4bb89619c406c96cef@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260923T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260923T130000
+SUMMARY:SEM 3 - DIQE - CNC 0653
+LOCATION:KT3-L02-19
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Zairul Nazim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6821420439dcfff43a01da05e137111243184e9e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260923T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260923T180000
+SUMMARY:SEM 3 - DIQE - CNC 0653
+LOCATION:KT3-L02-19
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Zairul Nazim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f05cfd7dd80aa702e3aa785713a67c95e4e5a02d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260924T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260924T110000
+SUMMARY:SEM 3 - DIQE - IQM 2133
+LOCATION:KT2-L04-19_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0d1febb03e3ca0eed4325698b3a455c1bafb30aa@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260925T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260925T100000
+SUMMARY:SEM 3 - DIQE - GEL 2312
+LOCATION:KT1 L1 06 LH2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Edham Nur Hazwan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:be6d9b6bacc053b4b6d2f0e9777e46a7ed213af6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260928T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260928T130000
+SUMMARY:SEM 3 - DIQE - IQM 2043
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6a734c9aecdfab90c997318ee5ae8266c47374f5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260928T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260928T150000
+SUMMARY:SEM 3 - DIQE - IQM 2043
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7dec4dc2fdfd2d70ca52c916eb29c7a8cc2154a2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260928T150000
+DTEND;TZID=Asia/Kuala_Lumpur:20260928T180000
+SUMMARY:SEM 3 - DIQE - IQM 2113
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d0a5bbcfefbf77e89cd6a2d2641b1c637ff7867b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260929T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260929T130000
+SUMMARY:SEM 3 - DIQE - MET 2112
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Sufiyan Amril\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:05548e9ed776c938103f76aba2c0c90185e1667f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260930T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260930T130000
+SUMMARY:SEM 3 - DIQE - CNC 0653
+LOCATION:KT3-L02-19
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Zairul Nazim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b93e028ec4425d6883762aed17bdb6681cd50dd9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260930T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260930T180000
+SUMMARY:SEM 3 - DIQE - CNC 0653
+LOCATION:KT3-L02-19
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Zairul Nazim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0b3a026c723f9c0602a8a737e27eebff28cb456e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261001T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261001T110000
+SUMMARY:SEM 3 - DIQE - IQM 2133
+LOCATION:KT2-L04-19_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:39825ac62105e604a68849010a2beba613334144@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261002T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261002T100000
+SUMMARY:SEM 3 - DIQE - GEL 2312
+LOCATION:KT1 L1 06 LH2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Edham Nur Hazwan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fde5a3e73231d83b869d863d290a3567a9c72ccc@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261002T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20261002T120000
+SUMMARY:SEM 3 - DIQE - ESP 2052
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Dhaarsini AP Thamby\nNotes: Online Replaceme
+ nt Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:61a7dc610114a8faf24bd8a0a40c44eb052813c3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261005T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261005T130000
+SUMMARY:SEM 3 - DIQE - IQM 2043
+LOCATION:KT2-L04-05_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:add44dbd65630601c20f2bfe3fce1447bf84f1ff@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261005T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261005T150000
+SUMMARY:SEM 3 - DIQE - IQM 2043
+LOCATION:KT2-L04-05_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:aab6c2fff387f67841fc9c5e296cd2627adb215b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261005T150000
+DTEND;TZID=Asia/Kuala_Lumpur:20261005T180000
+SUMMARY:SEM 3 - DIQE - IQM 2113
+LOCATION:KT2-L04-05_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2015680b0d539c0bea879b1a4cbedd4d269187e1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261006T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261006T130000
+SUMMARY:SEM 3 - DIQE - MET 2112
+LOCATION:KT3-L05-08
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Sufiyan Amril
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:99cabf4546c2d7568b7b7bc8cd154a9bcba0fc98@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261006T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20261006T180000
+SUMMARY:SEM 3 - DIQE - ESP 2052
+LOCATION:KT1-L3-33
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Dhaarsini AP Thamby
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:133f1e13ff8a581ef9198e1dfd79c1d5fdf40cce@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261007T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261007T130000
+SUMMARY:SEM 3 - DIQE - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a22bcf47ad1decce7f3c62464c5558c9097a10ba@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261007T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261007T180000
+SUMMARY:SEM 3 - DIQE - CNC 0653
+LOCATION:KT3-L02-19
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Zairul Nazim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1890ed773509cb7e70be35636326ba3da1f4f3a9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261008T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261008T110000
+SUMMARY:SEM 3 - DIQE - IQM 2133
+LOCATION:KT2-L04-19_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8ade6dd949a1ab5f69814b032fee3f76138d2ae7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261008T180000
+DTEND;TZID=Asia/Kuala_Lumpur:20261008T200000
+SUMMARY:SEM 3 - DIQE - GEL 2312
+LOCATION:KT1 L1 06 LH2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Edham Nur Hazwan\nNotes: Replacement Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:06180fb3f9a369491ce63feec09be3603b7aa848@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261009T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261009T100000
+SUMMARY:SEM 3 - DIQE - GEL 2312
+LOCATION:KT1-L3-28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Edham Nur Hazwan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0f53b71bd89978193893295ada9df9d97a9257c9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261013T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261013T130000
+SUMMARY:SEM 3 - DIQE - MET 2112
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Sufiyan Amril\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:886acdb194dad3734f66291d2209b41c1499a5bd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261013T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20261013T180000
+SUMMARY:SEM 3 - DIQE - ESP 2052
+LOCATION:KT1-L3-33
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Dhaarsini AP Thamby
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9d3debbee7af63fa42b50bcfac160d8dfb477822@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261014T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261014T130000
+SUMMARY:SEM 3 - DIQE - CNC 0653
+LOCATION:KT3-L02-19
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Zairul Nazim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0d854bbc23e94736fd3615ed925ad2dc52ff2f0d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261014T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261014T180000
+SUMMARY:SEM 3 - DIQE - CNC 0653
+LOCATION:KT3-L02-19
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Zairul Nazim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:af08fdc92f3236bbd8ef993e528b8b6f6199d279@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261015T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261015T110000
+SUMMARY:SEM 3 - DIQE - IQM 2133
+LOCATION:KT2-L04-19_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:75512377d1b3b0c09e380977547a1810e3a8c2f4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261016T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261016T100000
+SUMMARY:SEM 3 - DIQE - GEL 2312
+LOCATION:KT1 L1 06 LH2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Edham Nur Hazwan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d114bdefa43b7d92d98bd65fa665245819f6d11b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261016T120000
+DTEND;TZID=Asia/Kuala_Lumpur:20261016T130000
+SUMMARY:SEM 3 - DIQE - IQM 2043
+LOCATION:KT2-L04-05_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli\nNotes: Replacement Cla
+ ss 12/10
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f727ec60ba6f95bba60fd771bb23ed4fcbabcd3c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261016T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261016T180000
+SUMMARY:SEM 3 - DIQE - IQM 2043
+LOCATION:KT2-L04-05_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli\nNotes: Replacement Cla
+ ss 12/10
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ccc32d6a2e72e2866a6a3f5287398cb763e6ef09@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261019T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261019T130000
+SUMMARY:SEM 3 - DIQE - IQM 2043
+LOCATION:KT2-L04-05_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fab92cbe599940f494d40bcc4e04292b11159812@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261019T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261019T150000
+SUMMARY:SEM 3 - DIQE - IQM 2043
+LOCATION:KT2-L04-05_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:21258dd199ae7c9ce8aea2eb01a493528bf5f986@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261019T150000
+DTEND;TZID=Asia/Kuala_Lumpur:20261019T180000
+SUMMARY:SEM 3 - DIQE - IQM 2113
+LOCATION:KT2-L04-05_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ec90b3122fd30e0d82b0ed1e1e1d8630ae8f5c2e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261020T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261020T130000
+SUMMARY:SEM 3 - DIQE - MET 2112
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Sufiyan Amril\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7f2776f06f96ce2f17a556f423af946c0590a29f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261020T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20261020T180000
+SUMMARY:SEM 3 - DIQE - ESP 2052
+LOCATION:KT1-L3-33
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Dhaarsini AP Thamby
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8504f39a08d2569cb11a682341430fbc6b964408@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261021T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261021T130000
+SUMMARY:SEM 3 - DIQE - CNC 0653
+LOCATION:KT3-L02-19
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Zairul Nazim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:eedc224be333e901fd82de386a51f3cc523b9edf@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261021T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261021T180000
+SUMMARY:SEM 3 - DIQE - CNC 0653
+LOCATION:KT3-L02-19
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Zairul Nazim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4d130e2f29e76e59fe13094f346040a66bea5663@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261022T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261022T110000
+SUMMARY:SEM 3 - DIQE - IQM 2133
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:96263bc99e71a3891c8ffad592b98aec8b06d9ee@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261023T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261023T100000
+SUMMARY:SEM 3 - DIQE - GEL 2312
+LOCATION:KT1 L1 06 LH2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Edham Nur Hazwan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:aa07820d533f23cebbde53c50a19acdcd54be824@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261023T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261023T170000
+SUMMARY:SEM 3 - DIQE - IQM 2113
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli\nNotes: Online Replacem
+ ent Class (12/10)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:dafd9a41bfaeffde066da41fc8fe4ee37f6ac46c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261026T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261026T130000
+SUMMARY:SEM 3 - DIQE - IQM 2043
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli\nNotes: Online Class\nC
+ alendar exception: JUBLI PERAK SELANGOR
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:092746476a842e881dfb55cdb02dcd773a7a9337@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261026T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261026T150000
+SUMMARY:SEM 3 - DIQE - IQM 2043
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli\nNotes: Online Class\nC
+ alendar exception: JUBLI PERAK SELANGOR
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:11a96beb7dd88bb76d8df5dd603975938cf73385@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261026T150000
+DTEND;TZID=Asia/Kuala_Lumpur:20261026T180000
+SUMMARY:SEM 3 - DIQE - IQM 2113
+LOCATION:KT2-L04-05_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli\nCalendar exception: JU
+ BLI PERAK SELANGOR
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b0d16a068dbccb401463be560f456939fcbd57f8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261027T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261027T130000
+SUMMARY:SEM 3 - DIQE - MET 2112
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Sufiyan Amril\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ba80d288b81fa3c39d56fa2d312476e2503703bf@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261027T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20261027T180000
+SUMMARY:SEM 3 - DIQE - ESP 2052
+LOCATION:KT1-L3-33
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Dhaarsini AP Thamby
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9e7cf6cc40b880b6af3c8cb136d01d049e61572b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261028T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261028T130000
+SUMMARY:SEM 3 - DIQE - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:aaa7d43a6239b10a8161a431c402d012420df729@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261028T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261028T180000
+SUMMARY:SEM 3 - DIQE - CNC 0653
+LOCATION:KT3-L02-19
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Zairul Nazim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d33234d38db04a0403eba056fcfb00afe651d5cb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261029T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261029T110000
+SUMMARY:SEM 3 - DIQE - IQM 2133
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:468d6ab4e8ea0395c9d849d513790242ba0167e9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261030T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261030T100000
+SUMMARY:SEM 3 - DIQE - GEL 2312
+LOCATION:KT1 L1 06 LH2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Edham Nur Hazwan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d36572e36249093a56221ca4929dc36e2666c8e7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261102T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261102T130000
+SUMMARY:SEM 3 - DIQE - IQM 2043
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bae19c99fa8a50110f3bca45886707c41fcc3ccd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261102T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261102T150000
+SUMMARY:SEM 3 - DIQE - IQM 2043
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8e2311d256dc6829c8f6206a964512ad00a1c141@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261102T150000
+DTEND;TZID=Asia/Kuala_Lumpur:20261102T180000
+SUMMARY:SEM 3 - DIQE - IQM 2113
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a93b6d61a5eabb3c3f11c9b211223d6db0adc3ba@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261103T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261103T130000
+SUMMARY:SEM 3 - DIQE - MET 2112
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Sufiyan Amril\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b3f4ce1d4f16ab7a975c512297407db798298725@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261103T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20261103T180000
+SUMMARY:SEM 3 - DIQE - ESP 2052
+LOCATION:KT1-L3-33
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Dhaarsini AP Thamby
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:808ada14657324a1223ff594fb3531778437825e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261104T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261104T130000
+SUMMARY:SEM 3 - DIQE - CNC 0653
+LOCATION:KT3-L02-19
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Zairul Nazim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f5c5496374ef132b9329e44ed3a66ab6fdef2167@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261104T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261104T180000
+SUMMARY:SEM 3 - DIQE - CNC 0653
+LOCATION:KT3-L02-19
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Zairul Nazim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3deb7cd727eab0b6f302c8d68d736f3c70b67788@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261105T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261105T110000
+SUMMARY:SEM 3 - DIQE - IQM 2133
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b5207f881cc0afa3465adfd146f2b239a5328877@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261106T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261106T100000
+SUMMARY:SEM 3 - DIQE - GEL 2312
+LOCATION:KT1 L1 06 LH2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Edham Nur Hazwan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:afd3e81ab0be1dbbe4ca365380e82c7bcb8fc975@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261109T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261109T130000
+SUMMARY:SEM 3 - DIQE - IQM 2043
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli\nNotes: Online Class\nC
+ alendar exception: Deepavali Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a4f11fae46e4a5dbfcaabaac44fa7978b1ef34dd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261109T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261109T150000
+SUMMARY:SEM 3 - DIQE - IQM 2043
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli\nNotes: Online Class\nC
+ alendar exception: Deepavali Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2ca2f1be27d9974c5527773c5d7c8f525b8eb11f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261109T150000
+DTEND;TZID=Asia/Kuala_Lumpur:20261109T180000
+SUMMARY:SEM 3 - DIQE - IQM 2113
+LOCATION:KT2-L04-05_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli\nCalendar exception: De
+ epavali Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ba9667b2f419d3238e838b44b67910a9bfe84f8c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261110T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261110T130000
+SUMMARY:SEM 3 - DIQE - MET 2112
+LOCATION:KT3-L05-08
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Sufiyan Amril
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cb490520fc4b50bef21c9b53a105412fd4f0e1d2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261110T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20261110T180000
+SUMMARY:SEM 3 - DIQE - ESP 2052
+LOCATION:KT1-L3-33
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Dhaarsini AP Thamby
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:10349a6d3075dac174a232374324a961f92fccaa@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261111T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261111T130000
+SUMMARY:SEM 3 - DIQE - CNC 0653
+LOCATION:KT3-L02-19
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Zairul Nazim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4eb408e6cd4e57ed0f2708938b5b5f4561fddd79@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261111T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261111T180000
+SUMMARY:SEM 3 - DIQE - CNC 0653
+LOCATION:KT3-L02-19
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Zairul Nazim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7daf9c1a125a6d745248a23742a6f46b3e4d12ae@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261112T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261112T110000
+SUMMARY:SEM 3 - DIQE - IQM 2133
+LOCATION:KT2-L04-19_TR
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Nurshakirin Zulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b7e6221a5f7be55dac4c84b3beb00ae1b7d5a351@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261113T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261113T100000
+SUMMARY:SEM 3 - DIQE - GEL 2312
+LOCATION:KT1 L1 06 LH2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Edham Nur Hazwan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1d47ba5fa8afec1d4b0a553d496e8954e882f06b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261113T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261113T180000
+SUMMARY:SEM 3 - DIQE - MET 2112
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIQE\nLecturer: Sufiyan Amril\nNotes: Online Replacement Cla
+ ss (PH)
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR

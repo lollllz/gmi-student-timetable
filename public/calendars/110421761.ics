@@ -1,0 +1,3633 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Student Timetable//Class Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:GUFP 26-04
+X-WR-TIMEZONE:Asia/Kuala_Lumpur
+BEGIN:VTIMEZONE
+TZID:Asia/Kuala_Lumpur
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:MYT
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:0c26be1a177960c024dd91f7dabc9980c2085419@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260406T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260406T130000
+SUMMARY:GUFP 26-04 - FCH 0033
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Iffah Farizan Rusli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:587138b125a77c9d914b64eecc5c2d0870c38520@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260406T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260406T160000
+SUMMARY:GUFP 26-04 - FCT 0015
+LOCATION:KT1-L2-RZ1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hanief
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b78d1352a8d5e28c7c29585b6e7b21fdc7c50961@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260407T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260407T100000
+SUMMARY:GUFP 26-04 - FCH 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hasrul Mat Yusof
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2b1b5c2f7433cd050129fb74f574b649bd74a68c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260407T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260407T130000
+SUMMARY:GUFP 26-04 - KFC1041F 3D PROTOTYP
+LOCATION:KT3-L02-08
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Faizal Zainal Abidin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a67d3b9413f9592008bc7b1b1f2b7812c18526e8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260407T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260407T170000
+SUMMARY:GUFP 26-04 - FCT 0015
+LOCATION:KT1-L2-RZ1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hanief
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6b559898e8fb325e3a86a0571d10f7d127999fd6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260408T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260408T170000
+SUMMARY:GUFP 26-04 - FCL 0024
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8a9a397fecac4e8a690cb6523032e2647be1004d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260409T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260409T100000
+SUMMARY:GUFP 26-04 - FCH 0023
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Idris Kadir
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:76daeef5297cf149c93213c0e2056dd9b8423412@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260409T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260409T130000
+SUMMARY:GUFP 26-04 - FCH 0033
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Iffah Farizan Rusli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:474dd23cd9eff17920daf568e33a5c478ca5c30f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260409T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260409T160000
+SUMMARY:GUFP 26-04 - FCT 0015
+LOCATION:KT1-L2-RZ1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hanief
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a0c3f540f0175218ce756832d389f499ae668fe8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260410T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260410T100000
+SUMMARY:GUFP 26-04 - FCL 0024
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:de99112b5caa3c64a0cca5c22229fd415c307075@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260410T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260410T130000
+SUMMARY:GUFP 26-04 - FCH 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hasrul Mat Yusof\nOverlapping class entry: che
+ ck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7254d509ab70ec58833fe76ce0bcc2994e9d30d6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260410T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260410T130000
+SUMMARY:GUFP 26-04 - FCH 0023
+LOCATION:KT1-L2-LECT.ROOM 2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Idris Kadir\nOverlapping class entry: check
+  with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:83be79dbbcddf5e7580fae9c21d6b2ced4ead37b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260413T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260413T130000
+SUMMARY:GUFP 26-04 - FCH 0033
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Iffah Farizan Rusli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7d7dfb8abe03103bab443ebad86bebbca63e3c62@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260413T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260413T160000
+SUMMARY:GUFP 26-04 - FCT 0015
+LOCATION:KT1-L2-RZ1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hanief
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0d76eae9da6c027a197cbc65ee944218ffa455ec@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260414T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260414T100000
+SUMMARY:GUFP 26-04 - FCH 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hasrul Mat Yusof
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a3de9d0e36fc8a819d50323a90170cc7fc9c7b4f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260414T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260414T130000
+SUMMARY:GUFP 26-04 - KFC1041F 3D PROTOTYP
+LOCATION:KT3-L02-08
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Faizal Zainal Abidin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f0b24e6233437dbd147c0f960a21b5ecc9e6d634@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260414T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260414T170000
+SUMMARY:GUFP 26-04 - FCT 0015
+LOCATION:KT1-L2-RZ1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hanief
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7f59a75ce7da009d3a994a26ab113944abca3807@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260415T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260415T170000
+SUMMARY:GUFP 26-04 - FCL 0024
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:85df71cdc23136d49f5324aac8b745de1b923210@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260416T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260416T100000
+SUMMARY:GUFP 26-04 - FCH 0023
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Idris Kadir
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:23d9f7a6cd304d294dd2aaecb09262ceabaf428c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260416T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260416T130000
+SUMMARY:GUFP 26-04 - FCH 0033
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Iffah Farizan Rusli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b74c48d9a2f31270cce9438fc1096828d9a8f1c8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260416T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260416T160000
+SUMMARY:GUFP 26-04 - FCT 0015
+LOCATION:KT1-L2-RZ1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hanief
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3f0af67648011799beb6ca8a3e8b61f0854042df@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260417T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260417T100000
+SUMMARY:GUFP 26-04 - FCL 0024
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0c107c995e6af894ad7fbbe4181177eda1ca34ea@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260417T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260417T130000
+SUMMARY:GUFP 26-04 - FCH 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hasrul Mat Yusof\nOverlapping class entry: che
+ ck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2803d2db4bfccb1ba1e6123473cca3169209b363@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260417T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260417T130000
+SUMMARY:GUFP 26-04 - FCH 0023
+LOCATION:KT1-L2-LECT.ROOM 2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Idris Kadir\nOverlapping class entry: check
+  with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0ec1b5bddd078f8c5e40522c81016e0a5fd86046@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260420T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260420T130000
+SUMMARY:GUFP 26-04 - FCH 0033
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Iffah Farizan Rusli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e4f8de93dac24e2dd2cb7ac76f51983d791c9c7b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260420T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260420T160000
+SUMMARY:GUFP 26-04 - FCT 0015
+LOCATION:KT1-L2-RZ1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hanief
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fe3dea7fb2528c647ae78aa8ae5bc2352302d6a3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260421T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260421T100000
+SUMMARY:GUFP 26-04 - FCH 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hasrul Mat Yusof
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7a89d9dd8cf58a917512777857bb86da99693485@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260421T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260421T130000
+SUMMARY:GUFP 26-04 - KFC1041F 3D PROTOTYP
+LOCATION:KT3-L02-08
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Faizal Zainal Abidin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3b3515db55098603c5b18316aef6f2ad7a7d5039@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260421T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260421T170000
+SUMMARY:GUFP 26-04 - FCT 0015
+LOCATION:KT1-L2-RZ1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hanief
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2eeeaa851b97500e57f73fb4a0bf3141c9ef8add@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260422T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260422T170000
+SUMMARY:GUFP 26-04 - FCL 0024
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:84dd7adb23f0caaa991aa94a80d2f8ee3a13b3ac@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260423T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260423T100000
+SUMMARY:GUFP 26-04 - FCH 0023
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Idris Kadir
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9c5ec16c56b79d8b2250ab943e41436e027c157d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260423T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260423T130000
+SUMMARY:GUFP 26-04 - FCH 0033
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Iffah Farizan Rusli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f978f5c20b28f04702f2360314eab8a5cd57d3cf@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260423T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260423T160000
+SUMMARY:GUFP 26-04 - FCT 0015
+LOCATION:KT1-L2-RZ1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hanief
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bf595add8ac1776cbce0c45ddcf3c68c2c5dd544@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260424T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260424T100000
+SUMMARY:GUFP 26-04 - FCL 0024
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ce767e3393f00913d0ef328fdbfe5cd9621932b3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260424T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260424T130000
+SUMMARY:GUFP 26-04 - FCH 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hasrul Mat Yusof\nOverlapping class entry: che
+ ck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:238388b3009beae57609f738d4d139c448588f06@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260424T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260424T130000
+SUMMARY:GUFP 26-04 - FCH 0023
+LOCATION:KT1-L2-LECT.ROOM 2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Idris Kadir\nOverlapping class entry: check
+  with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d168d28d5306ffb4cf18a614088eb180944aed02@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260427T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260427T130000
+SUMMARY:GUFP 26-04 - FCH 0033
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Iffah Farizan Rusli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7acd96a8a7bf7c832bab4ecebe079b929cbc7f1a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260427T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260427T160000
+SUMMARY:GUFP 26-04 - FCT 0015
+LOCATION:KT1-L2-RZ1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hanief
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fbe467ce18b2aac69d7424d76052b98f972fead2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260428T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260428T100000
+SUMMARY:GUFP 26-04 - FCH 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hasrul Mat Yusof
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6bc55cc0c753ab92257305d32a3f3228befb0326@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260428T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260428T130000
+SUMMARY:GUFP 26-04 - KFC1041F 3D PROTOTYP
+LOCATION:KT3-L02-08
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Faizal Zainal Abidin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1a2439b2be411ffb904986ec529d6b04e590f945@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260428T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260428T170000
+SUMMARY:GUFP 26-04 - FCT 0015
+LOCATION:KT1-L2-RZ1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hanief
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:46bfc66d0c0deb296fbe985cca22927c0e6ce359@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260429T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260429T170000
+SUMMARY:GUFP 26-04 - FCL 0024
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f7cec40e53b3c24a128c0284df2a99d93687cf6d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260430T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260430T100000
+SUMMARY:GUFP 26-04 - FCH 0023
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Idris Kadir
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8333f73daa5ad63be90e920d564fabb15dcebca5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260430T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260430T130000
+SUMMARY:GUFP 26-04 - FCH 0033
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Iffah Farizan Rusli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:19418c2f1618996741baaceb094dfea42fe310ac@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260430T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260430T160000
+SUMMARY:GUFP 26-04 - FCT 0015
+LOCATION:KT1-L2-RZ1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hanief
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:24751b95a60e7c5b512c0329986d3b2151968bf7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260501T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260501T100000
+SUMMARY:GUFP 26-04 - FCL 0024
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza\nCalendar exception: Labour Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:20b61e696ec4ee3376a6d166a54ed54b35c8d9e3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260501T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260501T130000
+SUMMARY:GUFP 26-04 - FCH 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hasrul Mat Yusof\nCalendar exception: Labour D
+ ay\nOverlapping class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c7afbfd01f3674452aaf3759d43f55eb4502183e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260501T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260501T130000
+SUMMARY:GUFP 26-04 - FCH 0023
+LOCATION:KT1-L2-LECT.ROOM 2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Idris Kadir\nCalendar exception: Labour Day
+ \nOverlapping class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:94192408a53f92b14eda16a9ca39d5a01fe15f1c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260504T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260504T130000
+SUMMARY:GUFP 26-04 - FCH 0033
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Iffah Farizan Rusli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:10fd46a239f6dc1e43044602041e8b10d119631a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260504T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260504T160000
+SUMMARY:GUFP 26-04 - FCT 0015
+LOCATION:KT1-L2-RZ1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hanief
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:de436df434d0d557296b8877fcaedd30416d73b0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260505T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260505T100000
+SUMMARY:GUFP 26-04 - FCH 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hasrul Mat Yusof
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:91b6c696a8c70830b0bda4a1c3c6c3accce3613a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260505T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260505T130000
+SUMMARY:GUFP 26-04 - KFC1041F 3D PROTOTYP
+LOCATION:KT3-L02-08
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Faizal Zainal Abidin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f70851ad234c04a64b33d93ba8c306bcccdabc1d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260505T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260505T170000
+SUMMARY:GUFP 26-04 - FCT 0015
+LOCATION:KT1-L2-RZ1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hanief
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:da736132b8b5f94112d5c72eca47866344cb2fc1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260506T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260506T170000
+SUMMARY:GUFP 26-04 - FCL 0024
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7309baeae23dd213accd5455d0386dded261642c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260507T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260507T100000
+SUMMARY:GUFP 26-04 - FCH 0023
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Idris Kadir
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:43f5c24c1c55f8edcbabc8320d826c84227e5e40@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260507T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260507T130000
+SUMMARY:GUFP 26-04 - FCH 0033
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Iffah Farizan Rusli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1bf0f40400d6a427ae51388656aa6bc09954170f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260507T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260507T160000
+SUMMARY:GUFP 26-04 - FCT 0015
+LOCATION:KT1-L2-RZ1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hanief
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e4476fbc8c981eb29441768e866e8a582adbafb3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260508T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260508T100000
+SUMMARY:GUFP 26-04 - FCL 0024
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:acc40a0fb26ba66f8274766561cbac3970dce07c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260508T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260508T130000
+SUMMARY:GUFP 26-04 - FCH 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hasrul Mat Yusof\nOverlapping class entry: che
+ ck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ec93129decdaec96a1afc78150a201d3dcf71ddd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260508T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260508T130000
+SUMMARY:GUFP 26-04 - FCH 0023
+LOCATION:KT1-L2-LECT.ROOM 2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Idris Kadir\nOverlapping class entry: check
+  with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8ca5fbcacbbd319b1c25720c88bb792daccc8a48@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260511T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260511T130000
+SUMMARY:GUFP 26-04 - FCH 0033
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Iffah Farizan Rusli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fba98cc2c4438c81d245c55136b00bfd763b5af1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260511T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260511T160000
+SUMMARY:GUFP 26-04 - FCT 0015
+LOCATION:KT1-L2-RZ1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hanief
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ce15f0f19a6aa819a834d55407ed4971d8917bd7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260512T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260512T100000
+SUMMARY:GUFP 26-04 - FCH 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hasrul Mat Yusof
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6e2f613c7f558b255b170dece1b1dd220bd4a085@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260512T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260512T130000
+SUMMARY:GUFP 26-04 - KFC1041F 3D PROTOTYP
+LOCATION:KT3-L02-08
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Faizal Zainal Abidin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:237f1b06937bd13fd9af27c2d02ecff75c4ad43c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260512T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260512T170000
+SUMMARY:GUFP 26-04 - FCT 0015
+LOCATION:KT1-L2-RZ1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hanief
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c7234a0b75b4d1f6b4e00239f163dcb418bdd838@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260513T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260513T170000
+SUMMARY:GUFP 26-04 - FCL 0024
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b1440c58f835514751fc3ca74c6f4a103a114d58@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260514T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260514T100000
+SUMMARY:GUFP 26-04 - FCH 0023
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Idris Kadir
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:16f25affa954eaf79d1f4faa151125bb2fbcfe83@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260514T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260514T130000
+SUMMARY:GUFP 26-04 - FCH 0033
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Iffah Farizan Rusli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:682cf3af56accdab01eaeaacc7c9e6f674ec1aa8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260514T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260514T160000
+SUMMARY:GUFP 26-04 - FCT 0015
+LOCATION:KT1-L2-RZ1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hanief
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a57de606dd4abd26b75c4110f5f21dfefd2860ec@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260515T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260515T100000
+SUMMARY:GUFP 26-04 - FCL 0024
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a5c1749ddfbb5d246f7eed2b51b06061a1558460@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260515T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260515T130000
+SUMMARY:GUFP 26-04 - FCH 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hasrul Mat Yusof\nOverlapping class entry: che
+ ck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:39bfe32fe71ba1fa0eb765555b6be47798602ec2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260515T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260515T130000
+SUMMARY:GUFP 26-04 - FCH 0023
+LOCATION:KT1-L2-LECT.ROOM 2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Idris Kadir\nOverlapping class entry: check
+  with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2fda14b790b855600304931992bd1e7785b918b7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260518T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260518T130000
+SUMMARY:GUFP 26-04 - FCH 0033
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Iffah Farizan Rusli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:84daa5a5dd5247f14c905dce1b7cfe74d2e8309f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260518T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260518T160000
+SUMMARY:GUFP 26-04 - FCT 0015
+LOCATION:KT1-L2-RZ1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hanief
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:dde45214941c4f504f44d9b5abef8bb2b1aef51e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260519T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260519T100000
+SUMMARY:GUFP 26-04 - FCH 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hasrul Mat Yusof
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ad279a524f464104ccdc02486da6abc4628b018e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260519T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260519T130000
+SUMMARY:GUFP 26-04 - KFC1041F 3D PROTOTYP
+LOCATION:KT3-L02-08
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Faizal Zainal Abidin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:745df3f637136217e9b632984118055437a11264@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260519T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260519T170000
+SUMMARY:GUFP 26-04 - FCT 0015
+LOCATION:KT1-L2-RZ1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hanief
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d0dfc9587e390b9ca7481f497eb4cff4acd14dad@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260520T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260520T170000
+SUMMARY:GUFP 26-04 - FCL 0024
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:42fb46f5628a948e4dbf4e2dbf4ea08974785b11@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260521T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260521T100000
+SUMMARY:GUFP 26-04 - FCH 0023
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Idris Kadir
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:597a238e74dc073d33f53276e4db0f77549745b7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260521T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260521T130000
+SUMMARY:GUFP 26-04 - FCH 0033
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Iffah Farizan Rusli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:77d2c0469ea66786ba68b5db2a672a5a277f9bde@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260521T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260521T160000
+SUMMARY:GUFP 26-04 - FCT 0015
+LOCATION:KT1-L2-RZ1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hanief
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b5ec1cbd77684e777632eea4f97164b2afa9e867@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260522T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260522T100000
+SUMMARY:GUFP 26-04 - FCL 0024
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c12b27fa84924c31de8da03dc1dd3e0e92c708d3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260522T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260522T130000
+SUMMARY:GUFP 26-04 - FCH 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hasrul Mat Yusof\nOverlapping class entry: che
+ ck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bef8f4bb318584f01f765bd1eb1f1f93c1e5b087@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260522T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260522T130000
+SUMMARY:GUFP 26-04 - FCH 0023
+LOCATION:KT1-L2-LECT.ROOM 2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Idris Kadir\nOverlapping class entry: check
+  with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c4b4d4879f60974ca0a12caa7a38ef79543125d4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260525T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260525T130000
+SUMMARY:GUFP 26-04 - FCH 0033
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Iffah Farizan Rusli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:30866a833720015876da554c71adc68b5917f765@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260525T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260525T160000
+SUMMARY:GUFP 26-04 - FCT 0015
+LOCATION:KT1-L2-RZ1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hanief
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5dfa0f78047a7bff5d99135a2cf84de9596506e0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260526T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260526T100000
+SUMMARY:GUFP 26-04 - FCH 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hasrul Mat Yusof
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:29c4f89bd8163ee8d509271a83104448f7a8b5e3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260526T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260526T130000
+SUMMARY:GUFP 26-04 - KFC1041F 3D PROTOTYP
+LOCATION:KT3-L02-08
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Faizal Zainal Abidin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ebd5be2ba01f08bc614975fa70d8b7e677783be9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260526T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260526T170000
+SUMMARY:GUFP 26-04 - FCT 0015
+LOCATION:KT1-L2-RZ1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hanief
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bf8fcb50430f512b2b809c84611e5e3f3e8edcb9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260527T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260527T170000
+SUMMARY:GUFP 26-04 - FCL 0024
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza\nCalendar exception: Eid Aidiladh
+ a
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:16284d0e930f57f8453b595843adcf0c10319da0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260528T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260528T100000
+SUMMARY:GUFP 26-04 - FCH 0023
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Idris Kadir
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6d33a1fdec984e505ca4417801cdc6edae1c8881@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260528T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260528T130000
+SUMMARY:GUFP 26-04 - FCH 0033
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Iffah Farizan Rusli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ae21663e9745b0e873190ce967aa2f6bcab65f73@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260528T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260528T160000
+SUMMARY:GUFP 26-04 - FCT 0015
+LOCATION:KT1-L2-RZ1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hanief
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ad14eba5294edefa50ae02490e838261ca523aa8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260529T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260529T100000
+SUMMARY:GUFP 26-04 - FCL 0024
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8284a282995763ad28e6ee32952b2a07666787b6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260529T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260529T130000
+SUMMARY:GUFP 26-04 - FCH 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hasrul Mat Yusof\nOverlapping class entry: che
+ ck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:622805fdd551396a8554f05b70ace804726a2b4e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260529T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260529T130000
+SUMMARY:GUFP 26-04 - FCH 0023
+LOCATION:KT1-L2-LECT.ROOM 2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Idris Kadir\nOverlapping class entry: check
+  with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d6d58e6c2ef72496431a25d9880f1f68e5576f8c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260601T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260601T130000
+SUMMARY:GUFP 26-04 - FCH 0033
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Iffah Farizan Rusli\nCalendar exception: Hari 
+ Keputeraan Yang di-Pertuan Agong
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:427508b34cf87237c272b3c42eafd12eb034e111@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260601T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260601T160000
+SUMMARY:GUFP 26-04 - FCT 0015
+LOCATION:KT1-L2-RZ1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hanief\nCalendar exception: Hari Keputeraan Ya
+ ng di-Pertuan Agong
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:167703a1513aa5fc96d58a025aab913ecbef0dac@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260602T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260602T100000
+SUMMARY:GUFP 26-04 - FCH 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hasrul Mat Yusof\nCalendar exception: Wesak Da
+ y
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4b746c83eef378906174a3133ce3d085f67f53fd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260602T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260602T130000
+SUMMARY:GUFP 26-04 - KFC1041F 3D PROTOTYP
+LOCATION:KT3-L02-08
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Faizal Zainal Abidin\nCalendar exception: Wesa
+ k Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b43fb72b54c49f23f85ef214a87ed5e91f28247e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260602T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260602T170000
+SUMMARY:GUFP 26-04 - FCT 0015
+LOCATION:KT1-L2-RZ1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hanief\nCalendar exception: Wesak Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3b558f9975d419dbf5ba4638f81b6ffd7f2ec8d0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260603T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260603T170000
+SUMMARY:GUFP 26-04 - FCL 0024
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2ded46004e794290a241e7d1d99156cf71ac0814@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260604T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260604T100000
+SUMMARY:GUFP 26-04 - FCH 0023
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Idris Kadir
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8187c975a2a619a84065273d965016b74ef1d02b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260604T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260604T130000
+SUMMARY:GUFP 26-04 - FCH 0033
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Iffah Farizan Rusli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c07fbba76355c690a973b9679b316005138d41ce@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260604T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260604T160000
+SUMMARY:GUFP 26-04 - FCT 0015
+LOCATION:KT1-L2-RZ1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hanief
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:660e44dc92e1c4452cde36a0b5037774cfb3edcc@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260605T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260605T100000
+SUMMARY:GUFP 26-04 - FCL 0024
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:188331165b626f6a6fbd24c0c8fa7967159cb86c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260605T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260605T130000
+SUMMARY:GUFP 26-04 - FCH 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hasrul Mat Yusof\nOverlapping class entry: che
+ ck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f3c0c84dc8cc6f40acda0df6535f7bcf80dccb85@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260605T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260605T130000
+SUMMARY:GUFP 26-04 - FCH 0023
+LOCATION:KT1-L2-LECT.ROOM 2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Idris Kadir\nOverlapping class entry: check
+  with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4ce130a3f0905261ffe2eacd4ef13c3a8d0fba96@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260608T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260608T130000
+SUMMARY:GUFP 26-04 - FCH 0033
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Iffah Farizan Rusli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:766ff66b875708aee53f27de2619e4f88c3df2e2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260608T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260608T160000
+SUMMARY:GUFP 26-04 - FCT 0015
+LOCATION:KT1-L2-RZ1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hanief
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cb9c58cef001de1e93a54302060fe3d45bae96f5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260609T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260609T100000
+SUMMARY:GUFP 26-04 - FCH 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hasrul Mat Yusof
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7308664c24a262856954288653ca786221f65bb7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260609T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260609T130000
+SUMMARY:GUFP 26-04 - KFC1041F 3D PROTOTYP
+LOCATION:KT3-L02-08
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Faizal Zainal Abidin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0644507f7a4e1243542d63e1b9961569ae5d395c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260609T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260609T170000
+SUMMARY:GUFP 26-04 - FCT 0015
+LOCATION:KT1-L2-RZ1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hanief
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f8ee31737a0620755677a35c8b96ea152dd99d42@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260610T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260610T170000
+SUMMARY:GUFP 26-04 - FCL 0024
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b23d4f5d25b90c1dd438e0c4c4059fba0422a651@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260611T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260611T100000
+SUMMARY:GUFP 26-04 - FCH 0023
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Idris Kadir
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:df86d79cf822a4529209bc25d13cf26bbb32f6ee@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260611T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260611T130000
+SUMMARY:GUFP 26-04 - FCH 0033
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Iffah Farizan Rusli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d60fadb0781b0734b5ab903041fb19e06e4c060f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260611T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260611T160000
+SUMMARY:GUFP 26-04 - FCT 0015
+LOCATION:KT1-L2-RZ1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hanief
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ff0c71aae851e0f657fb3fcc7731f94ab79cfa49@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260612T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260612T100000
+SUMMARY:GUFP 26-04 - FCL 0024
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0c6c656a2c56743f32d5f5604efea5948fab289d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260612T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260612T130000
+SUMMARY:GUFP 26-04 - FCH 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hasrul Mat Yusof\nOverlapping class entry: che
+ ck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8e9114d9a61bf57023105064bf7ae283cdf93897@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260612T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260612T130000
+SUMMARY:GUFP 26-04 - FCH 0023
+LOCATION:KT1-L2-LECT.ROOM 2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Idris Kadir\nOverlapping class entry: check
+  with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2bb809159b7a4149ea7d866fe1e08160b1a29370@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260615T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260615T130000
+SUMMARY:GUFP 26-04 - FCH 0033
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Iffah Farizan Rusli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0ec7a452422377369d191f521e32ae2ebc2edf58@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260615T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260615T160000
+SUMMARY:GUFP 26-04 - FCT 0015
+LOCATION:KT1-L2-RZ1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hanief
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ef5a023415af2b62b42d97cc19f2d79fd16af2a6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260616T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260616T100000
+SUMMARY:GUFP 26-04 - FCH 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hasrul Mat Yusof
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3c18f23c702d4b68aa870e361c0aa321adf302a0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260616T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260616T130000
+SUMMARY:GUFP 26-04 - KFC1041F 3D PROTOTYP
+LOCATION:KT3-L02-08
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Faizal Zainal Abidin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:641ad38155fb7d8ce74bc972a91ce5d7886c4ede@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260616T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260616T170000
+SUMMARY:GUFP 26-04 - FCT 0015
+LOCATION:KT1-L2-RZ1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hanief
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:92da6c637cb779136fc3ebe1502dd116a6a3995a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260617T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260617T170000
+SUMMARY:GUFP 26-04 - FCL 0024
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza\nCalendar exception: Awal Muharra
+ m
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:236f6923746749f19b5338477bd1f30b706c5e43@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260618T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260618T100000
+SUMMARY:GUFP 26-04 - FCH 0023
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Idris Kadir
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f8808a37373f02ec0ef96a4d0294416c6426c57f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260618T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260618T130000
+SUMMARY:GUFP 26-04 - FCH 0033
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Iffah Farizan Rusli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9e1e0dbaa8b33d03ed36c2caf7ede5dc6ec32b8a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260618T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260618T160000
+SUMMARY:GUFP 26-04 - FCT 0015
+LOCATION:KT1-L2-RZ1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hanief
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:76bb484de277b35faf1a5fbb50c79571431dea70@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260619T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260619T100000
+SUMMARY:GUFP 26-04 - FCL 0024
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9a77d58659aa1413315c05cb1a6f7a7172a20965@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260619T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260619T130000
+SUMMARY:GUFP 26-04 - FCH 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hasrul Mat Yusof\nOverlapping class entry: che
+ ck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3682f55cf4c4f361463e9dbc3a590963259892aa@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260619T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260619T130000
+SUMMARY:GUFP 26-04 - FCH 0023
+LOCATION:KT1-L2-LECT.ROOM 2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Idris Kadir\nOverlapping class entry: check
+  with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8693048133e84eea52a6b05a34f50e77a62f882c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260622T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260622T130000
+SUMMARY:GUFP 26-04 - FCH 0033
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Iffah Farizan Rusli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:41186f940d6048ee32bae06b73d4136308a51bcf@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260622T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260622T160000
+SUMMARY:GUFP 26-04 - FCT 0015
+LOCATION:KT1-L2-RZ1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hanief
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b0d70b3ec7abc6796daf4c00b348a04dc06291d0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260623T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260623T100000
+SUMMARY:GUFP 26-04 - FCH 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hasrul Mat Yusof
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a2100b79d6ff6684a18eab10018249e009ec8a19@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260623T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260623T130000
+SUMMARY:GUFP 26-04 - KFC1041F 3D PROTOTYP
+LOCATION:KT3-L02-08
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Faizal Zainal Abidin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:49148ff42ef287bf36404506cc23959e93af0f5f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260623T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260623T170000
+SUMMARY:GUFP 26-04 - FCT 0015
+LOCATION:KT1-L2-RZ1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hanief
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:44a530228c34ca2f77ed4532f311973511cb2a02@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260624T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260624T170000
+SUMMARY:GUFP 26-04 - FCL 0024
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:73407169d72c1a70eed3e580688675b79ef8a82e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260625T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260625T100000
+SUMMARY:GUFP 26-04 - FCH 0023
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Idris Kadir
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2b060c7ef418174d54076c15dd05a89d35ca88ec@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260625T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260625T130000
+SUMMARY:GUFP 26-04 - FCH 0033
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Iffah Farizan Rusli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:612204b602a94f6316c09c83a1fdab4aa856d574@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260625T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260625T160000
+SUMMARY:GUFP 26-04 - FCT 0015
+LOCATION:KT1-L2-RZ1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hanief
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fd5e03533cf898caf8af0133e92d2b232450074d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260626T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260626T100000
+SUMMARY:GUFP 26-04 - FCL 0024
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0ac00ef33c45375b6a8d2edc062f62aa82a9d039@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260626T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260626T130000
+SUMMARY:GUFP 26-04 - FCH 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hasrul Mat Yusof\nOverlapping class entry: che
+ ck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1c8a6ca086ea5bd002dc54560ef353aebed6fa0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260626T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260626T130000
+SUMMARY:GUFP 26-04 - FCH 0023
+LOCATION:KT1-L2-LECT.ROOM 2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Idris Kadir\nOverlapping class entry: check
+  with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:476cb8df1ee6aee1b9b869ce9338cf4a923fe43e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260629T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260629T180000
+SUMMARY:GUFP 26-04 - GUFP REV. WEEK
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:80c0279f43c86bd048fc81915652bd08d49906e8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260630T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260630T180000
+SUMMARY:GUFP 26-04 - GUFP REV. WEEK
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a1b3984a4abf342beb580a66c0ca528eba414310@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260701T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260701T180000
+SUMMARY:GUFP 26-04 - GUFP REV. WEEK
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:261a3258e37e0dbcc3d8eadbb2d4c220123a2633@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260702T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260702T180000
+SUMMARY:GUFP 26-04 - GUFP REV. WEEK
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1fb391fad0b2e8f4cce5948594f5a77c0b63e99@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260703T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260703T180000
+SUMMARY:GUFP 26-04 - GUFP REV. WEEK
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9354d51c49f87eab5c7c428c4269314ecc148e5c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260727T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260727T130000
+SUMMARY:GUFP 26-04 - FCP 0015
+LOCATION:Physics Lab 1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Ezhar Zulkifli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:534256ac0b6f53f89f320266d229b747ef8f71e7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260727T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260727T160000
+SUMMARY:GUFP 26-04 - FCC 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Lekshmi Sarojini
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2be8af0029e9b26d9a919c2831b1d4c412e173fa@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260728T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260728T110000
+SUMMARY:GUFP 26-04 - FCM 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Puteri Nur Aizzat
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c74a60aebcfe6b3391ec97dea812eda97e5e8b35@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260728T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260728T130000
+SUMMARY:GUFP 26-04 - FCC 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Lekshmi Sarojini
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:37593a7b2341b9f06eec01a2d8a12b86053ebb86@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260728T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260728T160000
+SUMMARY:GUFP 26-04 - FCL 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:12a0ccd5480de270b4e6b6cba046aedae0474f8a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260729T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260729T170000
+SUMMARY:GUFP 26-04 - FCC 0015
+LOCATION:Chemistry Lab 1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Lekshmi Sarojini
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:23dbe441770d98fcde3787dee7322220dc1abc99@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260730T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260730T130000
+SUMMARY:GUFP 26-04 - FCM 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Puteri Nur Aizzat
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1bf3d015d2714b0c2515f4bdbc631d8593dc7847@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260730T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260730T160000
+SUMMARY:GUFP 26-04 - FCP 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Ezhar Zulkifli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:34133b2a4f024c46cbc26dcc866e67af1fb1e607@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260731T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260731T110000
+SUMMARY:GUFP 26-04 - FCL 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ad3addad4790fec2cf07e84d6c5fd6848671e42c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260731T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260731T130000
+SUMMARY:GUFP 26-04 - FCM 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Puteri Nur Aizzat
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:356b7a12c36c1cfe96f38c9ea01815a5a7beb1b6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260731T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260731T160000
+SUMMARY:GUFP 26-04 - FCP 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Ezhar Zulkifli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a4c59b92af4b9839d161df04430f94ecd49c6c33@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260803T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260803T130000
+SUMMARY:GUFP 26-04 - FCP 0015
+LOCATION:Physics Lab 1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Ezhar Zulkifli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:dcd851d969cd4b6d296896c410839a41cb62c5fe@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260803T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260803T160000
+SUMMARY:GUFP 26-04 - FCC 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Lekshmi Sarojini
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c027b0b5d17967c021c0eef910c78bf1656b055e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260804T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260804T110000
+SUMMARY:GUFP 26-04 - FCM 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Puteri Nur Aizzat
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2a6dc059eb0f2a1401203cd1146a522a18c4f302@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260804T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260804T130000
+SUMMARY:GUFP 26-04 - FCC 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Lekshmi Sarojini
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:941b0589f6c1da81aca80dc7ef3c39506f203115@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260804T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260804T160000
+SUMMARY:GUFP 26-04 - FCL 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:440da406d975d9c4ef37c99ed5a9280652f650c9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260805T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260805T170000
+SUMMARY:GUFP 26-04 - FCC 0015
+LOCATION:Chemistry Lab 1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Lekshmi Sarojini
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3896e174eb31c5b3da650ffd4038bdbc3fd884c0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260806T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260806T130000
+SUMMARY:GUFP 26-04 - FCM 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Puteri Nur Aizzat
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cbaa5577245a36242929c6a50fe8acc490494a57@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260806T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260806T160000
+SUMMARY:GUFP 26-04 - FCP 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Ezhar Zulkifli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8a4962beba13483ec39baf2b921fa2bc8342d3d0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260807T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260807T110000
+SUMMARY:GUFP 26-04 - FCL 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ad1f962950dbb3175c0529e3122e839d6e602ef6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260807T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260807T130000
+SUMMARY:GUFP 26-04 - FCM 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Puteri Nur Aizzat
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f7c87eee2fdd1cb1c81085b9981877cc870671c8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260807T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260807T160000
+SUMMARY:GUFP 26-04 - FCP 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Ezhar Zulkifli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:04d160356831f3160e77c3cc7295bad6b38e6f37@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260810T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260810T130000
+SUMMARY:GUFP 26-04 - FCP 0015
+LOCATION:Physics Lab 1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Ezhar Zulkifli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1436f83c550c24cec4aa84df95807d4f52cb0d26@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260810T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260810T160000
+SUMMARY:GUFP 26-04 - FCC 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Lekshmi Sarojini
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fd1d8acca0d13c257ef631646d9f5ace65288718@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260811T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260811T110000
+SUMMARY:GUFP 26-04 - FCM 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Puteri Nur Aizzat
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:afbadd0766ae3230e9ce6501838fff526eee7034@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260811T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260811T130000
+SUMMARY:GUFP 26-04 - FCC 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Lekshmi Sarojini
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:12abd53eb1a79ebb967abc82e7d4877f4d6c5ba7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260811T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260811T160000
+SUMMARY:GUFP 26-04 - FCL 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c5909ff33ee552ad79a6e9ee404c7dbba0e31509@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260812T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260812T170000
+SUMMARY:GUFP 26-04 - FCC 0015
+LOCATION:Chemistry Lab 1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Lekshmi Sarojini
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1a1781b3c62047fc48ad06f199b77fd5dcfb07de@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260813T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260813T130000
+SUMMARY:GUFP 26-04 - FCM 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Puteri Nur Aizzat
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:89df20fbd83d4c04a0280a148b78345fdfbf09af@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260813T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260813T160000
+SUMMARY:GUFP 26-04 - FCP 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Ezhar Zulkifli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a5be7e906866cb714360310f6999e6948646f38d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260814T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260814T110000
+SUMMARY:GUFP 26-04 - FCL 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d070aa7b2d6a7422029810f0a7abaf4ef9c47814@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260814T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260814T130000
+SUMMARY:GUFP 26-04 - FCM 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Puteri Nur Aizzat
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b5dd00510e75457c3d8668b7129e3bc416b48e16@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260814T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260814T160000
+SUMMARY:GUFP 26-04 - FCP 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Ezhar Zulkifli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:56820139f30dc778a7068411f5b5ef96f4be8464@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260817T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260817T130000
+SUMMARY:GUFP 26-04 - FCP 0015
+LOCATION:Physics Lab 1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Ezhar Zulkifli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1cce1a52c471be6a9a161ab40556e077be26450c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260817T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260817T160000
+SUMMARY:GUFP 26-04 - FCC 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Lekshmi Sarojini
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d2ee8c9564ac56303b8634e81d128d36238f290f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260818T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260818T110000
+SUMMARY:GUFP 26-04 - FCM 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Puteri Nur Aizzat
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:519698e9c45085223972f8387a77f939026dc669@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260818T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260818T130000
+SUMMARY:GUFP 26-04 - FCC 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Lekshmi Sarojini
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d5bd3d724d3797d8bf00b6fa76a69b66046bac2b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260818T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260818T160000
+SUMMARY:GUFP 26-04 - FCL 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:438b27f5e45898d8562871be9e86dd966a843bd0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260819T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260819T170000
+SUMMARY:GUFP 26-04 - FCC 0015
+LOCATION:Chemistry Lab 1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Lekshmi Sarojini
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a66fc09757c4c39718fa789579b91aaf86730342@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260820T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260820T130000
+SUMMARY:GUFP 26-04 - FCM 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Puteri Nur Aizzat
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cd278c5de6b2ef5187e95557eee8a721ba3a5a54@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260820T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260820T160000
+SUMMARY:GUFP 26-04 - FCP 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Ezhar Zulkifli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e5f7ef1079ade2dea29c76e36551c51dc5ba7688@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260821T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260821T110000
+SUMMARY:GUFP 26-04 - FCL 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9eb7fc7223c261e8d49b2a402dacc1030d575f88@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260821T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260821T130000
+SUMMARY:GUFP 26-04 - FCM 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Puteri Nur Aizzat
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8867d1d065dd70c9265177ded9a7dc2d323eb1da@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260821T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260821T160000
+SUMMARY:GUFP 26-04 - FCP 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Ezhar Zulkifli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3ba068b590650d91e2dd4ae3071d142048d03390@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260824T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260824T130000
+SUMMARY:GUFP 26-04 - FCP 0015
+LOCATION:Physics Lab 1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Ezhar Zulkifli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8734c8fe9b4f3ccfc1ab0b34f3ae83bbd3e73da7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260824T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260824T160000
+SUMMARY:GUFP 26-04 - FCC 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Lekshmi Sarojini
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:16f611eedb86f04824f3c575436ab267a10d04d0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260825T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260825T110000
+SUMMARY:GUFP 26-04 - FCM 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Puteri Nur Aizzat\nCalendar exception: Maulidu
+ r Rasul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b854ba58513d84da3141e9f5b009bc12182b47df@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260825T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260825T130000
+SUMMARY:GUFP 26-04 - FCC 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Lekshmi Sarojini\nCalendar exception: Mauli
+ dur Rasul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f95ad0452856722e782c633c39a9b4b6b8dd8c4a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260825T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260825T160000
+SUMMARY:GUFP 26-04 - FCL 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza\nCalendar exception: Maulidur Ras
+ ul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6fdeca5dd931df93e0c9a1df6796b11d5d62e7e2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260826T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260826T170000
+SUMMARY:GUFP 26-04 - FCC 0015
+LOCATION:Chemistry Lab 1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Lekshmi Sarojini
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:409e0500b003fb908534878234102dd2ce89e654@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260827T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260827T130000
+SUMMARY:GUFP 26-04 - FCM 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Puteri Nur Aizzat
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f14c76d5227e7ce069faa1af0e2576d3ea7d239d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260827T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260827T160000
+SUMMARY:GUFP 26-04 - FCP 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Ezhar Zulkifli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0330fac96ca685f4390174e7ccd4a13d66240acf@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260828T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260828T110000
+SUMMARY:GUFP 26-04 - FCL 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:991a2be74e09adc41df96f9d4c329b43458e6450@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260828T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260828T130000
+SUMMARY:GUFP 26-04 - FCM 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Puteri Nur Aizzat
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2a3c869b11c9236b4e5a1eb7b46f58033f7090d8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260828T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260828T160000
+SUMMARY:GUFP 26-04 - FCP 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Ezhar Zulkifli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2f6983293467362a65b6d4dedabaa01feca8c79a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260831T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260831T130000
+SUMMARY:GUFP 26-04 - FCP 0015
+LOCATION:Physics Lab 1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Ezhar Zulkifli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ad75b264df3acad9a01f0065aac8dcf48fd39adb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260831T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260831T160000
+SUMMARY:GUFP 26-04 - FCC 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Lekshmi Sarojini
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6f86126c2713112922d8e57fc0282ada8bab50b8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260901T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260901T110000
+SUMMARY:GUFP 26-04 - FCM 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Puteri Nur Aizzat\nCalendar exception: SUKMA S
+ ELANGOR
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fd925f8c0eeaa4b994b0ee6c4ba00b0f68d1f596@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260901T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260901T130000
+SUMMARY:GUFP 26-04 - FCC 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Lekshmi Sarojini\nCalendar exception: SUKMA
+  SELANGOR
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9507560ade4dbfe5db0b76f3a36015852e43aa66@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260901T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260901T160000
+SUMMARY:GUFP 26-04 - FCL 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza\nCalendar exception: SUKMA SELANG
+ OR
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a5f457a084ded9e83e86332615e8f9ede1289768@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260902T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260902T170000
+SUMMARY:GUFP 26-04 - FCC 0015
+LOCATION:Chemistry Lab 1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Lekshmi Sarojini
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ce1469fd14d76a63f9818bed752af1ef09cb5a7e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260903T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260903T130000
+SUMMARY:GUFP 26-04 - FCM 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Puteri Nur Aizzat
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:31602e0860c90320cefb1d1125457b75bce83ab5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260903T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260903T160000
+SUMMARY:GUFP 26-04 - FCP 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Ezhar Zulkifli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e7527eeb5af43528099e10ec0fa591aeb839c5f9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260904T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260904T110000
+SUMMARY:GUFP 26-04 - FCL 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7bbb77f5b449c98367aeb32b9444ef76ed1d8d6b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260904T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260904T130000
+SUMMARY:GUFP 26-04 - FCM 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Puteri Nur Aizzat
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:96e0194c33d9679fd5bb951b9b1a49802fa4a6e8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260904T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260904T160000
+SUMMARY:GUFP 26-04 - FCP 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Ezhar Zulkifli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e37629b0416f6525dfecdca3b6a76f684dc04336@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260907T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260907T130000
+SUMMARY:GUFP 26-04 - FCC 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Lekshmi Sarojini
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:127323b0687f7feb03a7adf53e3637c624c1d67c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260907T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260907T170000
+SUMMARY:GUFP 26-04 - FCP 0015
+LOCATION:Physics Lab 1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Ezhar Zulkifli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d35583c5ed723d2c573baf85245f35aa687db0ce@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260908T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260908T110000
+SUMMARY:GUFP 26-04 - FCC 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Lekshmi Sarojini
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1637a31f643ae3aefcb7197bfca1c270a3381d7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260908T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260908T130000
+SUMMARY:GUFP 26-04 - FCM 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Puteri Nur Aizzat
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:25729079536644f3b3886fd87accc71206b0ffd4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260908T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260908T160000
+SUMMARY:GUFP 26-04 - FCL 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:369e148cdc07c2ee0707eff64cffbe90bede8ac1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260909T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260909T170000
+SUMMARY:GUFP 26-04 - FCC 0015
+LOCATION:Chemistry Lab 1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Lekshmi Sarojini
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9457339a114d2a50b5e74ca677d18b707e097221@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260910T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260910T130000
+SUMMARY:GUFP 26-04 - FCM 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Puteri Nur Aizzat
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c5c3054cefa9e8f13df9652c63bfec78ddc51f1d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260910T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260910T160000
+SUMMARY:GUFP 26-04 - FCP 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Ezhar Zulkifli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:28691496bfe7e7ebc8e5c5c5939e7f92bb62a9b0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260911T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260911T110000
+SUMMARY:GUFP 26-04 - FCL 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cebed610349c255dae213493ddf09c3f304df840@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260911T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260911T130000
+SUMMARY:GUFP 26-04 - FCM 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Puteri Nur Aizzat
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ededd6af27ced5f763288bd0e7ae995639b5c2af@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260911T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260911T160000
+SUMMARY:GUFP 26-04 - FCP 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Ezhar Zulkifli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:301fa7aba87b80ca452b98bd31e0fb6dd0828c9f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260914T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260914T130000
+SUMMARY:GUFP 26-04 - FCC 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Lekshmi Sarojini
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1a95c0ce95afbe9c15fe68a945d729e15ac31560@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260914T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260914T170000
+SUMMARY:GUFP 26-04 - FCP 0015
+LOCATION:Physics Lab 1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Ezhar Zulkifli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:345e49564aa3465b1a00490dab2cf5bed4d8e629@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260915T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260915T110000
+SUMMARY:GUFP 26-04 - FCC 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Lekshmi Sarojini
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:422bee756821988538318cf905928a97ee17a4b2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260915T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260915T130000
+SUMMARY:GUFP 26-04 - FCM 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Puteri Nur Aizzat
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d1612f74d04579a2d4c34b2e4783269399e8d209@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260915T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260915T160000
+SUMMARY:GUFP 26-04 - FCL 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5c99f1d2707b8b92662942ca5699057643d26743@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260916T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260916T170000
+SUMMARY:GUFP 26-04 - FCC 0015
+LOCATION:Chemistry Lab 1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Lekshmi Sarojini\nCalendar exception: Malay
+ sia Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:28fee2c952c82de200d0497c2c913de79333719b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260917T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260917T130000
+SUMMARY:GUFP 26-04 - FCM 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Puteri Nur Aizzat
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e6d92b0e02ab8604223dacf36df0a6518e88c039@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260917T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260917T160000
+SUMMARY:GUFP 26-04 - FCP 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Ezhar Zulkifli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:25ad1fa1d93af47c320176cf2a6577419d6f5358@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260918T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260918T110000
+SUMMARY:GUFP 26-04 - FCL 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d42eacbdff391ae9d1ec79dff3a87b1905c92371@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260918T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260918T130000
+SUMMARY:GUFP 26-04 - FCM 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Puteri Nur Aizzat
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5c4ca49b95c36eabf8c99aed5a8b9a478468483f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260918T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260918T160000
+SUMMARY:GUFP 26-04 - FCP 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Ezhar Zulkifli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b656a6b2100547f2e4571002b95d0a617aa639d0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260921T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260921T130000
+SUMMARY:GUFP 26-04 - FCC 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Lekshmi Sarojini
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:67463a9caa87fc7cdb120bcfd6bbcb295f708bb4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260921T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260921T170000
+SUMMARY:GUFP 26-04 - FCP 0015
+LOCATION:Physics Lab 1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Ezhar Zulkifli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5bb90345f566b010cccde00735a9ab38080e74ab@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260922T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260922T110000
+SUMMARY:GUFP 26-04 - FCC 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Lekshmi Sarojini
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fed46cf155a76f52b55ceac1a374959e014044a0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260922T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260922T130000
+SUMMARY:GUFP 26-04 - FCM 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Puteri Nur Aizzat
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:75251920bca8bc3398372e7df230a6f7232d62df@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260922T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260922T160000
+SUMMARY:GUFP 26-04 - FCL 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:23ef840ef498b29c4bf319fc67a5c8fd04b1e0fb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260923T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260923T170000
+SUMMARY:GUFP 26-04 - FCC 0015
+LOCATION:Chemistry Lab 1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Lekshmi Sarojini
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e4e0d477b152e3c18f6c066e526f959f442388c6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260924T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260924T130000
+SUMMARY:GUFP 26-04 - FCM 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Puteri Nur Aizzat
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bebeee5b9556c4a2af8d9958256ff5df7762d152@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260924T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260924T160000
+SUMMARY:GUFP 26-04 - FCP 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Ezhar Zulkifli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ef71fd43de474840053d48c83a6f84bb3d902c22@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260925T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260925T110000
+SUMMARY:GUFP 26-04 - FCL 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a3b29e68c085bfb3c921d3ac9684557f3e728d9e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260925T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260925T130000
+SUMMARY:GUFP 26-04 - FCM 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Puteri Nur Aizzat
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0335e813e745a73c8d4e8704a04ee6a4e41c8ba1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260925T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260925T160000
+SUMMARY:GUFP 26-04 - FCP 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Ezhar Zulkifli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c99e52409d86b12f78411b953014f081b980873f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260928T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260928T130000
+SUMMARY:GUFP 26-04 - FCC 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Lekshmi Sarojini
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b5529dca20efc09b46deac32ead4f669d014de96@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260928T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260928T170000
+SUMMARY:GUFP 26-04 - FCP 0015
+LOCATION:Physics Lab 1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Ezhar Zulkifli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4aa64b56432b64988cfdac5aa4992fa928dc5d1a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260929T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260929T110000
+SUMMARY:GUFP 26-04 - FCC 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Lekshmi Sarojini
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:06cc7490b0df51458cf5b3364d5ccba0aa4aeb71@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260929T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260929T130000
+SUMMARY:GUFP 26-04 - FCM 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Puteri Nur Aizzat
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9f4f17e62db4a569d6d5ada1f83cfadc406fe89c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260929T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260929T160000
+SUMMARY:GUFP 26-04 - FCL 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4ced57177e8d38a890a2ae89f926814ddf40999f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260930T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260930T170000
+SUMMARY:GUFP 26-04 - FCC 0015
+LOCATION:Chemistry Lab 1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Lekshmi Sarojini
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d7262787d468a456f2642d990937f62051b3732a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261001T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20261001T130000
+SUMMARY:GUFP 26-04 - FCM 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Puteri Nur Aizzat
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a6ea9f30063906ceb7c105c72fe16958c0a99c5d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261001T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261001T160000
+SUMMARY:GUFP 26-04 - FCP 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Ezhar Zulkifli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8df9ca0b09bf88ba87f8ecfd028bd181e404274d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261002T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261002T110000
+SUMMARY:GUFP 26-04 - FCL 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:279a336a84bf47bbf2322bd320c53c01882979e5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261002T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261002T130000
+SUMMARY:GUFP 26-04 - FCM 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Puteri Nur Aizzat
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bad52790b3eb9a25f3a17524b59b7ac4a7d0a2ae@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261002T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261002T160000
+SUMMARY:GUFP 26-04 - FCP 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Ezhar Zulkifli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f216ec8a291f5417353cdfaacfafa0973f267544@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261005T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261005T130000
+SUMMARY:GUFP 26-04 - FCC 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Lekshmi Sarojini
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5ebc9aab57e81b41d29dda08416d7187f48520e1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261005T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261005T170000
+SUMMARY:GUFP 26-04 - FCP 0015
+LOCATION:Physics Lab 1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Ezhar Zulkifli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1a35cda68eddbefa221e1641cf3d9457e4fd8b9f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261006T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261006T110000
+SUMMARY:GUFP 26-04 - FCC 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Lekshmi Sarojini
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:471d950af4ae6227186af419c73ac029ba29fa16@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261006T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261006T130000
+SUMMARY:GUFP 26-04 - FCM 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Puteri Nur Aizzat
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:514b7c619890def89e246686a2caf3ed41541ac4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261006T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261006T160000
+SUMMARY:GUFP 26-04 - FCL 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9cc2ae73eaae6565d6dfbd88d8586a665640510c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261007T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261007T170000
+SUMMARY:GUFP 26-04 - FCC 0015
+LOCATION:Chemistry Lab 1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Lekshmi Sarojini
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fdb7d42a0a24945ca08a726d7c0be58cf968a7b6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261008T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20261008T130000
+SUMMARY:GUFP 26-04 - FCM 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Puteri Nur Aizzat
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0696944de55ddd4fc2517305cfba3d57e912d2d1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261008T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261008T160000
+SUMMARY:GUFP 26-04 - FCP 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Ezhar Zulkifli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:feaa95a340864b8cbe76e1a3be0bfe7c187bac16@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261009T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261009T110000
+SUMMARY:GUFP 26-04 - FCL 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1579be2410ac0ca413d5ee22bafbc6d7be919484@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261009T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261009T130000
+SUMMARY:GUFP 26-04 - FCM 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Puteri Nur Aizzat
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1707bb9999b6224d9a40df348e9cb29facdfcb42@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261009T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261009T160000
+SUMMARY:GUFP 26-04 - FCP 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Ezhar Zulkifli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b8dac8d17a05e34be600065f311e9ee50781fc91@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261012T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261012T130000
+SUMMARY:GUFP 26-04 - FCC 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Lekshmi Sarojini
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0ff66dfd2bd07de161fb8d721b3f44b55c6fe0ca@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261012T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261012T170000
+SUMMARY:GUFP 26-04 - FCP 0015
+LOCATION:Physics Lab 1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Ezhar Zulkifli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3ab5db13c37d60ebb85fc88f4f1f6ed4eb62ed03@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261013T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261013T110000
+SUMMARY:GUFP 26-04 - FCC 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Lekshmi Sarojini
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7949e501c888df760c8c88b064cecbabe8381270@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261013T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261013T130000
+SUMMARY:GUFP 26-04 - FCM 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Puteri Nur Aizzat
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e9e0fede332aa5340f1539c007ea5807e6371490@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261013T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261013T160000
+SUMMARY:GUFP 26-04 - FCL 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:98151a59a7e5f2b23321036489844fe314bec622@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261014T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261014T170000
+SUMMARY:GUFP 26-04 - FCC 0015
+LOCATION:Chemistry Lab 1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Lekshmi Sarojini
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fb4adb6c4cae1bc8a905659c12966ce069c710aa@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261015T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20261015T130000
+SUMMARY:GUFP 26-04 - FCM 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Puteri Nur Aizzat
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1dc0069fb9de50a319096a28b1d42ff9ac846c9f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261015T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261015T160000
+SUMMARY:GUFP 26-04 - FCP 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Ezhar Zulkifli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:93583aa1f20eff27be284eefaaad9ada1346cd43@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261016T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261016T110000
+SUMMARY:GUFP 26-04 - FCL 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8f5ad3977ddc6160f0e6896fd35e734bef35b75c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261016T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261016T130000
+SUMMARY:GUFP 26-04 - FCM 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Puteri Nur Aizzat
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c7a2fd6ec27c8e12e9691f76cbb0278cead36c80@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261016T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261016T160000
+SUMMARY:GUFP 26-04 - FCP 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Ezhar Zulkifli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:081904d93544146ba2cfd2ce9cef30aabe5d70cf@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261019T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261019T180000
+SUMMARY:GUFP 26-04 - GUFP REV. WEEK
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f6eac5cebb765636c3e1e891edd7a0dd6fa45921@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261020T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261020T180000
+SUMMARY:GUFP 26-04 - GUFP REV. WEEK
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7dfbfd1cd772767d68b6d0c7ad6a989cfa515785@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261021T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261021T180000
+SUMMARY:GUFP 26-04 - GUFP REV. WEEK
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c24d7e8ca3459acdbe6aab08f4c8feaf53cff7e7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261022T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261022T180000
+SUMMARY:GUFP 26-04 - GUFP REV. WEEK
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:66db0b7654bc54b3ef0b9aec5a8a783c1f985637@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261023T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261023T180000
+SUMMARY:GUFP 26-04 - GUFP REV. WEEK
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bc0e70faa6f695f284f6b039a759e7ef32d6a1bf@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20270125T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20270125T180000
+SUMMARY:GUFP 26-04 - GUFP REV. WEEK
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nOverlapping class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a3ef45c8ba327bc08bdaf3e3eb12d38e624c3a53@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20270125T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20270125T180000
+SUMMARY:GUFP 26-04 - GUFP REV. WEEK
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nOverlapping class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fda47f93ed74e5bd18af5bcf9557af8808220300@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20270125T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20270125T130000
+SUMMARY:GUFP 26-04 - FCP 0015
+LOCATION:Physics Lab 1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Ezhar Zulkifli\nOverlapping class entry: check
+  with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:712787718149f39bbd2452609ae631d22d1bb8a9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20270125T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20270125T130000
+SUMMARY:GUFP 26-04 - FCC 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Lekshmi Sarojini\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b15b2c39bc29c864153b15fab13c9317d81b3e38@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20270125T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20270125T130000
+SUMMARY:GUFP 26-04 - FCH 0033
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Iffah Farizan Rusli\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a03a67eab0447d4257047fa0954fcfa1c39abf65@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20270125T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20270125T160000
+SUMMARY:GUFP 26-04 - FCC 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Lekshmi Sarojini\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:78cb12277584f93e9db5b74b22f2089a2ee56c65@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20270125T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20270125T170000
+SUMMARY:GUFP 26-04 - FCP 0015
+LOCATION:Physics Lab 1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Ezhar Zulkifli\nOverlapping class entry: check
+  with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c85fc852087425a4277894fc1a626b8775ee721f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20270125T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20270125T160000
+SUMMARY:GUFP 26-04 - FCT 0015
+LOCATION:KT1-L2-RZ1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hanief\nOverlapping class entry: check with le
+ cturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1f627d2ee5cb87fff5efc92e645bb0508d28a5bb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20270126T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20270126T100000
+SUMMARY:GUFP 26-04 - FCH 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hasrul Mat Yusof\nOverlapping class entry: che
+ ck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8a61a07597ca4a4746dd3b3cd16642323e9dd498@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20270126T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20270126T180000
+SUMMARY:GUFP 26-04 - GUFP REV. WEEK
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nOverlapping class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c52f666fd3739879cdb8281851d2ffd0c8bea965@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20270126T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20270126T180000
+SUMMARY:GUFP 26-04 - GUFP REV. WEEK
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nOverlapping class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:65f2335a1d0363c24493f8218dcb749d51cf9d9c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20270126T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20270126T110000
+SUMMARY:GUFP 26-04 - FCC 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Lekshmi Sarojini\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e4a3553d3fc828fae0209956591e62db51d805b2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20270126T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20270126T110000
+SUMMARY:GUFP 26-04 - FCM 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Puteri Nur Aizzat\nOverlapping class entry: ch
+ eck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6788a9d87eea52830cdc7f4dcf83cf2cf4eb70df@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20270126T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20270126T130000
+SUMMARY:GUFP 26-04 - FCC 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Lekshmi Sarojini\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7792c3bae8b4cf9213f869e5fdd76e95075d38f1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20270126T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20270126T130000
+SUMMARY:GUFP 26-04 - FCM 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Puteri Nur Aizzat\nOverlapping class entry: ch
+ eck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c6a96d5b2aac8536fbad749d33d8e6d7bc6fa099@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20270126T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20270126T130000
+SUMMARY:GUFP 26-04 - KFC1041F 3D PROTOTYP
+LOCATION:KT3-L02-08
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Faizal Zainal Abidin\nOverlapping class entry:
+  check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5044bfd368d049926f46a54b43f2f7db7f2344b9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20270126T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20270126T160000
+SUMMARY:GUFP 26-04 - FCL 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza\nOverlapping class entry: check w
+ ith lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e70f3446241412c4ad03cac2119f007c72872e7e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20270126T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20270126T170000
+SUMMARY:GUFP 26-04 - FCT 0015
+LOCATION:KT1-L2-RZ1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hanief\nOverlapping class entry: check with le
+ cturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:656151912833dd48564bce4857ce046411742586@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20270127T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20270127T180000
+SUMMARY:GUFP 26-04 - GUFP REV. WEEK
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nOverlapping class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:931756ab2845bb44656420b220d6c8e9f3e76746@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20270127T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20270127T180000
+SUMMARY:GUFP 26-04 - GUFP REV. WEEK
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nOverlapping class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b1be39f2ad85c95251ad8d64a5fd2a8efd067a76@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20270127T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20270127T170000
+SUMMARY:GUFP 26-04 - FCC 0015
+LOCATION:Chemistry Lab 1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Lekshmi Sarojini\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cb2ffb986f90f9d7f48b6286cd3a648200b565a9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20270127T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20270127T170000
+SUMMARY:GUFP 26-04 - FCL 0024
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza\nOverlapping class entry: check w
+ ith lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b913f9e738c5b7597b03f2e33db224d3d105008f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20270128T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20270128T100000
+SUMMARY:GUFP 26-04 - FCH 0023
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Idris Kadir\nOverlapping class entry: check
+  with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b9c7be35aa1b885a75eb1cae2644af1ad586855c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20270128T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20270128T180000
+SUMMARY:GUFP 26-04 - GUFP REV. WEEK
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nOverlapping class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:aaaa704b7a835a98398272d5e0f1b7df74392ea1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20270128T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20270128T180000
+SUMMARY:GUFP 26-04 - GUFP REV. WEEK
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nOverlapping class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9393b7168ca57b3020f871ebe7b0608f6e4ee827@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20270128T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20270128T130000
+SUMMARY:GUFP 26-04 - FCM 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Puteri Nur Aizzat\nOverlapping class entry: ch
+ eck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:748d3c5ebde50f1e9486ec7b3e52d3d3fcaa493c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20270128T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20270128T130000
+SUMMARY:GUFP 26-04 - FCH 0033
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Iffah Farizan Rusli\nOverlapping class entry: 
+ check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:94ae043f2bccc08e8857d4a91e1f8dfcde662fe7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20270128T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20270128T160000
+SUMMARY:GUFP 26-04 - FCP 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Ezhar Zulkifli\nOverlapping class entry: check
+  with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3c41c958006f7318609d50d3f3ea1983b735f3dc@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20270128T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20270128T160000
+SUMMARY:GUFP 26-04 - FCT 0015
+LOCATION:KT1-L2-RZ1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hanief\nOverlapping class entry: check with le
+ cturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d8c10030dc07f9790571b3464799ae059dd63d28@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20270129T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20270129T100000
+SUMMARY:GUFP 26-04 - FCL 0024
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza\nOverlapping class entry: check w
+ ith lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e036b526bcd42aee36eda6e3cd529b68c9cb83d9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20270129T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20270129T180000
+SUMMARY:GUFP 26-04 - GUFP REV. WEEK
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nOverlapping class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:001a916c45762bbb3efa5cb595cfdb05f4c9cbaf@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20270129T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20270129T180000
+SUMMARY:GUFP 26-04 - GUFP REV. WEEK
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nOverlapping class entry: check with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:99738eb361d910254d925ea5c598e3bb30601bc8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20270129T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20270129T110000
+SUMMARY:GUFP 26-04 - FCL 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Nurul Syadza\nOverlapping class entry: check w
+ ith lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:eac9936a1f61bdb1e5e92967348503d67935fc11@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20270129T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20270129T130000
+SUMMARY:GUFP 26-04 - FCH 0013
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Hasrul Mat Yusof\nOverlapping class entry: che
+ ck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bcf7d77ecfa48d155203ab6dbdc436c04933d225@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20270129T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20270129T130000
+SUMMARY:GUFP 26-04 - FCH 0023
+LOCATION:KT1-L2-LECT.ROOM 2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Dr Idris Kadir\nOverlapping class entry: check
+  with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb25a4d0a157262e10d022cd25d5ae130515880a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20270129T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20270129T130000
+SUMMARY:GUFP 26-04 - FCM 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Puteri Nur Aizzat\nOverlapping class entry: ch
+ eck with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0ee63ef6662daf86b85e4eebe2ad902fcabc7cad@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20270129T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20270129T160000
+SUMMARY:GUFP 26-04 - FCP 0015
+LOCATION:KT1-L2-27/28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: GUFP 26-04\nLecturer: Ezhar Zulkifli\nOverlapping class entry: check
+  with lecturer.
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR

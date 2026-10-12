@@ -1,0 +1,1294 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Student Timetable//Class Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SEM 5 - DMEC 1
+X-WR-TIMEZONE:Asia/Kuala_Lumpur
+BEGIN:VTIMEZONE
+TZID:Asia/Kuala_Lumpur
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:MYT
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:7144e043e7cc60cb67413732b1d2b9f30126f617@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260706T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260706T180000
+SUMMARY:SEM 5 - DMEC 1 - ECT 0362
+LOCATION:KT5-L11-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Khairul Ikhwan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:153050ea0c3cb9b7795d3a174dfbf2a96c89b5d5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260707T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260707T130000
+SUMMARY:SEM 5 - DMEC 1 - MPC 0822
+LOCATION:KT5-L11-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Lindasalwa Muda
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cf12d6c75d366a7270b9a9ceee9517a44a458f88@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260708T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260708T180000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0962
+LOCATION:KT5-L03-014
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Hapizah Mohd Hanafi
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ac4170de49d971659f7e1488aadb550c43a7cfa1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260709T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260709T110000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0992
+LOCATION:KT5-L03-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Ts Dr Syarifah Yunus
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cca446de0436490a9726bbc525c1b39e972ac0f6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260713T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260713T130000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0922
+LOCATION:KT5-L03-015
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Ts Khairul Anuar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:eaad11c98e4d24609a77034beec4d4b2bf39f3c0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260713T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260713T180000
+SUMMARY:SEM 5 - DMEC 1 - ECT 0362
+LOCATION:KT5-L11-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Khairul Ikhwan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0c83969abbae2ce9a9aea25fece25453f476f7ab@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260714T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260714T130000
+SUMMARY:SEM 5 - DMEC 1 - MPC 0822
+LOCATION:KT5-L11-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Lindasalwa Muda
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:50cb155a031143af555888f8e1da52be70bd9d18@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260715T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260715T180000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0962
+LOCATION:KT5-L03-014
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Hapizah Mohd Hanafi
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:93d83de14c1d9777db6ff085f0c61ff8346de6b3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260716T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260716T110000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0992
+LOCATION:KT5-L03-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Ts Dr Syarifah Yunus
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:21a2e3e5151fd41904ca9fc8704e3825c5956351@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260716T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260716T160000
+SUMMARY:SEM 5 - DMEC 1 - MPU 2212
+LOCATION:KT1-L3-10
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Wan Nur Aishah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9a5f68ac72caba395dfab604a1ff85e834510bdf@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260720T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260720T130000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0922
+LOCATION:KT5-L03-015
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Ts Khairul Anuar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ace92d278015aeeab8f918e5ddddea35f70ad08f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260720T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260720T180000
+SUMMARY:SEM 5 - DMEC 1 - ECT 0362
+LOCATION:KT5-L11-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Khairul Ikhwan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:967880a704fb968807cb3f77155086e7b81af150@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260721T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260721T130000
+SUMMARY:SEM 5 - DMEC 1 - MPC 0822
+LOCATION:KT5-L11-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Lindasalwa Muda
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d599dea62ac8548a81f0ca3e90585d1b83d7f698@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260722T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260722T180000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0962
+LOCATION:KT5-L03-014
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Hapizah Mohd Hanafi
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:671446d941bbb81c4e255d90c45eb808360ee5b2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260723T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260723T110000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0992
+LOCATION:KT5-L03-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Ts Dr Syarifah Yunus
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4595afcbe4ff18bdb85ee255c2c85621e15f52b5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260723T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260723T160000
+SUMMARY:SEM 5 - DMEC 1 - MPU 2212
+LOCATION:KT1-L3-10
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Wan Nur Aishah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2c263bd119febd4e80643352b7ab1517e64bd1df@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260727T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260727T130000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0922
+LOCATION:KT5-L03-015
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Ts Khairul Anuar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:37d4d993b5b1f53c8ea5d00a0c3700da37064318@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260728T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260728T130000
+SUMMARY:SEM 5 - DMEC 1 - MPC 0822
+LOCATION:KT5-L11-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Lindasalwa Muda
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:65988bc2a7c2365cb5aaf19aae12b70f84b32ba3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260728T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260728T180000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0922
+LOCATION:KT5-L03-015
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Ts Khairul Anuar\nNotes: Replacement Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:62141bde49a2043842d6d6ce8047b3aa3b4ccb6f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260729T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260729T180000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0962
+LOCATION:KT5-L03-014
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Hapizah Mohd Hanafi
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e1e8d1f1512569c9d7a2dd13740b1c8bef3423bc@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260730T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260730T110000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0992
+LOCATION:KT5-L03-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Ts Dr Syarifah Yunus
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e67fff3e62cdad43551a5fde3e9e1595905013c7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260730T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260730T160000
+SUMMARY:SEM 5 - DMEC 1 - MPU 2212
+LOCATION:KT1-L3-10
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Wan Nur Aishah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:23542bd9effb6c013ec77dc53eaf1a5f832c9427@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260803T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260803T180000
+SUMMARY:SEM 5 - DMEC 1 - ECT 0362
+LOCATION:KT5-L11-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Khairul Ikhwan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f0b10b889943a47dbc15a702b3c5c9c16b46c4bf@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260804T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260804T130000
+SUMMARY:SEM 5 - DMEC 1 - MPC 0822
+LOCATION:KT5-L11-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Lindasalwa Muda
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:67329471e643ba8d61a3eafcedfeed14b3108df5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260805T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260805T130000
+SUMMARY:SEM 5 - DMEC 1 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e150fe485851c3720373bd63a7bc60f1ccdd56e9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260805T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260805T180000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0962
+LOCATION:KT5-L03-014
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Hapizah Mohd Hanafi
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2022e19627e6f198100940c1c58fe22f44df830b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260806T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260806T110000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0992
+LOCATION:KT5-L03-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Ts Dr Syarifah Yunus
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a20f19799d2078e82b56ad243083683da79cb1ab@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260806T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260806T160000
+SUMMARY:SEM 5 - DMEC 1 - MPU 2212
+LOCATION:KT1-L3-10
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Wan Nur Aishah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3f4fdc8902bb68b925c95049db58c82df27b283b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260810T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260810T180000
+SUMMARY:SEM 5 - DMEC 1 - ECT 0362
+LOCATION:KT5-L11-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Khairul Ikhwan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fa3418792fd411d1e1e1d81c0bdda1b0726cdfce@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260811T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260811T130000
+SUMMARY:SEM 5 - DMEC 1 - MPC 0822
+LOCATION:KT5-L11-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Lindasalwa Muda
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5d02666a95180ddf2d46483c5b84ecfde224610f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260811T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260811T180000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0922
+LOCATION:KT5-L03-015
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Ts Khairul Anuar\nNotes: Replacement Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8b2734cef1368f8e57a81f2a5a841d42ac08c30c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260812T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260812T180000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0962
+LOCATION:KT5-L03-014
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Hapizah Mohd Hanafi
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0a0d4924cd33c6e076ef9bcb4f52e597a6903fc5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260813T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260813T110000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0992
+LOCATION:KT5-L03-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Ts Dr Syarifah Yunus
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d873a3b955e89965e84b2edf1048f18d847af352@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260813T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260813T160000
+SUMMARY:SEM 5 - DMEC 1 - MPU 2212
+LOCATION:KT1-L3-10
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Wan Nur Aishah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9118d0bc4566e40941fd2b39c8dae58e26a9c3e8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260817T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260817T130000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0922
+LOCATION:KT5-L03-015
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Ts Khairul Anuar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:beddf48334c72cd6c7ff7515c8ec62ac2fca63e9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260817T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260817T180000
+SUMMARY:SEM 5 - DMEC 1 - ECT 0362
+LOCATION:KT5-L11-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Khairul Ikhwan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7d6223311210a500d54344ff2b99cbce42240c08@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260818T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260818T130000
+SUMMARY:SEM 5 - DMEC 1 - MPC 0822
+LOCATION:KT5-L11-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Lindasalwa Muda
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:18c1467e197dafdca5ee81bce25017f82013e77b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260819T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260819T180000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0962
+LOCATION:KT5-L03-014
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Hapizah Mohd Hanafi
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4bcd1a4b89631c3258f35d7232435c8fc686bc0d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260820T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260820T110000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0992
+LOCATION:KT5-L03-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Ts Dr Syarifah Yunus
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:55b526f1b9ed89fd7632e3e1151f7298f701f87f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260820T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260820T160000
+SUMMARY:SEM 5 - DMEC 1 - MPU 2212
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Wan Nur Aishah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9537426271a60e29965d00d7da277783b59622c4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260824T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260824T130000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0922
+LOCATION:KT5-L03-015
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Ts Khairul Anuar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7cd31d7f2be5ab2666887379e75ec6ffeb371274@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260824T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260824T180000
+SUMMARY:SEM 5 - DMEC 1 - ECT 0362
+LOCATION:KT5-L11-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Khairul Ikhwan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:397b7d8e022a764f7a7f28bce50189a60bf3baa1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260825T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260825T130000
+SUMMARY:SEM 5 - DMEC 1 - MPC 0822
+LOCATION:KT5-L11-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Lindasalwa Muda\nCalendar exception: Mauli
+ dur Rasul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:affbdea8f01d77db6f7e227d14f8aa785ca9ee8d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260826T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260826T180000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0962
+LOCATION:KT5-L03-014
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Hapizah Mohd Hanafi
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b5b4445c523efd88e229ba6557c1400e36dc5c81@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260827T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260827T110000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0992
+LOCATION:KT5-L03-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Ts Dr Syarifah Yunus
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b740cfd4cdc78e893be3868709c488b5d724a8a2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260827T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260827T160000
+SUMMARY:SEM 5 - DMEC 1 - MPU 2212
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Wan Nur Aishah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5ffd65e59879ce464d1468ccf1b93f8677b59f08@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260907T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260907T130000
+SUMMARY:SEM 5 - DMEC 1 - Merdeka Celebration
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:89a86adcea8b76ca36ee44bf7d67d48232326e89@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260907T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260907T180000
+SUMMARY:SEM 5 - DMEC 1 - ECT 0362
+LOCATION:KT5-L11-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Khairul Ikhwan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bcbd0cefab8184505c2d78a016fc393831abd5ff@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260908T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260908T130000
+SUMMARY:SEM 5 - DMEC 1 - MPC 0822
+LOCATION:KT5-L11-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Lindasalwa Muda
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5c5b46124da47ada074b46000bfe11a083eec3a5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260909T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260909T180000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0962
+LOCATION:KT5-L03-014
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Hapizah Mohd Hanafi
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:959cd26f2434e3abaaa17aa2cbeed116cc2f2976@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260910T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260910T110000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0992
+LOCATION:KT5-L03-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Ts Dr Syarifah Yunus
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:736f4a65f65bc2c12220a4a17cff6cce66772093@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260910T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260910T160000
+SUMMARY:SEM 5 - DMEC 1 - MPU 2212
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Wan Nur Aishah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:438863f2c4c33276fff6b00fb31177670e4ec586@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260911T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260911T180000
+SUMMARY:SEM 5 - DMEC 1 - ECT 0362
+LOCATION:KT5-L11-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Khairul Ikhwan\nNotes: Replacement Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:aedd44bdb5e6ce91fe192d64d404c646b67934c9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260916T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260916T180000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0962
+LOCATION:KT5-L03-014
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Hapizah Mohd Hanafi\nCalendar exception: M
+ alaysia Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9c04b17b6bb6bb6dd8539816594fef66323aa71b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260917T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260917T110000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0992
+LOCATION:KT5-L03-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Ts Dr Syarifah Yunus
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b9776e8b0106aefd331e191bff55f57347a28ccc@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260917T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260917T160000
+SUMMARY:SEM 5 - DMEC 1 - MPU 2212
+LOCATION:KT1-L3-10
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Wan Nur Aishah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a20cc17ad271bfe98ab192488e0e07b22749c928@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260921T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260921T180000
+SUMMARY:SEM 5 - DMEC 1 - ECT 0362
+LOCATION:KT5-L11-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Khairul Ikhwan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:35c0f6ebc6e3e8c70d4b97f373b34777df536d22@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260922T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260922T130000
+SUMMARY:SEM 5 - DMEC 1 - MPC 0822
+LOCATION:KT5-L11-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Lindasalwa Muda
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:65961250be40e4f170bf6fb5ee18ab76f901eed3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260922T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260922T180000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0922
+LOCATION:KT5-L03-015
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Ts Khairul Anuar\nNotes: Replacement Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d81b6f085291b379895dfb00191288b8da4892f7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260923T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260923T180000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0962
+LOCATION:KT5-L03-014
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Hapizah Mohd Hanafi
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9ce59e684abdb83dbf2849754e26c8038b578f61@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260924T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260924T110000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0992
+LOCATION:KT5-L03-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Ts Dr Syarifah Yunus
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ac80e8c6388ad701d5e4972cda49c608ce5335ac@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260924T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260924T160000
+SUMMARY:SEM 5 - DMEC 1 - MPU 2212
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Wan Nur Aishah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9a996cb9a6bcc38ae42b4ef78af2b35ad4f563ef@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260925T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260925T120000
+SUMMARY:SEM 5 - DMEC 1 - MPC 0822
+LOCATION:KT5-L11-009A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Lindasalwa Muda\nNotes: Replacement Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:edc79804c5169a2a62230bfae11690751642490a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260928T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260928T130000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0922
+LOCATION:KT5-L03-015
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Ts Khairul Anuar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:089c5cbb448da5e90d78bf08d7f6eeb9a9b914ab@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260928T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260928T180000
+SUMMARY:SEM 5 - DMEC 1 - ECT 0362
+LOCATION:KT5-L11-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Khairul Ikhwan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e488541f4509101d2c43d89c6130dd7d187fb1be@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260929T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260929T130000
+SUMMARY:SEM 5 - DMEC 1 - MPC 0822
+LOCATION:KT5-L11-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Lindasalwa Muda
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a775348f64ff9a4f1f518ce23336b971cb495e9d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260930T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260930T130000
+SUMMARY:SEM 5 - DMEC 1 - ECT 0362
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Khairul Ikhwan\nNotes: Online Replacement 
+ Class (Deepavali)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5b1280d53f875dc141a7d5c425684c9dd027ab90@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260930T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260930T180000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0962
+LOCATION:KT5-L03-014
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Hapizah Mohd Hanafi
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:929ccd31d77c0a2f05a1dd2835c46c8fd1d137b0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261001T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261001T110000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0992
+LOCATION:KT5-L03-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Ts Dr Syarifah Yunus
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:27b87e3e51403cbe3b467818105d78c840c111d9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261001T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261001T160000
+SUMMARY:SEM 5 - DMEC 1 - MPU 2212
+LOCATION:KT1-L3-10
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Wan Nur Aishah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b9b32ef54d3dd5f0aac5ddb10a63542a14f5df2e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261001T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20261001T180000
+SUMMARY:SEM 5 - DMEC 1 - MPU 2212
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Wan Nur Aishah\nNotes: Online Replacement 
+ Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b3e3d1b959817ca8e3742c3b3afe5f9335c58ff8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261005T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261005T130000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0922
+LOCATION:KT5-L03-015
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Ts Khairul Anuar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c29aee350753070419c470f77c7f6266c2114f04@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261005T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261005T180000
+SUMMARY:SEM 5 - DMEC 1 - ECT 0362
+LOCATION:KT5-L11-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Khairul Ikhwan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ce6f07fba1bb7c24bab50160abb65155e3c2ee8d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261006T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261006T130000
+SUMMARY:SEM 5 - DMEC 1 - MPC 0822
+LOCATION:KT5-L11-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Lindasalwa Muda
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:945e06b2674731e4b66bd02f3053340c42cb5e32@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261006T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261006T180000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0922
+LOCATION:KT5-L03-015
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Ts Khairul Anuar\nNotes: Replacement Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:67fd21d80c9d373b8605b4d53e1b592c05e660e5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261007T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261007T130000
+SUMMARY:SEM 5 - DMEC 1 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3f7ac5439367df0252abcb04e0afd5c8c20b2635@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261007T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261007T180000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0962
+LOCATION:KT5-L03-014
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Hapizah Mohd Hanafi
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2f93a4a20da48f2c96ea92786c22837c1e049591@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261008T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261008T110000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0992
+LOCATION:KT5-L03-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Ts Dr Syarifah Yunus
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:99b3878d1ba7b700f42da8c77786c44e21cd49f7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261008T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261008T160000
+SUMMARY:SEM 5 - DMEC 1 - MPU 2212
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Wan Nur Aishah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d12ec2d7bff3e6a6b1f5a6acf8f146ae719de282@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261009T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261009T130000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0922
+LOCATION:KT5-L03-015
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Ts Khairul Anuar\nNotes: Replacement Class
+  (AL)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4a3f1dc7a0b9aa9ef7b7f2deffa9df6c7c943d98@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261009T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261009T180000
+SUMMARY:SEM 5 - DMEC 1 - ECT 0362
+LOCATION:KT5-L11-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Khairul Ikhwan\nNotes: Replacement Class (
+ Training)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ca8eced877b09da61f88abd9bf2addc3b92ce634@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261012T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261012T130000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0922
+LOCATION:KT5-L03-015
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Ts Khairul Anuar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2f2655080b877bed684cc073d236659edee09377@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261012T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261012T180000
+SUMMARY:SEM 5 - DMEC 1 - ECT 0362
+LOCATION:KT5-L11-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Khairul Ikhwan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d719e065e6f16b77c45785ae49719d2503a09f53@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261013T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261013T130000
+SUMMARY:SEM 5 - DMEC 1 - MPC 0822
+LOCATION:KT5-L11-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Lindasalwa Muda
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5c91c66acaede8f811f648e4b60d5aa60b46a1fd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261014T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261014T180000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0962
+LOCATION:KT5-L03-014
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Hapizah Mohd Hanafi
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c6007d538076be28e5bce3d11236c13bab3ed864@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261015T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261015T110000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0992
+LOCATION:KT5-L03-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Ts Dr Syarifah Yunus
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:445777e6bf63bfd7f032143fbec029f87b9f1c48@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261015T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261015T160000
+SUMMARY:SEM 5 - DMEC 1 - MPU 2212
+LOCATION:KT1-L3-10
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Wan Nur Aishah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bc34379d30e8bb9b55c0797e52e7d3529c2a6d5e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261019T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261019T130000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0922
+LOCATION:KT5-L03-015
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Ts Khairul Anuar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:853e94aa1f22277d5ff2a9021f0030c2ea95416e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261019T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261019T180000
+SUMMARY:SEM 5 - DMEC 1 - ECT 0362
+LOCATION:KT5-L11-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Khairul Ikhwan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:95981b2cb29e6d176a5c9e1a07fe6d2d5ba58c63@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261020T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261020T130000
+SUMMARY:SEM 5 - DMEC 1 - MPC 0822
+LOCATION:KT5-L11-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Lindasalwa Muda
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cafea4dfb4e122e404a4344556b8e80343893903@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261020T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261020T180000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0922
+LOCATION:KT5-L03-015
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Ts Khairul Anuar\nNotes: Replacement Class
+  (Workshop)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ec227f5c3f4ccfbb9645e21b5b0b8105abf73c8c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261021T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261021T180000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0962
+LOCATION:KT5-L03-014
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Hapizah Mohd Hanafi
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fa9019cddf13780974903c556459de5a372958a8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261022T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261022T110000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0992
+LOCATION:KT5-L03-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Ts Dr Syarifah Yunus
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:aef04c7daba08d7cac90c5664df00d3bbf0e4e83@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261022T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261022T160000
+SUMMARY:SEM 5 - DMEC 1 - MPU 2212
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Wan Nur Aishah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:12275bc61e2768c0d98c3628cb921fabb2839ded@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261023T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261023T180000
+SUMMARY:SEM 5 - DMEC 1 - ECT 0362
+LOCATION:KT5-L11-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Khairul Ikhwan\nNotes: Replacement Class (
+ Jubli Perak Selangor)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1116a80faec46b2398d55e1b0416fc3e014f28df@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261026T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261026T130000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0922
+LOCATION:KT5-L03-015
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Ts Khairul Anuar\nCalendar exception: JUBL
+ I PERAK SELANGOR
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0c419e50fffed52f0088127fa93b3ce41d72a40e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261026T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261026T180000
+SUMMARY:SEM 5 - DMEC 1 - ECT 0362
+LOCATION:KT5-L11-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Khairul Ikhwan\nCalendar exception: JUBLI 
+ PERAK SELANGOR
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1fc5565ebfdf6db4060ecd6d94768bcfa59b471e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261027T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261027T130000
+SUMMARY:SEM 5 - DMEC 1 - MPC 0822
+LOCATION:KT5-L11-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Lindasalwa Muda
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:884f721cd515007545a28db8e64de1798d56e292@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261028T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261028T130000
+SUMMARY:SEM 5 - DMEC 1 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:da7df4873758419396b99224dc63034b15991469@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261028T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261028T180000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0962
+LOCATION:KT5-L03-014
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Hapizah Mohd Hanafi
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2fb4bab0fbe13bd6c966ff55309154ef7691badb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261029T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261029T110000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0992
+LOCATION:KT5-L03-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Ts Dr Syarifah Yunus
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:da557d36ba31fc401954a4bab31926640a689b79@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261029T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261029T160000
+SUMMARY:SEM 5 - DMEC 1 - MPU 2212
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Wan Nur Aishah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:adb612b2e25ee5439c845807546804d59a644c32@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261102T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261102T130000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0922
+LOCATION:KT5-L03-015
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Ts Khairul Anuar
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1c34cf7b4df69645cc70087e333e85ac9a4bcc44@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261102T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261102T180000
+SUMMARY:SEM 5 - DMEC 1 - ECT 0362
+LOCATION:KT5-L11-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Khairul Ikhwan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:dd71469b232f669b52c47e6a0897ac3ff7350f07@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261103T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261103T130000
+SUMMARY:SEM 5 - DMEC 1 - MPC 0822
+LOCATION:KT5-L11-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Lindasalwa Muda
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:16700d9370d964b1231a8371e653bd647203bdbc@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261103T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261103T180000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0922
+LOCATION:KT5-L03-015
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Ts Khairul Anuar\nNotes: Replacement Class
+  (21/9)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bc37260225ce3987ac85a59418c574d7459bba44@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261104T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261104T180000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0962
+LOCATION:KT5-L03-014
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Hapizah Mohd Hanafi
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8064c758ac330693feb13bd8916d314fcc9006aa@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261105T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261105T110000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0992
+LOCATION:KT5-L03-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Ts Dr Syarifah Yunus
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:eeaaec41a910525f2b95913f2d4cc2823052808c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261105T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261105T160000
+SUMMARY:SEM 5 - DMEC 1 - MPU 2212
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Wan Nur Aishah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:08db1c0e602589179922961bb75457207d02c1ba@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261109T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261109T130000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0922
+LOCATION:KT5-L03-015
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Ts Khairul Anuar\nCalendar exception: Deep
+ avali Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:dd1767d06e61a973835828a00ccb63d2ff9ed544@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261109T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261109T180000
+SUMMARY:SEM 5 - DMEC 1 - ECT 0362
+LOCATION:KT5-L11-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Khairul Ikhwan\nCalendar exception: Deepav
+ ali Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d3342e793c3a019c062d0eaa3ac56104d3c54429@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261110T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261110T130000
+SUMMARY:SEM 5 - DMEC 1 - MPC 0822
+LOCATION:KT5-L11-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Lindasalwa Muda
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:de966c3b65014f4cfbca231bea5ea4cfa106651d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261111T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261111T180000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0962
+LOCATION:KT5-L03-014
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Hapizah Mohd Hanafi
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:497c6cafe10dd86cb158f146340dd162da0e4efa@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261112T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261112T110000
+SUMMARY:SEM 5 - DMEC 1 - IAT 0992
+LOCATION:KT5-L03-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Ts Dr Syarifah Yunus
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7b66ee166e2b785c320c769214bdd581a180630e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261112T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261112T160000
+SUMMARY:SEM 5 - DMEC 1 - MPU 2212
+LOCATION:KT1-L3-10
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DMEC 1\nLecturer: Wan Nur Aishah
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR

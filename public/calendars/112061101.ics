@@ -1,0 +1,827 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Student Timetable//Class Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SEM 5 - DAET 3
+X-WR-TIMEZONE:Asia/Kuala_Lumpur
+BEGIN:VTIMEZONE
+TZID:Asia/Kuala_Lumpur
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:MYT
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:7d9fa7a563cde7c1880eb0dd573b62aaa773a79d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260706T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260706T130000
+SUMMARY:SEM 5 - DAET 3 - AHS 1952
+LOCATION:KT5-L01-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Jasmi Mohd Sa'at
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8c1af32d5d8face3866dbf3e1c81d1f065ce661d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260706T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260706T180000
+SUMMARY:SEM 5 - DAET 3 - AHS 1962
+LOCATION:KT5-L01-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Nur Syahid Mohd Azam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:89b45b43995f70fa1d913533d53765012d423c0e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260708T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260708T110000
+SUMMARY:SEM 5 - DAET 3 - AHS 1982
+LOCATION:KT5-L06-005
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Dr Khairul Khusairi
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d2a75af43ea26e223f82f41c66432c86011349e0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260708T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260708T190000
+SUMMARY:SEM 5 - DAET 3 - AHS 1943
+LOCATION:KT5-L01-012
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Fazli Mohamad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f4e93e28554b520a5b2f68f7d049ae16d85b2252@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260713T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260713T130000
+SUMMARY:SEM 5 - DAET 3 - AHS 1952
+LOCATION:KT5-L01-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Jasmi Mohd Sa'at
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ceeec6be2405c72ac1d5ee934211c894be9de6b2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260713T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260713T180000
+SUMMARY:SEM 5 - DAET 3 - AHS 1962
+LOCATION:KT5-L01-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Nur Syahid Mohd Azam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:daae64d7d71f1605d5f9a3690471a2d168f5d5e2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260715T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260715T110000
+SUMMARY:SEM 5 - DAET 3 - AHS 1982
+LOCATION:KT5-L06-005
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Dr Khairul Khusairi
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c85f7b37152929758629f1acef4b03a94fcb95c0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260715T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260715T190000
+SUMMARY:SEM 5 - DAET 3 - AHS 1943
+LOCATION:KT5-L01-012
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Fazli Mohamad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8d5aa809b107ba9f36db84ed1dd64dbd0e4dd0a3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260720T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260720T130000
+SUMMARY:SEM 5 - DAET 3 - AHS 1952
+LOCATION:KT5-L01-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Jasmi Mohd Sa'at
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ae5a5f1673c4fbe97e026e0a37bf0da189e16717@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260720T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260720T180000
+SUMMARY:SEM 5 - DAET 3 - AHS 1962
+LOCATION:KT5-L01-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Nur Syahid Mohd Azam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b2d97846643e98b6acd420d13fa2b422c03b02ad@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260722T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260722T110000
+SUMMARY:SEM 5 - DAET 3 - AHS 1982
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Dr Khairul Khusairi\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:590c949d7bf2de62db1db7010a58f0819525d194@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260722T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260722T190000
+SUMMARY:SEM 5 - DAET 3 - AHS 1943
+LOCATION:KT5-L01-012
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Fazli Mohamad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:45a8547f86d6ec4cb55dbd079814ef0ce9619616@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260727T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260727T130000
+SUMMARY:SEM 5 - DAET 3 - AHS 1952
+LOCATION:KT5-L01-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Jasmi Mohd Sa'at
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:be832cfbbea4a5e63018543ada02a5dd4b20098e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260727T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260727T180000
+SUMMARY:SEM 5 - DAET 3 - AHS 1962
+LOCATION:KT5-L01-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Nur Syahid Mohd Azam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b3bd9d65ba4a9b13a94826008a5c24b4a7598dee@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260729T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260729T110000
+SUMMARY:SEM 5 - DAET 3 - AHS 1982
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Dr Khairul Khusairi\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d54d689eeeb60710e000bc23483afd338a49d111@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260729T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260729T190000
+SUMMARY:SEM 5 - DAET 3 - AHS 1943
+LOCATION:KT5-L01-012
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Fazli Mohamad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d58ef0219bfad341b4a986151d1641cd2b2ba37a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260803T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260803T130000
+SUMMARY:SEM 5 - DAET 3 - AHS 1952
+LOCATION:KT5-L01-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Jasmi Mohd Sa'at
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f4c68138f3b1e5db14aff74d01ae72b8fcd7d916@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260803T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260803T180000
+SUMMARY:SEM 5 - DAET 3 - AHS 1962
+LOCATION:KT5-L01-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Nur Syahid Mohd Azam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6becf9057522f117901c2b3aad706117a2a88673@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260805T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260805T130000
+SUMMARY:SEM 5 - DAET 3 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6a0a1aefb47c55e867fb284470fb0fa16d4941c6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260805T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260805T190000
+SUMMARY:SEM 5 - DAET 3 - AHS 1943
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Fazli Mohamad\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:34df3d6bfdac1f8f244df544cae24283724d077b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260810T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260810T130000
+SUMMARY:SEM 5 - DAET 3 - AHS 1952
+LOCATION:KT5-L01-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Jasmi Mohd Sa'at
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7ec1b8dc454563e7e31b3af00de3f5bfbcb6c043@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260810T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260810T180000
+SUMMARY:SEM 5 - DAET 3 - AHS 1962
+LOCATION:KT5-L01-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Nur Syahid Mohd Azam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d92dd83ad4600ef1339877665b115f069783ebe6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260812T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260812T110000
+SUMMARY:SEM 5 - DAET 3 - AHS 1982
+LOCATION:KT5-L06-005
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Dr Khairul Khusairi
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c939f88bf542983aa75eb26082660ca9b0d753ac@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260812T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260812T190000
+SUMMARY:SEM 5 - DAET 3 - AHS 1943
+LOCATION:KT5-L01-012
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Fazli Mohamad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:dd3d5d61755427b2198635fa6ce3ad5684fd4523@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260817T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260817T130000
+SUMMARY:SEM 5 - DAET 3 - AHS 1952
+LOCATION:KT5-L01-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Jasmi Mohd Sa'at
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:01be419d9bfc92a6cfeb8f88c9960759c92da7bf@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260817T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260817T180000
+SUMMARY:SEM 5 - DAET 3 - AHS 1962
+LOCATION:KT5-L01-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Nur Syahid Mohd Azam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0540b3bd56fa1710ea11c0274060c5518a958052@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260819T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260819T110000
+SUMMARY:SEM 5 - DAET 3 - AHS 1982
+LOCATION:KT5-L06-005
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Dr Khairul Khusairi
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cd30bbc6d17e03211c699c0c66cf1c898755de98@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260819T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260819T190000
+SUMMARY:SEM 5 - DAET 3 - AHS 1943
+LOCATION:KT5-L01-012
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Fazli Mohamad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b283800572e8a74f2988d8469aa32fd437ad231d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260824T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260824T130000
+SUMMARY:SEM 5 - DAET 3 - AHS 1952
+LOCATION:KT5-L01-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Jasmi Mohd Sa'at
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d7a938758b6d44334db1b77d25c31e2862668213@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260824T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260824T180000
+SUMMARY:SEM 5 - DAET 3 - AHS 1962
+LOCATION:KT5-L01-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Nur Syahid Mohd Azam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:96189dcdfe60bff71bb0858bd6dac7ed0cafb7b7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260826T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260826T110000
+SUMMARY:SEM 5 - DAET 3 - AHS 1982
+LOCATION:KT5-L06-005
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Dr Khairul Khusairi
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:045358d864f63dae28f644d9d8e4ef635b3708e7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260826T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260826T190000
+SUMMARY:SEM 5 - DAET 3 - AHS 1943
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Fazli Mohamad\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a0892dca4721f90d13d71634039fec3d244afecf@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260907T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260907T130000
+SUMMARY:SEM 5 - DAET 3 - Merdeka Celebration
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fd33e7f916923af9d1fa7b192a00a364d51ca697@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260907T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260907T180000
+SUMMARY:SEM 5 - DAET 3 - AHS 1962
+LOCATION:KT5-L01-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Nur Syahid Mohd Azam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fda65f37e31e86b625d1bb8f4aef6253d2842c45@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260909T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260909T110000
+SUMMARY:SEM 5 - DAET 3 - AHS 1982
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Dr Khairul Khusairi\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3906e4d53aefd824da3e29c5e3e168d6688a6f1f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260909T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260909T190000
+SUMMARY:SEM 5 - DAET 3 - AHS 1943
+LOCATION:KT5-L01-012
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Fazli Mohamad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:462700d5adc5de2f5d83c479c25db1afeb496dfe@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260911T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260911T180000
+SUMMARY:SEM 5 - DAET 3 - AHS 1952
+LOCATION:KT5-L01-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Jasmi Mohd Sa'at\nNotes: Replacement Class
+  (Merdeka 7/9)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:21aa5f04bf8e6c06e3928cba6c67c52155cd4caa@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260914T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260914T130000
+SUMMARY:SEM 5 - DAET 3 - AHS 1952
+LOCATION:KT5-L01-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Jasmi Mohd Sa'at
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:deae151f365fbbdf5fdf1951c60dc4ba3b72f16a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260914T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260914T180000
+SUMMARY:SEM 5 - DAET 3 - AHS 1962
+LOCATION:KT5-L01-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Nur Syahid Mohd Azam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c05438b8006b33c25e623ada80ac8ee0bdadbb46@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260916T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260916T110000
+SUMMARY:SEM 5 - DAET 3 - AHS 1982
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Dr Khairul Khusairi\nNotes: Online Class\n
+ Calendar exception: Malaysia Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e26a1c42be23bd079f1fedef36931ce41c9dbb88@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260916T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260916T190000
+SUMMARY:SEM 5 - DAET 3 - AHS 1943
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Fazli Mohamad\nNotes: Online Class\nCalend
+ ar exception: Malaysia Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5f741d9ef44a924b3b965239146bacaf7e6a83bd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260921T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260921T180000
+SUMMARY:SEM 5 - DAET 3 - AHS 1962
+LOCATION:KT5-L01-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Nur Syahid Mohd Azam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ddc26e4fc7a88b0b59600a6429e454dee4c6d3f2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260922T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260922T130000
+SUMMARY:SEM 5 - DAET 3 - AHS 1952
+LOCATION:KT5-L01-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Jasmi Mohd Sa'at\nNotes: Replacement Class
+  (21/9)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:69fcffe350a782b01e1f5fe094258d0c5e8ac752@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260923T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260923T110000
+SUMMARY:SEM 5 - DAET 3 - AHS 1982
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Dr Khairul Khusairi\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:18e2e62742d6beb3a2e1ec5fc5dd7e7193603c9b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260923T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260923T190000
+SUMMARY:SEM 5 - DAET 3 - AHS 1943
+LOCATION:KT5-L01-012
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Fazli Mohamad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1f1834020414688bcfdb643b13b828e2baf4d9ca@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260928T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260928T130000
+SUMMARY:SEM 5 - DAET 3 - AHS 1952
+LOCATION:KT5-L01-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Jasmi Mohd Sa'at
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:687c1b90893fa4f586b1b121a1bc61168fe8629e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260928T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260928T180000
+SUMMARY:SEM 5 - DAET 3 - AHS 1962
+LOCATION:KT5-L01-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Nur Syahid Mohd Azam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5799b3a785fe33ae86ea501b1b3e926c98382d9a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260930T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260930T110000
+SUMMARY:SEM 5 - DAET 3 - AHS 1982
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Dr Khairul Khusairi\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bf085ec2362297e1c92c95f8afd86bf7061de043@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260930T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260930T190000
+SUMMARY:SEM 5 - DAET 3 - AHS 1943
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Fazli Mohamad\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0addae95bcf2f55c3a4366d2d53c69e3abc4819b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261005T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261005T130000
+SUMMARY:SEM 5 - DAET 3 - AHS 1952
+LOCATION:KT5-L01-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Jasmi Mohd Sa'at
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:89a3765c901529f871c2c45ac20f72c71d26c410@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261005T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261005T180000
+SUMMARY:SEM 5 - DAET 3 - AHS 1962
+LOCATION:KT5-L01-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Nur Syahid Mohd Azam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5eaf7c54aa3927f26b42398156b622fb97036cc6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261007T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261007T130000
+SUMMARY:SEM 5 - DAET 3 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:60aec7e044c888c70974fc8b43a26095bfd2750b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261007T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261007T190000
+SUMMARY:SEM 5 - DAET 3 - AHS 1943
+LOCATION:KT5-L01-012
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Fazli Mohamad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:db456aca4ae7543562bd501cdffbd1f4ab9a071f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261012T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261012T130000
+SUMMARY:SEM 5 - DAET 3 - AHS 1952
+LOCATION:KT5-L01-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Jasmi Mohd Sa'at
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fabe4c2a9a74416666c2078ddc078074642b49ed@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261012T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261012T180000
+SUMMARY:SEM 5 - DAET 3 - AHS 1962
+LOCATION:KT5-L01-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Nur Syahid Mohd Azam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:51d1d9681ec02ecaea732e7443ecf7d548b4418d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261014T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261014T110000
+SUMMARY:SEM 5 - DAET 3 - AHS 1982
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Dr Khairul Khusairi\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b2e1ca2dea95477b50c5fc502a06b4931dd7a02e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261014T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261014T190000
+SUMMARY:SEM 5 - DAET 3 - AHS 1943
+LOCATION:KT5-L01-012
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Fazli Mohamad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3761206a060883b4b3293b094793bba0990f9c51@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261019T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261019T130000
+SUMMARY:SEM 5 - DAET 3 - AHS 1952
+LOCATION:KT5-L01-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Jasmi Mohd Sa'at
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:eb3c105a6e6e65176ebb68715e675ab2e3724568@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261019T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261019T180000
+SUMMARY:SEM 5 - DAET 3 - AHS 1962
+LOCATION:KT5-L01-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Nur Syahid Mohd Azam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ffe534d661d2c8c0355f7005002b3278f2196a0c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261021T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261021T110000
+SUMMARY:SEM 5 - DAET 3 - AHS 1982
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Dr Khairul Khusairi\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f4fdfac0756fc9457f56a027da42dbec3851d30e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261021T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261021T190000
+SUMMARY:SEM 5 - DAET 3 - AHS 1943
+LOCATION:KT5-L01-012
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Fazli Mohamad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b9e847a18f1641c008062f86c46b39996f5cd471@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261026T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261026T130000
+SUMMARY:SEM 5 - DAET 3 - AHS 1952
+LOCATION:KT5-L01-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Jasmi Mohd Sa'at\nCalendar exception: JUBL
+ I PERAK SELANGOR
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6ab6d3cc9920dab51d3152351382adac9c98989d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261026T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261026T180000
+SUMMARY:SEM 5 - DAET 3 - AHS 1962
+LOCATION:KT5-L01-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Nur Syahid Mohd Azam\nCalendar exception: 
+ JUBLI PERAK SELANGOR
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:860582b09187d6551d7cd6c4860b66a776a2e64e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261028T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261028T130000
+SUMMARY:SEM 5 - DAET 3 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5eed2223ee06f54c1e312a057abc621b6c7de73b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261028T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261028T190000
+SUMMARY:SEM 5 - DAET 3 - AHS 1943
+LOCATION:KT5-L01-012
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Fazli Mohamad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f8bf4593acc280d0bf33560b0488690a466d0bd9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261102T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261102T130000
+SUMMARY:SEM 5 - DAET 3 - AHS 1952
+LOCATION:KT5-L01-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Jasmi Mohd Sa'at
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f65bf4579cac423591071e283bcca387884b388c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261102T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261102T180000
+SUMMARY:SEM 5 - DAET 3 - AHS 1962
+LOCATION:KT5-L01-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Nur Syahid Mohd Azam
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c3297b19eaeba17955d8ebc7d0928930ef0af9b0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261104T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261104T110000
+SUMMARY:SEM 5 - DAET 3 - AHS 1982
+LOCATION:KT5-L06-005
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Dr Khairul Khusairi
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7e498c92ada3340572bd18f8e7362f0ceadaf722@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261104T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261104T190000
+SUMMARY:SEM 5 - DAET 3 - AHS 1943
+LOCATION:KT5-L01-012
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Fazli Mohamad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5a8754ed3fbc1c3dec1a31014b43c9603e50fd3d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261109T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261109T130000
+SUMMARY:SEM 5 - DAET 3 - AHS 1952
+LOCATION:KT5-L01-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Jasmi Mohd Sa'at\nCalendar exception: Deep
+ avali Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:dbe89e4ab6ac9f3198a866a212887253e5c6905a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261109T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261109T180000
+SUMMARY:SEM 5 - DAET 3 - AHS 1962
+LOCATION:KT5-L01-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Nur Syahid Mohd Azam\nCalendar exception: 
+ Deepavali Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cd17d3d72a3810f3b9f75ca75fb38c9b4434d673@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261111T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261111T110000
+SUMMARY:SEM 5 - DAET 3 - AHS 1982
+LOCATION:KT5-L06-005
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Dr Khairul Khusairi
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a83f0a6e4b37a88995f04de63be9ae7d3cd975cb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261111T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261111T190000
+SUMMARY:SEM 5 - DAET 3 - AHS 1943
+LOCATION:KT5-L01-012
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DAET 3\nLecturer: Fazli Mohamad
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR

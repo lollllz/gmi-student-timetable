@@ -1,0 +1,858 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Student Timetable//Class Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SEM 4 - DCRM
+X-WR-TIMEZONE:Asia/Kuala_Lumpur
+BEGIN:VTIMEZONE
+TZID:Asia/Kuala_Lumpur
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:MYT
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:85c1f39b0a016b5ca660c72f5209fec24fd78ef7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260706T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260706T160000
+SUMMARY:SEM 4 - DCRM - IMT 2442
+LOCATION:KT1-L4-08/10
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Azizah Ahmad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:da6171818600ff6d72d0b266d4989895f8e8e842@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260709T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260709T130000
+SUMMARY:SEM 4 - DCRM - CMT 2043
+LOCATION:KT5-L12-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nur Sophian Rifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:35b944afc60b679dec10a6b8da369dc6ea8504c7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260709T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260709T170000
+SUMMARY:SEM 4 - DCRM - CRM 1953
+LOCATION:KT5-L15-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nurul Rafidza Rashid
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:10fa0872976eabbaac0e268d889f6493c4a2454f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260710T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260710T130000
+SUMMARY:SEM 4 - DCRM - CMT 2114
+LOCATION:KT5-L12-007
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nurul Balqis
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e980d2f4ae38d4887596ca43d080f749e6d2d5fc@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260713T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260713T160000
+SUMMARY:SEM 4 - DCRM - IMT 2442
+LOCATION:KT1-L4-08/10
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Azizah Ahmad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:adabfed7262f8acd2eb3c73ad1b0117eda3d1232@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260716T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260716T130000
+SUMMARY:SEM 4 - DCRM - CMT 2043
+LOCATION:KT5-L12-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nur Sophian Rifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3b9a579b8f52d6282e29f3b7a1ed546e7aacb381@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260716T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260716T170000
+SUMMARY:SEM 4 - DCRM - CRM 1953
+LOCATION:KT5-L15-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nurul Rafidza Rashid
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:44c1fd701c051eea7e5fb2fc8b40eedf4d6ed0c4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260717T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260717T130000
+SUMMARY:SEM 4 - DCRM - CMT 2114
+LOCATION:KT5-L12-007
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nurul Balqis
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:451b2d64025debb320757bb2aa69b5da3eebf4f0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260720T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260720T160000
+SUMMARY:SEM 4 - DCRM - IMT 2442
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Azizah Ahmad\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8ece5e346b62b88b973c9cac3859375232ae273b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260723T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260723T130000
+SUMMARY:SEM 4 - DCRM - CMT 2043
+LOCATION:KT5-L12-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nur Sophian Rifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6b76e68faef2bc5ae8d4946768275ba22489ae2c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260723T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260723T170000
+SUMMARY:SEM 4 - DCRM - CRM 1953
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nurul Rafidza Rashid\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5d8a6a577e60e3b6384dc0078bc8fe42b11723f0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260724T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260724T130000
+SUMMARY:SEM 4 - DCRM - CMT 2114
+LOCATION:KT5-L12-007
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nurul Balqis
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:55224bc48f2d98e470a3518765c6415696b0c966@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260727T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260727T160000
+SUMMARY:SEM 4 - DCRM - IMT 2442
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Azizah Ahmad\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:01a2cb685123c934a836e50c48f36c2a97fdda73@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260730T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260730T130000
+SUMMARY:SEM 4 - DCRM - CMT 2043
+LOCATION:KT5-L12-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nur Sophian Rifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:93a8958f7a288c72e23b5a57fd1f7b38a09e1c29@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260731T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260731T130000
+SUMMARY:SEM 4 - DCRM - CMT 2114
+LOCATION:KT5-L12-007
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nurul Balqis
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:684ded3b0ecd20988f64c1cf528b469bfd0fef87@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260803T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260803T160000
+SUMMARY:SEM 4 - DCRM - IMT 2442
+LOCATION:KT1-L4-08/10
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Azizah Ahmad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c66b800e884f964b1de681d1725a49d4fb9cb717@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260805T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260805T130000
+SUMMARY:SEM 4 - DCRM - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6c09c13c73f2c20d3d2fc44fbe1231537963ab14@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260806T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260806T130000
+SUMMARY:SEM 4 - DCRM - CMT 2043
+LOCATION:KT5-L12-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nur Sophian Rifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b5f497a22c60f30f3f2064fd8e71f36c486e4eb8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260806T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260806T170000
+SUMMARY:SEM 4 - DCRM - CRM 1953
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nurul Rafidza Rashid\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0ef1b11e2ee39137cc733e28e891e5efd7218cac@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260807T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260807T130000
+SUMMARY:SEM 4 - DCRM - CMT 2114
+LOCATION:KT5-L12-007
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nurul Balqis
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:11443ef24b1d938adc6bf05614d93257fa2dc84a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260810T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260810T130000
+SUMMARY:SEM 4 - DCRM - CRM 1953
+LOCATION:KT5-L15-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nurul Rafidza Rashid\nNotes: Replacement Cla
+ ss
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b06061619510b9836397cce9bb64a56ffd713f58@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260810T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260810T160000
+SUMMARY:SEM 4 - DCRM - IMT 2442
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Azizah Ahmad\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:160040b7765832492765e488aaf5049266951650@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260813T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260813T130000
+SUMMARY:SEM 4 - DCRM - CMT 2043
+LOCATION:KT5-L12-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nur Sophian Rifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2908f41310581740abaaadbecbbc23d4e866d2e9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260813T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260813T170000
+SUMMARY:SEM 4 - DCRM - CRM 1953
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nurul Rafidza Rashid\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:07a9fc79b2f9f3e1afccfed701c552ccb5824e50@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260814T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260814T130000
+SUMMARY:SEM 4 - DCRM - CMT 2114
+LOCATION:KT5-L12-007
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nurul Balqis
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb1dc3fcfacc0954063c61e08862b75f1963a9d0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260817T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260817T160000
+SUMMARY:SEM 4 - DCRM - IMT 2442
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Azizah Ahmad\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e4b3d0c7ad1711afd7ccf7c76b21952ee6cc79ba@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260820T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260820T130000
+SUMMARY:SEM 4 - DCRM - CMT 2043
+LOCATION:KT5-L12-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nur Sophian Rifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:aa251fa1e7ca7137c4f341e90094e1d5b48fcd40@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260820T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260820T170000
+SUMMARY:SEM 4 - DCRM - CRM 1953
+LOCATION:KT5-L15-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nurul Rafidza Rashid
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:474d01b7ce42e33a534c80dd13c80b63aad89976@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260821T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260821T130000
+SUMMARY:SEM 4 - DCRM - CMT 2114
+LOCATION:KT5-L12-007
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nurul Balqis
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ce683889c2cbb3b581e88bc9a075c2377cc69318@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260824T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260824T130000
+SUMMARY:SEM 4 - DCRM - CRM 1953
+LOCATION:KT5-L15-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nurul Rafidza Rashid\nNotes: Replacement Cla
+ ss
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:48c82c787af671aa0d3ce82f635dd30f6b3adc38@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260824T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260824T160000
+SUMMARY:SEM 4 - DCRM - IMT 2442
+LOCATION:KT1-L4-08/10
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Azizah Ahmad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4f6132e2f6bfa1a387e974b04e6664436446f59b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260827T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260827T130000
+SUMMARY:SEM 4 - DCRM - CMT 2043
+LOCATION:KT5-L12-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nur Sophian Rifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:268fd552302b178f9aa898d20b71de99be6f7992@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260907T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260907T130000
+SUMMARY:SEM 4 - DCRM - Merdeka Celebration
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d59d120d30f34964be42a29dcc1afc57615ed5ef@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260907T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260907T160000
+SUMMARY:SEM 4 - DCRM - IMT 2442
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Azizah Ahmad\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:90ea492d6d14019c6ce358f8e7f5839369eaa3aa@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260908T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260908T190000
+SUMMARY:SEM 4 - DCRM - CMT 2114
+LOCATION:KT5-L12-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nurul Balqis
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:945af810bb029f9bc693829a6c02a4dc61803e01@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260910T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260910T130000
+SUMMARY:SEM 4 - DCRM - CMT 2043
+LOCATION:KT5-L12-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nur Sophian Rifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:41a66748567452d2dd0f9ba843b5bec61fcbf7f6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260910T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260910T170000
+SUMMARY:SEM 4 - DCRM - CRM 1953
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nurul Rafidza Rashid\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bdcc76c017629b52e52afa9f9c36aacb4606df3c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260911T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260911T130000
+SUMMARY:SEM 4 - DCRM - CMT 2114
+LOCATION:KT5-L12-007
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nurul Balqis
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a2307bb12674ae6aaba2d2ab4c59ad05616f5e6c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260914T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260914T160000
+SUMMARY:SEM 4 - DCRM - IMT 2442
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Azizah Ahmad\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e6e586e3fc078afc8cbcb2e70476756c1c4fc179@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260917T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260917T130000
+SUMMARY:SEM 4 - DCRM - CMT 2043
+LOCATION:KT5-L12-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nur Sophian Rifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:69f5c2d4a823ba0c22f78d7350a0db3a5c5817bf@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260918T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260918T130000
+SUMMARY:SEM 4 - DCRM - CMT 2114
+LOCATION:KT5-L12-007
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nurul Balqis
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d973a4d9e2331e4a36d07d3b0cbd10171e0df3a6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260921T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260921T160000
+SUMMARY:SEM 4 - DCRM - IMT 2442
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Azizah Ahmad\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d89c300b90229ca5f666556d34538eb7d4a7c32a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260924T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260924T130000
+SUMMARY:SEM 4 - DCRM - CMT 2043
+LOCATION:KT5-L12-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nur Sophian Rifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0496024a9d5a4d97f863852dc9d2a9f98504ce26@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260925T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260925T130000
+SUMMARY:SEM 4 - DCRM - CMT 2114
+LOCATION:KT5-L12-007
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nurul Balqis
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:70dc6d358cd2d3879eadd4ef5273bc0195d4e2de@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260928T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260928T160000
+SUMMARY:SEM 4 - DCRM - IMT 2442
+LOCATION:KT1-L4-08/10
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Azizah Ahmad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1b2a507827de722b0f5f9d4aab6d3c4e9a9ded17@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261001T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261001T130000
+SUMMARY:SEM 4 - DCRM - CMT 2043
+LOCATION:KT5-L12-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nur Sophian Rifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bf44dbab23778ca6fe12bb2510a6e98805bb377f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261001T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261001T170000
+SUMMARY:SEM 4 - DCRM - CRM 1953
+LOCATION:KT5-L15-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nurul Rafidza Rashid
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a5d829be1cc38b0d1dd7535f9b28bf36efd71058@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261002T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261002T130000
+SUMMARY:SEM 4 - DCRM - CMT 2114
+LOCATION:KT5-L12-007
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nurul Balqis
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:aecfc5dafdcda2ede3b646fb4cb7e5527fff63b4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261005T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261005T160000
+SUMMARY:SEM 4 - DCRM - IMT 2442
+LOCATION:KT1-L4-08/10
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Azizah Ahmad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:710b7ac5044b0f0336a466cc25cb94ed76314871@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261007T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261007T130000
+SUMMARY:SEM 4 - DCRM - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:48e5b38be25d480c0f202b2de200a6d8534f5380@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261008T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261008T130000
+SUMMARY:SEM 4 - DCRM - CMT 2043
+LOCATION:KT5-L12-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nur Sophian Rifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:91f4142808bea7830a4d3065cd15156fdddaa1bc@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261008T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261008T170000
+SUMMARY:SEM 4 - DCRM - CRM 1953
+LOCATION:KT5-L15-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nurul Rafidza Rashid
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7447d3ce76c71104e6a2bcd601fff22b67dbb6bb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261009T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261009T130000
+SUMMARY:SEM 4 - DCRM - CMT 2114
+LOCATION:KT5-L12-007
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nurul Balqis
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0fa858e85ec4a9e439c49b0a20da3f0587fa5cb9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261012T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261012T160000
+SUMMARY:SEM 4 - DCRM - IMT 2442
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Azizah Ahmad\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3a4abddc982b92a9a2b6a7f5d5c69fe4c4f8beb9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261015T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261015T130000
+SUMMARY:SEM 4 - DCRM - CMT 2043
+LOCATION:KT5-L12-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nur Sophian Rifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:dab39a7be79d8406b7eff9c5b58fb60b280f80d2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261015T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261015T170000
+SUMMARY:SEM 4 - DCRM - CRM 1953
+LOCATION:KT5-L15-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nurul Rafidza Rashid
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d635dcfd0e64fd20deb4d34ef127dc301683466e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261016T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261016T130000
+SUMMARY:SEM 4 - DCRM - CMT 2114
+LOCATION:KT5-L12-007
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nurul Balqis
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:beffbbf516da5fe08d7bfd7da0e05f02d2319cf9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261019T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20261019T130000
+SUMMARY:SEM 4 - DCRM - CRM 1953
+LOCATION:KT5-L15-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nurul Rafidza Rashid\nNotes: Replacement Cla
+ ss
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7bdc5b92925c8dbea6bbdaffea4c49bd96638ba2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261019T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261019T160000
+SUMMARY:SEM 4 - DCRM - IMT 2442
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Azizah Ahmad\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:dcc8717f909847c480ac4d7437f658ce3327c1ea@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261022T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261022T130000
+SUMMARY:SEM 4 - DCRM - CMT 2043
+LOCATION:KT5-L12-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nur Sophian Rifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5f8ad0d1ea125aaee2ec07fd3d81f6c9c7a0232c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261022T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261022T170000
+SUMMARY:SEM 4 - DCRM - CRM 1953
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nurul Rafidza Rashid\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a494f269cf38f68061cd0c58bd006f57eba231a1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261023T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261023T130000
+SUMMARY:SEM 4 - DCRM - CMT 2114
+LOCATION:KT5-L12-007
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nurul Balqis
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d485e06c11c6f32b9fc69993ab8ab68f913ec751@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261026T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261026T160000
+SUMMARY:SEM 4 - DCRM - IMT 2442
+LOCATION:KT1-L4-08/10
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Azizah Ahmad\nCalendar exception: JUBLI PERA
+ K SELANGOR
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b02cdef8f44f73f6ab4748ba461feb0140eedae4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261027T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20261027T130000
+SUMMARY:SEM 4 - DCRM - CRM 1953
+LOCATION:KT5-L04-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nurul Rafidza Rashid\nNotes: Replacement Cla
+ ss
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9d7bd39783ff33ad9e36ca63f1f03dc811dcc5ea@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261028T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261028T130000
+SUMMARY:SEM 4 - DCRM - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bac881a6ef1f41a4abd8f9205430f7c52e43fbfd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261029T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261029T130000
+SUMMARY:SEM 4 - DCRM - CMT 2043
+LOCATION:KT5-L12-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nur Sophian Rifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8655fb50bb97306d523a2612d84ff3a2f3b844cd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261029T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261029T170000
+SUMMARY:SEM 4 - DCRM - CRM 1953
+LOCATION:KT5-L15-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nurul Rafidza Rashid
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b88d927c1291f01833e8be804a93c32f524d86cc@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261030T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261030T130000
+SUMMARY:SEM 4 - DCRM - CMT 2114
+LOCATION:KT5-L12-007
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nurul Balqis
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2b39b1c20188eb60d4b0506ca2d583fd7f4f28e8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261102T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261102T160000
+SUMMARY:SEM 4 - DCRM - IMT 2442
+LOCATION:KT1-L4-08/10
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Azizah Ahmad
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ad4b963925489eca29a6ff7cb18fd640ecbfad53@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261105T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261105T130000
+SUMMARY:SEM 4 - DCRM - CMT 2043
+LOCATION:KT5-L12-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nur Sophian Rifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0896e861da15a2876bc7ef45c732bcee25157fb0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261105T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261105T170000
+SUMMARY:SEM 4 - DCRM - CRM 1953
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nurul Rafidza Rashid\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ba069c0f67241cfcdd0015da16c71e41970bff23@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261106T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261106T130000
+SUMMARY:SEM 4 - DCRM - CMT 2114
+LOCATION:KT5-L12-007
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nurul Balqis
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8a00051d3f37ba534939518b913e88dd783f8ead@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261109T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261109T160000
+SUMMARY:SEM 4 - DCRM - IMT 2442
+LOCATION:KT1-L4-08/10
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Azizah Ahmad\nCalendar exception: Deepavali 
+ Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:80619e60d5b9f816a5b8c995d8719276dfc4a9c7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261112T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261112T130000
+SUMMARY:SEM 4 - DCRM - CMT 2043
+LOCATION:KT5-L12-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nur Sophian Rifin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:451c889c94fa8b23bfb3275476d1a8e31b91a617@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261112T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261112T170000
+SUMMARY:SEM 4 - DCRM - CRM 1953
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nurul Rafidza Rashid\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:937733c06a27db08ab23d076dffe064c86ba9fbd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261113T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261113T130000
+SUMMARY:SEM 4 - DCRM - CMT 2114
+LOCATION:KT5-L12-007
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 4 - DCRM\nLecturer: Nurul Balqis
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1394 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Student Timetable//Class Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SEM 3 - DSWE 1
+X-WR-TIMEZONE:Asia/Kuala_Lumpur
+BEGIN:VTIMEZONE
+TZID:Asia/Kuala_Lumpur
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:MYT
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:3cf66899f4ed3c7c952376a19b4574d7054382ae@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260706T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260706T110000
+SUMMARY:SEM 3 - DSWE 1 - MPU 2183
+LOCATION:KT1-L3-24
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Ariff Shah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5fe7b0639543bafc0f91225beb955e1c67a3f27f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260706T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260706T130000
+SUMMARY:SEM 3 - DSWE 1 - MPU 2342
+LOCATION:KT1 L1 05 LH1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Dr Idris Kadir
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ac9ca7dc267fede2b241114b5f1c008085d5c381@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260707T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260707T130000
+SUMMARY:SEM 3 - DSWE 1 - ESP 2072
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:580f0eda6b094490110abd81f7899a8bb7202caf@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260707T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260707T180000
+SUMMARY:SEM 3 - DSWE 1 - MPU 2422
+LOCATION:KT1-L3-23
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Nurul Aisyah Mazlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a0b8340e668b1e99ded38c42177be2215ede3a88@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260708T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260708T190000
+SUMMARY:SEM 3 - DSWE 1 - SPG 0453
+LOCATION:KT5-L15-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Syamiel Amirun
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8800da3d9266539d33321d4acde632f4d8d83da5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260709T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260709T130000
+SUMMARY:SEM 3 - DSWE 1 - CIT 0573
+LOCATION:KT5-L04-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Norulmubarakah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bf0de764e9b9b8082ea878d195df28d96c3076e2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260709T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260709T190000
+SUMMARY:SEM 3 - DSWE 1 - CIT 0663
+LOCATION:KT5-L15-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Nor Adilah Abd Aziz
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2f16814e4fc4af7cd05f811144a6765bcf87c339@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260713T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260713T110000
+SUMMARY:SEM 3 - DSWE 1 - MPU 2183
+LOCATION:KT1-L3-24
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Ariff Shah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ab41a1602e00c223b80bfc85fff9e41cdc13c6bc@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260713T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260713T130000
+SUMMARY:SEM 3 - DSWE 1 - MPU 2342
+LOCATION:KT1 L1 05 LH1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Dr Idris Kadir
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5334e4e1c7bec7a681aec45945fa599a93c0bd34@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260714T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260714T130000
+SUMMARY:SEM 3 - DSWE 1 - ESP 2072
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7fda981ecf73053b88e4930ed4772001bf45ccb0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260714T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260714T180000
+SUMMARY:SEM 3 - DSWE 1 - MPU 2422
+LOCATION:KT1-L3-23
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Nurul Aisyah Mazlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9f70669c8e6184f1cf8b4d3b0f9500ea1e588349@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260715T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260715T190000
+SUMMARY:SEM 3 - DSWE 1 - SPG 0453
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Syamiel Amirun\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3655be70fe7b8c0c5512919f6cb502528fc1c243@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260716T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260716T130000
+SUMMARY:SEM 3 - DSWE 1 - CIT 0573
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Norulmubarakah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:533bdd88679af4406b7966def8a125f94c912849@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260716T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260716T190000
+SUMMARY:SEM 3 - DSWE 1 - CIT 0663
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Nor Adilah Abd Aziz\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:655e6a8aadd8cfe6748e370d7c4d7279b37b12dd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260720T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260720T110000
+SUMMARY:SEM 3 - DSWE 1 - MPU 2183
+LOCATION:KT1-L3-24
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Ariff Shah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a83802bdf5d7fbd5d54a570bf7c82b84a9ffe1ce@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260720T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260720T130000
+SUMMARY:SEM 3 - DSWE 1 - MPU 2342
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Dr Idris Kadir\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d5e37c52f49849764559e9e7bb839ed59d72584e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260721T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260721T130000
+SUMMARY:SEM 3 - DSWE 1 - ESP 2072
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:99b745fbedf20c91709dc076309e1267a057a2f3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260721T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260721T180000
+SUMMARY:SEM 3 - DSWE 1 - MPU 2422
+LOCATION:KT1-L3-23
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Nurul Aisyah Mazlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:eb225f1013e7073048865addd33671f0216414f6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260722T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260722T190000
+SUMMARY:SEM 3 - DSWE 1 - SPG 0453
+LOCATION:KT5-L15-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Syamiel Amirun
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a31cb39b05e42c9935eaf0f405cbe9e2a3a56e67@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260723T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260723T130000
+SUMMARY:SEM 3 - DSWE 1 - CIT 0573
+LOCATION:KT5-L04-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Norulmubarakah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:36ecf2b3f0ed005fd09d998e177dc8a0a701aa8a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260723T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260723T190000
+SUMMARY:SEM 3 - DSWE 1 - CIT 0663
+LOCATION:KT5-L15-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Nor Adilah Abd Aziz
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:67f5a774d7aaf6d04e85386d2eced3f93d44de3b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260727T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260727T110000
+SUMMARY:SEM 3 - DSWE 1 - MPU 2183
+LOCATION:KT1-L3-24
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Ariff Shah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c8bdc59489d79607e40031bac8655bb833878961@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260727T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260727T130000
+SUMMARY:SEM 3 - DSWE 1 - MPU 2342
+LOCATION:KT1 L1 05 LH1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Dr Idris Kadir
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e46d6f91a14c367d19717418675b6ef6789d8beb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260728T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260728T130000
+SUMMARY:SEM 3 - DSWE 1 - ESP 2072
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b7b56883037bcb8312f268a6e4e4cca122706146@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260728T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260728T180000
+SUMMARY:SEM 3 - DSWE 1 - MPU 2422
+LOCATION:KT1-L3-23
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Nurul Aisyah Mazlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7e05f593c738da68ce6c1f25c7bcd9635cf36341@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260729T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260729T190000
+SUMMARY:SEM 3 - DSWE 1 - SPG 0453
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Syamiel Amirun\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1a8d1342b9a4e06c092f73105618b188c83e7cb6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260730T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260730T130000
+SUMMARY:SEM 3 - DSWE 1 - CIT 0573
+LOCATION:KT5-L04-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Norulmubarakah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f31b83a1614cae2508712590843535adec74adb5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260730T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260730T190000
+SUMMARY:SEM 3 - DSWE 1 - CIT 0663
+LOCATION:KT5-L15-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Nor Adilah Abd Aziz
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:51b0c9561403b99bf7d5174a609fa197c4c05fca@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260803T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260803T110000
+SUMMARY:SEM 3 - DSWE 1 - MPU 2183
+LOCATION:KT1-L3-24
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Ariff Shah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1015b863f0c39c4a91cd88c4b2f49f617a337732@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260803T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260803T130000
+SUMMARY:SEM 3 - DSWE 1 - MPU 2342
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Dr Idris Kadir\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4f97b7d105890abd0aebffc22d73b997011a11c6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260804T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260804T130000
+SUMMARY:SEM 3 - DSWE 1 - ESP 2072
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:66452df75e5e080efbb8597a92fc6033bf575987@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260804T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260804T180000
+SUMMARY:SEM 3 - DSWE 1 - MPU 2422
+LOCATION:KT1-L3-23
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Nurul Aisyah Mazlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:19c6180543db59bddd833b9116ae15595028c9f3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260805T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260805T130000
+SUMMARY:SEM 3 - DSWE 1 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4ee64139c010628947493b3e257fa3c73016f8fa@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260805T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260805T190000
+SUMMARY:SEM 3 - DSWE 1 - SPG 0453
+LOCATION:KT5-L15-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Syamiel Amirun
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e4a906cbc96c4f76650ded47ae5cc06b9e55807f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260806T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260806T130000
+SUMMARY:SEM 3 - DSWE 1 - CIT 0573
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Norulmubarakah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:556e541621afd87ec30125551c79a25872431081@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260806T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260806T190000
+SUMMARY:SEM 3 - DSWE 1 - CIT 0663
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Nor Adilah Abd Aziz\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f6837e0e81d6d3252f0036d9abba6d372fdeb34c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260810T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260810T130000
+SUMMARY:SEM 3 - DSWE 1 - MPU 2342
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Dr Idris Kadir\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:42c81c64c9e2aba308b81bb54c770268a79059dc@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260811T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260811T130000
+SUMMARY:SEM 3 - DSWE 1 - ESP 2072
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:05083d322917b90798253489dcf998b2b7c9b340@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260811T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260811T180000
+SUMMARY:SEM 3 - DSWE 1 - MPU 2422
+LOCATION:KT1-L3-23
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Nurul Aisyah Mazlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5a375b7429407e23f93c9b5d9ae0dd85bdc1eb4e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260812T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260812T110000
+SUMMARY:SEM 3 - DSWE 1 - MPU 2183
+LOCATION:KT1-L3-24
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Ariff Shah\nNotes: Replacement Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:312720dc89c5be5ab2aa1c7bd3d769bc1f013d5d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260812T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260812T190000
+SUMMARY:SEM 3 - DSWE 1 - SPG 0453
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Syamiel Amirun\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b9dd932de131b10196e8cfb768090aa9bc9882de@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260813T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260813T130000
+SUMMARY:SEM 3 - DSWE 1 - CIT 0573
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Norulmubarakah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6cf4f4f8a4d1bafed379c7a4ef4aec61a703fbf4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260813T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260813T190000
+SUMMARY:SEM 3 - DSWE 1 - CIT 0663
+LOCATION:KT5-L15-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Nor Adilah Abd Aziz
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:643808d8494a35a1f618f8e0e7ee71ba12fbadd1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260817T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260817T110000
+SUMMARY:SEM 3 - DSWE 1 - MPU 2183
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Ariff Shah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f1dc009f6ba5ccf9746a590655ff6e113ba08f1e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260817T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260817T130000
+SUMMARY:SEM 3 - DSWE 1 - MPU 2342
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Dr Idris Kadir\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8eafc5590efb5174d1dcfb7360dc9e3da37b36cd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260818T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260818T130000
+SUMMARY:SEM 3 - DSWE 1 - ESP 2072
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5c12cf3d6f40ea373063a435543464e8f74bdbd9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260818T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260818T180000
+SUMMARY:SEM 3 - DSWE 1 - MPU 2422
+LOCATION:KT1-L3-23
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Nurul Aisyah Mazlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7f0f61e3512140123a6427f8a737dfcc24d74a38@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260819T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260819T190000
+SUMMARY:SEM 3 - DSWE 1 - SPG 0453
+LOCATION:KT5-L15-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Syamiel Amirun
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5b9e93bfe8b6f815c337745684da8c0b7d27784f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260820T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260820T130000
+SUMMARY:SEM 3 - DSWE 1 - CIT 0573
+LOCATION:KT5-L15-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Norulmubarakah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d96be5d8cb403ea03170867fe776de14b10e0d5d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260820T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260820T190000
+SUMMARY:SEM 3 - DSWE 1 - CIT 0663
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Nor Adilah Abd Aziz\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:401f1bc176b12398b9cdb96714a3353fe6ab2192@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260824T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260824T110000
+SUMMARY:SEM 3 - DSWE 1 - MPU 2183
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Ariff Shah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:31e91ec6a5e91b0a0b7054f68e20251c6bb0b0cc@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260824T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260824T130000
+SUMMARY:SEM 3 - DSWE 1 - MPU 2342
+LOCATION:KT1 L1 05 LH1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Dr Idris Kadir
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7959250fa5cb6b7f6234a01ff7355dc81bbdc49b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260825T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260825T130000
+SUMMARY:SEM 3 - DSWE 1 - ESP 2072
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Nur Syazana Ishak\nCalendar exception: Mau
+ lidur Rasul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a41b7d341e93cc83de711aa178fd061b13b8bd58@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260825T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260825T180000
+SUMMARY:SEM 3 - DSWE 1 - MPU 2422
+LOCATION:KT1-L3-23
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Nurul Aisyah Mazlan\nCalendar exception: M
+ aulidur Rasul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c0805abde743ca4dd16f9f5bf24d7a9e1a5906eb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260826T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260826T190000
+SUMMARY:SEM 3 - DSWE 1 - SPG 0453
+LOCATION:KT5-L15-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Syamiel Amirun
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2a23c9298a439ecf4fd23e48260805bc18533fd4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260827T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260827T130000
+SUMMARY:SEM 3 - DSWE 1 - CIT 0573
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Norulmubarakah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9a7864e0a35848470c8f967b4f20f6efbf506b18@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260907T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260907T130000
+SUMMARY:SEM 3 - DSWE 1 - Merdeka Celebration
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7a4e96b6a582ca11d9e849cb94e4ed5bb916f487@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260908T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260908T110000
+SUMMARY:SEM 3 - DSWE 1 - MPU 2342
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Dr Idris Kadir\nNotes: Online Replacement 
+ Class (merdeka 7/9)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9f9baed0760f569a1fafe28643ad6fd36bf09961@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260908T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260908T130000
+SUMMARY:SEM 3 - DSWE 1 - ESP 2072
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:278ab30d79d38674374563284b20bf1a40b75ff2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260908T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260908T180000
+SUMMARY:SEM 3 - DSWE 1 - MPU 2422
+LOCATION:KT1-L3-23
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Nurul Aisyah Mazlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:489a85af6202c0930ef253f433f84d64e89e76b5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260909T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260909T120000
+SUMMARY:SEM 3 - DSWE 1 - MPU 2183
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Ariff Shah\nNotes: Online Replacement Clas
+ s (merdeka 7/9)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8eab0aba05540045b24382848aa786c57a55aca0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260909T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260909T190000
+SUMMARY:SEM 3 - DSWE 1 - SPG 0453
+LOCATION:KT5-L15-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Syamiel Amirun
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5272da539dfef26009cc1cf0cafc0d6e76d15b84@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260910T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260910T130000
+SUMMARY:SEM 3 - DSWE 1 - CIT 0573
+LOCATION:KT5-L04-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Norulmubarakah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a16a23ba469fc0e5b3cbe7c8815eaa0d3c5b2ccc@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260910T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260910T190000
+SUMMARY:SEM 3 - DSWE 1 - CIT 0663
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Nor Adilah Abd Aziz\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:32166ad7d875691d968b8c5241299aef49124db5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260911T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260911T130000
+SUMMARY:SEM 3 - DSWE 1 - MPU 2422
+LOCATION:KT1-L3-23
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Nurul Aisyah Mazlan\nNotes: Replacement Cl
+ ass (PH)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2308f52c1e9d7a2e1a5a5aa62aa3ae5bae7c7b87@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260914T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260914T110000
+SUMMARY:SEM 3 - DSWE 1 - MPU 2183
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Ariff Shah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1592692e6bb7dc6738221ab5744ed2f373cbde01@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260914T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260914T130000
+SUMMARY:SEM 3 - DSWE 1 - MPU 2342
+LOCATION:KT1 L1 05 LH1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Dr Idris Kadir
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8d3f78acb4d8fb4178a4261f00f10202cda5f2d0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260914T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260914T190000
+SUMMARY:SEM 3 - DSWE 1 - CIT 0663
+LOCATION:KT5-L12-001C
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Nor Adilah Abd Aziz\nNotes: Replacement Cl
+ ass (Training)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0ed494aa37909473f22db5793c7041acbfa6e061@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260915T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260915T130000
+SUMMARY:SEM 3 - DSWE 1 - ESP 2072
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9be6298ae0287c95640a01a06fadfd1e839ac32d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260916T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260916T190000
+SUMMARY:SEM 3 - DSWE 1 - SPG 0453
+LOCATION:KT5-L15-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Syamiel Amirun\nCalendar exception: Malays
+ ia Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:559b438bfebe46c8d99ba84e8de0db54b611996d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260917T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260917T130000
+SUMMARY:SEM 3 - DSWE 1 - CIT 0573
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Norulmubarakah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6eb70d805a1591880c80d251a74efe015c282c70@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260917T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260917T190000
+SUMMARY:SEM 3 - DSWE 1 - CIT 0663
+LOCATION:KT5-L15-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Nor Adilah Abd Aziz
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cfca76f59aa8b495f3d2d02567231673cb0268cd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260922T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260922T110000
+SUMMARY:SEM 3 - DSWE 1 - MPU 2342
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Dr Idris Kadir\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:53805d071cb2c577fb5d9f631eb020d32fcb57b2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260922T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260922T130000
+SUMMARY:SEM 3 - DSWE 1 - ESP 2072
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8af5cd82a34e33af90c6c721d40b99c5948fecef@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260923T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260923T130000
+SUMMARY:SEM 3 - DSWE 1 - MPU 2183
+LOCATION:KT1-L3-24
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Ariff Shah\nNotes: Replacement Class (21/9
+ )
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:41cf28eaf20b048024bde0889c2d5424b990e378@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260923T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260923T190000
+SUMMARY:SEM 3 - DSWE 1 - SPG 0453
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Syamiel Amirun\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:37dccdac7b01d1a7e18ef3229e5ae4f5a843c5ce@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260924T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260924T130000
+SUMMARY:SEM 3 - DSWE 1 - CIT 0573
+LOCATION:KT5-L15-012
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Norulmubarakah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fb26fcaa8fc4caee129450670f05be08a3fca73c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260924T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260924T190000
+SUMMARY:SEM 3 - DSWE 1 - CIT 0663
+LOCATION:KT5-L15-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Nor Adilah Abd Aziz
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8f3ab7642e4ca35919fb6d493d7f0e7b8686b31e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260928T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260928T110000
+SUMMARY:SEM 3 - DSWE 1 - MPU 2183
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Ariff Shah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7c1eaefef43cdbf252fedf916cf0b9beab2905c7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260928T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260928T130000
+SUMMARY:SEM 3 - DSWE 1 - MPU 2342
+LOCATION:KT1 L1 05 LH1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Dr Idris Kadir
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bac5a36250e9ab092a1a6663fd1d4718188d31d0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260929T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260929T130000
+SUMMARY:SEM 3 - DSWE 1 - ESP 2072
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f58278d935af14eb90b8414b205e8ab8f7d34c25@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260930T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260930T190000
+SUMMARY:SEM 3 - DSWE 1 - SPG 0453
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Syamiel Amirun\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c90cd5faef47ce45a3478b1134554b908cee8698@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261001T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261001T130000
+SUMMARY:SEM 3 - DSWE 1 - CIT 0573
+LOCATION:KT5-L04-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Norulmubarakah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:06c7b4ede0a625bda02debbfdf0cfb63048cb2f9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261001T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261001T190000
+SUMMARY:SEM 3 - DSWE 1 - CIT 0663
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Nor Adilah Abd Aziz\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8eae2d06b027336f721040f5c5defbc5639c85b0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261005T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261005T110000
+SUMMARY:SEM 3 - DSWE 1 - MPU 2183
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Ariff Shah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0afbef59825a8cec12e4147fee7e57481b7a9f77@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261005T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261005T130000
+SUMMARY:SEM 3 - DSWE 1 - MPU 2342
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Dr Idris Kadir\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2f9776d4222dc064d4bf1cbe8901cd738d88c4c8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261006T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261006T130000
+SUMMARY:SEM 3 - DSWE 1 - ESP 2072
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5cf4bd0d920ace7d59fbbc4a1bde800046dc0b70@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261007T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261007T130000
+SUMMARY:SEM 3 - DSWE 1 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fd32cf90feaa4adb6318c3482719b3dd47753ee4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261007T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261007T190000
+SUMMARY:SEM 3 - DSWE 1 - SPG 0453
+LOCATION:KT5-L15-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Syamiel Amirun
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2472a91661d6e1a2aa97a9d61d5bf71f8f35fea4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261008T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261008T130000
+SUMMARY:SEM 3 - DSWE 1 - CIT 0573
+LOCATION:KT5-L04-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Norulmubarakah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9d3545d683f0d8faccc5fa47a199f77b42cf8b83@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261008T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261008T190000
+SUMMARY:SEM 3 - DSWE 1 - CIT 0663
+LOCATION:KT5-L15-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Nor Adilah Abd Aziz
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ab8903369b19f2b59edc2135ea9a98db984233ba@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261012T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261012T110000
+SUMMARY:SEM 3 - DSWE 1 - MPU 2183
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Ariff Shah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f5a59bc9041bafd276856bda7f391e7110301453@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261012T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261012T130000
+SUMMARY:SEM 3 - DSWE 1 - MPU 2342
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Dr Idris Kadir\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b968d464a18b1a41f404f8ef1f0c0332f9bf7065@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261013T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261013T130000
+SUMMARY:SEM 3 - DSWE 1 - ESP 2072
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:50113541982b530fdd35b2bc891dcffdea855f50@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261014T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261014T190000
+SUMMARY:SEM 3 - DSWE 1 - SPG 0453
+LOCATION:KT5-L15-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Syamiel Amirun
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e61189f416407859a5624e15306354b70af3e793@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261015T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261015T130000
+SUMMARY:SEM 3 - DSWE 1 - CIT 0573
+LOCATION:KT5-L15-002
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Norulmubarakah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7631f9c872273ce1365bd5128b4c2140a0a31d83@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261015T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261015T190000
+SUMMARY:SEM 3 - DSWE 1 - CIT 0663
+LOCATION:KT5-L15-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Nor Adilah Abd Aziz
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:06909dbb29e383f0c486bc42ab78fbbdd855afe4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261019T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261019T110000
+SUMMARY:SEM 3 - DSWE 1 - MPU 2183
+LOCATION:KT1-L3-24
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Ariff Shah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5745886ccbbf5f7c5213280458d65e8728b94760@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261019T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261019T130000
+SUMMARY:SEM 3 - DSWE 1 - MPU 2342
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Dr Idris Kadir\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:04cb8d5cdecfbb3013fa549b48b26356089eceb1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261020T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261020T130000
+SUMMARY:SEM 3 - DSWE 1 - ESP 2072
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:44e3a9a228e94b9476769f002ce7d3498be93e17@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261021T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261021T190000
+SUMMARY:SEM 3 - DSWE 1 - SPG 0453
+LOCATION:KT5-L15-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Syamiel Amirun
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:19a361d0d00038c4a45105310fd9aa393d46b984@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261022T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261022T130000
+SUMMARY:SEM 3 - DSWE 1 - CIT 0573
+LOCATION:KT5-L15-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Norulmubarakah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:be86522ee895bb7026719bca325d52537e660688@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261022T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261022T190000
+SUMMARY:SEM 3 - DSWE 1 - CIT 0663
+LOCATION:KT5-L15-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Nor Adilah Abd Aziz
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8a172c66099deb0092eb77df9fdd2209048d266d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261026T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261026T110000
+SUMMARY:SEM 3 - DSWE 1 - MPU 2183
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Ariff Shah\nNotes: Online Class\nCalendar 
+ exception: JUBLI PERAK SELANGOR
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:30313e2b42d96c597316aaf481ac12dc47d86286@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261026T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261026T130000
+SUMMARY:SEM 3 - DSWE 1 - MPU 2342
+LOCATION:KT1 L1 05 LH1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Dr Idris Kadir\nCalendar exception: JUBLI 
+ PERAK SELANGOR
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:97eb640c9d8d1b01b95e9e0aec67fa0a8c19ed53@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261027T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261027T130000
+SUMMARY:SEM 3 - DSWE 1 - ESP 2072
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d88b66cc2340150c29bad77984b9521916cc5dad@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261028T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261028T130000
+SUMMARY:SEM 3 - DSWE 1 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2446646928b61207260fd21c00bbfbee5e43c573@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261028T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261028T190000
+SUMMARY:SEM 3 - DSWE 1 - SPG 0453
+LOCATION:KT5-L15-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Syamiel Amirun
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:15e5807e7c7ae77be510739dca53f59d6a142182@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261029T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261029T130000
+SUMMARY:SEM 3 - DSWE 1 - CIT 0573
+LOCATION:KT5-L04-004
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Norulmubarakah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b07227ade18d2988a960b75efec566239c67fb0a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261029T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261029T190000
+SUMMARY:SEM 3 - DSWE 1 - CIT 0663
+LOCATION:KT5-L15-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Nor Adilah Abd Aziz
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b822cadb663e759680d3d78f376fcbbfffc33269@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261030T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261030T120000
+SUMMARY:SEM 3 - DSWE 1 - MPU 2183
+LOCATION:KT1-L3-24
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Ariff Shah\nNotes: Replacement Class (Jubl
+ i Perak Selangor)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1a85c6199e9ee633882906bd7dbaf3e23142e4d6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261102T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261102T110000
+SUMMARY:SEM 3 - DSWE 1 - MPU 2183
+LOCATION:KT1-L3-24
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Ariff Shah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a2484577ec8b6e4ebc4c6561055fb1f495b9bc4f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261102T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261102T130000
+SUMMARY:SEM 3 - DSWE 1 - MPU 2342
+LOCATION:KT1 L1 05 LH1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Dr Idris Kadir
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2d4cb7bf9c9935cbb90946748cbea6ebbfefe4df@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261103T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261103T130000
+SUMMARY:SEM 3 - DSWE 1 - ESP 2072
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:01e1d4c978844fc7f75c23b83dc99173fd24a142@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261104T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261104T190000
+SUMMARY:SEM 3 - DSWE 1 - SPG 0453
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Syamiel Amirun\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:70f92c237a45731a9ddb3549d060f0542cf720b3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261105T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261105T130000
+SUMMARY:SEM 3 - DSWE 1 - CIT 0573
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Norulmubarakah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:109e52a6491368b9fec6a37b6d907c0d0a687e67@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261105T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261105T190000
+SUMMARY:SEM 3 - DSWE 1 - CIT 0663
+LOCATION:KT5-L15-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Nor Adilah Abd Aziz
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:35bc6389d1b5efb4740f2cb3ac5b05cdedca3c1f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261109T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261109T110000
+SUMMARY:SEM 3 - DSWE 1 - MPU 2183
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Ariff Shah\nNotes: Online Class\nCalendar 
+ exception: Deepavali Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0ec61d0df6932ee3bb9f020758164e05a324d636@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261109T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261109T130000
+SUMMARY:SEM 3 - DSWE 1 - MPU 2342
+LOCATION:KT1 L1 05 LH1
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Dr Idris Kadir\nCalendar exception: Deepav
+ ali Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4e07ae8d5f80134b38e3e1157e90d3a7308dc789@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261110T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261110T130000
+SUMMARY:SEM 3 - DSWE 1 - ESP 2072
+LOCATION:KT1-L3-05
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Nur Syazana Ishak
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4fa565d828116805f2e1a17cfd5e1b8afd8f4a2b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261111T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261111T120000
+SUMMARY:SEM 3 - DSWE 1 - MPU 2183
+LOCATION:KT1-L3-24
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Ariff Shah\nNotes: Replacement Class (Deep
+ avali)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6a65aa43683f8a381075b74087fce66fb07b6257@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261111T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261111T190000
+SUMMARY:SEM 3 - DSWE 1 - SPG 0453
+LOCATION:KT5-L15-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Syamiel Amirun
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1dbcd9175b744101dc4cb79d22d1e9ca8510a410@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261112T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261112T130000
+SUMMARY:SEM 3 - DSWE 1 - CIT 0573
+LOCATION:KT5-L04-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Norulmubarakah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2eb3cea8a465054bb460beeb8a741b68201302f5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261112T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261112T190000
+SUMMARY:SEM 3 - DSWE 1 - CIT 0663
+LOCATION:KT5-L15-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DSWE 1\nLecturer: Nor Adilah Abd Aziz
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR

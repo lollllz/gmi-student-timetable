@@ -1,0 +1,891 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Student Timetable//Class Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SEM 5 - DSPD 2
+X-WR-TIMEZONE:Asia/Kuala_Lumpur
+BEGIN:VTIMEZONE
+TZID:Asia/Kuala_Lumpur
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:MYT
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:f8f9b5cea7e2772020b566778c6d997093d15933@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260707T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260707T130000
+SUMMARY:SEM 5 - DSPD 2 - SES 1483
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Wan Husni Ariffin\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d87df5578ab848d32316a81b148b104791c4f026@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260707T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260707T190000
+SUMMARY:SEM 5 - DSPD 2 - IAT 0913
+LOCATION:KT5-L08-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Heidir Mohd Shah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ee1767ed67b71c95d75c8c8202dc0bea79758b1e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260708T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260708T170000
+SUMMARY:SEM 5 - DSPD 2 - PWS 1352
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Haniff Gusrial\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6860aeea520fce0a84655fb67aed4c596fede3a2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260709T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260709T130000
+SUMMARY:SEM 5 - DSPD 2 - PWS 1323
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Raha Bahanurdin\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e36241d2fe55bfc2e95f80d540206052ee33d81c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260714T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260714T130000
+SUMMARY:SEM 5 - DSPD 2 - SES 1483
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Wan Husni Ariffin\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b839c1d8eb48e28a635b43213bf5a6a8427f128b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260714T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260714T190000
+SUMMARY:SEM 5 - DSPD 2 - IAT 0913
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Heidir Mohd Shah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:36b8fe872a02c7c51fc4d756790f8c3677bfeb80@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260715T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260715T170000
+SUMMARY:SEM 5 - DSPD 2 - PWS 1352
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Haniff Gusrial\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1d6f8d84d4492b4157e8a3ff916f70836c98cc1e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260716T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260716T130000
+SUMMARY:SEM 5 - DSPD 2 - PWS 1323
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Raha Bahanurdin\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9925eb98381c25faaeb4ee5bea12506e203017bc@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260721T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260721T130000
+SUMMARY:SEM 5 - DSPD 2 - SES 1483
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Wan Husni Ariffin\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b5fe7d54d29239ba749a36f5cecfcdb43584201e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260721T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260721T190000
+SUMMARY:SEM 5 - DSPD 2 - IAT 0913
+LOCATION:KT5-L08-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Heidir Mohd Shah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e7f8558062700eaea6aae1a3e43b1af9ae0abea3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260722T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260722T170000
+SUMMARY:SEM 5 - DSPD 2 - PWS 1352
+LOCATION:KT5-L02-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Haniff Gusrial
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:adf17ca7d6a05e6d2debea14eb24c85b13ff7975@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260723T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260723T130000
+SUMMARY:SEM 5 - DSPD 2 - PWS 1323
+LOCATION:KT5-L02-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Raha Bahanurdin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e68b1e4c93a21d81ca57c1b041d79029715bb02f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260728T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260728T130000
+SUMMARY:SEM 5 - DSPD 2 - SES 1483
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Wan Husni Ariffin\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3db0a052ea2ec9da845bd242b482f31501706d43@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260728T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260728T190000
+SUMMARY:SEM 5 - DSPD 2 - IAT 0913
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Heidir Mohd Shah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2b80b3a0b38c8d040f4465404e2aecc440f815c0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260729T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260729T170000
+SUMMARY:SEM 5 - DSPD 2 - PWS 1352
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Haniff Gusrial\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ffd27445a6665040753b56f133fde6d54854d991@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260730T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260730T130000
+SUMMARY:SEM 5 - DSPD 2 - PWS 1323
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Raha Bahanurdin\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f4f46acca9c1c82b72b70f347a3d93202c6684de@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260804T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260804T130000
+SUMMARY:SEM 5 - DSPD 2 - SES 1483
+LOCATION:KT5-L02-015B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Wan Husni Ariffin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:49ac5992a59a4c46788a5980d3330044aef2252d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260804T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260804T190000
+SUMMARY:SEM 5 - DSPD 2 - IAT 0913
+LOCATION:KT5-L08-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Heidir Mohd Shah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6d9c2c4995df112faec13a055872bb9777e14578@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260805T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260805T130000
+SUMMARY:SEM 5 - DSPD 2 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9c900e938f6c51d4b605ff5eadcdfad46ceac997@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260805T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260805T170000
+SUMMARY:SEM 5 - DSPD 2 - PWS 1352
+LOCATION:KT5-L02-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Haniff Gusrial
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1ad5068d863a9550264f83cb2611846a8efefe76@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260806T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260806T130000
+SUMMARY:SEM 5 - DSPD 2 - PWS 1323
+LOCATION:KT5-L02-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Raha Bahanurdin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b51324b18a79aef9d1aaebaab5de3d1432c0b6fe@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260811T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260811T130000
+SUMMARY:SEM 5 - DSPD 2 - SES 1483
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Wan Husni Ariffin\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7f00d404acacc5cc1b578920d2cb008b65a17969@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260811T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260811T190000
+SUMMARY:SEM 5 - DSPD 2 - IAT 0913
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Heidir Mohd Shah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:21d77c23549547e18f43a7bba465f5c7652931d2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260812T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260812T170000
+SUMMARY:SEM 5 - DSPD 2 - PWS 1352
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Haniff Gusrial\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:80fb1b1e1c6955ae9d856cb9a3e6d1fa918f1705@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260813T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260813T130000
+SUMMARY:SEM 5 - DSPD 2 - PWS 1323
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Raha Bahanurdin\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:348af49dc4bd2ce079d7b896e10d0b616311e86f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260818T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260818T130000
+SUMMARY:SEM 5 - DSPD 2 - SES 1483
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Wan Husni Ariffin\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f30f7e721b5e7bf4afb7cd81103600088c9163c0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260818T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260818T190000
+SUMMARY:SEM 5 - DSPD 2 - IAT 0913
+LOCATION:KT5-L08-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Heidir Mohd Shah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:667a3e12db9f9a13b015f6b255313197856e7297@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260819T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260819T170000
+SUMMARY:SEM 5 - DSPD 2 - PWS 1352
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Haniff Gusrial\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6c65b084fa1891f7ccf548f891eaaf427f65e8ab@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260819T170000
+DTEND;TZID=Asia/Kuala_Lumpur:20260819T180000
+SUMMARY:SEM 5 - DSPD 2 - PWS 1352
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Haniff Gusrial\nNotes: Online Replacement 
+ Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:45810fab5cf9f8fb6bb47bb36a89677ad0eb2541@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260820T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260820T130000
+SUMMARY:SEM 5 - DSPD 2 - PWS 1323
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Raha Bahanurdin\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cff72dde2b8ae518b164feefe7b7cbacafebeb30@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260825T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260825T130000
+SUMMARY:SEM 5 - DSPD 2 - SES 1483
+LOCATION:KT5-L02-015B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Wan Husni Ariffin\nCalendar exception: Mau
+ lidur Rasul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:03f081211f0d407996ff9750eff463ca59250c76@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260825T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260825T190000
+SUMMARY:SEM 5 - DSPD 2 - IAT 0913
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Heidir Mohd Shah\nNotes: Online Class\nCal
+ endar exception: Maulidur Rasul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5299ec5d5b85a720c874556451eaacf66d3e24f2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260826T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260826T170000
+SUMMARY:SEM 5 - DSPD 2 - PWS 1352
+LOCATION:KT5-L02-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Haniff Gusrial
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:27b54781abace439c0eeb08fa4a999bcab05d96a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260827T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260827T130000
+SUMMARY:SEM 5 - DSPD 2 - PWS 1323
+LOCATION:KT5-L02-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Raha Bahanurdin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ef771f2ed4fddb24fd2c8982b8335d2420f1942c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260907T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260907T130000
+SUMMARY:SEM 5 - DSPD 2 - Merdeka Celebration
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1851b2b13e8a25db5d435fbfa1c0cae85d8939d7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260908T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260908T130000
+SUMMARY:SEM 5 - DSPD 2 - SES 1483
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Wan Husni Ariffin\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:af1116f3863c805c7a18b17f201116553a1d8ff3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260908T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260908T190000
+SUMMARY:SEM 5 - DSPD 2 - IAT 0913
+LOCATION:KT5-L08-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Heidir Mohd Shah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9dcfa947f3d4ae660706197eaefa771fd7d07885@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260909T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260909T170000
+SUMMARY:SEM 5 - DSPD 2 - PWS 1352
+LOCATION:KT5-L02-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Haniff Gusrial
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9ae87511884e323532e254a24678fe1978de0a0c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260910T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260910T130000
+SUMMARY:SEM 5 - DSPD 2 - PWS 1323
+LOCATION:KT5-L02-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Raha Bahanurdin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9952a2f8ccff7997b85ea152a8c27c9997badf1c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260915T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260915T130000
+SUMMARY:SEM 5 - DSPD 2 - SES 1483
+LOCATION:KT5-L02-015B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Wan Husni Ariffin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6879be67d2e89719a42b926dd2bc2b33156db231@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260915T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260915T190000
+SUMMARY:SEM 5 - DSPD 2 - IAT 0913
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Heidir Mohd Shah\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5037a16f546a95f169ecff51c7b48a99f716f9b0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260916T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260916T170000
+SUMMARY:SEM 5 - DSPD 2 - PWS 1352
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Haniff Gusrial\nNotes: Online Class\nCalen
+ dar exception: Malaysia Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:51b59bb27ef0c59ad97675c61e5d776cd18eca7f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260917T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260917T130000
+SUMMARY:SEM 5 - DSPD 2 - PWS 1323
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Raha Bahanurdin\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d2a0add7d9f4e076a87e8fdc57275e9487f3ae98@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260922T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260922T130000
+SUMMARY:SEM 5 - DSPD 2 - SES 1483
+LOCATION:KT5-L02-015B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Wan Husni Ariffin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e53ace0115b56094d75a7b594382c27955a99208@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260922T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260922T190000
+SUMMARY:SEM 5 - DSPD 2 - IAT 0913
+LOCATION:KT5-L08-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Heidir Mohd Shah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1fea7c906921528f7b78477ff6b0b1af2bfacd62@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260923T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260923T170000
+SUMMARY:SEM 5 - DSPD 2 - PWS 1352
+LOCATION:KT5-L02-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Haniff Gusrial
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f742bf61e42d0544a3385469b67c5270e86e8099@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260924T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260924T130000
+SUMMARY:SEM 5 - DSPD 2 - PWS 1323
+LOCATION:KT5-L02-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Raha Bahanurdin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:93a8d59f0d9a84950ed0b71e11cb13cf25b5a47d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260929T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260929T130000
+SUMMARY:SEM 5 - DSPD 2 - SES 1483
+LOCATION:KT5-L02-015B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Wan Husni Ariffin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:251aeaf2943cdbca0425aad0ca7d90eb6f15697d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260929T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260929T190000
+SUMMARY:SEM 5 - DSPD 2 - IAT 0913
+LOCATION:KT5-L08-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Heidir Mohd Shah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:54f48475db402b675300667d5f3ffb108088bd35@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260930T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260930T170000
+SUMMARY:SEM 5 - DSPD 2 - PWS 1352
+LOCATION:KT5-L02-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Haniff Gusrial
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e5443d1c72256a90c37657dfde427258718c935a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261001T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261001T130000
+SUMMARY:SEM 5 - DSPD 2 - PWS 1323
+LOCATION:KT5-L02-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Raha Bahanurdin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5fcce10ceeb07f2a3c2077b93fe52c1c885acc1a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261006T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261006T130000
+SUMMARY:SEM 5 - DSPD 2 - SES 1483
+LOCATION:KT5-L02-015B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Wan Husni Ariffin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:de9a202cadd9011180db3d17c5e364b10531dab8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261006T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261006T190000
+SUMMARY:SEM 5 - DSPD 2 - IAT 0913
+LOCATION:KT5-L08-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Heidir Mohd Shah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ae74ac7861b9d90ab3edad563d093745b133d866@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261007T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261007T130000
+SUMMARY:SEM 5 - DSPD 2 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d7bdf3d46ca5ca493d33ae98be639894e41dbe85@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261007T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261007T170000
+SUMMARY:SEM 5 - DSPD 2 - PWS 1352
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Haniff Gusrial\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ffc82d6e746e98490fd71fe245bba62a58754731@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261007T170000
+DTEND;TZID=Asia/Kuala_Lumpur:20261007T180000
+SUMMARY:SEM 5 - DSPD 2 - PWS 1352
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Haniff Gusrial\nNotes: Online Replacement 
+ Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:31f92222173c97224e0598f4cb23d1db5f1b9162@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261008T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261008T130000
+SUMMARY:SEM 5 - DSPD 2 - PWS 1323
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Raha Bahanurdin\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:be25251eae0e649138e62692d71b9a23ea54e8d1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261013T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261013T130000
+SUMMARY:SEM 5 - DSPD 2 - SES 1483
+LOCATION:KT5-L02-015B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Wan Husni Ariffin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4046ebb7f9bd94b5686a76ba9ee4563e63187762@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261013T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261013T190000
+SUMMARY:SEM 5 - DSPD 2 - IAT 0913
+LOCATION:KT5-L08-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Heidir Mohd Shah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ffbfc01e490c88793e33feed377f3d416d24bc6e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261014T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261014T170000
+SUMMARY:SEM 5 - DSPD 2 - PWS 1352
+LOCATION:KT5-L02-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Haniff Gusrial
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:55923f5aa15a468965dbd9e5d6f600d3c4615c20@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261015T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261015T130000
+SUMMARY:SEM 5 - DSPD 2 - PWS 1323
+LOCATION:KT5-L02-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Raha Bahanurdin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:33c611f1a97329b816b588a5664d87a8a9e8395a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261020T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261020T130000
+SUMMARY:SEM 5 - DSPD 2 - SES 1483
+LOCATION:KT5-L02-015B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Wan Husni Ariffin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8ec60c622488901f6f4824c1c66f8756aea85c49@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261020T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261020T190000
+SUMMARY:SEM 5 - DSPD 2 - IAT 0913
+LOCATION:KT5-L08-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Heidir Mohd Shah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1a978051f5bdd9ee9fdbbdf8f9915920f03ec307@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261021T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261021T170000
+SUMMARY:SEM 5 - DSPD 2 - PWS 1352
+LOCATION:KT5-L02-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Haniff Gusrial
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b1fe24c8363e5a80c6ce18f7a38522093c9bb4c8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261022T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261022T130000
+SUMMARY:SEM 5 - DSPD 2 - PWS 1323
+LOCATION:KT5-L02-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Raha Bahanurdin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8189add2543737f7a2981c35bc7ce3acb2a264a5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261027T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261027T130000
+SUMMARY:SEM 5 - DSPD 2 - SES 1483
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Wan Husni Ariffin\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8eeb5eb7d9cf294537dc7b3b406e7fcbda4d74a2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261027T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261027T190000
+SUMMARY:SEM 5 - DSPD 2 - IAT 0913
+LOCATION:KT5-L08-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Heidir Mohd Shah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:31c16100f1e25220d7485331b872c6ce485ff705@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261028T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261028T130000
+SUMMARY:SEM 5 - DSPD 2 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ef76d935d127bf2079d3ccb6a5e6234db1a60284@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261028T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261028T170000
+SUMMARY:SEM 5 - DSPD 2 - PWS 1352
+LOCATION:KT5-L02-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Haniff Gusrial
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0c9ae051d2b2430d4222db12d9327e54012e7bfa@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261029T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261029T130000
+SUMMARY:SEM 5 - DSPD 2 - PWS 1323
+LOCATION:KT5-L02-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Raha Bahanurdin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:73edb4159f81024be3304e8ea3555a0c7d85671b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261103T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261103T130000
+SUMMARY:SEM 5 - DSPD 2 - SES 1483
+LOCATION:KT5-L02-015B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Wan Husni Ariffin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a035df450ac90cd86eba50f17bcccf8f2a983fd0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261103T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261103T190000
+SUMMARY:SEM 5 - DSPD 2 - IAT 0913
+LOCATION:KT5-L08-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Heidir Mohd Shah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:67dc1519c20d0e1fda6ab688c15621e9c3c53ddd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261104T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261104T170000
+SUMMARY:SEM 5 - DSPD 2 - PWS 1352
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Haniff Gusrial\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:db6f2a9a80b761188cc92f848e8f5cf42677a681@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261104T170000
+DTEND;TZID=Asia/Kuala_Lumpur:20261104T180000
+SUMMARY:SEM 5 - DSPD 2 - PWS 1352
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Haniff Gusrial\nNotes: Online Replacement 
+ Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:58907f8974ee67e619ef86be52eac27cbb0f6cad@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261105T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261105T130000
+SUMMARY:SEM 5 - DSPD 2 - PWS 1323
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Raha Bahanurdin\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb0e522700cd8ebad63e33a2ddc6e6453c27485d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261110T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261110T130000
+SUMMARY:SEM 5 - DSPD 2 - SES 1483
+LOCATION:KT5-L02-015B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Wan Husni Ariffin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:68cfbb18dc7f0b6974934c4d0b4168e9fc7df52b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261110T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261110T190000
+SUMMARY:SEM 5 - DSPD 2 - IAT 0913
+LOCATION:KT5-L08-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Heidir Mohd Shah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:da58ea5d3797c3d7c5395159642ec8324d2fcd40@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261111T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261111T170000
+SUMMARY:SEM 5 - DSPD 2 - PWS 1352
+LOCATION:KT5-L02-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Haniff Gusrial
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d8cb7d877a5150ccd14c9c57d1cf86e155666569@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261112T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261112T130000
+SUMMARY:SEM 5 - DSPD 2 - PWS 1323
+LOCATION:KT5-L02-013
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSPD 2\nLecturer: Raha Bahanurdin
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR

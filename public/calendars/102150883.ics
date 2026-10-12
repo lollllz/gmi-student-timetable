@@ -1,0 +1,1059 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Student Timetable//Class Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SEM 5 - DPIC 1
+X-WR-TIMEZONE:Asia/Kuala_Lumpur
+BEGIN:VTIMEZONE
+TZID:Asia/Kuala_Lumpur
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:MYT
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:da047c751893dad592d6113032cb70a660f7faee@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260706T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260706T130000
+SUMMARY:SEM 5 - DPIC 1 - PCI 1153
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Shafie Sani\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9993056a46a00baf29457f4da98f50bb17a0274c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260706T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260706T160000
+SUMMARY:SEM 5 - DPIC 1 - MPT 0163
+LOCATION:KT2-L01-07
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Faizal Zainal Abidin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c0c2c3f540f488f896c3686cc73d3ea3a378f1ee@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260707T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260707T110000
+SUMMARY:SEM 5 - DPIC 1 - MPT 0163
+LOCATION:KT2-L05-22_BW3
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Rizal Samsudin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0c90b4e9de0ca11731ae1b0778a48b87bed35794@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260707T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260707T190000
+SUMMARY:SEM 5 - DPIC 1 - PCI 1133
+LOCATION:KT5-L02-016
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Abdul Aziz Misland
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4c3ffea50727cc9388ac74d946999a9f9aa03931@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260709T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260709T130000
+SUMMARY:SEM 5 - DPIC 1 - ECT 0362
+LOCATION:KT5-L11-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Abdul Malek
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9e44d0b436ecca84ce35a51f552101b5aee564b8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260713T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260713T130000
+SUMMARY:SEM 5 - DPIC 1 - PCI 1153
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Shafie Sani\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2d6067ed939e5dbc60095b7c7e0da6c32b98dd5c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260713T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260713T160000
+SUMMARY:SEM 5 - DPIC 1 - MPT 0163
+LOCATION:KT2-L01-07
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Faizal Zainal Abidin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb5c991f6bba9008f6cd418ec920b1f061b2b034@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260714T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260714T110000
+SUMMARY:SEM 5 - DPIC 1 - MPT 0163
+LOCATION:KT2-L05-22_BW3
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Rizal Samsudin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4533d9fb415915f23fd66cc69fafb40068e35bc6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260714T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260714T190000
+SUMMARY:SEM 5 - DPIC 1 - PCI 1133
+LOCATION:KT5-L02-016
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Abdul Aziz Misland
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:af617d74f0f855484f62cff89005e368055cac88@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260716T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260716T130000
+SUMMARY:SEM 5 - DPIC 1 - ECT 0362
+LOCATION:KT5-L11-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Abdul Malek
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9b3662be4dde1bd114e98443adca6c2ce2c559fd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260720T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260720T130000
+SUMMARY:SEM 5 - DPIC 1 - PCI 1153
+LOCATION:KT5-L01-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Shafie Sani
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:814226b0849f9ddbb6e56dd51460891cdef6b4bd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260720T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260720T160000
+SUMMARY:SEM 5 - DPIC 1 - MPT 0163
+LOCATION:KT2-L01-07
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Faizal Zainal Abidin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9c18dae137daa62cac58ddb0946fa07c282aa033@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260721T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260721T110000
+SUMMARY:SEM 5 - DPIC 1 - MPT 0163
+LOCATION:KT2-L05-22_BW3
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Rizal Samsudin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7da5a902a104d6face785438beeb776ab45e4c1b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260721T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260721T190000
+SUMMARY:SEM 5 - DPIC 1 - PCI 1133
+LOCATION:KT5-L02-016
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Abdul Aziz Misland
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:63d94ea8dd7f7a2fd086b94b3266d2f791787c87@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260723T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260723T130000
+SUMMARY:SEM 5 - DPIC 1 - ECT 0362
+LOCATION:KT5-L11-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Abdul Malek
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e515d3749c4054100a32f31b3ce4a2cc507f3514@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260727T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260727T130000
+SUMMARY:SEM 5 - DPIC 1 - PCI 1153
+LOCATION:KT5-L01-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Shafie Sani
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:44d858319e6f0e97753a4da82f2cb0e48c65729d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260727T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260727T160000
+SUMMARY:SEM 5 - DPIC 1 - MPT 0163
+LOCATION:KT2-L01-07
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Faizal Zainal Abidin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cdf00dba6a0245edab9feb35a55022fad1602b0a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260728T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260728T110000
+SUMMARY:SEM 5 - DPIC 1 - MPT 0163
+LOCATION:KT2-L05-22_BW3
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Rizal Samsudin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a9aebeb18c92e261d306b90d6c4f17e95302dc16@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260728T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260728T190000
+SUMMARY:SEM 5 - DPIC 1 - PCI 1133
+LOCATION:KT5-L02-016
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Abdul Aziz Misland
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2a54d616bea072449622239821ae38808efe9122@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260730T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260730T130000
+SUMMARY:SEM 5 - DPIC 1 - ECT 0362
+LOCATION:KT5-L11-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Abdul Malek
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8a217a3e780ab0791fb8dd6b44804d7560ca8596@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260803T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260803T130000
+SUMMARY:SEM 5 - DPIC 1 - PCI 1153
+LOCATION:KT5-L01-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Shafie Sani
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6ca71826ca33d634cdb6a9daa3bf1a949ac64463@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260803T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260803T160000
+SUMMARY:SEM 5 - DPIC 1 - MPT 0163
+LOCATION:KT2-L01-07
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Faizal Zainal Abidin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4b4f4b5b417e04f065ebdc95dd6f765194782092@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260804T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260804T110000
+SUMMARY:SEM 5 - DPIC 1 - MPT 0163
+LOCATION:KT2-L05-22_BW3
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Rizal Samsudin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:57df63d279ebe578fe96e65eed59de538d6a4335@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260804T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260804T190000
+SUMMARY:SEM 5 - DPIC 1 - PCI 1133
+LOCATION:KT5-L02-016
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Abdul Aziz Misland
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ea92aa8c00e8293423bfda352499cf7e5854c158@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260805T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260805T130000
+SUMMARY:SEM 5 - DPIC 1 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b6c7b70a5f0eea01a860d36b565f15630388ce4e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260806T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260806T130000
+SUMMARY:SEM 5 - DPIC 1 - ECT 0362
+LOCATION:KT5-L11-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Abdul Malek
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8387a1e69f844c5eb9505a24c8c5a2ae6e348495@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260810T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260810T130000
+SUMMARY:SEM 5 - DPIC 1 - PCI 1153
+LOCATION:KT5-L01-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Shafie Sani
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:30c326992d0ecbab7d0ebd9db91c11f1611d89c0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260810T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260810T160000
+SUMMARY:SEM 5 - DPIC 1 - MPT 0163
+LOCATION:KT2-L01-07
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Faizal Zainal Abidin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7901cc332696b02cacb93ee43c441c54481f87a1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260811T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260811T110000
+SUMMARY:SEM 5 - DPIC 1 - MPT 0163
+LOCATION:KT2-L05-22_BW3
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Rizal Samsudin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:36f27a70de4ab9b30c27c18908cbb7853dfbf08c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260811T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260811T190000
+SUMMARY:SEM 5 - DPIC 1 - PCI 1133
+LOCATION:KT5-L02-016
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Abdul Aziz Misland
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:07016bd273b9f83dcf091c60ba2de8325819fc6b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260813T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260813T130000
+SUMMARY:SEM 5 - DPIC 1 - ECT 0362
+LOCATION:KT5-L11-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Abdul Malek
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:224939e3581002725ab6206de65b9d779081ca48@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260817T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260817T130000
+SUMMARY:SEM 5 - DPIC 1 - PCI 1153
+LOCATION:KT5-L01-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Shafie Sani
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:85ac01326b51fb17f01f04435b2ba169b40e019d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260817T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260817T160000
+SUMMARY:SEM 5 - DPIC 1 - MPT 0163
+LOCATION:KT2-L01-07
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Faizal Zainal Abidin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6ba40dc6b1368a96237fdae7a8db7c7167f715b3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260818T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260818T110000
+SUMMARY:SEM 5 - DPIC 1 - MPT 0163
+LOCATION:KT2-L05-22_BW3
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Rizal Samsudin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:086f3d1ce18939ff02ee2e1b1d3675175cdc1439@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260818T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260818T190000
+SUMMARY:SEM 5 - DPIC 1 - PCI 1133
+LOCATION:KT5-L02-016
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Abdul Aziz Misland
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:22c7965cc9d774073548a97d849f17ccb4d460f1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260820T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260820T130000
+SUMMARY:SEM 5 - DPIC 1 - ECT 0362
+LOCATION:KT5-L11-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Abdul Malek
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6b74cf2739bdf8d8248b102c3080fbe6cd1c5f48@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260824T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260824T130000
+SUMMARY:SEM 5 - DPIC 1 - PCI 1153
+LOCATION:KT5-L01-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Shafie Sani
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:99feeb2ff2150066ac68c490d8f471e7c3217839@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260824T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260824T160000
+SUMMARY:SEM 5 - DPIC 1 - MPT 0163
+LOCATION:KT2-L01-07
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Faizal Zainal Abidin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b86a9a2addd74d7da9834835c8c453a1c3a1a039@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260825T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260825T110000
+SUMMARY:SEM 5 - DPIC 1 - MPT 0163
+LOCATION:KT2-L05-22_BW3
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Rizal Samsudin\nCalendar exception: Maulid
+ ur Rasul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e1add8f4a062d8b20d290a924fee9b4bc75439ad@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260825T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260825T190000
+SUMMARY:SEM 5 - DPIC 1 - PCI 1133
+LOCATION:KT5-L02-016
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Abdul Aziz Misland\nCalendar exception: Ma
+ ulidur Rasul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a68fac7f3e11a2682c8d0b3815726ca35ee2cd14@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260827T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260827T130000
+SUMMARY:SEM 5 - DPIC 1 - ECT 0362
+LOCATION:KT5-L11-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Abdul Malek
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b176b4c2b3c2e167a683a4444aaa53069f41e366@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260907T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260907T130000
+SUMMARY:SEM 5 - DPIC 1 - Merdeka Celebration
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b47cf1fc6e68d7e9a73161cfa1d6a3e680d51435@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260907T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260907T160000
+SUMMARY:SEM 5 - DPIC 1 - MPT 0163
+LOCATION:KT2-L01-07
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Faizal Zainal Abidin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:153b7e23014b09f36a02d97a45b8ddab9135a44d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260908T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260908T110000
+SUMMARY:SEM 5 - DPIC 1 - MPT 0163
+LOCATION:KT2-L05-22_BW3
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Rizal Samsudin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:41438063e803a23ccbd3a3b312dfe0ad7278438f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260908T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260908T190000
+SUMMARY:SEM 5 - DPIC 1 - PCI 1133
+LOCATION:KT5-L02-016
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Abdul Aziz Misland
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:15493372ce928d2cf2553ee32b42f1ea17e24628@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260909T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260909T130000
+SUMMARY:SEM 5 - DPIC 1 - PCI 1153
+LOCATION:KT5-L01-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Shafie Sani\nNotes: Replacement Class (Mer
+ deka 7/9)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c010e5a9fb566e80f9b423c283fcde836cba62b4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260910T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260910T130000
+SUMMARY:SEM 5 - DPIC 1 - ECT 0362
+LOCATION:KT5-L11-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Abdul Malek
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:22bc2bc4e1f4413306e9ff6e754ef8bf4a373a82@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260914T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260914T160000
+SUMMARY:SEM 5 - DPIC 1 - MPT 0163
+LOCATION:KT2-L01-07
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Faizal Zainal Abidin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ad1a2ea95ca20b80bcf3b2129a6298de97543971@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260915T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260915T110000
+SUMMARY:SEM 5 - DPIC 1 - MPT 0163
+LOCATION:KT2-L05-22_BW3
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Rizal Samsudin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7e9c4d3da93961cdaa8fdcc9782c35240e88d455@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260915T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260915T190000
+SUMMARY:SEM 5 - DPIC 1 - PCI 1133
+LOCATION:KT5-L02-016
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Abdul Aziz Misland
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d3ebf88e6790bebb67e3a6ca38b1ae8288282d13@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260917T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260917T130000
+SUMMARY:SEM 5 - DPIC 1 - ECT 0362
+LOCATION:KT5-L11-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Abdul Malek
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2349478d17e955f4e71980c601632d5e2923b5ca@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260921T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260921T160000
+SUMMARY:SEM 5 - DPIC 1 - MPT 0163
+LOCATION:KT2-L01-07
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Faizal Zainal Abidin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b44d446c90b30bbc6217349297ac83d3a7601b97@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260922T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260922T110000
+SUMMARY:SEM 5 - DPIC 1 - MPT 0163
+LOCATION:KT2-L05-22_BW3
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Rizal Samsudin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:df3b6cc64862e79e0945a55c128f543c149afb2a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260922T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260922T190000
+SUMMARY:SEM 5 - DPIC 1 - PCI 1133
+LOCATION:KT5-L02-016
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Abdul Aziz Misland
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2663ad320dde08c0d0ecf739268fb6dae420850d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260923T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260923T130000
+SUMMARY:SEM 5 - DPIC 1 - PCI 1153
+LOCATION:KT5-L01-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Shafie Sani\nNotes: Replacement Class (21/
+ 9)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:38600c00b5ec6bb3bb31bf0a9c5deb93fe377e70@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260923T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260923T190000
+SUMMARY:SEM 5 - DPIC 1 - PCI 1153
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Shafie Sani\nNotes: Online Replacement Cla
+ ss (AL)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:592a9ef1b326238ec4bf1c8ac620a8f379f4c8da@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260924T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260924T130000
+SUMMARY:SEM 5 - DPIC 1 - ECT 0362
+LOCATION:KT5-L11-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Abdul Malek
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:85fd00e45e0be307b88e1513727e740356b611d1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260928T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260928T130000
+SUMMARY:SEM 5 - DPIC 1 - PCI 1153
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Shafie Sani\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:46a1e752704f68c185f32b0976d7a718d15ad901@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260928T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260928T160000
+SUMMARY:SEM 5 - DPIC 1 - MPT 0163
+LOCATION:KT2-L01-07
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Faizal Zainal Abidin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7a705881f2ecab48018489e7cdad7db4511e2dad@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260929T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260929T110000
+SUMMARY:SEM 5 - DPIC 1 - MPT 0163
+LOCATION:KT2-L05-22_BW3
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Rizal Samsudin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ecd148daf6892385443ac7bbd9a324c7ae2f1016@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260929T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260929T190000
+SUMMARY:SEM 5 - DPIC 1 - PCI 1133
+LOCATION:KT5-L02-016
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Abdul Aziz Misland
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9eb9f09d7f8a690e480f014566a6fb04447a83c9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261001T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261001T130000
+SUMMARY:SEM 5 - DPIC 1 - ECT 0362
+LOCATION:KT5-L11-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Abdul Malek
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:22e0f30389882283b168defd35247f5f1866dd37@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261005T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261005T130000
+SUMMARY:SEM 5 - DPIC 1 - PCI 1153
+LOCATION:KT5-L01-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Shafie Sani
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:09380c8c657dfa57eaf774d5242fb4a6aadf2439@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261005T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261005T160000
+SUMMARY:SEM 5 - DPIC 1 - MPT 0163
+LOCATION:KT2-L01-07
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Faizal Zainal Abidin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d7113933e29a1e03ae9809eb763aacf1b7dab234@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261006T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261006T110000
+SUMMARY:SEM 5 - DPIC 1 - MPT 0163
+LOCATION:KT2-L05-22_BW3
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Rizal Samsudin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4cb284dfa0c9e8cb4bbae40a1872777501f01a01@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261006T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261006T190000
+SUMMARY:SEM 5 - DPIC 1 - PCI 1133
+LOCATION:KT5-L02-016
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Abdul Aziz Misland
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:528a7f2eac7bb7a1d5a93d14c6e3f03445b10cf1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261007T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261007T130000
+SUMMARY:SEM 5 - DPIC 1 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:14afc91cddee7899721fdc5cd53ae3cd3280da41@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261008T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261008T130000
+SUMMARY:SEM 5 - DPIC 1 - ECT 0362
+LOCATION:KT5-L11-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Abdul Malek
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:01226e8669edf8aafd8a4050ff3b7424bebf9f52@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261012T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261012T130000
+SUMMARY:SEM 5 - DPIC 1 - PCI 1153
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Shafie Sani\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9a3c1a198988e5ead242a459f839cf564720dc62@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261012T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261012T160000
+SUMMARY:SEM 5 - DPIC 1 - MPT 0163
+LOCATION:KT2-L01-07
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Faizal Zainal Abidin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cd6c12e814655f4ddf788c0a024b4c7a09968edc@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261013T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261013T110000
+SUMMARY:SEM 5 - DPIC 1 - MPT 0163
+LOCATION:KT2-L05-22_BW3
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Rizal Samsudin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3f6b1095088a594cf79ada9f8b7952b8bbbccfd8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261013T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261013T190000
+SUMMARY:SEM 5 - DPIC 1 - PCI 1133
+LOCATION:KT5-L02-016
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Abdul Aziz Misland
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9a9cccd348ecd1612d6c76f3794c1093e3389fe4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261015T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261015T130000
+SUMMARY:SEM 5 - DPIC 1 - ECT 0362
+LOCATION:KT5-L11-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Abdul Malek
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9a640dc32b8a5f870a1e6e823bedd44e60fa406d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261019T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261019T130000
+SUMMARY:SEM 5 - DPIC 1 - PCI 1153
+LOCATION:KT5-L01-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Shafie Sani
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c5952c6681e15844bf371d9c6da17bf0eab57740@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261019T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261019T160000
+SUMMARY:SEM 5 - DPIC 1 - MPT 0163
+LOCATION:KT2-L01-07
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Faizal Zainal Abidin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b765ae1ecc47820386a1bebcde7e08fde2d0e1d1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261020T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261020T110000
+SUMMARY:SEM 5 - DPIC 1 - MPT 0163
+LOCATION:KT2-L05-22_BW3
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Rizal Samsudin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:96740404f99968da6cfce0337568a1f20fbbd935@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261020T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261020T190000
+SUMMARY:SEM 5 - DPIC 1 - PCI 1133
+LOCATION:KT5-L02-016
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Abdul Aziz Misland
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7020fc4300da4a15270f452d4e65e2288b47b014@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261022T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261022T130000
+SUMMARY:SEM 5 - DPIC 1 - ECT 0362
+LOCATION:KT5-L11-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Abdul Malek
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0b60a89913fbc72b31124b38936b1310d79b1c20@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261026T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261026T130000
+SUMMARY:SEM 5 - DPIC 1 - PCI 1153
+LOCATION:KT5-L01-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Shafie Sani\nCalendar exception: JUBLI PER
+ AK SELANGOR
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a5a917c899683c7c653443900d49321ff1e0d85a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261026T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261026T160000
+SUMMARY:SEM 5 - DPIC 1 - MPT 0163
+LOCATION:KT2-L01-07
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Faizal Zainal Abidin\nCalendar exception: 
+ JUBLI PERAK SELANGOR
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e6a5d1120fbf69396687b32acddc74ca7617b607@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261027T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261027T110000
+SUMMARY:SEM 5 - DPIC 1 - MPT 0163
+LOCATION:KT2-L05-22_BW3
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Rizal Samsudin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bd8a826fd25a68e0da8084d120bdc7d947b0cccf@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261027T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261027T190000
+SUMMARY:SEM 5 - DPIC 1 - PCI 1133
+LOCATION:KT5-L02-016
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Abdul Aziz Misland
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:da9e878db2f34d8a9f0b67b44ee487db423c126a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261028T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261028T130000
+SUMMARY:SEM 5 - DPIC 1 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f7dde78574187721fb46c5ab79a301e53afb1be0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261029T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261029T130000
+SUMMARY:SEM 5 - DPIC 1 - ECT 0362
+LOCATION:KT5-L11-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Abdul Malek
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:eea54d20dbd1ea0a34f408a61ec37452f7947744@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261102T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261102T130000
+SUMMARY:SEM 5 - DPIC 1 - PCI 1153
+LOCATION:KT5-L01-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Shafie Sani
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:eb2f480532d33f25db9484572d0d00d5140d53c9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261102T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261102T160000
+SUMMARY:SEM 5 - DPIC 1 - MPT 0163
+LOCATION:KT2-L01-07
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Faizal Zainal Abidin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:91ce9695fd282952656bf05fe190bafbc398760f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261103T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261103T110000
+SUMMARY:SEM 5 - DPIC 1 - MPT 0163
+LOCATION:KT2-L05-22_BW3
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Rizal Samsudin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bd8d2b329acaad09b3e84a82640c45edba14ec61@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261103T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261103T190000
+SUMMARY:SEM 5 - DPIC 1 - PCI 1133
+LOCATION:KT5-L02-016
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Abdul Aziz Misland
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:74e6e945edcbf3d284b8762587a7b8bfcaa30d6c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261105T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261105T130000
+SUMMARY:SEM 5 - DPIC 1 - ECT 0362
+LOCATION:KT5-L11-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Abdul Malek
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:caa13be3e2898485491d25d0194892f632747073@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261109T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261109T130000
+SUMMARY:SEM 5 - DPIC 1 - PCI 1153
+LOCATION:KT5-L01-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Shafie Sani\nCalendar exception: Deepavali
+  Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ed48823c62b19159d253c9165f78174dd76e2529@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261109T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261109T160000
+SUMMARY:SEM 5 - DPIC 1 - MPT 0163
+LOCATION:KT2-L01-07
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Faizal Zainal Abidin\nCalendar exception: 
+ Deepavali Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bcda48364821194ce05357ec811835dc5be2d1c9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261110T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261110T110000
+SUMMARY:SEM 5 - DPIC 1 - MPT 0163
+LOCATION:KT2-L05-22_BW3
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Rizal Samsudin
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1bd50127ad734b0c8677bbf07bdb8d17461740c6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261110T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261110T190000
+SUMMARY:SEM 5 - DPIC 1 - PCI 1133
+LOCATION:KT5-L02-016
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Abdul Aziz Misland
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4516b1e9cdfd514e9009958fac88f3324d2a74a0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261112T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261112T130000
+SUMMARY:SEM 5 - DPIC 1 - ECT 0362
+LOCATION:KT5-L11-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DPIC 1\nLecturer: Abdul Malek
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,1813 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Student Timetable//Class Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SEM 3 - DIPD
+X-WR-TIMEZONE:Asia/Kuala_Lumpur
+BEGIN:VTIMEZONE
+TZID:Asia/Kuala_Lumpur
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:MYT
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:0a02bc83952452598cb6b8a8d89b10b31e50e011@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260706T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260706T110000
+SUMMARY:SEM 3 - DIPD - DST 1132
+LOCATION:KT3-L03-01_B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Alies Hashim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cfccdfb7f53ca3af4bef8c929811f301d184882b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260706T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260706T130000
+SUMMARY:SEM 3 - DIPD - MOT 0952
+LOCATION:KT3-L02-01
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Raja Azlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c9bd10a08ec330855f716395f1759fb34eb197e1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260706T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260706T170000
+SUMMARY:SEM 3 - DIPD - DST 1212
+LOCATION:KT3-L03-01_B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Alies Hashim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b14c67a84cd7fdf1c616acb21063dd68bc8d23de@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260707T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260707T130000
+SUMMARY:SEM 3 - DIPD - MET 2112
+LOCATION:KT3-L05-08
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Sufiyan Amril
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2c9d77d304fa06287ac28559720257460ad31b40@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260707T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260707T180000
+SUMMARY:SEM 3 - DIPD - ESP 2052
+LOCATION:KT1-L3-33
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Dhaarsini AP Thamby
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:920cbc0d356c2082545b03194a8e5909eef83585@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260709T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260709T130000
+SUMMARY:SEM 3 - DIPD - MAP 2152
+LOCATION:KT3-L02-06
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Nurul Dayana
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d1529bb4f0c51852915671ed27a0b52226329881@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260709T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260709T170000
+SUMMARY:SEM 3 - DIPD - DST 1182
+LOCATION:KT3-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Faizul Salih
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ee74cecf403aab25287b33ef4dd30fd572e13efc@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260710T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260710T100000
+SUMMARY:SEM 3 - DIPD - GEL 2312
+LOCATION:KT1 L1 06 LH2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Edham Nur Hazwan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7ff5ec7ad673f0cef004f10899d89c454468a940@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260710T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260710T180000
+SUMMARY:SEM 3 - DIPD - MPU 2422
+LOCATION:KT1-L3-11
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Wan Nur Aishah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ec3d3988e807bf50e21af7e810d9180b6f20e1d1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260713T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260713T110000
+SUMMARY:SEM 3 - DIPD - DST 1132
+LOCATION:KT3-L03-01_B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Alies Hashim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:24e211e80feb5ca752d8b67e2fde26640333908c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260713T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260713T130000
+SUMMARY:SEM 3 - DIPD - MOT 0952
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Raja Azlan\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ea920237b37558b354de769113bdaba77d1a927d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260713T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260713T170000
+SUMMARY:SEM 3 - DIPD - DST 1212
+LOCATION:KT3-L03-01_B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Alies Hashim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4909ad40b939b0e3f54b86a4129859d9967a902c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260714T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260714T130000
+SUMMARY:SEM 3 - DIPD - MET 2112
+LOCATION:KT3-L05-08
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Sufiyan Amril
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:88df87cb82368d89aca0d703f2935e04df8b7459@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260716T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260716T130000
+SUMMARY:SEM 3 - DIPD - MAP 2152
+LOCATION:KT3-L02-06
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Nurul Dayana
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a9e56782ee254ffdf4bc775ca36749fe99b7ec17@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260716T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260716T170000
+SUMMARY:SEM 3 - DIPD - DST 1182
+LOCATION:KT3-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Faizul Salih
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5c81cbe3b3caab32163203dd39eb6444fc01ec51@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260717T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260717T100000
+SUMMARY:SEM 3 - DIPD - GEL 2312
+LOCATION:KT1 L1 06 LH2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Edham Nur Hazwan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:927ba09cebcf7a1c7d0619215f8ca991a36203d9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260717T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260717T120000
+SUMMARY:SEM 3 - DIPD - ESP 2052
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Dhaarsini AP Thamby\nNotes: Replacement Clas
+ s
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:059074d0770c65a4d2a5710b19d573202f98af5d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260717T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260717T180000
+SUMMARY:SEM 3 - DIPD - MPU 2422
+LOCATION:KT1-L3-11
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Wan Nur Aishah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:390e6abde57f9d81d1d389339cef0c5125b829e8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260720T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260720T110000
+SUMMARY:SEM 3 - DIPD - DST 1132
+LOCATION:KT3-L03-01_B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Alies Hashim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:501385b8556366155b10f567037c6c5fd277dc11@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260720T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260720T130000
+SUMMARY:SEM 3 - DIPD - MOT 0952
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Raja Azlan\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e0221ff3ce41e035dc5e6b9eea981d51967f39a8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260720T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260720T170000
+SUMMARY:SEM 3 - DIPD - DST 1212
+LOCATION:KT3-L03-01_B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Alies Hashim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3d2cd32c488a8098e2c8a986dfcef860361cc49c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260721T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260721T130000
+SUMMARY:SEM 3 - DIPD - MET 2112
+LOCATION:KT3-L05-08
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Sufiyan Amril
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:466fcdb81cd4700056bf7c38df66101b18e2ffe6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260721T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260721T180000
+SUMMARY:SEM 3 - DIPD - ESP 2052
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Dhaarsini AP Thamby\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a12270815ae83cf46ab3d3719dd3317321112479@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260723T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260723T130000
+SUMMARY:SEM 3 - DIPD - MAP 2152
+LOCATION:KT3-L02-06
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Nurul Dayana
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d3ceb4033e83880da25ebba35a735400022b3484@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260723T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260723T170000
+SUMMARY:SEM 3 - DIPD - DST 1182
+LOCATION:KT3-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Faizul Salih
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d989e08ae2f3784136d99c26c6b5967ef2495d6b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260724T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260724T100000
+SUMMARY:SEM 3 - DIPD - GEL 2312
+LOCATION:KT1 L1 06 LH2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Edham Nur Hazwan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ba1abea0dfe0f4fe16d0c4f0f9d9eb514eede4aa@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260724T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260724T180000
+SUMMARY:SEM 3 - DIPD - MPU 2422
+LOCATION:KT1-L3-11
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Wan Nur Aishah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c28c4c0eb54e27970ce70f93bede668720250942@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260727T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260727T110000
+SUMMARY:SEM 3 - DIPD - DST 1132
+LOCATION:KT3-L03-01_B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Alies Hashim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2a058a8121d82f7dd8666b2e2712569b7d3187a9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260727T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260727T130000
+SUMMARY:SEM 3 - DIPD - MOT 0952
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Raja Azlan\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c51f170bab5792d303629f6531b518926db4bdda@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260727T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260727T170000
+SUMMARY:SEM 3 - DIPD - DST 1212
+LOCATION:KT3-L03-01_B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Alies Hashim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3e71eadb737a558b6593fe0d84d7f2ccdb4788c6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260728T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260728T130000
+SUMMARY:SEM 3 - DIPD - MET 2112
+LOCATION:KT3-L05-08
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Sufiyan Amril
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:028be3b684d1bdd5436c94f8713962ba65eca94b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260728T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260728T180000
+SUMMARY:SEM 3 - DIPD - ESP 2052
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Dhaarsini AP Thamby\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:91caa7d5a4835c8ad4e971397994b6b67bedbfdc@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260730T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260730T130000
+SUMMARY:SEM 3 - DIPD - MAP 2152
+LOCATION:KT3-L02-06
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Nurul Dayana
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:018d433944d0587aa3bf3c9d471806f0f1c0f766@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260730T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260730T170000
+SUMMARY:SEM 3 - DIPD - DST 1182
+LOCATION:KT3-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Faizul Salih
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:eb9702e5ce5e0cd23d5ac6f399c1c156851b795e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260731T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260731T180000
+SUMMARY:SEM 3 - DIPD - MPU 2422
+LOCATION:KT1-L3-11
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Wan Nur Aishah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b4235735a033b48b20a9d27d0fb1452332866228@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260803T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260803T110000
+SUMMARY:SEM 3 - DIPD - DST 1132
+LOCATION:KT3-L03-01_B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Alies Hashim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:659d9c4c51551566bdd72460a9a85f4edfdbfb4c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260803T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260803T130000
+SUMMARY:SEM 3 - DIPD - MOT 0952
+LOCATION:KT3-L02-01
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Raja Azlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a07b77311b03b1df7daa4ac2ac6d79c9a2a7f7de@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260803T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260803T170000
+SUMMARY:SEM 3 - DIPD - DST 1212
+LOCATION:KT3-L03-01_B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Alies Hashim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f15cf5a6725bcafe3c6cb4171a8bf6a233ae74e8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260804T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260804T130000
+SUMMARY:SEM 3 - DIPD - MET 2112
+LOCATION:KT3-L05-08
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Sufiyan Amril
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2af0c61558c359685f1cbda126d176d9489436e5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260804T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260804T180000
+SUMMARY:SEM 3 - DIPD - ESP 2052
+LOCATION:KT1-L3-33
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Dhaarsini AP Thamby
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ff2daadf592e6526a27293caab5bca4ca221d647@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260805T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260805T130000
+SUMMARY:SEM 3 - DIPD - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f414fe70c3155c1b2ac0b68b46fae7c915770d75@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260806T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260806T130000
+SUMMARY:SEM 3 - DIPD - MAP 2152
+LOCATION:KT3-L02-06
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Nurul Dayana
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0025d0b16a757fcab2b50eb298d9c90434159b83@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260807T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260807T100000
+SUMMARY:SEM 3 - DIPD - GEL 2312
+LOCATION:KT1 L1 06 LH2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Edham Nur Hazwan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6c448c8fe400e9c27dff1fec0e45ecda48872d89@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260807T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260807T180000
+SUMMARY:SEM 3 - DIPD - MPU 2422
+LOCATION:KT1-L3-11
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Wan Nur Aishah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c870a415ad84936178446ae5450d5847d2db2885@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260810T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260810T110000
+SUMMARY:SEM 3 - DIPD - DST 1132
+LOCATION:KT3-L03-01_B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Alies Hashim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5f023fb6bdaa85550b09f21dea5d6eb6bfd36258@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260810T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260810T130000
+SUMMARY:SEM 3 - DIPD - MOT 0952
+LOCATION:KT3-L02-01
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Raja Azlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f39e7ad1005044ff798e2ec3c47c66341d149bfa@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260810T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260810T170000
+SUMMARY:SEM 3 - DIPD - DST 1212
+LOCATION:KT3-L03-01_B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Alies Hashim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:107a780457d7b7d1009df8d666b98b553eee2485@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260811T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260811T130000
+SUMMARY:SEM 3 - DIPD - MET 2112
+LOCATION:KT3-L05-08
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Sufiyan Amril
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:acfe527e0e055763fc19baeec06fb32ad9c7309c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260813T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260813T130000
+SUMMARY:SEM 3 - DIPD - MAP 2152
+LOCATION:KT3-L02-06
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Nurul Dayana
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:13ed6fc3dc1553364086982d68375cf22cffba13@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260813T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260813T170000
+SUMMARY:SEM 3 - DIPD - DST 1182
+LOCATION:KT3-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Faizul Salih
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9e93e1a9af064f3a501390920db5726f7f090059@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260814T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260814T100000
+SUMMARY:SEM 3 - DIPD - GEL 2312
+LOCATION:KT1 L1 06 LH2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Edham Nur Hazwan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:63eeba1289c02441604ae0d34c19cbd2aed7401f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260814T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260814T180000
+SUMMARY:SEM 3 - DIPD - MPU 2422
+LOCATION:KT1-L3-11
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Wan Nur Aishah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8d6faf56252847941fba3bc114d478a8412ccf8d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260817T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260817T110000
+SUMMARY:SEM 3 - DIPD - DST 1132
+LOCATION:KT3-L03-01_B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Alies Hashim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0cab7272e595e24db0f6b756379c3680a652cc22@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260817T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260817T130000
+SUMMARY:SEM 3 - DIPD - MOT 0952
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Raja Azlan\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:58f64556489a463782c5c18927d0dde102baa1af@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260817T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260817T170000
+SUMMARY:SEM 3 - DIPD - DST 1212
+LOCATION:KT3-L03-01_B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Alies Hashim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3dfc0ed8b1126d29cd073b49ff357f8cc78de04a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260817T170000
+DTEND;TZID=Asia/Kuala_Lumpur:20260817T190000
+SUMMARY:SEM 3 - DIPD - ESP 2052
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Dhaarsini AP Thamby\nNotes: Online Replaceme
+ nt Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c46b1bebabe7dea4fe4c0c8f3fc9e671341e0702@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260818T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260818T130000
+SUMMARY:SEM 3 - DIPD - MET 2112
+LOCATION:KT3-L05-08
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Sufiyan Amril
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f309ff18929d532edb0002ed181a39f0ee4179df@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260818T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260818T180000
+SUMMARY:SEM 3 - DIPD - ESP 2052
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Dhaarsini AP Thamby\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ee855ba77174040fc3232f80dc90468931a3bc07@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260820T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260820T130000
+SUMMARY:SEM 3 - DIPD - MAP 2152
+LOCATION:KT3-L02-06
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Nurul Dayana
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:668279a5cf781555b5ac2600eeee4a538da2c3db@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260821T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260821T100000
+SUMMARY:SEM 3 - DIPD - GEL 2312
+LOCATION:KT1 L1 06 LH2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Edham Nur Hazwan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:401be2a90b55704d5309afec88339265371b330d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260821T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260821T180000
+SUMMARY:SEM 3 - DIPD - MPU 2422
+LOCATION:KT1-L3-11
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Wan Nur Aishah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:983b38e7296d7795957c5c7a94fd61a23976137a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260824T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260824T130000
+SUMMARY:SEM 3 - DIPD - MOT 0952
+LOCATION:KT3-L02-01
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Raja Azlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8d4b48381a0a62da8705ad725ca399a3dad1f394@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260824T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260824T170000
+SUMMARY:SEM 3 - DIPD - DST 1212
+LOCATION:KT3-L03-01_B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Alies Hashim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:673048d9fe1d1ab8489364361f515dbcefde4149@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260825T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260825T130000
+SUMMARY:SEM 3 - DIPD - MET 2112
+LOCATION:KT3-L05-08
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Sufiyan Amril\nCalendar exception: Maulidur 
+ Rasul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3e68bab59d2a4a34011871139cf417e39784cdbf@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260825T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260825T180000
+SUMMARY:SEM 3 - DIPD - ESP 2052
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Dhaarsini AP Thamby\nNotes: Online Class\nCa
+ lendar exception: Maulidur Rasul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:85b30a1f2e10ab206af3fc986c7f7cd7141ec829@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260826T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260826T110000
+SUMMARY:SEM 3 - DIPD - DST 1132
+LOCATION:KT3-L03-01_B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Alies Hashim\nNotes: Replacement Class (Pers
+ onal Matters)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:989d386aa7133a26f9a6dc583db22e54ef1a1f5d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260827T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260827T130000
+SUMMARY:SEM 3 - DIPD - MAP 2152
+LOCATION:KT3-L02-06
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Nurul Dayana
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f05f3957f5665eab38d9a968806cea9dc6ea29d5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260827T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260827T170000
+SUMMARY:SEM 3 - DIPD - DST 1182
+LOCATION:KT3-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Faizul Salih
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:55f820c05215c8be43b8783ba2bda3248006cff5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260828T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260828T100000
+SUMMARY:SEM 3 - DIPD - GEL 2312
+LOCATION:KT1 L1 06 LH2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Edham Nur Hazwan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3ee6d939092064f293d87fb1eae6dde39253a86a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260828T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260828T120000
+SUMMARY:SEM 3 - DIPD - ESP 2052
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Dhaarsini AP Thamby\nNotes: Online Replaceme
+ nt Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:88415f65833780040170f3b14ab4cb5f955b8e83@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260828T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260828T180000
+SUMMARY:SEM 3 - DIPD - MPU 2422
+LOCATION:KT1-L3-11
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Wan Nur Aishah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4e24e95c74fdb434c3ee360ee5886064b147158c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260907T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260907T130000
+SUMMARY:SEM 3 - DIPD - Merdeka Celebration
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f89109ba4afb39c9fe9f8a57b1773355b9f3883d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260907T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260907T170000
+SUMMARY:SEM 3 - DIPD - DST 1212
+LOCATION:KT3-L03-01_B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Alies Hashim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:75234e1f4fa10fcf15a6dc5a423096c39b24a964@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260908T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260908T130000
+SUMMARY:SEM 3 - DIPD - MET 2112
+LOCATION:KT3-L05-08
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Sufiyan Amril
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1488c2b6902d1ecf7500b29b602ff33d906a80b2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260908T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260908T180000
+SUMMARY:SEM 3 - DIPD - ESP 2052
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Dhaarsini AP Thamby\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d744bfd516449c793252edd548c94f147435cd19@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260910T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260910T110000
+SUMMARY:SEM 3 - DIPD - MOT 0952
+LOCATION:KT3-L02-02
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Raja Azlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4ad7e020f361d76ab905853d663bdcd660c55dbe@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260910T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260910T130000
+SUMMARY:SEM 3 - DIPD - MAP 2152
+LOCATION:KT3-L02-06
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Nurul Dayana
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d6035186d4393f33065007cfd564085bc5dba1fe@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260910T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260910T170000
+SUMMARY:SEM 3 - DIPD - DST 1182
+LOCATION:KT3-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Faizul Salih
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:31b90e9d53b35fdd13c3fc5257e155d37f5c8875@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260910T170000
+DTEND;TZID=Asia/Kuala_Lumpur:20260910T180000
+SUMMARY:SEM 3 - DIPD - DST 1182
+LOCATION:KT3-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Faizul Salih
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9a9c85a5a2cf2d43f92bbf5519181d48b4ae7ddf@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260911T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260911T100000
+SUMMARY:SEM 3 - DIPD - GEL 2312
+LOCATION:KT1 L1 06 LH2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Edham Nur Hazwan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:01392a4b2bfa5260d055aee1bc24be5e4958cfc4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260911T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260911T180000
+SUMMARY:SEM 3 - DIPD - MPU 2422
+LOCATION:KT1-L3-11
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Wan Nur Aishah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a56224966a4b45ff2e5272356c60539a0931e61f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260914T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260914T110000
+SUMMARY:SEM 3 - DIPD - DST 1132
+LOCATION:KT3-L03-01_B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Alies Hashim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:dee2aa84afc8b5e0ee0e6ede2f08edb8dd6bfb95@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260914T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260914T130000
+SUMMARY:SEM 3 - DIPD - MOT 0952
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Raja Azlan\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:eea9ea2d9c18b376de3cea1ca07ee86b344b987c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260914T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260914T170000
+SUMMARY:SEM 3 - DIPD - DST 1212
+LOCATION:KT3-L03-01_B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Alies Hashim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e9452485f38869d123a75381db92d89e0583ee08@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260915T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260915T130000
+SUMMARY:SEM 3 - DIPD - MET 2112
+LOCATION:KT3-L05-08
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Sufiyan Amril
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:be39bcb3bf3ff8af6daff85fd5c34234455e6f7c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260915T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260915T180000
+SUMMARY:SEM 3 - DIPD - ESP 2052
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Dhaarsini AP Thamby\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:466d5b9d7d979dc0c99c3ac54147104ec944909e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260917T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260917T130000
+SUMMARY:SEM 3 - DIPD - MAP 2152
+LOCATION:KT3-L02-06
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Nurul Dayana
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:dc084e7de7f15b5b6cca0b98da3981a8cab867c0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260917T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260917T170000
+SUMMARY:SEM 3 - DIPD - DST 1182
+LOCATION:KT3-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Faizul Salih
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3dc6d65424750efa841b59c49e2d072fd1801f1b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260917T170000
+DTEND;TZID=Asia/Kuala_Lumpur:20260917T180000
+SUMMARY:SEM 3 - DIPD - DST 1182
+LOCATION:KT3-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Faizul Salih
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e74c72ed6a743f76bcc29670e6367846920e5db2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260918T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260918T100000
+SUMMARY:SEM 3 - DIPD - GEL 2312
+LOCATION:KT1 L1 06 LH2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Edham Nur Hazwan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:30e0e6189fbaa1d246031c53799cdb8742919662@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260921T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260921T170000
+SUMMARY:SEM 3 - DIPD - DST 1212
+LOCATION:KT3-L03-01_B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Alies Hashim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0b9884de63af99aa03d6b01245b30e77eb82322f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260922T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260922T130000
+SUMMARY:SEM 3 - DIPD - MET 2112
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Sufiyan Amril\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fbc565c8d0fcaabcc5930b1482f2228bf6e25817@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260922T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20260922T180000
+SUMMARY:SEM 3 - DIPD - ESP 2052
+LOCATION:KT1-L3-33
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Dhaarsini AP Thamby
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e0f0c60a99e5c8aaaf6617b5ca448fd60e4a1f27@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260923T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260923T110000
+SUMMARY:SEM 3 - DIPD - DST 1132
+LOCATION:KT3-L03-01_B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Alies Hashim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c6a6003ec16d1e1307aab3fa597f3316672a744e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260924T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260924T130000
+SUMMARY:SEM 3 - DIPD - MAP 2152
+LOCATION:KT3-L02-06
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Nurul Dayana
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c7f2512691019334863a80b75157bfd7479d0052@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260924T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260924T170000
+SUMMARY:SEM 3 - DIPD - DST 1182
+LOCATION:KT3-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Faizul Salih
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e9c2a5983be1f66a3b2cf17af228cb0654328cd3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260924T170000
+DTEND;TZID=Asia/Kuala_Lumpur:20260924T180000
+SUMMARY:SEM 3 - DIPD - DST 1182
+LOCATION:KT3-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Faizul Salih
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c9d555792f62b5f35a24f079894bce157dcfc755@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260925T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260925T100000
+SUMMARY:SEM 3 - DIPD - GEL 2312
+LOCATION:KT1 L1 06 LH2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Edham Nur Hazwan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0bddeb8f5ea9ce993af2972d1dfeaf4868f1d86a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260925T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20260925T120000
+SUMMARY:SEM 3 - DIPD - MOT 0952
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Raja Azlan\nNotes: Online Replacement Class 
+ (21/9)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:348c8c43169295c7159fbca992b50f982ca11dcf@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260928T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260928T110000
+SUMMARY:SEM 3 - DIPD - DST 1132
+LOCATION:KT3-L03-01_B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Alies Hashim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c8629ec719fd1c98988bc656622caa2a729786bf@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260928T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260928T130000
+SUMMARY:SEM 3 - DIPD - MOT 0952
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Raja Azlan\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fde4b2fb0812836767bab335cfef78776da560ce@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260928T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260928T170000
+SUMMARY:SEM 3 - DIPD - DST 1212
+LOCATION:KT3-L03-01_B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Alies Hashim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:df5f2cb32f758346f58b2ab5201ac566c274f532@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260929T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260929T130000
+SUMMARY:SEM 3 - DIPD - MET 2112
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Sufiyan Amril\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:50de6d770c14d7e2d7030ad8cd82d04f1e1c6987@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261001T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261001T130000
+SUMMARY:SEM 3 - DIPD - MAP 2152
+LOCATION:KT3-L02-06
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Nurul Dayana
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8a50c37429dc3908356d6ba5e77e659544108b0e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261001T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261001T170000
+SUMMARY:SEM 3 - DIPD - DST 1182
+LOCATION:KT3-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Faizul Salih
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4c6dda0147d6b83f7d914625e943eb4c27e2233d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261001T170000
+DTEND;TZID=Asia/Kuala_Lumpur:20261001T180000
+SUMMARY:SEM 3 - DIPD - DST 1182
+LOCATION:KT3-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Faizul Salih
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:14f3ec6fe59f8c5df178791468b333a20f236ff2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261002T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261002T100000
+SUMMARY:SEM 3 - DIPD - GEL 2312
+LOCATION:KT1 L1 06 LH2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Edham Nur Hazwan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b30043707789f92642edd225267ac9921606c723@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261002T100000
+DTEND;TZID=Asia/Kuala_Lumpur:20261002T120000
+SUMMARY:SEM 3 - DIPD - ESP 2052
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Dhaarsini AP Thamby\nNotes: Online Replaceme
+ nt Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f51b3be382cbedc03171f712ca127a70fdfd5312@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261005T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261005T110000
+SUMMARY:SEM 3 - DIPD - DST 1132
+LOCATION:KT3-L03-01_B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Alies Hashim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:93cc69dc3f78b9ef49cc42cb932910d475da445e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261005T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261005T130000
+SUMMARY:SEM 3 - DIPD - MOT 0952
+LOCATION:KT3-L02-01
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Raja Azlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:320a3a5935bb12515f40f9ca32b493a2fb00c6f4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261005T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261005T170000
+SUMMARY:SEM 3 - DIPD - DST 1212
+LOCATION:KT3-L03-01_B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Alies Hashim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:216fad9acd35c70dc968a0082dde44fad9ad1127@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261006T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261006T130000
+SUMMARY:SEM 3 - DIPD - MET 2112
+LOCATION:KT3-L05-08
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Sufiyan Amril
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:59626f05e495976f926251ea7996d3ebcda5b802@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261006T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20261006T180000
+SUMMARY:SEM 3 - DIPD - ESP 2052
+LOCATION:KT1-L3-33
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Dhaarsini AP Thamby
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:32b48c8f848cf88a976d80e620537ab32ca399a9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261007T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261007T130000
+SUMMARY:SEM 3 - DIPD - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e1c7441841f191fc3d3ac1b010ffe0ce142f503d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261008T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261008T130000
+SUMMARY:SEM 3 - DIPD - MAP 2152
+LOCATION:KT3-L02-06
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Nurul Dayana
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb590badc7894a940d24f1bede6439112b06611f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261008T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261008T170000
+SUMMARY:SEM 3 - DIPD - DST 1182
+LOCATION:KT3-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Faizul Salih
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:42d873856c3085d008ee9d17166a15fbf772ffaf@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261008T170000
+DTEND;TZID=Asia/Kuala_Lumpur:20261008T180000
+SUMMARY:SEM 3 - DIPD - DST 1182
+LOCATION:KT3-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Faizul Salih
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:828931edac6a85cca6fa9128bbb86e68c8fb0728@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261008T180000
+DTEND;TZID=Asia/Kuala_Lumpur:20261008T200000
+SUMMARY:SEM 3 - DIPD - GEL 2312
+LOCATION:KT1 L1 06 LH2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Edham Nur Hazwan\nNotes: Replacement Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fb0f6e86edadd9304e7f4ee79d7c079675df114c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261009T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261009T100000
+SUMMARY:SEM 3 - DIPD - GEL 2312
+LOCATION:KT1-L3-28
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Edham Nur Hazwan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:33599516606ab9a26f9641491ff41ab22d41b159@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261012T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261012T110000
+SUMMARY:SEM 3 - DIPD - DST 1132
+LOCATION:KT3-L03-01_B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Alies Hashim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bc4c24dcf970985554e4cfe45241ef9c713c51b8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261012T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261012T130000
+SUMMARY:SEM 3 - DIPD - MOT 0952
+LOCATION:KT3-L02-01
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Raja Azlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0f98bcc1a5a13c302f17f570da7588ee048bae9d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261012T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261012T170000
+SUMMARY:SEM 3 - DIPD - DST 1212
+LOCATION:KT3-L03-01_B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Alies Hashim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:aef2d6f62d35109d153ca2592e894fc8b7fbcae6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261013T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261013T130000
+SUMMARY:SEM 3 - DIPD - MET 2112
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Sufiyan Amril\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3f5e26e770f9ff65ca306c23e6d2769f2f8a1bab@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261013T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20261013T180000
+SUMMARY:SEM 3 - DIPD - ESP 2052
+LOCATION:KT1-L3-33
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Dhaarsini AP Thamby
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cb1eaf03ea7d9e96e1a64169421ee67cbf97c090@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261015T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261015T130000
+SUMMARY:SEM 3 - DIPD - MAP 2152
+LOCATION:KT3-L02-06
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Nurul Dayana
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a9fbe030be807e16d0cbd84c9c1f4750dedb8141@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261015T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261015T170000
+SUMMARY:SEM 3 - DIPD - DST 1182
+LOCATION:KT3-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Faizul Salih
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bb3ebf3a6635e552d0c56fedaab78e48d860d5cd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261015T170000
+DTEND;TZID=Asia/Kuala_Lumpur:20261015T180000
+SUMMARY:SEM 3 - DIPD - DST 1182
+LOCATION:KT3-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Faizul Salih
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1f0c74ce07d95a728a2480674d0005d6e1095af5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261016T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261016T100000
+SUMMARY:SEM 3 - DIPD - GEL 2312
+LOCATION:KT1 L1 06 LH2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Edham Nur Hazwan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ec5c8a5abf0e33a003917a5359fc2155bb0ad170@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261019T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261019T110000
+SUMMARY:SEM 3 - DIPD - DST 1132
+LOCATION:KT3-L03-01_B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Alies Hashim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:753f9ee7b7766bca88b8e8f85b72362075cdf815@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261019T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261019T130000
+SUMMARY:SEM 3 - DIPD - MOT 0952
+LOCATION:KT3-L02-01
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Raja Azlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:064b0ea873a3ed709800b85e88a1ae1f1f876396@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261019T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261019T170000
+SUMMARY:SEM 3 - DIPD - DST 1212
+LOCATION:KT3-L03-01_B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Alies Hashim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5c50c5d5d8e71fa2f9cd701483c4e1b27fd5e586@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261020T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261020T130000
+SUMMARY:SEM 3 - DIPD - MET 2112
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Sufiyan Amril\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:26cfc8fae925093972eefac799d53e9323c47c16@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261020T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20261020T180000
+SUMMARY:SEM 3 - DIPD - ESP 2052
+LOCATION:KT1-L3-33
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Dhaarsini AP Thamby
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b00436ec02bee2f71a4c50fb95f9ec3c854494d7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261022T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261022T130000
+SUMMARY:SEM 3 - DIPD - MAP 2152
+LOCATION:KT3-L02-06
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Nurul Dayana
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7019448c10aa10e7f5ae732a9c8029d02ceda40e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261022T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261022T170000
+SUMMARY:SEM 3 - DIPD - DST 1182
+LOCATION:KT3-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Faizul Salih
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:80ed52c7ec6c217b2a04cc99fdf3df0402a21c98@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261023T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261023T100000
+SUMMARY:SEM 3 - DIPD - GEL 2312
+LOCATION:KT1 L1 06 LH2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Edham Nur Hazwan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:78d79e364865db6b1bd8eed0606cea19b70ae77f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261026T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261026T110000
+SUMMARY:SEM 3 - DIPD - DST 1132
+LOCATION:KT3-L03-01_B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Alies Hashim\nCalendar exception: JUBLI PERA
+ K SELANGOR
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:06186d56d66142f1b1085d59dc3981df77e7b03a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261026T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261026T130000
+SUMMARY:SEM 3 - DIPD - MOT 0952
+LOCATION:KT3-L02-01
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Raja Azlan\nCalendar exception: JUBLI PERAK 
+ SELANGOR
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b2404b4452c5f0a0ad64d4b74f7c57ea3007e80b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261026T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261026T170000
+SUMMARY:SEM 3 - DIPD - DST 1212
+LOCATION:KT3-L03-01_B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Alies Hashim\nCalendar exception: JUBLI PERA
+ K SELANGOR
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e6610250bfe1f0f8f74dac71c3650d715a9c7cef@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261027T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261027T130000
+SUMMARY:SEM 3 - DIPD - MET 2112
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Sufiyan Amril\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4fa737c19e5cc1377f2e46d4ef78f96b0cedce51@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261027T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20261027T180000
+SUMMARY:SEM 3 - DIPD - ESP 2052
+LOCATION:KT1-L3-33
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Dhaarsini AP Thamby
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:47143c67cc2349677bcf1276ed8c77c1db1fb73c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261028T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261028T130000
+SUMMARY:SEM 3 - DIPD - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a14d22d74ba6aefe8e94b15c3f1690b7809f16cf@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261029T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261029T130000
+SUMMARY:SEM 3 - DIPD - MAP 2152
+LOCATION:KT3-L02-06
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Nurul Dayana
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d8c08d4f9d871aa903d786fa8c4f447e0aea55e2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261029T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261029T170000
+SUMMARY:SEM 3 - DIPD - DST 1182
+LOCATION:KT3-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Faizul Salih
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b17f17871e17b1a3c921a479e52b746e3f4fa095@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261030T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261030T100000
+SUMMARY:SEM 3 - DIPD - GEL 2312
+LOCATION:KT1 L1 06 LH2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Edham Nur Hazwan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:706e6375a813faccaf419148c2d06e61ee59af43@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261102T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261102T110000
+SUMMARY:SEM 3 - DIPD - DST 1132
+LOCATION:KT3-L03-01_B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Alies Hashim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5a63b09f8a4d83f7d638b333885c45f13ae95ecf@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261102T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261102T130000
+SUMMARY:SEM 3 - DIPD - MOT 0952
+LOCATION:KT3-L02-01
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Raja Azlan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:43182a8e5c07aeda5e2f6ab79742f5be8c5a72ea@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261102T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261102T170000
+SUMMARY:SEM 3 - DIPD - DST 1212
+LOCATION:KT3-L03-01_B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Alies Hashim
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:67f7932212ac7141d86c8267687ef80268e7c8f1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261103T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261103T130000
+SUMMARY:SEM 3 - DIPD - MET 2112
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Sufiyan Amril\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4ac28d2d0abbc981c118232668975f93209d0d8c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261103T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20261103T180000
+SUMMARY:SEM 3 - DIPD - ESP 2052
+LOCATION:KT1-L3-33
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Dhaarsini AP Thamby
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:339310bf1e04ee5ebae1fc9a586f7f3d08951ad9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261105T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261105T130000
+SUMMARY:SEM 3 - DIPD - MAP 2152
+LOCATION:KT3-L02-06
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Nurul Dayana
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f8c196e7d64582d371fbccccff7f931df737bd42@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261105T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261105T170000
+SUMMARY:SEM 3 - DIPD - DST 1182
+LOCATION:KT3-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Faizul Salih
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e99b92c2fa09e8d59fd257ffd125519b5a480069@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261106T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261106T100000
+SUMMARY:SEM 3 - DIPD - GEL 2312
+LOCATION:KT1 L1 06 LH2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Edham Nur Hazwan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9d4e66060d25964a029b4f9c0c0b6b6e667e7339@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261109T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261109T110000
+SUMMARY:SEM 3 - DIPD - DST 1132
+LOCATION:KT3-L03-01_B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Alies Hashim\nCalendar exception: Deepavali 
+ Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b75035da385f54465a7810432bc8acb855cca7ca@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261109T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261109T130000
+SUMMARY:SEM 3 - DIPD - MOT 0952
+LOCATION:KT3-L02-01
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Raja Azlan\nCalendar exception: Deepavali Da
+ y
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1e7042eaa652c1a16d145fdf1fe9540fa7ad39ce@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261109T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261109T170000
+SUMMARY:SEM 3 - DIPD - DST 1212
+LOCATION:KT3-L03-01_B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Alies Hashim\nCalendar exception: Deepavali 
+ Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3e5e2a248f9e256b341207dd26442ff9367eb2e4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261110T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261110T130000
+SUMMARY:SEM 3 - DIPD - MET 2112
+LOCATION:KT3-L05-08
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Sufiyan Amril
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ac64753dfdb879f36d8ddb7a7b00b67e48465142@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261110T160000
+DTEND;TZID=Asia/Kuala_Lumpur:20261110T180000
+SUMMARY:SEM 3 - DIPD - ESP 2052
+LOCATION:KT1-L3-33
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Dhaarsini AP Thamby
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ba7ed0d26e6e51b5035a1e6de6b068930b852af3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261112T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261112T130000
+SUMMARY:SEM 3 - DIPD - MAP 2152
+LOCATION:KT3-L02-06
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Nurul Dayana
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ce8360fedfff9821ff19a7f4e05ccf13dc01589c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261112T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261112T170000
+SUMMARY:SEM 3 - DIPD - DST 1182
+LOCATION:KT3-L04-15
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Faizul Salih
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:42ada9c846aa03a8b3df6e4e73000141eafc6877@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261113T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261113T100000
+SUMMARY:SEM 3 - DIPD - GEL 2312
+LOCATION:KT1 L1 06 LH2
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Edham Nur Hazwan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:904fd8dfe243ea8b9e46059e0b29f365c27af61a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261113T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261113T180000
+SUMMARY:SEM 3 - DIPD - MET 2112
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 3 - DIPD\nLecturer: Sufiyan Amril\nNotes: Online Replacement Cla
+ ss (PH)
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR

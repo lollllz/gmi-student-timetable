@@ -1,0 +1,1653 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Student Timetable//Class Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SEM 1 - DINC 2
+X-WR-TIMEZONE:Asia/Kuala_Lumpur
+BEGIN:VTIMEZONE
+TZID:Asia/Kuala_Lumpur
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:MYT
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:07efc2dd715e1f0460157189ee5792912e409553@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260707T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260707T110000
+SUMMARY:SEM 1 - DINC 2 - GEL 2312
+LOCATION:KT1-L3-32
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Rowinah Jakiwa
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e52fb1000bdde5417cdd23137786b401b663d95f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260708T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260708T130000
+SUMMARY:SEM 1 - DINC 2 - CIT 0513
+LOCATION:KT5-L06-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Hapizah Mohd Hanafi
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:76f3a2e8d5288c5d8888406c3f8f8a444ae4e78d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260708T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260708T190000
+SUMMARY:SEM 1 - DINC 2 - EET 0113
+LOCATION:KT5-L14-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Kamil Abdul Jalil
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4411c758a1a533fefe6d48ed2aef82f5ac467e7d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260709T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260709T110000
+SUMMARY:SEM 1 - DINC 2 - MPU 2222
+LOCATION:KT1-L3-21
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Nur Fazleen Badrul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0a98c12cbd4f9001416391b291c08c7e2b7dcf21@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260709T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260709T130000
+SUMMARY:SEM 1 - DINC 2 - MAP 2192
+LOCATION:KT1-L3-10
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Hakim Ismail
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0365725f0013624f263425f6259e8fe6bf0944c3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260709T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260709T170000
+SUMMARY:SEM 1 - DINC 2 - MAP 2163
+LOCATION:KT1-L3-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Ummu Amirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3f3f4212178803dc00a2c497605fbbefd707a7b2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260710T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260710T130000
+SUMMARY:SEM 1 - DINC 2 - TEC 0532
+LOCATION:KT5-L08-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Nur Shamin Zaulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:afd973d627c45103507fc5add32fa434ea84e4fb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260714T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260714T110000
+SUMMARY:SEM 1 - DINC 2 - GEL 2312
+LOCATION:KT1-L3-32
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Rowinah Jakiwa
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b6fe089bee58bce380f70e68f03cee6e1208145a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260715T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260715T130000
+SUMMARY:SEM 1 - DINC 2 - CIT 0513
+LOCATION:KT5-L06-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Hapizah Mohd Hanafi
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2cf46ede1e01483bc0789966285831f966a91dad@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260715T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260715T190000
+SUMMARY:SEM 1 - DINC 2 - EET 0113
+LOCATION:KT5-L14-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Kamil Abdul Jalil
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:222cb1fe65398b0e5c309381b43bde5ce2b44316@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260716T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260716T110000
+SUMMARY:SEM 1 - DINC 2 - MPU 2222
+LOCATION:KT1-L3-21
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Nur Fazleen Badrul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0b20dacd16cc4c97450bf40ba2e94ae3348c8977@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260716T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260716T130000
+SUMMARY:SEM 1 - DINC 2 - MAP 2192
+LOCATION:KT1-L3-10
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Hakim Ismail
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:88288fe8f1bcb09c389a9b4079b2331f26134f9d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260716T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260716T170000
+SUMMARY:SEM 1 - DINC 2 - MAP 2163
+LOCATION:KT1-L3-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Ummu Amirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4496baea149823a75692ea7cdfc59b8ff40f3b49@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260717T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260717T130000
+SUMMARY:SEM 1 - DINC 2 - TEC 0532
+LOCATION:KT5-L08-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Nur Shamin Zaulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:65737293861f561e28b006683ec42889d32a3289@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260721T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260721T110000
+SUMMARY:SEM 1 - DINC 2 - GEL 2312
+LOCATION:KT1-L3-32
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Rowinah Jakiwa
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a3697802d2fcbe0ff0106738c153646cadddb68f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260721T120000
+DTEND;TZID=Asia/Kuala_Lumpur:20260721T130000
+SUMMARY:SEM 1 - DINC 2 - Intensivkurs MAP2163
+LOCATION:KT1-L3-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Ummu Amirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:34bdf7bc8c18b3fc40307308256eeeca8410fffd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260722T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260722T130000
+SUMMARY:SEM 1 - DINC 2 - CIT 0513
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Hapizah Mohd Hanafi\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:32b24b0becad64acd3343904f408b80a0f4bb62f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260722T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260722T190000
+SUMMARY:SEM 1 - DINC 2 - EET 0113
+LOCATION:KT5-L14-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Kamil Abdul Jalil
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:294afa18ebfbc807f43686510063cbe082450fdd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260723T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260723T110000
+SUMMARY:SEM 1 - DINC 2 - MPU 2222
+LOCATION:KT1-L3-21
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Nur Fazleen Badrul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:09320a2e5746a474c8928b2491f2c96b6d53b03e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260723T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260723T130000
+SUMMARY:SEM 1 - DINC 2 - MAP 2192
+LOCATION:KT1-L3-10
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Hakim Ismail
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3c2a9acc99b527e10aa85cf186a41b9f65299725@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260723T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260723T170000
+SUMMARY:SEM 1 - DINC 2 - MAP 2163
+LOCATION:KT1-L3-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Ummu Amirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:af5de49bd0b96113fca1f05504925b83e996d393@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260724T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260724T130000
+SUMMARY:SEM 1 - DINC 2 - TEC 0532
+LOCATION:KT5-L08-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Nur Shamin Zaulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:232f79be9f729aec061dd7d1f5deba187e580e46@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260727T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260727T100000
+SUMMARY:SEM 1 - DINC 2 - GEL 2312
+LOCATION:KT1-L3-32
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Rowinah Jakiwa\nNotes: Replacement Class (
+ Student Townhall)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:28562309060e8598d8113295d7b5e6a87e9e7ea0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260728T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260728T110000
+SUMMARY:SEM 1 - DINC 2 - GEL 2312
+LOCATION:KT1-L3-32
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Rowinah Jakiwa
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:aa202d59325f942c3647e4818fa850f494a3462c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260728T120000
+DTEND;TZID=Asia/Kuala_Lumpur:20260728T130000
+SUMMARY:SEM 1 - DINC 2 - Intensivkurs MAP2163
+LOCATION:KT1-L3-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Ummu Amirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c8a68d931ab9bc478f457dfa03922523698c3223@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260729T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260729T130000
+SUMMARY:SEM 1 - DINC 2 - CIT 0513
+LOCATION:KT5-L06-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Hapizah Mohd Hanafi
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c164ca55b7807e2ed4e966ca9017114750a20d8e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260729T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260729T190000
+SUMMARY:SEM 1 - DINC 2 - EET 0113
+LOCATION:KT5-L14-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Kamil Abdul Jalil
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d8d388d0da7ada734d655297fdc63d5c722a297b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260730T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260730T110000
+SUMMARY:SEM 1 - DINC 2 - MPU 2222
+LOCATION:KT1-L3-21
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Nur Fazleen Badrul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:03712437bc0617430b85e6ee7e425d51f3167e86@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260730T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260730T130000
+SUMMARY:SEM 1 - DINC 2 - MAP 2192
+LOCATION:KT1-L3-10
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Hakim Ismail
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0eee19bdc57a43ffdb6b427a29b3e752c4ef6067@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260730T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260730T170000
+SUMMARY:SEM 1 - DINC 2 - MAP 2163
+LOCATION:KT1-L3-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Ummu Amirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d1e9453e1db21db0b5d2cbc3db212d0b23af62bf@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260731T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260731T130000
+SUMMARY:SEM 1 - DINC 2 - TEC 0532
+LOCATION:KT5-L08-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Nur Shamin Zaulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:473cfa47cde5c5b892b302170706b284aac97a29@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260804T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260804T110000
+SUMMARY:SEM 1 - DINC 2 - GEL 2312
+LOCATION:KT1-L3-32
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Rowinah Jakiwa
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5c6d3b4eb45ca5573df3936fd6a454171d6b892b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260804T120000
+DTEND;TZID=Asia/Kuala_Lumpur:20260804T130000
+SUMMARY:SEM 1 - DINC 2 - Intensivkurs MAP2163
+LOCATION:KT1-L3-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Ummu Amirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c15484098b4f992797ed1cda07ed80fb76f3bc63@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260805T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260805T130000
+SUMMARY:SEM 1 - DINC 2 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:dbf283eb743e46f96ca47acf9a72ba37247187b7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260805T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260805T190000
+SUMMARY:SEM 1 - DINC 2 - EET 0113
+LOCATION:KT5-L14-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Kamil Abdul Jalil
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cb8f50a5ed2d90facab296ba4d08b6b4e5335a50@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260806T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260806T110000
+SUMMARY:SEM 1 - DINC 2 - MPU 2222
+LOCATION:KT1-L3-21
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Nur Fazleen Badrul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:50588d63f4925e619a95e5616d916fcce5955f7f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260806T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260806T130000
+SUMMARY:SEM 1 - DINC 2 - MAP 2192
+LOCATION:KT1-L3-10
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Hakim Ismail
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7d5952b65ee7cfad98bbd7dc29da8db50886ff76@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260806T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260806T170000
+SUMMARY:SEM 1 - DINC 2 - MAP 2163
+LOCATION:KT1-L3-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Ummu Amirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:06c69240ca5b986233316e7af3b08945ff445e0b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260807T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260807T130000
+SUMMARY:SEM 1 - DINC 2 - TEC 0532
+LOCATION:KT5-L08-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Nur Shamin Zaulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0a7acb3f9517af5a802ef7c1f840a6ac7d58adf5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260811T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260811T110000
+SUMMARY:SEM 1 - DINC 2 - GEL 2312
+LOCATION:KT1-L3-32
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Rowinah Jakiwa
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:98d49bc3232d8db1f34e126ae8b397df7da6ade4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260811T120000
+DTEND;TZID=Asia/Kuala_Lumpur:20260811T130000
+SUMMARY:SEM 1 - DINC 2 - Intensivkurs MAP2163
+LOCATION:KT1-L3-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Ummu Amirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:30fe001238e21aee7ee07bd3ed3ecc8d65d5dde3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260812T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260812T130000
+SUMMARY:SEM 1 - DINC 2 - CIT 0513
+LOCATION:KT5-L06-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Hapizah Mohd Hanafi
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ea4b829e00959aa437d902d14be991070c199071@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260812T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260812T190000
+SUMMARY:SEM 1 - DINC 2 - EET 0113
+LOCATION:KT5-L14-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Kamil Abdul Jalil
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:87c8597a353e4cd3499b2118fd31d456eb3bc73a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260813T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260813T110000
+SUMMARY:SEM 1 - DINC 2 - MPU 2222
+LOCATION:KT1-L3-21
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Nur Fazleen Badrul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a1c1845b6d7110469e3a812abc75d94a622a7bd0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260813T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260813T130000
+SUMMARY:SEM 1 - DINC 2 - MAP 2192
+LOCATION:KT1-L3-10
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Hakim Ismail
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b39bf49558d30bb437369070f32dbbbd0dd40db7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260813T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260813T170000
+SUMMARY:SEM 1 - DINC 2 - MAP 2163
+LOCATION:KT1-L3-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Ummu Amirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:57a78004bce740a0800e865278fa33389711fcb2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260814T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260814T130000
+SUMMARY:SEM 1 - DINC 2 - TEC 0532
+LOCATION:KT5-L08-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Nur Shamin Zaulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:259ba5f1cf7d0a646ef8d2cdf56408247fc5d61d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260818T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260818T110000
+SUMMARY:SEM 1 - DINC 2 - GEL 2312
+LOCATION:KT1-L3-32
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Rowinah Jakiwa
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1ff8f9869b28dd1334c529711a07a98ac8b2f103@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260818T120000
+DTEND;TZID=Asia/Kuala_Lumpur:20260818T130000
+SUMMARY:SEM 1 - DINC 2 - Intensivkurs MAP2163
+LOCATION:KT1-L3-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Ummu Amirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d9d01171589f1b3b766a8aebc58c330ea3d78786@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260819T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260819T130000
+SUMMARY:SEM 1 - DINC 2 - CIT 0513
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Hapizah Mohd Hanafi\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:83c82c19d3ebb3abd3d25dad245a4aa7a956f526@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260819T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260819T190000
+SUMMARY:SEM 1 - DINC 2 - EET 0113
+LOCATION:KT5-L14-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Kamil Abdul Jalil
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fb4b06108990f92426e1b2b5db61278a894cbb9b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260820T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260820T110000
+SUMMARY:SEM 1 - DINC 2 - MPU 2222
+LOCATION:KT1-L3-21
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Nur Fazleen Badrul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ff5db262bec111ebb30707f6e61ae5bb17a0645d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260820T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260820T130000
+SUMMARY:SEM 1 - DINC 2 - MAP 2192
+LOCATION:KT1-L3-10
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Hakim Ismail
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:32b24b80d49510468d0424dafdc266515f3b3cc2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260820T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260820T170000
+SUMMARY:SEM 1 - DINC 2 - MAP 2163
+LOCATION:KT1-L3-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Ummu Amirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:de4f7aee25ce1ec2e440910900e6f359b9cbe6ba@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260821T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260821T130000
+SUMMARY:SEM 1 - DINC 2 - TEC 0532
+LOCATION:KT5-L08-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Nur Shamin Zaulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:233aa52044e5b86cad64e76aea93fb2543a2f829@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260825T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260825T110000
+SUMMARY:SEM 1 - DINC 2 - GEL 2312
+LOCATION:KT1-L3-32
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Rowinah Jakiwa\nCalendar exception: Maulid
+ ur Rasul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:54cd052ccdcb6feb29b54ae92cc250841f4ba8da@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260825T120000
+DTEND;TZID=Asia/Kuala_Lumpur:20260825T130000
+SUMMARY:SEM 1 - DINC 2 - Intensivkurs MAP2163
+LOCATION:KT1-L3-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Ummu Amirah\nCalendar exception: Maulidur 
+ Rasul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8188bf2c3bd127de41687e6957748d3137f7f1b3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260826T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260826T130000
+SUMMARY:SEM 1 - DINC 2 - CIT 0513
+LOCATION:KT5-L06-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Hapizah Mohd Hanafi
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e4ea1e4ed45fa133d99d4144fa3b207794c0a7d5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260826T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260826T190000
+SUMMARY:SEM 1 - DINC 2 - EET 0113
+LOCATION:KT5-L14-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Kamil Abdul Jalil
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:74efaa9775612df37c2a9e4d8325abc3db44f261@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260827T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260827T110000
+SUMMARY:SEM 1 - DINC 2 - MPU 2222
+LOCATION:KT1-L3-21
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Nur Fazleen Badrul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fbc7a2f02ed690630d41cc0121ba9cf46e2fcce4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260827T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260827T130000
+SUMMARY:SEM 1 - DINC 2 - MAP 2192
+LOCATION:KT1-L3-10
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Hakim Ismail
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4fc573f54190db2fa36748299eff0992a19aed54@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260827T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260827T170000
+SUMMARY:SEM 1 - DINC 2 - MAP 2163
+LOCATION:KT1-L3-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Ummu Amirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:31d973bfd8c3f810e1f1384be4bbd69e2af7e4ae@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260828T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260828T130000
+SUMMARY:SEM 1 - DINC 2 - TEC 0532
+LOCATION:KT5-L08-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Nur Shamin Zaulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ab9a661af64201518289bff4a4d83c4cb4b558ff@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260907T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260907T130000
+SUMMARY:SEM 1 - DINC 2 - Merdeka Celebration
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5a4250b622ac0542936cfd5ef7f09f3e66073363@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260908T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260908T110000
+SUMMARY:SEM 1 - DINC 2 - GEL 2312
+LOCATION:KT1-L3-32
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Rowinah Jakiwa
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f9ecc05360e3455d9eb74fefeae2b8dc62e26eb7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260908T120000
+DTEND;TZID=Asia/Kuala_Lumpur:20260908T130000
+SUMMARY:SEM 1 - DINC 2 - Intensivkurs MAP2163
+LOCATION:KT1-L3-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Ummu Amirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:175bab89dedf183a1d8af1ac9f752539ba287f6e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260909T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260909T130000
+SUMMARY:SEM 1 - DINC 2 - CIT 0513
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Hapizah Mohd Hanafi\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c52c742cec26f718a11dcdeec0bbc4a121b3997c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260909T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260909T190000
+SUMMARY:SEM 1 - DINC 2 - EET 0113
+LOCATION:KT5-L14-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Kamil Abdul Jalil
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bc34548497ac570942baca9d293c5591f3687ae4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260910T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260910T110000
+SUMMARY:SEM 1 - DINC 2 - MPU 2222
+LOCATION:KT1-L3-21
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Nur Fazleen Badrul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:69be4eb3d302d9de81ce8a2fd0be4de9a80bc1a9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260910T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260910T130000
+SUMMARY:SEM 1 - DINC 2 - MAP 2192
+LOCATION:KT1-L3-10
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Hakim Ismail
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4954941e77cced7a17399e45ec369ccc4a37f184@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260910T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260910T170000
+SUMMARY:SEM 1 - DINC 2 - MAP 2163
+LOCATION:KT1-L3-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Ummu Amirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4ba43d49444733e4804fda99d18fd396a0d7bf93@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260911T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260911T130000
+SUMMARY:SEM 1 - DINC 2 - TEC 0532
+LOCATION:KT5-L08-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Nur Shamin Zaulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:da885f0e0f473dc3898e6bb8d24b732de55b155c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260911T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260911T160000
+SUMMARY:SEM 1 - DINC 2 - GEL 2312
+LOCATION:KT1-L3-32
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Rowinah Jakiwa\nNotes: Replacement Class (
+ PH)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c37929d8578cfa4a572f43d07d1bb9ca870c1c25@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260914T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260914T130000
+SUMMARY:SEM 1 - DINC 2 - CIT 0513
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Hapizah Mohd Hanafi\nNotes: Online Replace
+ ment Class (PH)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:45f9cf352926f365fa3adc9aca1cb6f61fa639a0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260915T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260915T110000
+SUMMARY:SEM 1 - DINC 2 - GEL 2312
+LOCATION:KT1-L3-32
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Rowinah Jakiwa
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b7230e88ec631668207be19466c1583e3cc28779@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260915T120000
+DTEND;TZID=Asia/Kuala_Lumpur:20260915T130000
+SUMMARY:SEM 1 - DINC 2 - Intensivkurs MAP2163
+LOCATION:KT1-L3-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Ummu Amirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0816fdd2b061727ba8e04c7735c071dd1c27bffd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260916T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260916T130000
+SUMMARY:SEM 1 - DINC 2 - CIT 0513
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Hapizah Mohd Hanafi\nNotes: Online Class\n
+ Calendar exception: Malaysia Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:44866469ab8a5d21f749f343d87cefde06b510cb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260916T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260916T190000
+SUMMARY:SEM 1 - DINC 2 - EET 0113
+LOCATION:KT5-L14-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Kamil Abdul Jalil\nCalendar exception: Mal
+ aysia Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:40be953007f9c1b59bb1a2196b3beff2716b0aa1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260917T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260917T110000
+SUMMARY:SEM 1 - DINC 2 - MPU 2222
+LOCATION:KT1-L3-21
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Nur Fazleen Badrul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:40724fb6b571e71328bf9a13e1315faafdc6404c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260917T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260917T130000
+SUMMARY:SEM 1 - DINC 2 - MAP 2192
+LOCATION:KT1-L3-10
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Hakim Ismail
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:16d5f70a5f51e749456a84e3bfa16ca262edb540@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260917T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260917T170000
+SUMMARY:SEM 1 - DINC 2 - MAP 2163
+LOCATION:KT1-L3-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Ummu Amirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:daf7551a3b6cc0b63e1f69a8d0c3b2762a7b4a36@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260918T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260918T130000
+SUMMARY:SEM 1 - DINC 2 - TEC 0532
+LOCATION:KT5-L08-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Nur Shamin Zaulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:22e44f087369e0631be753443d87fd8f714768f3@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260922T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260922T110000
+SUMMARY:SEM 1 - DINC 2 - GEL 2312
+LOCATION:KT1-L3-32
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Rowinah Jakiwa
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:506400fe770b059221fce57b3c0990edd176dfc5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260922T120000
+DTEND;TZID=Asia/Kuala_Lumpur:20260922T130000
+SUMMARY:SEM 1 - DINC 2 - Intensivkurs MAP2163
+LOCATION:KT1-L3-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Ummu Amirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:24f1c9652bfa66bbfbed123dcf4b93850349c7bf@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260923T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260923T130000
+SUMMARY:SEM 1 - DINC 2 - CIT 0513
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Hapizah Mohd Hanafi\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5c9bc6140707d2ae9a9167ac672cadaee2d83562@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260923T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260923T190000
+SUMMARY:SEM 1 - DINC 2 - EET 0113
+LOCATION:KT5-L14-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Kamil Abdul Jalil
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:30e3a80a7c484252333c3e8a829de8ee77dc8469@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260924T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260924T110000
+SUMMARY:SEM 1 - DINC 2 - MPU 2222
+LOCATION:KT1-L3-21
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Nur Fazleen Badrul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:33a1b7e62527c51a84e8de6f4ae1e0337fcd19de@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260924T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20260924T130000
+SUMMARY:SEM 1 - DINC 2 - MAP 2192
+LOCATION:KT1-L3-10
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Hakim Ismail
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6ff030c6851cdf2431012b7b0d0ef2cbad268efa@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260924T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260924T170000
+SUMMARY:SEM 1 - DINC 2 - MAP 2163
+LOCATION:KT1-L3-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Ummu Amirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d699ec6771ef4fe8d30459e33a87dd7a2817268c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260925T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260925T130000
+SUMMARY:SEM 1 - DINC 2 - TEC 0532
+LOCATION:KT5-L08-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Nur Shamin Zaulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a26e0a89443ff92c187009ded059021b355a27b4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260929T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20260929T110000
+SUMMARY:SEM 1 - DINC 2 - GEL 2312
+LOCATION:KT1-L3-32
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Rowinah Jakiwa
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:67d44764905604ef636346cee0be0c360fa9ceba@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260929T120000
+DTEND;TZID=Asia/Kuala_Lumpur:20260929T130000
+SUMMARY:SEM 1 - DINC 2 - Intensivkurs MAP2163
+LOCATION:KT1-L3-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Ummu Amirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:46ef0c994f3ea7b52bd686135e71fdb410f81df2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260930T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260930T130000
+SUMMARY:SEM 1 - DINC 2 - CIT 0513
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Hapizah Mohd Hanafi\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:eb2a1f7f895e335ba5b27d6fcb45e0faa6808e4b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260930T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260930T190000
+SUMMARY:SEM 1 - DINC 2 - EET 0113
+LOCATION:KT5-L14-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Kamil Abdul Jalil
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4216948fa11872dcabe7130e063a02b338b997e8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261001T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261001T110000
+SUMMARY:SEM 1 - DINC 2 - MPU 2222
+LOCATION:KT1-L3-21
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Nur Fazleen Badrul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:33ff5d22b3d67cd646ea0dafd45337c767b056b5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261001T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261001T130000
+SUMMARY:SEM 1 - DINC 2 - MAP 2192
+LOCATION:KT1-L3-10
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Hakim Ismail
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cf5c3459968d9c82f6fd2d14b60ea7c35daf2371@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261001T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261001T170000
+SUMMARY:SEM 1 - DINC 2 - MAP 2163
+LOCATION:KT1-L3-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Ummu Amirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:932146ff3552657bdb0836f46c4c17b466d69a97@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261002T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261002T130000
+SUMMARY:SEM 1 - DINC 2 - TEC 0532
+LOCATION:KT5-L08-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Nur Shamin Zaulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6f8b31b046c300fb8af9c46946c7d373b5ae739f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261005T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261005T130000
+SUMMARY:SEM 1 - DINC 2 - CIT 0513
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Hapizah Mohd Hanafi\nNotes: Online Replace
+ ment Class (Jubli Perak Selangor)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:220dbb06eaf116231125a610788ba80e79dacdbb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261006T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261006T110000
+SUMMARY:SEM 1 - DINC 2 - GEL 2312
+LOCATION:KT1-L3-32
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Rowinah Jakiwa
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ca84644d5b06d721ef347fe3585408854bb3e5e6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261006T120000
+DTEND;TZID=Asia/Kuala_Lumpur:20261006T130000
+SUMMARY:SEM 1 - DINC 2 - Intensivkurs MAP2163
+LOCATION:KT1-L3-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Ummu Amirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:953aa5a773a1b7ff216cb33b765ca7ce1f9ef49a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261007T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261007T130000
+SUMMARY:SEM 1 - DINC 2 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:596196e72b31de0e5c55538daea6a0459ae06e5b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261007T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261007T190000
+SUMMARY:SEM 1 - DINC 2 - EET 0113
+LOCATION:KT5-L14-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Kamil Abdul Jalil
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bc6d04526e88d66597a4c63fe964ad6a817be516@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261008T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261008T110000
+SUMMARY:SEM 1 - DINC 2 - MPU 2222
+LOCATION:KT1-L3-21
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Nur Fazleen Badrul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e522165f7d664158dad84b48c1fb4e91a0eab3ea@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261008T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261008T130000
+SUMMARY:SEM 1 - DINC 2 - MAP 2192
+LOCATION:KT1-L3-10
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Hakim Ismail
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bf7009fbf7fcf781091cd80be1923107ad547564@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261008T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261008T170000
+SUMMARY:SEM 1 - DINC 2 - MAP 2163
+LOCATION:KT1-L3-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Ummu Amirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cfb009990823b7785422ada30106585c8a6a9669@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261009T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261009T130000
+SUMMARY:SEM 1 - DINC 2 - TEC 0532
+LOCATION:KT5-L08-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Nur Shamin Zaulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:347940024471d20a3a71fbcfe1b6f99ab5de0e46@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261013T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261013T110000
+SUMMARY:SEM 1 - DINC 2 - GEL 2312
+LOCATION:KT1-L3-32
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Rowinah Jakiwa
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fc50fe1f507e808eaf5c8a442171fef2cf1e158a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261013T120000
+DTEND;TZID=Asia/Kuala_Lumpur:20261013T130000
+SUMMARY:SEM 1 - DINC 2 - Intensivkurs MAP2163
+LOCATION:KT1-L3-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Ummu Amirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6552226aa562486c84f893e278d6e378ba6430c8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261014T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261014T130000
+SUMMARY:SEM 1 - DINC 2 - CIT 0513
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Hapizah Mohd Hanafi\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6385022f4c092fb57282246d625c7b87a5827b1d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261014T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261014T190000
+SUMMARY:SEM 1 - DINC 2 - EET 0113
+LOCATION:KT5-L14-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Kamil Abdul Jalil
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d220ce901811d288921bd20998d56a690650c60c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261015T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261015T110000
+SUMMARY:SEM 1 - DINC 2 - MPU 2222
+LOCATION:KT1-L3-21
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Nur Fazleen Badrul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1da9d4311e030c8fd6e0535976f8073bd10e0b1d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261015T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261015T130000
+SUMMARY:SEM 1 - DINC 2 - MAP 2192
+LOCATION:KT1-L3-10
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Hakim Ismail
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5310578f1e350c1f96308c26a09bd9a732fda3b7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261015T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261015T170000
+SUMMARY:SEM 1 - DINC 2 - MAP 2163
+LOCATION:KT1-L3-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Ummu Amirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c3ecb4483081424f734a1bab4c8cc4a423df3866@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261016T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261016T130000
+SUMMARY:SEM 1 - DINC 2 - TEC 0532
+LOCATION:KT5-L08-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Nur Shamin Zaulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ee3b12d61ba13d364b5847c8218afaaecd0029a7@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261020T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261020T110000
+SUMMARY:SEM 1 - DINC 2 - GEL 2312
+LOCATION:KT1-L3-32
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Rowinah Jakiwa
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7893300f87ffddd7bd5785785454ec66000d996c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261020T120000
+DTEND;TZID=Asia/Kuala_Lumpur:20261020T130000
+SUMMARY:SEM 1 - DINC 2 - Intensivkurs MAP2163
+LOCATION:KT1-L3-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Ummu Amirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e1f79e45c4f7581ba795154437f500515bc932ec@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261021T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261021T130000
+SUMMARY:SEM 1 - DINC 2 - CIT 0513
+LOCATION:KT5-L06-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Hapizah Mohd Hanafi
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:deb5cd6b0b8f41ac6cbe8fa82e093ffa8e6f7589@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261021T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261021T190000
+SUMMARY:SEM 1 - DINC 2 - EET 0113
+LOCATION:KT5-L14-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Kamil Abdul Jalil
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b320fb1b4cfc2f2f30cc2f8e4b19869762c7e54a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261022T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261022T110000
+SUMMARY:SEM 1 - DINC 2 - MPU 2222
+LOCATION:KT1-L3-21
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Nur Fazleen Badrul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:92666c5452637ad4ea5afb2a52fa7fe4b7597f4e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261022T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261022T130000
+SUMMARY:SEM 1 - DINC 2 - MAP 2192
+LOCATION:KT1-L3-10
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Hakim Ismail
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:63f31bc4ff673fac704e2110fc8b577209104a74@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261022T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261022T170000
+SUMMARY:SEM 1 - DINC 2 - MAP 2163
+LOCATION:KT1-L3-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Ummu Amirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0e2e2c53d4fddf7150881f60f8e965b0b90d8e25@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261023T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261023T130000
+SUMMARY:SEM 1 - DINC 2 - TEC 0532
+LOCATION:KT5-L08-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Nur Shamin Zaulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:99df9d55744d37179d46247e23cb59852f03e376@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261026T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261026T130000
+SUMMARY:SEM 1 - DINC 2 - CIT 0513
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Hapizah Mohd Hanafi\nNotes: Online Replace
+ ment Class (SA)\nCalendar exception: JUBLI PERAK SELANGOR
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0b09f83c186b854d6444348166317ab448b09e04@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261027T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261027T110000
+SUMMARY:SEM 1 - DINC 2 - GEL 2312
+LOCATION:KT1-L3-32
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Rowinah Jakiwa
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:88c99f8131017db0efda33f6b908fddd460a4ac5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261027T120000
+DTEND;TZID=Asia/Kuala_Lumpur:20261027T130000
+SUMMARY:SEM 1 - DINC 2 - Intensivkurs MAP2163
+LOCATION:KT1-L3-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Ummu Amirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1bf6b2128078db1da543f5e8e6efe65be0d0d114@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261028T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261028T130000
+SUMMARY:SEM 1 - DINC 2 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0217374558c81f56bd5f68089ce4646ff78dd940@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261028T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261028T190000
+SUMMARY:SEM 1 - DINC 2 - EET 0113
+LOCATION:KT5-L14-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Kamil Abdul Jalil
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4d62b09422ebfd3f20a348c13ce4ea756c49e2ee@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261029T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261029T110000
+SUMMARY:SEM 1 - DINC 2 - MPU 2222
+LOCATION:KT1-L3-21
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Nur Fazleen Badrul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a9f4a8b3c1cea4f76b9157f03cac736bd7c79e8b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261029T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261029T130000
+SUMMARY:SEM 1 - DINC 2 - MAP 2192
+LOCATION:KT1-L3-10
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Hakim Ismail
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7a8c4dedd6b61168930737aa98f525d1156fa717@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261029T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261029T170000
+SUMMARY:SEM 1 - DINC 2 - MAP 2163
+LOCATION:KT1-L3-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Ummu Amirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e8a83b19ca9d3b3e69444f1b714eb03b901bfa4f@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261030T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261030T130000
+SUMMARY:SEM 1 - DINC 2 - TEC 0532
+LOCATION:KT5-L08-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Nur Shamin Zaulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:eca1c76fe6c8454f7e2dfbe62813102d604758dd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261103T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261103T110000
+SUMMARY:SEM 1 - DINC 2 - GEL 2312
+LOCATION:KT1-L3-32
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Rowinah Jakiwa
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f79b25e39731dc0590190b9a4b05abb247b10aa8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261103T120000
+DTEND;TZID=Asia/Kuala_Lumpur:20261103T130000
+SUMMARY:SEM 1 - DINC 2 - Intensivkurs MAP2163
+LOCATION:KT1-L3-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Ummu Amirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:300be225641a3d18dad69c3bef9302e4a3f6713b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261104T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261104T130000
+SUMMARY:SEM 1 - DINC 2 - CIT 0513
+LOCATION:KT5-L06-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Hapizah Mohd Hanafi
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:de269e1ad5f337f9e7494c306b5856dd1f9d9438@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261104T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261104T190000
+SUMMARY:SEM 1 - DINC 2 - EET 0113
+LOCATION:KT5-L14-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Kamil Abdul Jalil
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:da68bdbd13009c870b78c7ae1c876385d53dc3f8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261105T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261105T110000
+SUMMARY:SEM 1 - DINC 2 - MPU 2222
+LOCATION:KT1-L3-21
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Nur Fazleen Badrul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f44d424d32e799007f8a5684bbc0b553938e1998@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261105T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261105T130000
+SUMMARY:SEM 1 - DINC 2 - MAP 2192
+LOCATION:KT1-L3-10
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Hakim Ismail
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7ff1e3503a882de06cdc819b52e893fb3dbac8cd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261105T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261105T170000
+SUMMARY:SEM 1 - DINC 2 - MAP 2163
+LOCATION:KT1-L3-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Ummu Amirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1a7c2ae22b14a106d7e8d3538731cbf05dcecb93@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261106T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261106T130000
+SUMMARY:SEM 1 - DINC 2 - TEC 0532
+LOCATION:KT5-L08-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Nur Shamin Zaulkefli
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2eec61effb1bbf49cd74471404c5a9ab8af4465e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261110T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261110T110000
+SUMMARY:SEM 1 - DINC 2 - GEL 2312
+LOCATION:KT1-L3-32
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Rowinah Jakiwa
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d90adbe59dcb0ac25810c8b5bac9cc6b3977c923@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261110T120000
+DTEND;TZID=Asia/Kuala_Lumpur:20261110T130000
+SUMMARY:SEM 1 - DINC 2 - Intensivkurs MAP2163
+LOCATION:KT1-L3-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Ummu Amirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:05bf48749dec7050763a4355cfae40bf06b59dba@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261111T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261111T130000
+SUMMARY:SEM 1 - DINC 2 - CIT 0513
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Hapizah Mohd Hanafi\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:90d4878cc6f67cfe1e300356a81fd2c27f1b7800@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261111T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261111T190000
+SUMMARY:SEM 1 - DINC 2 - EET 0113
+LOCATION:KT5-L14-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Kamil Abdul Jalil
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a1196909fdadd4f2496d93d6081fcbb222d78c00@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261112T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261112T110000
+SUMMARY:SEM 1 - DINC 2 - MPU 2222
+LOCATION:KT1-L3-21
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Nur Fazleen Badrul
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7aa855013cd6c79fc14b15fcf51eb644035ddeb6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261112T110000
+DTEND;TZID=Asia/Kuala_Lumpur:20261112T130000
+SUMMARY:SEM 1 - DINC 2 - MAP 2192
+LOCATION:KT1-L3-10
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Hakim Ismail
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fe466fa7ee0015e9ff31c03c1faa9fa58212b095@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261112T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261112T170000
+SUMMARY:SEM 1 - DINC 2 - MAP 2163
+LOCATION:KT1-L3-17
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Ummu Amirah
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:76c352b97c1130b65dd29ef19d68e8532b36ee47@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261113T090000
+DTEND;TZID=Asia/Kuala_Lumpur:20261113T130000
+SUMMARY:SEM 1 - DINC 2 - TEC 0532
+LOCATION:KT5-L08-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 1 - DINC 2\nLecturer: Nur Shamin Zaulkefli
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR

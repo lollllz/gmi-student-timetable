@@ -1,0 +1,892 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//Student Timetable//Class Calendar//EN
+CALSCALE:GREGORIAN
+X-WR-CALNAME:SEM 5 - DSWE 4
+X-WR-TIMEZONE:Asia/Kuala_Lumpur
+BEGIN:VTIMEZONE
+TZID:Asia/Kuala_Lumpur
+BEGIN:STANDARD
+DTSTART:19700101T000000
+TZOFFSETFROM:+0800
+TZOFFSETTO:+0800
+TZNAME:MYT
+END:STANDARD
+END:VTIMEZONE
+BEGIN:VEVENT
+UID:9e7ac384a4a03e29c5e4d14daa890c2e80efef50@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260706T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260706T130000
+SUMMARY:SEM 5 - DSWE 4 - SDT 2143
+LOCATION:KT5-L10-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Noor Atiqah Yaacob
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:3c66606c242ee6aef42486f507e4ce7b3954b113@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260706T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260706T170000
+SUMMARY:SEM 5 - DSWE 4 - STT 2283
+LOCATION:KT5-L12-001B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Aidilsyukri Raduan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e98e9cdc6551a585802d8de7ca20afb928d89f6b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260708T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260708T130000
+SUMMARY:SEM 5 - DSWE 4 - SPG 0553
+LOCATION:KT5-L12-001A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Nor Adilah Abd Aziz
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e83b51581e36348a6ed6fb97c0b9f85461d5e6b4@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260709T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260709T180000
+SUMMARY:SEM 5 - DSWE 4 - SPG 0562
+LOCATION:KT5-L10-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Syamiel Amirun
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8f21af4fa4abf1ff1cbb81953cde4c6344145ec5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260713T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260713T130000
+SUMMARY:SEM 5 - DSWE 4 - SDT 2143
+LOCATION:KT5-L10-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Noor Atiqah Yaacob
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fbafb0a93ef59698833650e09771b2473c0d73bb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260713T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260713T170000
+SUMMARY:SEM 5 - DSWE 4 - STT 2283
+LOCATION:KT5-L12-001B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Aidilsyukri Raduan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:81d3503e54230bc536d37e31669e01bad18e3174@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260715T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260715T130000
+SUMMARY:SEM 5 - DSWE 4 - SPG 0553
+LOCATION:KT5-L12-001A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Nor Adilah Abd Aziz
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d5a6ee76883077effe956bd0db05331cd5b87080@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260716T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260716T180000
+SUMMARY:SEM 5 - DSWE 4 - SPG 0562
+LOCATION:KT5-L10-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Syamiel Amirun
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:836acf498b01dd291a01bed0cb774e2caf176b17@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260720T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260720T130000
+SUMMARY:SEM 5 - DSWE 4 - SDT 2143
+LOCATION:KT5-L10-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Noor Atiqah Yaacob
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4fb6d4e964d1b73ca5d4404f3ae7beb9fa80a93b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260720T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260720T170000
+SUMMARY:SEM 5 - DSWE 4 - STT 2283
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Aidilsyukri Raduan\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:dff8a6e9a28b96fdc5b2991cb4e878b5d6e4983c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260721T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260721T130000
+SUMMARY:SEM 5 - DSWE 4 - SPG 0553
+LOCATION:KT5-L12-001B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Nor Adilah Abd Aziz\nNotes: Replacement Cl
+ ass (Training)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7d855eb6f80ec0574f52dec38a176004cb36e40e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260723T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260723T180000
+SUMMARY:SEM 5 - DSWE 4 - SPG 0562
+LOCATION:KT5-L10-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Syamiel Amirun
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:91a16247cc162aabaf65bdb5ea570e903648ee2d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260727T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260727T170000
+SUMMARY:SEM 5 - DSWE 4 - STT 2283
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Aidilsyukri Raduan\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:85267d08530fe2a71fb33f99da0e94ee91209921@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260730T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260730T180000
+SUMMARY:SEM 5 - DSWE 4 - SPG 0562
+LOCATION:KT5-L10-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Syamiel Amirun
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7305f4e5726ca894efe4eb35a0f55a3b581d95ef@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260731T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260731T130000
+SUMMARY:SEM 5 - DSWE 4 - SPG 0553
+LOCATION:KT5-L12-001B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Nor Adilah Abd Aziz\nNotes: Replacement Cl
+ ass (Training)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a92af4ad22be05555aa4277ac3b7746fa1a0ca6b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260731T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260731T190000
+SUMMARY:SEM 5 - DSWE 4 - SDT 2143
+LOCATION:KT5-L12-001B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Noor Atiqah Yaacob\nNotes: Replacement Cla
+ ss (Training)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a68fa58160b3bb7656158d28e065512dc9249195@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260803T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260803T170000
+SUMMARY:SEM 5 - DSWE 4 - STT 2283
+LOCATION:KT5-L12-001B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Aidilsyukri Raduan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:08f766f1ce2b85fef29e796ef03b838ddfc538d0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260805T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260805T130000
+SUMMARY:SEM 5 - DSWE 4 - SPG 0553
+LOCATION:KT5-L12-001A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Nor Adilah Abd Aziz
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e47f657149f09ba58eb8ec3bbce19dced1cea914@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260805T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260805T190000
+SUMMARY:SEM 5 - DSWE 4 - SDT 2143
+LOCATION:KT5-L12-001C
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Noor Atiqah Yaacob\nNotes: Replacement Cla
+ ss (Townhall)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0b8b71d39c2430b0c99059b3973aed1ee2d26d29@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260806T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260806T180000
+SUMMARY:SEM 5 - DSWE 4 - SPG 0562
+LOCATION:KT5-L10-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Syamiel Amirun
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bf162abc85c11b9b5bf55ea19c7542489d79d5f2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260810T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260810T130000
+SUMMARY:SEM 5 - DSWE 4 - SDT 2143
+LOCATION:KT5-L10-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Noor Atiqah Yaacob
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b7e67099122948ad4c2f88cf3d6413171aa09c62@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260810T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260810T170000
+SUMMARY:SEM 5 - DSWE 4 - STT 2283
+LOCATION:KT5-L12-001B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Aidilsyukri Raduan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fa9a94043ebb4a80b0080a065341387dcd5c09bf@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260812T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260812T130000
+SUMMARY:SEM 5 - DSWE 4 - SPG 0553
+LOCATION:KT5-L12-001A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Nor Adilah Abd Aziz
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1d6aae651892ff5a42481dcdb1fb6645de65dad0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260813T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260813T180000
+SUMMARY:SEM 5 - DSWE 4 - SPG 0562
+LOCATION:KT5-L10-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Syamiel Amirun
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:62fc4137d8d77250119812ab4f2b22fa44ad4473@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260817T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260817T130000
+SUMMARY:SEM 5 - DSWE 4 - SDT 2143
+LOCATION:KT5-L10-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Noor Atiqah Yaacob
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:0be8ad9657036a522a4bad8742693ab62c87c52a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260817T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260817T170000
+SUMMARY:SEM 5 - DSWE 4 - STT 2283
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Aidilsyukri Raduan\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f231b4f5a59a374c74aeb0f24361296d57ef0f5e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260819T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260819T130000
+SUMMARY:SEM 5 - DSWE 4 - SPG 0553
+LOCATION:KT5-L12-001A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Nor Adilah Abd Aziz
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4a5a9aee77c1c8b29e24eaefb148c330a5208999@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260820T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260820T180000
+SUMMARY:SEM 5 - DSWE 4 - SPG 0562
+LOCATION:KT5-L10-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Syamiel Amirun
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2ca3162ccd8afc907fe1ea195b0eb47c74ce122b@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260824T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260824T130000
+SUMMARY:SEM 5 - DSWE 4 - SDT 2143
+LOCATION:KT5-L10-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Noor Atiqah Yaacob
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:bea7dad8730b5b5df164bd5af2054efaf1e06d54@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260824T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260824T170000
+SUMMARY:SEM 5 - DSWE 4 - STT 2283
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Aidilsyukri Raduan\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:a02152134c813c2256c822d26cfeb1c394a73e2d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260827T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260827T180000
+SUMMARY:SEM 5 - DSWE 4 - SPG 0562
+LOCATION:KT5-L10-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Syamiel Amirun
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c9fde24dde9f39f0df0b4e1283f257f2ccbfe130@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260907T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260907T130000
+SUMMARY:SEM 5 - DSWE 4 - Merdeka Celebration
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5374293393aba012ba5fd3876cc2976b583ceae5@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260907T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260907T170000
+SUMMARY:SEM 5 - DSWE 4 - STT 2283
+LOCATION:KT5-L12-001B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Aidilsyukri Raduan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:b03f3b7d2d828393ebe27ca6f4b7f1809629cfce@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260908T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260908T130000
+SUMMARY:SEM 5 - DSWE 4 - SPG 0553
+LOCATION:KT5-L15-009
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Nor Adilah Abd Aziz\nNotes: Replacement Cl
+ ass (Training)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8565bffc120b3d116fd032b313bdad27adfd37dd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260909T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260909T130000
+SUMMARY:SEM 5 - DSWE 4 - SPG 0553
+LOCATION:KT5-L12-001A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Nor Adilah Abd Aziz
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:98e2615ac389b307bdf57510e92aaadc8adb09c9@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260909T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260909T190000
+SUMMARY:SEM 5 - DSWE 4 - SDT 2143
+LOCATION:KT5-L10-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Noor Atiqah Yaacob\nNotes: Replacement Cla
+ ss (Merdeka 7/9)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:312186f1b6ebf92d02e92482ebde4ff4e16f70e2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260910T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260910T180000
+SUMMARY:SEM 5 - DSWE 4 - SPG 0562
+LOCATION:KT5-L10-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Syamiel Amirun
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f052c66d4b616cebf57369a122d6524a04cbaf60@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260914T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260914T130000
+SUMMARY:SEM 5 - DSWE 4 - SDT 2143
+LOCATION:KT5-L10-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Noor Atiqah Yaacob
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4856ca50d094bdaa70204bed75d807a43003ffa6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260914T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260914T170000
+SUMMARY:SEM 5 - DSWE 4 - STT 2283
+LOCATION:KT5-L12-001B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Aidilsyukri Raduan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4becf9f0cda8bbc366f509e5532c384a3526096d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260915T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260915T130000
+SUMMARY:SEM 5 - DSWE 4 - SPG 0553
+LOCATION:KT5-L12-001C
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Nor Adilah Abd Aziz\nNotes: Replacement Cl
+ ass
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2af516521c6d4fd8edc2f2a04396a0888cec7f4e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260916T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260916T130000
+SUMMARY:SEM 5 - DSWE 4 - SPG 0553
+LOCATION:KT5-L12-001A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Nor Adilah Abd Aziz\nCalendar exception: M
+ alaysia Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:64d4803c4faaaf1091a268b785155876c2e6c78a@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260917T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260917T180000
+SUMMARY:SEM 5 - DSWE 4 - SPG 0562
+LOCATION:KT5-L10-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Syamiel Amirun
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f811ffc25abc59320c5dbe62ad67df64a4099c9e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260921T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260921T170000
+SUMMARY:SEM 5 - DSWE 4 - STT 2283
+LOCATION:KT5-L12-001B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Aidilsyukri Raduan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e7b87117a2ea6e6046211bab5c1078f8369b938e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260923T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260923T130000
+SUMMARY:SEM 5 - DSWE 4 - SPG 0553
+LOCATION:KT5-L12-001A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Nor Adilah Abd Aziz
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:36547a5607adedbfd0a73cdad7b572e71fbfc3b6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260924T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260924T180000
+SUMMARY:SEM 5 - DSWE 4 - SPG 0562
+LOCATION:KT5-L10-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Syamiel Amirun
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:00fc43481fbaa173704b4c0d92a75be862146c4d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260928T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260928T130000
+SUMMARY:SEM 5 - DSWE 4 - SDT 2143
+LOCATION:KT5-L10-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Noor Atiqah Yaacob
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:6e87736cf24ed6b1cdcb6447c61f7171acbdf02d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260928T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260928T170000
+SUMMARY:SEM 5 - DSWE 4 - STT 2283
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Aidilsyukri Raduan\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ba029409756715f1e534f1be50a735750afd466c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260930T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20260930T130000
+SUMMARY:SEM 5 - DSWE 4 - SPG 0553
+LOCATION:KT5-L12-001A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Nor Adilah Abd Aziz
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8ace09358b568d77dbb5c7018cae0c193a4a98d1@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20260930T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20260930T190000
+SUMMARY:SEM 5 - DSWE 4 - SDT 2143
+LOCATION:KT5-L12-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Noor Atiqah Yaacob\nNotes: Replacement Cla
+ ss (21/9)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:49a2b227f637be03a3825bd3eeee0be07c97fe35@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261001T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261001T180000
+SUMMARY:SEM 5 - DSWE 4 - SPG 0562
+LOCATION:KT5-L10-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Syamiel Amirun
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:05359f7eebd992edf258300ea0d4a4062b8e14a8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261005T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261005T170000
+SUMMARY:SEM 5 - DSWE 4 - STT 2283
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Aidilsyukri Raduan\nNotes: Online Class
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:8ea4496e49ab9c2085bc44c5ec98917d297a61b2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261006T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261006T130000
+SUMMARY:SEM 5 - DSWE 4 - SPG 0553
+LOCATION:KT5-L12-001B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Nor Adilah Abd Aziz\nNotes: Replacement Cl
+ ass (Insufficient Hours)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:7a3ef545755f876f994832be837db9dc804e9ddf@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261007T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261007T130000
+SUMMARY:SEM 5 - DSWE 4 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ec11736c6591355c7c96f3dd6044886239542804@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261008T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261008T180000
+SUMMARY:SEM 5 - DSWE 4 - SPG 0562
+LOCATION:KT5-L10-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Syamiel Amirun
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5a345eea06e8092adbb4d100a333e62a8fbab7ff@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261012T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261012T130000
+SUMMARY:SEM 5 - DSWE 4 - SDT 2143
+LOCATION:KT5-L10-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Noor Atiqah Yaacob
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e0f64305dee6feb7e99ca1794cd6b1924aab23cc@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261012T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261012T170000
+SUMMARY:SEM 5 - DSWE 4 - STT 2283
+LOCATION:KT5-L12-001B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Aidilsyukri Raduan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:cdc93ead4a13127c962ebec6ffa5b65e1dbe3b6d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261014T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261014T130000
+SUMMARY:SEM 5 - DSWE 4 - SPG 0553
+LOCATION:KT5-L12-001A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Nor Adilah Abd Aziz
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2d860d1bb0c06b142be4f87a7869da77a92db7f8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261014T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261014T190000
+SUMMARY:SEM 5 - DSWE 4 - SDT 2143
+LOCATION:KT5-L12-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Noor Atiqah Yaacob\nNotes: Replacement Cla
+ ss (5/10)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2645db2218dad6e83942594f7b5c0894d217d754@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261015T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261015T180000
+SUMMARY:SEM 5 - DSWE 4 - SPG 0562
+LOCATION:KT5-L10-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Syamiel Amirun
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9c8929c9bebdadbf7c2fb0aa7daaf0195e80ea33@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261019T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261019T130000
+SUMMARY:SEM 5 - DSWE 4 - SDT 2143
+LOCATION:KT5-L10-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Noor Atiqah Yaacob
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:fea1ded1d4092806f978467e7d85a69a7516c07d@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261019T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261019T170000
+SUMMARY:SEM 5 - DSWE 4 - STT 2283
+LOCATION:KT5-L12-001B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Aidilsyukri Raduan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:4b1db417fc3e9888fcaa63520c248e527bb4f4df@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261021T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261021T130000
+SUMMARY:SEM 5 - DSWE 4 - SPG 0553
+LOCATION:KT5-L12-001A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Nor Adilah Abd Aziz
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:ff7e0e796b36524619faefeb3ddce6f4cb060735@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261022T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261022T180000
+SUMMARY:SEM 5 - DSWE 4 - SPG 0562
+LOCATION:KT5-L10-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Syamiel Amirun
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:afebcabf70fa8b394c4cdde0d097d3fae20724fd@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261026T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261026T130000
+SUMMARY:SEM 5 - DSWE 4 - SDT 2143
+LOCATION:KT5-L10-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Noor Atiqah Yaacob\nCalendar exception: JU
+ BLI PERAK SELANGOR
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:febdd4083c3a356f315b036724557d617ad2c46c@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261026T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261026T170000
+SUMMARY:SEM 5 - DSWE 4 - STT 2283
+LOCATION:KT5-L12-001B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Aidilsyukri Raduan\nCalendar exception: JU
+ BLI PERAK SELANGOR
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:d1d3c402f100f2564a77ca7ea1865b3b85e77ccb@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261027T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261027T130000
+SUMMARY:SEM 5 - DSWE 4 - SPG 0553
+LOCATION:KT5-L12-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Nor Adilah Abd Aziz\nNotes: Replacement Cl
+ ass (Insufficient Hours)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:1b4947a102134265ffe72c42e20d96b63c8c71ad@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261028T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261028T130000
+SUMMARY:SEM 5 - DSWE 4 - Student Activity
+LOCATION:
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:2e90568d20244287a3f54bb3fb2a0d02033e0040@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261028T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261028T190000
+SUMMARY:SEM 5 - DSWE 4 - SDT 2143
+LOCATION:KT5-L15-001
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Noor Atiqah Yaacob\nNotes: Replacement Cla
+ ss (26/10)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:f0735b2287567cfb3cf9e9c3a4376e9849da4871@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261029T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261029T180000
+SUMMARY:SEM 5 - DSWE 4 - SPG 0562
+LOCATION:KT5-L10-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Syamiel Amirun
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:dc451dc448cdcc952ddd5c9f147a2704f6b57bd2@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261102T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261102T130000
+SUMMARY:SEM 5 - DSWE 4 - SDT 2143
+LOCATION:KT5-L10-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Noor Atiqah Yaacob
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:9125c299cfc0fc1466aef6b715b0c4f3917ab6e0@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261102T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261102T170000
+SUMMARY:SEM 5 - DSWE 4 - STT 2283
+LOCATION:KT5-L12-001B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Aidilsyukri Raduan
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:aadd2e2e0295487d9f235eae72ec5ca34bec327e@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261104T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261104T130000
+SUMMARY:SEM 5 - DSWE 4 - SPG 0553
+LOCATION:KT5-L12-001A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Nor Adilah Abd Aziz
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:eed6f317ec486976066ce82bcabc895b45c60fdf@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261105T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261105T180000
+SUMMARY:SEM 5 - DSWE 4 - SPG 0562
+LOCATION:KT5-L10-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Syamiel Amirun
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:597e6c31ec246bb4951c3d02b6883fa43af90260@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261109T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261109T130000
+SUMMARY:SEM 5 - DSWE 4 - SDT 2143
+LOCATION:KT5-L10-011
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Noor Atiqah Yaacob\nCalendar exception: De
+ epavali Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:25a7e531a244a4b6e6407aabe4f1ff82f61aabc6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261109T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261109T170000
+SUMMARY:SEM 5 - DSWE 4 - STT 2283
+LOCATION:KT5-L12-001B
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Aidilsyukri Raduan\nCalendar exception: De
+ epavali Day
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:e89bef9a6febbe74e55f857f66ff898a601c29a8@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261111T080000
+DTEND;TZID=Asia/Kuala_Lumpur:20261111T130000
+SUMMARY:SEM 5 - DSWE 4 - SPG 0553
+LOCATION:KT5-L12-001A
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Nor Adilah Abd Aziz
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:5561e2f7fa8697b22875c1e6d55086ccfa2a8928@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261111T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261111T190000
+SUMMARY:SEM 5 - DSWE 4 - SDT 2143
+LOCATION:KT5-L12-008
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Noor Atiqah Yaacob\nNotes: Replacement Cla
+ ss (PH)
+STATUS:TENTATIVE
+END:VEVENT
+BEGIN:VEVENT
+UID:c491d7b933585733642b7f99313d231c5a878cb6@student-timetable.local
+DTSTAMP:20261012T000000Z
+DTSTART;TZID=Asia/Kuala_Lumpur:20261112T140000
+DTEND;TZID=Asia/Kuala_Lumpur:20261112T180000
+SUMMARY:SEM 5 - DSWE 4 - SPG 0562
+LOCATION:KT5-L10-003
+DESCRIPTION:Reconstructed timetable. Confirm changes with your lecturer.\nC
+ lass: SEM 5 - DSWE 4\nLecturer: Syamiel Amirun
+STATUS:TENTATIVE
+END:VEVENT
+END:VCALENDAR

@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="theme-color" content="#132f3d">
+  <meta name="description" content="Choose your GMI class, view your weekly timetable, and export it to your own calendar.">
+  <title>GMI Student Timetable</title>
+  <link rel="stylesheet" href="./styles.css">
+  <script type="module" src="./app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to timetable</a>
+  <header class="topbar">
+    <a class="wordmark" href="./" aria-label="GMI Student Timetable home"><strong>GMI<span class="wordmark-dot">.</span></strong><span class="wordmark-label">Student timetable</span></a>
+    <div class="header-actions"><button id="quality-button" class="source-pill"><span class="status-dot"></span>Reconstructed schedule</button><span class="timezone">Kuala Lumpur · MYT</span></div>
+  </header>
+  <div class="app-shell">
+    <aside class="rail" aria-label="Class and calendar controls">
+      <div class="rail-top"><p class="eyebrow">YOUR CLASS</p><button id="class-button" class="class-switch" aria-haspopup="dialog"><span><small>Choose your class</small><strong id="class-name">Let’s get you started</strong></span><span data-icon="arrows"></span></button></div>
+      <div class="rail-menu"><span class="menu-label"><span data-icon="calendar"></span>My timetable<span class="menu-dot"></span></span><p>Your schedule. One place.</p></div>
+      <div class="calendar-card"><span class="calendar-card-icon" data-icon="download"></span><h2>Take it with you.</h2><p>Prefer your own calendar? Add only your class’s schedule.</p><button class="button primary full export-trigger" disabled>Add to my calendar<span data-icon="chevron"></span></button><small>Apple Calendar, Google Calendar &amp; Outlook</small></div>
+      <div class="rail-bottom"><span data-icon="info"></span><div><strong>A quick heads-up</strong><p>Confirm changes with your lecturer. Some timetable rules are still being verified.</p><button id="about-button" class="text-button">About this schedule <span>↗</span></button></div></div>
+    </aside>
+    <main id="main" tabindex="-1">
+      <div class="compact-class-row"><button id="compact-class-button" class="class-switch" aria-haspopup="dialog"><span><small>YOUR CLASS</small><strong id="compact-class-name">Choose your class</strong></span><span data-icon="arrows"></span></button></div>
+      <div class="page-heading"><div><p class="eyebrow" id="greeting">YOUR STUDENT PLANNER</p><h1>Your week, at a glance<span>.</span></h1><p class="heading-description" id="heading-description">Less searching. More time for what’s next.</p></div><button id="share-button" class="button secondary" disabled><span data-icon="share"></span><span>Share week</span></button></div>
+      <section class="summary" id="summary" aria-label="Week summary" hidden></section>
+      <section class="planner" aria-label="Timetable">
+        <div class="planner-toolbar">
+          <div class="week-controls"><button id="previous-week" class="icon-button previous" aria-label="Previous week" disabled><span data-icon="chevron"></span></button><div class="week-title"><label for="week-date" class="eyebrow">WEEK OF</label><input type="date" id="week-date" aria-label="Choose a timetable date" disabled><strong id="week-label">Loading schedule…</strong></div><button id="next-week" class="icon-button" aria-label="Next week" disabled><span data-icon="chevron"></span></button><button id="today-button" class="button today-button" disabled>This week</button></div>
+          <div class="view-switch" role="group" aria-label="Timetable view"><button id="week-view" class="active" aria-pressed="true"><span data-icon="grid"></span>Week</button><button id="agenda-view" aria-pressed="false"><span data-icon="list"></span>Agenda</button></div>
+        </div>
+        <div class="planner-subbar" id="subbar" hidden><div class="schedule-context"><span class="status-dot"></span><span id="schedule-context"></span></div><label class="search-field"><span data-icon="search"></span><input type="search" id="subject-search" placeholder="Find a subject, room or lecturer" aria-label="Search this week’s subjects, rooms and lecturers"></label></div>
+        <nav id="day-strip" class="day-strip" aria-label="Choose a day" hidden></nav>
+        <div id="schedule" class="schedule" aria-live="polite" aria-busy="true"><div class="state-panel"><span class="loading-spinner"></span><h2>Getting your planner ready</h2><p>Loading the available classes…</p></div></div>
+        <div class="planner-footer"><span><span class="tiny-dot"></span>All times in Kuala Lumpur (UTC+8)</span><span id="revision">Source revision · 9 Oct 2026</span></div>
+      </section>
+      <div class="below-planner"><p><strong>Make room for your day.</strong> Tap a lesson for the details.</p><button class="text-button export-trigger" disabled><span data-icon="download"></span>Download your class calendar</button></div>
+    </main>
+  </div>
+  <div class="mobile-export" hidden><div><small>YOUR CLASS CALENDAR</small><strong id="mobile-class-name"></strong></div><button class="button primary export-trigger" disabled><span data-icon="download"></span>Add to calendar</button></div>
+  <dialog id="class-dialog" class="dialog class-dialog" aria-labelledby="class-dialog-title"><div class="dialog-heading"><div><p class="eyebrow">MAKE IT YOURS</p><h2 id="class-dialog-title">Find your class</h2></div><button class="icon-button close-dialog" aria-label="Close class picker"><span data-icon="close"></span></button></div><p class="dialog-description">Choose your exact class or team. We’ll remember it on this device.</p><label class="search-field class-search"><span data-icon="search"></span><input type="search" id="class-search" placeholder="Try DMCH, semester 3 or GAPP…" aria-label="Search classes"></label><div id="class-results" class="class-results"></div><p class="dialog-footnote">Class calendars contain only that class’s entries.</p></dialog>
+  <dialog id="export-dialog" class="dialog export-dialog" aria-labelledby="export-dialog-title"><div class="dialog-heading"><div><p class="eyebrow">YOUR SCHEDULE, YOUR WAY</p><h2 id="export-dialog-title">Add to your calendar</h2></div><button class="icon-button close-dialog" aria-label="Close calendar export"><span data-icon="close"></span></button></div><div id="export-content"></div></dialog>
+  <dialog id="lesson-dialog" class="dialog lesson-dialog" aria-labelledby="lesson-dialog-title"><div class="dialog-heading"><p class="eyebrow">LESSON DETAILS</p><button class="icon-button close-dialog" aria-label="Close lesson details"><span data-icon="close"></span></button></div><div id="lesson-content"></div></dialog>
+  <dialog id="about-dialog" class="dialog" aria-labelledby="about-title"><div class="dialog-heading"><h2 id="about-title">About this timetable</h2><button class="icon-button close-dialog" aria-label="Close schedule information"><span data-icon="close"></span></button></div><div class="about-content"><span class="badge amber">Reconstructed schedule</span><p>This planner was recovered from the GMI timetable file revised on 9 October 2026. It covers January 2026 through January 2027.</p><p>Some original timetable rules are still being verified. Calendar-exception dates and overlapping class entries are labelled rather than removed. Check changes and clashes with your lecturer.</p><p>Downloads contain your selected class only. They are a snapshot, marked tentative, and do not update automatically.</p><p>No login is required. Your chosen class stays in this browser’s storage.</p><a href="https://github.com/lollllz/gmi-student-timetable" target="_blank" rel="noopener">Project &amp; source code <span data-icon="external"></span></a></div></dialog>
+  <div id="toast" class="toast" role="status" hidden></div>
+  <noscript><div class="noscript">Enable JavaScript to choose your class and view its timetable.</div></noscript>
+</body>
+</html>
