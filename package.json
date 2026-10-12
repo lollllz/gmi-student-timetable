@@ -6,7 +6,7 @@
   "scripts": {
     "build": "node scripts/build.mjs",
     "dev": "npm run build && node scripts/serve.mjs",
-    "test": "python3 tests/check_data.py && node --test tests/core.test.js tests/dav.test.js",
+    "test": "python3 tests/check_data.py && node --test tests/core.test.js tests/dav.test.js tests/class-search.test.js",
     "test:e2e": "playwright test"
   },
   "devDependencies": {

@@ -1,6 +1,7 @@
 import { addDays, monday, localToday, clampWeek, formatDate, weekLabel, minutes, filterEvents, shareUrl, calendarPath, escapeHtml as esc, validDate } from './core.js';
 import { icon } from './icons.js';
 import { classCalendar } from './calendar.js';
+import { classDetails, searchClasses } from './class-search.js';
 
 const $ = selector => document.querySelector(selector);
 const storageKey = 'gmi-student-class';
@@ -35,14 +36,22 @@ function updateUrl() {
 }
 function renderClassResults() {
   if (!state.manifest) return;
-  const query = $('#class-search').value.trim().toLowerCase();
-  const words = query.split(/\s+/).filter(Boolean);
-  const classes = state.manifest.classes.filter(item => words.every(word => item.name.toLowerCase().includes(word)));
-  $('#class-results').innerHTML = classes.length ? classes.map(item => `<button class="class-option ${state.selected?.id === item.id ? 'selected' : ''}" data-class-id="${item.id}" ${state.selected?.id === item.id ? 'aria-current="true"' : ''}><span><strong>${esc(item.name)}</strong><small>${item.eventCount ? `${item.eventCount} dated entries · calendar available` : 'No dated entries in this source'}</small></span>${icon(state.selected?.id === item.id ? 'check' : 'chevron')}</button>`).join('') : '<p class="picker-empty">No matching class. Try a course code or team name.</p>';
+  const query = $('#class-search').value;
+  const classes = searchClasses(state.manifest.classes, query, { programme: $('#programme-filter').value, semester: $('#semester-filter').value, group: $('#group-filter').value });
+  $('#class-result-count').textContent = `${classes.length} ${classes.length === 1 ? 'class' : 'classes'}${query.trim() ? ' matching your search' : ' available'}`;
+  $('#class-results').innerHTML = classes.length ? classes.map(item => `<button class="class-option ${state.selected?.id === item.id ? 'selected' : ''}" data-class-id="${item.id}" ${state.selected?.id === item.id ? 'aria-current="true"' : ''}><span><strong>${esc(item.name)}</strong><small>${item.fuzzy ? 'Close match · ' : ''}${item.eventCount ? `${item.eventCount} dated entries · calendar available` : 'No dated entries in this source'}</small></span>${icon(state.selected?.id === item.id ? 'check' : 'chevron')}</button>`).join('') : '<p class="picker-empty">No matching class. Try fewer words or clear the filters.</p>';
 }
 function openClassPicker() {
   if (!state.manifest) return;
   $('#class-search').value = '';
+  const details = state.manifest.classes.map(item => classDetails(item.name));
+  for (const [selector, values, label] of [
+    ['#programme-filter', details.flatMap(item => item.programmes), 'All programmes'],
+    ['#semester-filter', details.map(item => item.semester), 'All semesters'],
+    ['#group-filter', details.map(item => item.group), 'All groups'],
+  ]) {
+    $(selector).innerHTML = `<option value="">${label}</option>` + [...new Set(values.filter(Boolean))].sort((a, b) => a.localeCompare(b, undefined, { numeric: true })).map(value => `<option value="${esc(value)}">${selector === '#semester-filter' ? 'Semester ' : selector === '#group-filter' ? 'Group / team ' : ''}${esc(value)}</option>`).join('');
+  }
   renderClassResults();
   openDialog('#class-dialog');
   $('#class-search').focus();
@@ -346,6 +355,8 @@ $('#file-dialog').addEventListener('close', () => {
 $('#class-button').addEventListener('click', openClassPicker);
 $('#compact-class-button').addEventListener('click', openClassPicker);
 $('#class-search').addEventListener('input', renderClassResults);
+for (const selector of ['#programme-filter', '#semester-filter', '#group-filter']) $(selector).addEventListener('change', renderClassResults);
+$('#clear-class-filters').addEventListener('click', () => { $('#class-search').value = ''; for (const selector of ['#programme-filter', '#semester-filter', '#group-filter']) $(selector).value = ''; renderClassResults(); $('#class-search').focus(); });
 $('#class-results').addEventListener('click', event => {
   const button = event.target.closest('[data-class-id]');
   if (button) selectClass(button.dataset.classId);
