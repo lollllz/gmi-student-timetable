@@ -1,18 +1,39 @@
 import { addDays, monday, localToday, clampWeek, formatDate, weekLabel, minutes, filterEvents, shareUrl, calendarPath, escapeHtml as esc, validDate } from './core.js';
 import { icon } from './icons.js';
 import { classCalendar } from './calendar.js';
+import { editDav, davDownload } from './dav-writer.js';
 import { classDetails, searchClasses } from './class-search.js';
 
 const $ = selector => document.querySelector(selector);
 const storageKey = 'gmi-student-class';
 const media = window.matchMedia('(max-width: 700px)');
-const state = { manifest: null, selected: null, events: [], week: monday(localToday()), day: localToday(), view: 'week', query: '', loading: false, error: '', request: null, localFile: false, generation: 0 };
+const state = { manifest: null, selected: null, events: [], week: monday(localToday()), day: localToday(), view: 'week', query: '', loading: false, error: '', request: null, localFile: false, generation: 0, mode: 'class', davBuffer: null, editor: null, editId: null };
 const classCache = new Map();
 let toastTimer;
 let importWorker = null;
 let cancelImport = null;
 let importSequence = 0;
 let exportBlobUrl = null;
+const lecturerCache = new Map();
+const choices = () => state.mode === 'lecturer' ? state.manifest?.lecturers || [] : state.manifest?.classes || [];
+function applyPreferences() {
+  for (const id of ['large-text','high-contrast','reduce-motion']) document.documentElement.classList.toggle(id, $('#' + id).checked);
+}
+function installLocal(result, buffer) {
+  state.davBuffer = buffer; state.editor = result.editor; state.manifest = result.manifest;
+  classCache.clear(); lecturerCache.clear();
+  for (const [id,dataset] of Object.entries(result.datasets)) classCache.set(id,dataset);
+  for (const lecturer of result.manifest.lecturers) {
+    const events = result.lecturerEvents.filter(e => e.lecturer === lecturer.name);
+    const days = new Map(); for (const event of events) { const day = days.get(event.date) || []; day.push(event); days.set(event.date,day); }
+    for (const day of days.values()) for (const event of day) event.overlap = day.some(other => other.id !== event.id && event.start < other.end && other.start < event.end);
+    Object.assign(lecturer, {eventCount:events.length,firstDate:events[0]?.date || null,lastDate:events.at(-1)?.date || null});
+    events.sort((a,b) => a.date.localeCompare(b.date) || a.start.localeCompare(b.start));
+    lecturer.firstDate = events[0]?.date || null; lecturer.lastDate = events.at(-1)?.date || null;
+    lecturerCache.set(lecturer.id,{class:lecturer,events});
+  }
+}
+
 
 function hydrateIcons(root = document) {
   root.querySelectorAll('[data-icon]').forEach(element => { element.innerHTML = icon(element.dataset.icon); });
@@ -32,17 +53,21 @@ function openDialog(id) {
 }
 function updateUrl() {
   if (state.localFile) { history.replaceState(null, '', location.pathname); return; }
-  if (state.selected) history.replaceState(null, '', shareUrl(location.href, state.selected.id, state.week));
+  if (state.selected) { const url = new URL(shareUrl(location.href, state.selected.id, state.week)); if (state.mode === 'lecturer') { url.searchParams.delete('class'); url.searchParams.set('lecturer',state.selected.id); } history.replaceState(null,'',url); }
 }
 function renderClassResults() {
   if (!state.manifest) return;
   const query = $('#class-search').value;
-  const classes = searchClasses(state.manifest.classes, query, { programme: $('#programme-filter').value, semester: $('#semester-filter').value, group: $('#group-filter').value });
-  $('#class-result-count').textContent = `${classes.length} ${classes.length === 1 ? 'class' : 'classes'}${query.trim() ? ' matching your search' : ' available'}`;
+  const classes = state.mode === 'lecturer' ? choices().filter(item => query.toLowerCase().trim().split(/\s+/).every(word => item.name.toLowerCase().includes(word))) : searchClasses(state.manifest.classes, query, { programme: $('#programme-filter').value, semester: $('#semester-filter').value, group: $('#group-filter').value });
+  $('#class-result-count').textContent = state.mode === 'lecturer' ? `${classes.length} lecturer / resource timetables` : `${classes.length} ${classes.length === 1 ? 'class' : 'classes'}${query.trim() ? ' matching your search' : ' available'}`;
   $('#class-results').innerHTML = classes.length ? classes.map(item => `<button class="class-option ${state.selected?.id === item.id ? 'selected' : ''}" data-class-id="${item.id}" ${state.selected?.id === item.id ? 'aria-current="true"' : ''}><span><strong>${esc(item.name)}</strong><small>${item.fuzzy ? 'Close match · ' : ''}${item.eventCount ? `${item.eventCount} dated entries · calendar available` : 'No dated entries in this source'}</small></span>${icon(state.selected?.id === item.id ? 'check' : 'chevron')}</button>`).join('') : '<p class="picker-empty">No matching class. Try fewer words or clear the filters.</p>';
 }
 function openClassPicker() {
   if (!state.manifest) return;
+  $('#class-dialog-title').textContent = state.mode === 'lecturer' ? 'Find a lecturer' : 'Find your class';
+  $('#class-search').placeholder = state.mode === 'lecturer' ? 'Search lecturer name…' : 'Try semester 3 dmch or dswe group 2…';
+  $('#class-search').setAttribute('aria-label',state.mode === 'lecturer' ? 'Search lecturers' : 'Search classes');
+  $('.class-filters').hidden = state.mode === 'lecturer';
   $('#class-search').value = '';
   const details = state.manifest.classes.map(item => classDetails(item.name));
   for (const [selector, values, label] of [
@@ -62,7 +87,8 @@ async function fetchJson(path, signal) {
   return response.json();
 }
 async function selectClass(id, { preserveWeek = true } = {}) {
-  const selected = state.manifest?.classes.find(item => item.id === id);
+  const selected = choices().find(item => item.id === id);
+  const pickerOpen = $('#class-dialog').open; const mode = state.mode;
   if (!selected) return;
   state.request?.abort();
   const controller = new AbortController();
@@ -74,18 +100,21 @@ async function selectClass(id, { preserveWeek = true } = {}) {
   state.query = '';
   $('#subject-search').value = '';
   if (!preserveWeek) state.week = clampWeek(localToday(), state.manifest.planningStart, state.manifest.planningEnd);
-  saveClass(id);
+  if (mode === 'class') saveClass(id);
   updateUrl();
   $('#class-dialog').close();
   render();
   try {
-    const dataset = classCache.get(id) || await fetchJson(`./data/${id}.json`, controller.signal);
+    const cache = mode === 'lecturer' ? lecturerCache : classCache;
+    const dataset = cache.get(id) || await fetchJson(mode === 'lecturer' ? `./lecturers/${id}.json` : `./data/${id}.json`, controller.signal);
     if (controller.signal.aborted) return;
     if (dataset.class.id !== id || !Array.isArray(dataset.events)) throw new Error('Invalid class dataset');
-    classCache.set(id, dataset);
+    cache.set(id, dataset);
     state.events = dataset.events;
     state.loading = false;
     render();
+    if (pickerOpen) $('#main').focus();
+    toast(`${selected.name} timetable loaded.`);
   } catch (error) {
     if (error.name === 'AbortError') return;
     state.loading = false;
@@ -107,7 +136,7 @@ function exceptionsFor(date) {
 }
 function card(event, index = 0) {
   const tone = event.subject.split('').reduce((sum, char) => sum + char.charCodeAt(0), 0) % 3;
-  return `<button class="lesson ${tone === 1 ? 'alt' : tone === 2 ? 'warm' : ''}" data-event-id="${event.id}" aria-label="${esc(event.subject)}, ${esc(event.start)} to ${esc(event.end)}, ${esc(event.room || 'room not listed')}"><span class="lesson-time">${icon('clock')}${esc(event.start)} – ${esc(event.end)}</span><h3>${esc(event.subject)}</h3><span class="lesson-meta">${icon('pin')}<span>${esc(event.room || 'Room not listed')}</span></span>${event.lecturer ? `<span class="lesson-meta">${icon('person')}<span>${esc(event.lecturer)}</span></span>` : ''}${event.note ? `<p class="lesson-note">${esc(event.note)}</p>` : ''}${event.exception ? '<span class="badge amber">Calendar exception</span>' : ''}${event.overlap ? '<span class="badge amber">Overlapping entry</span>' : ''}</button>`;
+  return `<button class="lesson ${tone === 1 ? 'alt' : tone === 2 ? 'warm' : ''}" data-event-id="${event.id}" aria-label="${esc(event.subject)}, ${esc(event.start)} to ${esc(event.end)}, ${esc(event.room || 'room not listed')}, ${esc(event.date)}, ${esc(event.className || state.selected?.name || '')}${event.exception ? ' calendar exception' : ''}${event.overlap ? ' overlapping entry' : ''}"><span class="lesson-time">${icon('clock')}${esc(event.start)} – ${esc(event.end)}</span><h3>${esc(event.subject)}</h3>${state.mode === 'lecturer' ? `<span class="lesson-meta">${esc(event.className)}</span>` : ''}<span class="lesson-meta">${icon('pin')}<span>${esc(event.room || 'Room not listed')}</span></span>${event.lecturer ? `<span class="lesson-meta">${icon('person')}<span>${esc(event.lecturer)}</span></span>` : ''}${event.note ? `<p class="lesson-note">${esc(event.note)}</p>` : ''}${event.exception ? '<span class="badge amber">Calendar exception</span>' : ''}${event.overlap ? '<span class="badge amber">Overlapping entry</span>' : ''}</button>`;
 }
 function renderWeek(events) {
   const today = localToday();
@@ -142,22 +171,32 @@ function statePanel(title, description, action, actionLabel, image = 'calendar')
   return `<div class="state-panel"><div class="state-illustration">${icon(image)}</div><h2>${title}</h2><p>${description}</p>${action ? `<button class="button primary" data-action="${action}">${actionLabel}${icon('chevron')}</button>` : ''}</div>`;
 }
 function render() {
+  const focusedDay = document.activeElement?.dataset.day;
+  if (focusedDay) requestAnimationFrame(() => $(`[data-day="${focusedDay}"]`)?.focus());
   const manifest = state.manifest;
   const ready = Boolean(manifest);
   const selected = state.selected;
   const usable = Boolean(selected && !state.loading && !state.error);
+  $('#student-mode').setAttribute('aria-pressed',state.mode === 'class');
+  $('#student-mode').disabled = $('#lecturer-mode').disabled = !ready;
+  $('#lecturer-mode').setAttribute('aria-pressed',state.mode === 'lecturer');
+  $('#dav-export').disabled = !state.davBuffer;
+  $('#dav-hint').textContent = state.davBuffer ? 'Local edits affect recurring lessons. Export DAV saves the full file; verify it in DaVinci.' : 'To edit and export a DAV, open your original file. Downloads preserve the full timetable.';
   $('#class-name').textContent = selected?.name || 'Let’s get you started';
-  $('#compact-class-name').textContent = selected?.name || 'Choose your class';
+  $('#compact-class-name').textContent = selected?.name || (state.mode === 'lecturer' ? 'Choose a lecturer' : 'Choose your class');
   $('#mobile-class-name').textContent = selected?.name || '';
-  $('#class-button small').textContent = selected ? 'Your timetable' : 'Choose your class';
+  $('.mobile-export small').textContent = state.mode === 'lecturer' ? 'LECTURER CALENDAR' : 'YOUR CLASS CALENDAR';
+  $('#class-button small').textContent = state.mode === 'lecturer' ? 'Lecturer timetable' : selected ? 'Your timetable' : 'Choose your class';
+  $('#compact-class-button small').textContent = state.mode === 'lecturer' ? 'LECTURER' : 'YOUR CLASS';
+  $('#class-dialog .dialog-footnote').textContent = state.mode === 'lecturer' ? 'Lecturer calendars include all classes and resource activities listed in this source.' : 'Class calendars contain only that class’s entries.';
   $('#class-button').disabled = $('#compact-class-button').disabled = !ready;
   $('#share-button').disabled = !usable || state.localFile;
   $('#share-button').title = state.localFile ? 'Your local file cannot be shared through a website link. Export its class calendar instead.' : 'Share this class and week';
   $('#file-source-label').textContent = state.localFile ? `On this device: ${state.manifest.filename}` : 'Using the provided timetable';
   $('#restore-source').hidden = !state.localFile;
-  $('#revision').textContent = state.localFile ? 'Source · your local file' : 'Source revision · 9 Oct 2026';
+  $('#revision').textContent = state.localFile ? 'Source · your local file' : `Source revision · ${manifest?.sourceRevision || 'loading'}`;
   $('#about-source-description').textContent = state.localFile ? `You’re viewing ${state.manifest.filename}, read locally on this device. The planning range is ${state.manifest.planningStart} through ${state.manifest.planningEnd}.` : 'This planner was recovered from the GMI timetable file revised on 9 October 2026. It covers January 2026 through January 2027.';
-  $('#class-dialog .dialog-description').textContent = state.localFile ? 'Choose your class from this file. Reopen the file after refreshing the page.' : 'Choose your exact class or team. We’ll remember it on this device.';
+  $('#class-dialog .dialog-description').textContent = state.mode === 'lecturer' ? 'Search a lecturer or resource name to see entries across all classes. Source resource names may include activities.' : state.localFile ? 'Choose your class from this file. Reopen the file after refreshing the page.' : 'Choose your exact class or team. We’ll remember it on this device.';
   document.querySelectorAll('.export-trigger').forEach(button => { button.disabled = !usable || !selected.eventCount; });
   $('.mobile-export').hidden = !selected;
   $('#summary').hidden = !usable;
@@ -179,7 +218,7 @@ function render() {
   $('#agenda-view').setAttribute('aria-pressed', state.view === 'agenda');
   const schedule = $('#schedule');
   schedule.setAttribute('aria-busy', state.loading || !ready ? 'true' : 'false');
-  $('#greeting').textContent = selected ? 'YOUR CLASS. YOUR SCHEDULE.' : 'YOUR STUDENT PLANNER';
+  $('#greeting').textContent = state.mode === 'lecturer' ? 'LECTURER TIMETABLE · ALL CLASSES' : selected ? 'YOUR CLASS. YOUR SCHEDULE.' : 'YOUR STUDENT PLANNER';
   $('#heading-description').textContent = selected ? `${selected.name} · Times in Kuala Lumpur` : 'Less searching. More time for what’s next.';
   if (state.error) {
     schedule.setAttribute('aria-busy', 'false');
@@ -191,14 +230,14 @@ function render() {
     return;
   }
   if (!selected) {
-    schedule.innerHTML = statePanel('Your timetable starts here', 'Pick your class to see your week. Or download its calendar and use the calendar app you already love.', 'choose-class', 'Find my class');
+    schedule.innerHTML = statePanel('Your timetable starts here', state.mode === 'lecturer' ? 'Choose a lecturer to see lessons across all classes and export their calendar.' : 'Pick your class to see your week. Or download its calendar and use the calendar app you already love.', 'choose-class', state.mode === 'lecturer' ? 'Find a lecturer' : 'Find my class');
     return;
   }
   const allWeek = filterEvents(state.events, state.week);
   const events = filterEvents(state.events, state.week, state.query);
   renderSummary(allWeek);
   renderDayStrip(events);
-  $('#schedule-context').textContent = `${events.length} ${events.length === 1 ? 'entry' : 'entries'}${state.query ? ' matching your search' : ' on your schedule'}`;
+  $('#schedule-context').textContent = `${events.length} ${events.length === 1 ? 'entry' : 'entries'} · ${media.matches ? formatDate(state.day,{weekday:'long',day:'numeric',month:'short'}) : weekLabel(state.week)}${state.query ? ' matching your search' : ' on your schedule'}`;
   if (!events.length && !media.matches) {
     const next = state.events.find(event => event.date > addDays(state.week, 6));
     schedule.innerHTML = statePanel(state.query ? 'Nothing matches that search' : 'No classes listed this week', state.query ? 'Try a different subject, room or lecturer.' : next ? `Your next scheduled entry is ${esc(formatDate(next.date, { day: 'numeric', month: 'long' }))}.` : selected.eventCount ? 'There are no more dated entries in this source. You can view an earlier week or download the full class calendar.' : 'This class has no dated entries in the recovered source. Choose another class or check with your lecturer.', state.query ? 'clear-search' : next ? 'next-scheduled' : 'choose-class', state.query ? 'Clear search' : next ? 'Go to next class' : 'Choose another class');
@@ -210,24 +249,26 @@ function openLesson(id) {
   const event = state.events.find(item => item.id === id);
   if (!event) return;
   const row = (symbol, label, value) => `<div class="detail-row">${icon(symbol)}<div><small>${label}</small><strong>${esc(value)}</strong></div></div>`;
-  $('#lesson-content').innerHTML = `<p class="lesson-title-date">${formatDate(event.date, { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' })}</p><h2 id="lesson-dialog-title">${esc(event.subject)}</h2><p class="lesson-class">${esc(state.selected.name)}</p>${row('clock', 'TIME · KUALA LUMPUR', `${event.start} – ${event.end}`)}${row('pin', 'ROOM', event.room || 'Not listed in source')}${row('person', 'LECTURER', event.lecturer || 'Not listed in source')}${event.note ? row('info', 'NOTES', event.note) : ''}<div class="lesson-flags">${event.exception ? `<span class="badge amber">${esc(event.exception)} — calendar exception</span>` : ''}${event.overlap ? '<span class="badge amber">Overlaps another class entry. Check with your lecturer.</span>' : ''}<span class="badge">Reconstructed · confirm changes with your lecturer</span></div>`;
+  $('#lesson-content').innerHTML = `<p class="lesson-title-date">${formatDate(event.date, { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' })}</p><h2 id="lesson-dialog-title">${esc(event.subject)}</h2><p class="lesson-class">${esc(event.className || state.selected.name)}</p>${row('clock', 'TIME · KUALA LUMPUR', `${event.start} – ${event.end}`)}${row('pin', 'ROOM', event.room || 'Not listed in source')}${row('person', 'LECTURER', event.lecturer || 'Not listed in source')}${event.note ? row('info', 'NOTES', event.note) : ''}<div class="lesson-flags">${event.exception ? `<span class="badge amber">${esc(event.exception)} — calendar exception</span>` : ''}${event.overlap ? '<span class="badge amber">Overlaps another class entry. Check with your lecturer.</span>' : ''}<span class="badge">Reconstructed · confirm changes with your lecturer</span></div>`;
+  if (state.davBuffer && state.editor?.events[id]) $('#lesson-content').insertAdjacentHTML('beforeend',`<button id="edit-lesson" class="button secondary" data-edit-id="${esc(id)}">Edit recurring lesson</button>`);
   openDialog('#lesson-dialog');
 }
 function openExport() {
   if (!state.selected || state.loading || state.error || !state.selected.eventCount) return;
   const selected = state.selected;
   if (exportBlobUrl) { URL.revokeObjectURL(exportBlobUrl); exportBlobUrl = null; }
-  let downloadPath = calendarPath(selected.id);
-  if (state.localFile) {
+  let downloadPath = '';
+  if (!state.localFile && state.mode === 'class') downloadPath = calendarPath(selected.id);
+  if (state.localFile || state.mode === 'lecturer') {
     exportBlobUrl = URL.createObjectURL(new Blob([classCalendar(selected, state.events)], { type: 'text/calendar;charset=utf-8' }));
     downloadPath = exportBlobUrl;
   }
-  $('#export-content').innerHTML = `<p class="dialog-description">Keep your class timetable in the calendar app you already use.</p><div class="export-class"><strong>${esc(selected.name)}</strong><p>${selected.eventCount} entries · ${formatDate(selected.firstDate, { day: 'numeric', month: 'short', year: 'numeric' })} – ${formatDate(selected.lastDate, { day: 'numeric', month: 'short', year: 'numeric' })}</p></div><a id="calendar-download" class="button primary full download-link" href="${downloadPath}" download="GMI-${selected.id}.ics">${icon('download')}Download my class calendar (.ics)</a><div class="export-notice">${icon('info')}<span>Only this class’s full schedule is included. Times use Kuala Lumpur (UTC+8), and entries are marked tentative. Check changes with your lecturer.</span></div><p class="calendar-import-label">HOW TO ADD THE FILE</p><details open><summary>Google Calendar</summary><p>On a computer, open Google Calendar → Settings → Import &amp; export. Select the downloaded .ics file, choose a calendar, then Import.</p><a href="https://support.google.com/calendar/answer/37118?hl=en" target="_blank" rel="noopener">Google’s import guide ${icon('external')}</a></details><details><summary>Apple Calendar</summary><p>On a Mac, open Calendar → File → Import. Choose the downloaded .ics file, select a calendar, then confirm. Device import options may vary.</p><a href="https://support.apple.com/guide/calendar/icl1023/mac" target="_blank" rel="noopener">Apple’s import guide ${icon('external')}</a></details><details><summary>Outlook</summary><p>In Outlook on the web, choose Add calendar → Upload from file. Select the .ics file and your destination calendar, then Import.</p><a href="https://support.microsoft.com/en-us/outlook/import-or-subscribe-to-a-calendar-in-outlook-com-or-outlook-on-the-web" target="_blank" rel="noopener">Outlook’s import guide ${icon('external')}</a></details><p class="export-footnote">This download is a snapshot; it won’t update automatically. Import into a separate class calendar so you can replace it when a new schedule is published. Importing repeatedly may create duplicates.</p>`;
+  $('#export-content').innerHTML = `<p class="dialog-description">Keep your class timetable in the calendar app you already use.</p><div class="export-class"><strong>${esc(selected.name)}</strong><p>${selected.eventCount} entries · ${formatDate(selected.firstDate, { day: 'numeric', month: 'short', year: 'numeric' })} – ${formatDate(selected.lastDate, { day: 'numeric', month: 'short', year: 'numeric' })}</p></div><a id="calendar-download" class="button primary full download-link" href="${downloadPath}" download="GMI-${selected.id}.ics">${icon('download')}Download ${state.mode === 'lecturer' ? 'lecturer' : 'my class'} calendar (.ics)</a><div class="export-notice">${icon('info')}<span>${state.mode === 'lecturer' ? 'This lecturer’s full schedule across classes and resource activities is included.' : 'Only this class’s full schedule is included.'} Times use Kuala Lumpur (UTC+8), and entries are marked tentative. Check changes with your lecturer.</span></div><p class="calendar-import-label">HOW TO ADD THE FILE</p><details open><summary>Google Calendar</summary><p>On a computer, open Google Calendar → Settings → Import &amp; export. Select the downloaded .ics file, choose a calendar, then Import.</p><a href="https://support.google.com/calendar/answer/37118?hl=en" target="_blank" rel="noopener">Google’s import guide ${icon('external')}</a></details><details><summary>Apple Calendar</summary><p>On a Mac, open Calendar → File → Import. Choose the downloaded .ics file, select a calendar, then confirm. Device import options may vary.</p><a href="https://support.apple.com/guide/calendar/icl1023/mac" target="_blank" rel="noopener">Apple’s import guide ${icon('external')}</a></details><details><summary>Outlook</summary><p>In Outlook on the web, choose Add calendar → Upload from file. Select the .ics file and your destination calendar, then Import.</p><a href="https://support.microsoft.com/en-us/outlook/import-or-subscribe-to-a-calendar-in-outlook-com-or-outlook-on-the-web" target="_blank" rel="noopener">Outlook’s import guide ${icon('external')}</a></details><p class="export-footnote">This download is a snapshot; it won’t update automatically. Import into a separate class calendar so you can replace it when a new schedule is published. Importing repeatedly may create duplicates.</p>`;
   openDialog('#export-dialog');
 }
 async function shareWeek() {
   if (!state.selected) return;
-  const url = shareUrl(location.href, state.selected.id, state.week);
+  const shared = new URL(shareUrl(location.href, state.selected.id, state.week)); if (state.mode === 'lecturer') { shared.searchParams.delete('class'); shared.searchParams.set('lecturer',state.selected.id); } const url = shared.href;
   try {
     if (media.matches && navigator.share) {
       await navigator.share({ title: state.selected.name + ' timetable', url });
@@ -259,6 +300,7 @@ async function importFile(file) {
   try {
     if (file.size > 20 * 1024 * 1024) throw new Error('Choose a timetable file smaller than 20 MB.');
     const buffer = await file.arrayBuffer();
+    const retainedBuffer = buffer.slice(0);
     if (sequence !== importSequence || !$('#file-dialog').open) return;
     const result = await new Promise((resolve, reject) => {
       const worker = new Worker(new URL('./file-worker.js', import.meta.url), { type: 'module' });
@@ -274,15 +316,14 @@ async function importFile(file) {
     state.request?.abort();
     const previousId = state.selected?.id;
     state.localFile = true;
-    state.manifest = result.manifest;
+    installLocal(result, retainedBuffer);
     state.selected = null;
     state.events = [];
     state.error = '';
     state.loading = false;
     state.query = '';
     $('#subject-search').value = '';
-    classCache.clear();
-    for (const [id, dataset] of Object.entries(result.datasets)) classCache.set(id, dataset);
+
     state.week = clampWeek(localToday(), state.manifest.planningStart, state.manifest.planningEnd);
     state.day = state.week;
     updateUrl();
@@ -309,7 +350,7 @@ async function importFile(file) {
 }
 async function restoreProvidedSchedule() {
   state.request?.abort();
-  state.localFile = false;
+  state.localFile = false; state.davBuffer = null; state.editor = null; state.mode = 'class'; lecturerCache.clear();
   state.selected = null;
   state.manifest = null;
   state.events = [];
@@ -332,8 +373,9 @@ async function initialize() {
     state.week = clampWeek(validDate(date) ? date : localToday(), state.manifest.planningStart, state.manifest.planningEnd);
     const today = localToday();
     state.day = today >= state.week && today <= addDays(state.week, 6) ? today : state.week;
-    const id = query.get('class') || storedClass();
-    if (state.manifest.classes.some(item => item.id === id)) await selectClass(id);
+    state.mode = query.has('lecturer') ? 'lecturer' : 'class';
+    const id = query.get(state.mode) || (state.mode === 'class' ? storedClass() : '');
+    if (choices().some(item => item.id === id)) await selectClass(id);
     else render();
   } catch {
     if (generation !== state.generation) return;
@@ -399,3 +441,39 @@ $('#quality-button').addEventListener('click', () => openDialog('#about-dialog')
 $('#about-button').addEventListener('click', () => openDialog('#about-dialog'));
 media.addEventListener('change', render);
 initialize();
+
+for (const id of ['large-text','high-contrast','reduce-motion','agenda-default']) {
+  try { $('#' + id).checked = localStorage.getItem('timetable-' + id) === 'true'; } catch {}
+  $('#' + id).addEventListener('change',() => { try { localStorage.setItem('timetable-' + id,String($('#' + id).checked)); } catch {} if (id === 'agenda-default') state.view = $('#' + id).checked ? 'agenda' : 'week'; applyPreferences(); render(); });
+}
+applyPreferences(); if ($('#agenda-default').checked) state.view = 'agenda';
+$('#accessibility-button').addEventListener('click',() => openDialog('#accessibility-dialog'));
+for (const mode of ['class','lecturer']) $('#' + (mode === 'class' ? 'student' : 'lecturer') + '-mode').addEventListener('click',() => {
+  state.request?.abort(); state.mode = mode; state.selected = null; state.events = []; state.loading = false; state.error = ''; history.replaceState(null,'',location.pathname); render(); openClassPicker();
+});
+$('#dav-export').addEventListener('click',() => {
+  if (!state.davBuffer) return;
+  const url = URL.createObjectURL(davDownload(state.davBuffer)); const a = document.createElement('a');
+  a.href = url; a.download = 'edited-' + (state.manifest.filename || 'Timetable.dav'); a.click(); setTimeout(() => URL.revokeObjectURL(url),1000);
+  toast('DAV downloaded. Verify this experimental export in DaVinci before distributing.');
+});
+$('#lesson-content').addEventListener('click',event => {
+  const id = event.target.closest('[data-edit-id]')?.dataset.editId; if (!id) return;
+  state.editId = id; const record = state.editor.events[id];
+  $('#edit-note').value = record.note;
+  $('#edit-day').innerHTML = ['Monday','Tuesday','Wednesday','Thursday','Friday','Saturday','Sunday'].map((name,i) => `<option value="${i+1}">${name}</option>`).join(''); $('#edit-day').value = record.slots[0].day;
+  $('#edit-period').innerHTML = state.editor.periods.map((start,i) => `<option value="${i+1}">${String(Math.floor(start/60)).padStart(2,'0')}:${String(start%60).padStart(2,'0')} (period ${i+1})</option>`).join(''); $('#edit-period').value = record.slots[0].period;
+  $('#edit-error').hidden = true; openDialog('#edit-dialog');
+});
+$('#edit-form').addEventListener('submit', async event => {
+  event.preventDefault(); $('#save-edit').disabled = true; $('#edit-error').hidden = true;
+  try {
+    const selected = state.selected.id, week = state.week, filename = state.manifest.filename;
+    const result = await editDav(state.davBuffer,state.editor,state.editId,{note:$('#edit-note').value,day:Number($('#edit-day').value),period:Number($('#edit-period').value)});
+    result.decoded.manifest.filename = filename; installLocal(result.decoded,result.buffer);
+    $('#edit-dialog').close(); $('#lesson-dialog').close(); await selectClass(selected); setWeek(week);
+    $('#main').focus();
+    toast('Recurring lesson updated locally. Export DAV to save your changes.');
+  } catch(error) { $('#edit-error').textContent = error.message; $('#edit-error').hidden = false; }
+  finally { $('#save-edit').disabled = false; }
+});

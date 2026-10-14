@@ -132,10 +132,10 @@ function parseTimetable(bytes, position, patternCount, periods) {
       require(layout[0] <= 7 && layout[1] <= periods.length && layout.subarray(2, 9).every(value => value === 0) && layout[9] === 1 && layout.subarray(10, 17).every(value => value === 0));
       require(reader.value() === 0 && reader.value() === 0);
       const room = reference(reader.i32()), lecturer = reference(reader.i32()); reader.i32();
-      slots.push({ id: slotId, day: layout[0], period: layout[1], flag: layout[17], room, lecturer });
+      slots.push({ offset: rawStart, id: slotId, day: layout[0], period: layout[1], flag: layout[17], room, lecturer });
     }
     reader.i32(); const mask = reader.mask();
-    reader.value(); reader.value(); const note = reader.value();
+    reader.value(); reader.value(); const noteOffset = reader.position; const note = reader.value(); const noteEnd = reader.position;
     require(typeof note === 'string');
     const subject = reference(reader.i32()); reader.i32();
     reader.value(); reader.value(); reader.u8();
@@ -145,7 +145,7 @@ function parseTimetable(bytes, position, patternCount, periods) {
     const layout = reader.take(11);
     require(reader.view.getUint32(layout + 3, true) === count);
     require(reader.value() === 1 && reader.value() === 6 && reader.value() === '' && reader.value() === 0);
-    lessons.push({ id, classId: refs[1], subject, note, bits: activeBits(mask), slots });
+    lessons.push({ id, coupling: refs[0], noteOffset, noteEnd, classId: refs[1], subject, note, bits: activeBits(mask), slots });
   }
   for (let field = 0; field < 3; field++) reader.value();
   const reasons = reader.count(100);
@@ -216,10 +216,10 @@ export async function decodeDav(buffer, filename = 'Timetable.dav') {
     }
   }
   const datasets = Object.fromEntries(classRecords.map(item => [item.id, { class: item, events: [] }]));
-  let total = 0, omitted = 0;
+  let total = 0, omitted = 0; const lecturerEvents = [], editorEvents = {};
   for (const lesson of timetable.lessons) {
     const target = datasets[String(lesson.classId)], subject = dictionary[lesson.subject];
-    if (!target || subject?.category !== 'subjects') continue;
+    if (subject?.category !== 'subjects') continue;
     const grouped = new Map();
     for (const slot of lesson.slots) {
       if (!slot.day || !slot.period || slot.flag) { omitted++; continue; }
@@ -239,12 +239,15 @@ export async function decodeDav(buffer, filename = 'Timetable.dav') {
         if (date < planningStart || date > planningEnd) continue;
         for (const block of blocks) {
           const first = block[0], last = block.at(-1);
-          require(++total <= 200000);
-          target.events.push({ id: `${hash.slice(0, 24)}-${lesson.id}-${date.replaceAll('-', '')}-${block.map(slot => slot.id).join('.')}`, date,
+          require(lecturerEvents.length < 200000);
+          const entry = { id: `${hash.slice(0, 24)}-${lesson.id}-${date.replaceAll('-', '')}-${block.map(slot => slot.id).join('.')}`, date,
             start: clock(periods[first.period - 1]), end: clock(periods[last.period - 1] + duration),
             subject: subject.name, lecturer: dictionary[first.lecturer]?.category === 'staff' ? dictionary[first.lecturer].name : '',
             room: dictionary[first.room]?.category === 'rooms' ? dictionary[first.room].name : '', note: lesson.note.trim(),
-            exception: (exceptionMap.get(date) || []).join('; '), overlap: false });
+            exception: (exceptionMap.get(date) || []).join('; '), overlap: false };
+          editorEvents[entry.id] = { lessonId: lesson.id, coupling: lesson.coupling, noteOffset: lesson.noteOffset, noteEnd: lesson.noteEnd, note: lesson.note, slots: block };
+          lecturerEvents.push({ ...entry, className: target?.class.name || 'Resource / activity' });
+          if (target) { target.events.push(entry); total++; }
         }
       }
     }
@@ -257,5 +260,6 @@ export async function decodeDav(buffer, filename = 'Timetable.dav') {
     Object.assign(dataset.class, { eventCount: dataset.events.length, firstDate: dataset.events[0]?.date || null, lastDate: dataset.events.at(-1)?.date || null });
   }
   const classes = classRecords.sort((a, b) => a.name.localeCompare(b.name));
-  return { manifest: { title, timezone: 'Asia/Kuala_Lumpur', sourceRevision: 'Your local file', filename, planningStart, planningEnd, reconstructed: true, classes, exceptions }, datasets, omitted, total };
+  const lecturers = [...new Set(lecturerEvents.map(e => e.lecturer).filter(Boolean))].sort().map((name, index) => ({ id: String(index + 1), name }));
+  return { editor: { events: editorEvents, periods, duration, staff: Object.entries(dictionary).filter(([,v]) => v.category === 'staff').map(([id,v]) => ({ id, name:v.name })) }, lecturerEvents, manifest: { sourceHash: hash, lecturers, title, timezone: 'Asia/Kuala_Lumpur', sourceRevision: 'Your local file', filename, planningStart, planningEnd, reconstructed: true, classes, exceptions }, datasets, omitted, total };
 }

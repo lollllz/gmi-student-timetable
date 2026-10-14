@@ -85,6 +85,30 @@ def prepare(source, public):
     manifest = {'title': 'GMI Student Timetable', 'timezone': 'Asia/Kuala_Lumpur',
                 'sourceRevision': '9 October 2026', 'planningStart': '2026-01-01', 'planningEnd': '2027-01-31',
                 'reconstructed': True, 'classes': classes, 'exceptions': exceptions}
+    lecturer_folder = public / 'lecturers'
+    lecturer_folder.mkdir(parents=True, exist_ok=True)
+    by_lecturer = collections.defaultdict(list)
+    for row in rows:
+        name = row['staff'].strip()
+        if not name:
+            continue
+        uid = hashlib.sha256(f"{source_hash}:{row['lesson_id']}:{row['date']}:{row['slot_ids']}".encode()).hexdigest()[:40]
+        by_lecturer[name].append({'id':uid, 'date':row['date'], 'start':row['start_local'], 'end':row['end_local'],
+            'subject':row['subject'].strip(), 'lecturer':name, 'room':row['room'].strip(), 'note':row['note'].strip(),
+            'exception':row['source_calendar_exception'].strip(), 'className':row['class'].strip() or 'Resource / activity', 'overlap':False})
+    lecturers = []
+    for name, entries in sorted(by_lecturer.items()):
+        identifier = hashlib.sha256(name.encode()).hexdigest()[:16]
+        entries.sort(key=lambda e:(e['date'],e['start'],e['subject'],e['id']))
+        days = collections.defaultdict(list)
+        for event in entries: days[event['date']].append(event)
+        for day in days.values():
+            for event in day: event['overlap'] = any(other['id'] != event['id'] and event['start'] < other['end'] and other['start'] < event['end'] for other in day)
+        item = {'id':identifier,'name':name,'eventCount':len(entries),'firstDate':entries[0]['date'],'lastDate':entries[-1]['date']}
+        lecturers.append(item)
+        (lecturer_folder / f'{identifier}.json').write_text(json.dumps({'class':item,'events':entries},ensure_ascii=False,separators=(',',':')))
+    manifest['lecturers'] = lecturers
+    manifest['sourceHash'] = source_hash
     (data_folder / 'manifest.json').write_text(json.dumps(manifest, ensure_ascii=False, separators=(',', ':')))
     print(f'Prepared {len(classes)} classes, {count} student events and {len(classes)} class-only calendars.')
 

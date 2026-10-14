@@ -44,6 +44,15 @@ test('browser decoder agrees with every published class event in the reference f
   const source = await readFile(process.env.DAV_REFERENCE_FILE);
   const result = await decodeDav(source.buffer.slice(source.byteOffset, source.byteOffset + source.byteLength));
   assert.equal(result.total, 23193);
+  assert.equal(result.lecturerEvents.length,27242);
+  for (const lecturer of result.manifest.lecturers) {
+    const manifest = JSON.parse(await readFile(new URL('../public/data/manifest.json',import.meta.url),'utf8'));
+    const record = manifest.lecturers.find(item => item.name === lecturer.name);
+    if (!record) continue;
+    const expected = JSON.parse(await readFile(new URL(`../public/lecturers/${record.id}.json`,import.meta.url),'utf8'));
+    const rows = events => events.map(({id,overlap,...event}) => JSON.stringify(event)).sort();
+    assert.deepEqual(rows(result.lecturerEvents.filter(e => e.lecturer === lecturer.name)),rows(expected.events),lecturer.name);
+  }
   assert.equal(result.manifest.classes.length, 178);
   const canonical = events => events.map(({ id, ...event }) => JSON.stringify(event)).sort();
   for (const item of result.manifest.classes) {
@@ -53,4 +62,22 @@ test('browser decoder agrees with every published class event in the reference f
     const mismatch = actualRows.findIndex((row, index) => row !== expectedRows[index]);
     if (mismatch !== -1) assert.equal(actualRows[mismatch], expectedRows[mismatch], item.name);
   }
+});
+
+test('DAV export preserves all bytes without edits and patches recurring placement and notes losslessly', async () => {
+  const { editDav, davDownload } = await import('../dav-writer.js');
+  const original = makeDavFixture(); const result = await decodeDav(original.buffer);
+  assert.deepEqual(new Uint8Array(await davDownload(original.buffer).arrayBuffer()), original);
+  const event = result.datasets['1'].events[0];
+  const changed = await editDav(original.buffer,result.editor,event.id,{note:'Edited note',day:2,period:2});
+  assert.equal(changed.decoded.datasets['1'].events[0].date,'2026-07-07');
+  assert.equal(changed.decoded.datasets['1'].events[0].start,'09:00');
+  assert.equal(changed.decoded.datasets['1'].events[0].note,'Edited note');
+  assert.equal(changed.decoded.manifest.classes.length,2);
+  // Reverse the edit and demand byte identity, including every unknown byte.
+  const current = changed.decoded.datasets['1'].events[0];
+  const restored = await editDav(changed.buffer,changed.decoded.editor,current.id,{note:'From the new file',day:1,period:1});
+  assert.deepEqual(new Uint8Array(restored.buffer),original);
+  await assert.rejects(editDav(original.buffer,result.editor,event.id,{note:'Unsupported 🦄',day:1,period:1}),/Windows-1252/);
+  await assert.rejects(editDav(original.buffer,result.editor,event.id,{note:'',day:1,period:3}),/fits/);
 });

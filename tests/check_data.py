@@ -31,3 +31,13 @@ for item in manifest['classes']:
     all_count += len(events)
 assert all_count == 23193
 print('PASS: 178 class datasets/calendars; 23,193 events; IDs, counts, dates, times, timezone, folding and tentative status.')
+lecturers = manifest['lecturers']
+assert len({item['id'] for item in lecturers}) == len(lecturers)
+for item in lecturers:
+    dataset = json.loads((root / 'lecturers' / f"{item['id']}.json").read_text())
+    assert dataset['class'] == item
+    assert len(dataset['events']) == item['eventCount']
+    assert len({event['id'] for event in dataset['events']}) == item['eventCount']
+    assert all(event['lecturer'] == item['name'] and event['className'] and manifest['planningStart'] <= event['date'] <= manifest['planningEnd'] for event in dataset['events'])
+assert sum(item['eventCount'] for item in lecturers) == 26443
+print(f'PASS: {len(lecturers)} lecturer/resource datasets; 26,443 dated entries with class/activity labels.')

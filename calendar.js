@@ -15,7 +15,7 @@ export function classCalendar(selected, events, now = new Date()) {
     const endDate = event.end === '24:00' ? addDays(event.date, 1).replaceAll('-', '') : date;
     const endTime = event.end === '24:00' ? '0000' : event.end.replace(':', '');
     let description = 'Reconstructed timetable. Confirm changes with your lecturer.\nClass: ' + selected.name;
-    for (const [label, value] of [['Lecturer', event.lecturer], ['Notes', event.note], ['Calendar exception', event.exception]]) if (value) description += `\n${label}: ${value}`;
+    for (const [label, value] of [['Class', event.className], ['Lecturer', event.lecturer], ['Notes', event.note], ['Calendar exception', event.exception]]) if (value) description += `\n${label}: ${value}`;
     if (event.overlap) description += '\nOverlapping class entry: check with lecturer.';
     lines.push('BEGIN:VEVENT', 'UID:' + event.id + '@student-timetable.local', 'DTSTAMP:' + stamp,
       'DTSTART;TZID=Asia/Kuala_Lumpur:' + date + 'T' + event.start.replace(':', '') + '00',

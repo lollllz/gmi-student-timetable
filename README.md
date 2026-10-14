@@ -87,3 +87,23 @@ The `Publish student timetable` workflow checks the datasets and date/search log
 - Import checks use synthetic files with different counts, names and start times; test malformed/oversized inputs; verify local-only processing, cancellation and restore; and compare all 23,193 reference-file entries with the published datasets locally.
 
 Calendar imports themselves have not been exercised in the user’s calendar account. Import instructions link to official vendor guides within the app.
+
+## Lecturer timetable viewing
+
+Choose **By lecturer**, then search a lecturer name. The view combines that name's entries across classes and includes resource/activity entries without a class. Class names appear on cards and in calendar descriptions. Lecturer calendars are generated locally from the selected dataset; provided-source lecturer/week links can be shared. Names are grouped by the recovered display label, so identical staff labels cannot be distinguished as separate people. The current reference has 246 nonempty lecturer/resource labels with 26,443 dated entries; these are source records, not counts of people.
+
+## Accessibility
+
+**Accessibility** opens preferences for larger text, high contrast, reduced motion and an agenda default. Preferences persist on the current device. System reduced-motion preferences and forced-colour modes are respected. Controls have visible focus indicators, dialogs use native keyboard/focus handling, mobile day selection retains focus after rendering, and concise status updates replace announcements of the whole timetable. Lesson names include date, class and warning status. Contrast for muted/empty-state text and links has been improved.
+
+Automated axe WCAG A/AA checks cover the planner, lesson and accessibility dialogs, and the narrow-phone class picker with larger text and high contrast. Passing these checks is not a full WCAG conformance claim or a substitute for assistive-technology testing.
+
+## Experimental DAV editing and export
+
+Open your original compatible `.dav` file first. **Export DAV** downloads its complete contents, including nonstudent activities and unknown fields. Without edits the downloaded bytes are identical to the opened file. The original binary is not distributed through this site.
+
+Open a lesson and choose **Edit recurring lesson** to change its notes, weekday or starting clock period. Placement changes move that displayed block in every active week of its parent lesson. Notes affect the parent lesson and all its blocks. The full block must fit consecutive existing periods; linked/coupled lesson blocks cannot be moved independently. Notes must fit the legacy short-string limit of 255 Windows-1252 characters. Room, lecturer, subject, recurrence masks, lesson creation/deletion, holidays and linked-group editing remain outside this editor.
+
+The writer patches only decoded weekday/period bytes and the tagged note string in the original buffer. All other source bytes are retained. Each edit is decoded again before becoming active. Tests reverse edits and require byte-for-byte restoration of the original synthetic file. A downloaded edit can be reopened in this site's importer. Native DaVinci acceptance and scheduling behavior have not been tested: verify an exported copy in the original application before distributing it. Edits stay on-device, disappear after refreshing unless exported, and never change the provided public timetable.
+
+The attachment received on 14 October 2026 has the same SHA-256 as the previously published source (`0e65e7d9144b4054d9c41d31b4fb7ddb2dfeadd13b1b58eb593b9894a0496b25`). It was revalidated; no newer timetable revision was inferred from the upload date.
