@@ -43,8 +43,10 @@ test('unsupported, truncated and oversized files are rejected', async () => {
 test('browser decoder agrees with every published class event in the reference file', { skip: !process.env.DAV_REFERENCE_FILE }, async () => {
   const source = await readFile(process.env.DAV_REFERENCE_FILE);
   const result = await decodeDav(source.buffer.slice(source.byteOffset, source.byteOffset + source.byteLength));
-  assert.equal(result.total, 23193);
-  assert.equal(result.lecturerEvents.length,27242);
+  const published = JSON.parse(await readFile(new URL('../public/data/manifest.json',import.meta.url),'utf8'));
+  assert.equal(result.manifest.sourceHash,published.sourceHash);
+  assert.equal(result.total,published.counts.studentEvents);
+  assert.equal(result.lecturerEvents.length,published.counts.allEvents);
   for (const lecturer of result.manifest.lecturers) {
     const manifest = JSON.parse(await readFile(new URL('../public/data/manifest.json',import.meta.url),'utf8'));
     const record = manifest.lecturers.find(item => item.name === lecturer.name);
@@ -53,7 +55,7 @@ test('browser decoder agrees with every published class event in the reference f
     const rows = events => events.map(({id,overlap,...event}) => JSON.stringify(event)).sort();
     assert.deepEqual(rows(result.lecturerEvents.filter(e => e.lecturer === lecturer.name)),rows(expected.events),lecturer.name);
   }
-  assert.equal(result.manifest.classes.length, 178);
+  assert.equal(result.manifest.classes.length,published.counts.classes);
   const canonical = events => events.map(({ id, ...event }) => JSON.stringify(event)).sort();
   for (const item of result.manifest.classes) {
     const expected = JSON.parse(await readFile(new URL(`../public/data/${item.id}.json`, import.meta.url), 'utf8'));

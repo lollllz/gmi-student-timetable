@@ -18,3 +18,5 @@
 :root{--teal:#07777b}.no-day{color:var(--muted)}.weekend .no-day{color:var(--muted);opacity:1}
 .day-tab.active>span:first-child{color:#fff;opacity:1}:root.high-contrast{--teal:#005e61}
 @media(max-width:700px){.week-title strong{white-space:normal;overflow-wrap:anywhere;line-height:1.5}.week-controls{min-width:0}}
+
+.revision-notice{display:inline-flex;align-items:center;gap:7px;min-height:32px;padding:5px 10px;border:1px solid #9bc8bf;border-radius:99px;background:#e7f3f1;color:#075d61;font-size:11px;font-weight:650;white-space:nowrap}.revision-notice:hover{background:#d6eae4}.revision-new-dot{width:7px;height:7px;border-radius:50%;background:#075d61;flex-shrink:0}.file-source-row>div:first-child{flex-wrap:wrap}.large-text .revision-notice{font-size:14px}@media(forced-colors:active){.revision-notice{border:1px solid ButtonText}.revision-new-dot{background:ButtonText}}

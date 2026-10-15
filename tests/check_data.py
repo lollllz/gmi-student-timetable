@@ -5,8 +5,8 @@ import json
 
 root = Path(__file__).resolve().parents[1] / 'public'
 manifest = json.loads((root / 'data/manifest.json').read_text())
-assert len(manifest['classes']) == 178
-assert len({item['id'] for item in manifest['classes']}) == 178
+assert len(manifest['classes']) == manifest['counts']['classes'] > 0
+assert len({item['id'] for item in manifest['classes']}) == len(manifest['classes'])
 all_count = 0
 for item in manifest['classes']:
     dataset = json.loads((root / 'data' / f"{item['id']}.json").read_text())
@@ -29,8 +29,8 @@ for item in manifest['classes']:
         assert event['start'] < event['end']
         assert manifest['planningStart'] <= event['date'] <= manifest['planningEnd']
     all_count += len(events)
-assert all_count == 23193
-print('PASS: 178 class datasets/calendars; 23,193 events; IDs, counts, dates, times, timezone, folding and tentative status.')
+assert all_count == manifest['counts']['studentEvents']
+print(f'PASS: {len(manifest["classes"])} class datasets/calendars; {all_count:,} student events; dates, times, UIDs and tentative status.')
 lecturers = manifest['lecturers']
 assert len({item['id'] for item in lecturers}) == len(lecturers)
 for item in lecturers:
@@ -39,5 +39,10 @@ for item in lecturers:
     assert len(dataset['events']) == item['eventCount']
     assert len({event['id'] for event in dataset['events']}) == item['eventCount']
     assert all(event['lecturer'] == item['name'] and event['className'] and manifest['planningStart'] <= event['date'] <= manifest['planningEnd'] for event in dataset['events'])
-assert sum(item['eventCount'] for item in lecturers) == 26443
-print(f'PASS: {len(lecturers)} lecturer/resource datasets; 26,443 dated entries with class/activity labels.')
+assert sum(item['eventCount'] for item in lecturers) == manifest['counts']['lecturerEvents']
+print(f'PASS: {len(lecturers)} lecturer/resource datasets; {manifest["counts"]["lecturerEvents"]:,} dated entries with class/activity labels.')
+
+assert manifest['revisionCode'] and manifest['sourceFilename'].endswith('.dav')
+assert len(manifest['sourceHash']) == 64
+from datetime import date
+assert date.fromisoformat(manifest['sourceRevisionDate']).isoformat() == manifest['sourceRevisionDate']

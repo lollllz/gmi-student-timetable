@@ -28,7 +28,7 @@ This is still a reconstruction: native holiday/override behavior and other undoc
 
 ## Timetable status
 
-The schedule was reconstructed from `TT JULYSEPT 2026_R03Y_09102026.dav`, revised 9 October 2026. There are 178 class records, 166 with dated entries, and 23,193 student entries. The source planning range is January 2026 through January 2027.
+The current schedule was reconstructed from `TT JULYSEPT 2026_R04D_15102026.dav`, revision R04D dated 15 October 2026. There are 178 class records, 166 with dated entries, and 23,203 student entries. The source planning range is January 2026 through January 2027.
 
 This is **not an official live timetable**. Some original rules remain unverified. Exception overlaps and simultaneous entries are retained and labelled. Students should confirm changes with their lecturer. Exports are tentative snapshots and do not automatically update. Resource activities without a class are excluded from student datasets. Classes without entries remain searchable but have no enabled export.
 
@@ -84,13 +84,13 @@ The `Publish student timetable` workflow checks the datasets and date/search log
 - Every class calendar is checked against its class JSON: counts, dates, start/end times, unique UIDs, timezone, tentative status, UTF-8 line folding and date bounds.
 - Unit checks cover Malaysia’s date boundary, week navigation, search, shared links, safe calendar paths and HTML escaping.
 - Browser checks cover class selection, calendar download content, lesson details, search, empty weeks, saved selections, request retry, desktop weekly columns and mobile widths down to 320px.
-- Import checks use synthetic files with different counts, names and start times; test malformed/oversized inputs; verify local-only processing, cancellation and restore; and compare all 23,193 reference-file entries with the published datasets locally.
+- Import checks use synthetic files with different counts, names and start times; test malformed/oversized inputs; verify local-only processing, cancellation and restore; and compare all 23,203 reference-file entries with the published datasets locally.
 
 Calendar imports themselves have not been exercised in the user’s calendar account. Import instructions link to official vendor guides within the app.
 
 ## Lecturer timetable viewing
 
-Choose **By lecturer**, then search a lecturer name. The view combines that name's entries across classes and includes resource/activity entries without a class. Class names appear on cards and in calendar descriptions. Lecturer calendars are generated locally from the selected dataset; provided-source lecturer/week links can be shared. Names are grouped by the recovered display label, so identical staff labels cannot be distinguished as separate people. The current reference has 246 nonempty lecturer/resource labels with 26,443 dated entries; these are source records, not counts of people.
+Choose **By lecturer**, then search a lecturer name. The view combines that name's entries across classes and includes resource/activity entries without a class. Class names appear on cards and in calendar descriptions. Lecturer calendars are generated locally from the selected dataset; provided-source lecturer/week links can be shared. Names are grouped by the recovered display label, so identical staff labels cannot be distinguished as separate people. The current reference has 246 nonempty lecturer/resource labels with 26,453 dated entries; these are source records, not counts of people.
 
 ## Accessibility
 
@@ -107,3 +107,19 @@ Open a lesson and choose **Edit recurring lesson** to change its notes, weekday 
 The writer patches only decoded weekday/period bytes and the tagged note string in the original buffer. All other source bytes are retained. Each edit is decoded again before becoming active. Tests reverse edits and require byte-for-byte restoration of the original synthetic file. A downloaded edit can be reopened in this site's importer. Native DaVinci acceptance and scheduling behavior have not been tested: verify an exported copy in the original application before distributing it. Edits stay on-device, disappear after refreshing unless exported, and never change the provided public timetable.
 
 The attachment received on 14 October 2026 has the same SHA-256 as the previously published source (`0e65e7d9144b4054d9c41d31b4fb7ddb2dfeadd13b1b58eb593b9894a0496b25`). It was revalidated; no newer timetable revision was inferred from the upload date.
+
+
+## Publishing a new DAV revision
+
+Decode a new compatible source, generate all class/lecturer datasets and calendars, and record its explicit revision and date:
+
+```sh
+node scripts/prepare_dav.mjs '/path/to/timetable.dav' R04D 2026-10-15
+DAV_REFERENCE_FILE='/path/to/timetable.dav' npm test
+PLAYWRIGHT_CHANNEL=chrome npm run test:e2e
+npm run build
+```
+
+The generator validates the complete source through the browser reader before replacing generated files, removes obsolete generated datasets, and includes the source filename, SHA-256, revision date/code and counts in the manifest. It does not publish the original DAV or editing metadata. The older Python recovery-data generator remains specific to the original R03Y investigation; use the DAV generator for current revisions.
+
+A small revision pill identifies the latest provided timetable. Its New dot is remembered separately from class selection and clears when source details are opened. A future source hash shows the dot again. Local imports display “Local file loaded” and do not acknowledge the provided revision. The dot indicates a revision new to this browser, not an automatic background update or an official approval status. Calendar snapshots already imported into other apps do not update automatically.
