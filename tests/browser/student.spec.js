@@ -2,6 +2,7 @@ import { test, expect } from '@playwright/test';
 import { readFile, mkdir } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 const classId = '99178435';
+const expectedClass = JSON.parse(await readFile(new URL(`../../public/data/${classId}.json`,import.meta.url),'utf8')).class;
 const selectedUrl = `?class=${classId}&week=2026-10-12`;
 const qa = fileURLToPath(new URL('../../../../work/student-qa/', import.meta.url));
 
@@ -21,12 +22,12 @@ test('student chooses a class, browses lessons, and downloads only its calendar'
   await page.keyboard.press('Escape');
   await expect(page.locator('#lesson-dialog')).not.toBeVisible();
   await page.locator('.rail .export-trigger').click();
-  await expect(page.locator('#export-content')).toContainText('140 entries');
+  await expect(page.locator('#export-content')).toContainText(`${expectedClass.eventCount} entries`);
   const downloaded = page.waitForEvent('download');
   await page.locator('#calendar-download').click();
   const download = await downloaded;
   const calendar = await readFile(await download.path(), 'utf8');
-  expect(calendar.match(/BEGIN:VEVENT/g)).toHaveLength(140);
+  expect(calendar.match(/BEGIN:VEVENT/g)).toHaveLength(expectedClass.eventCount);
   expect(calendar).toContain('X-WR-CALNAME:SEM 3 - DMCH 1');
   expect(calendar).toContain('TZID:Asia/Kuala_Lumpur');
   expect(calendar).not.toContain('SEM 3 - DMCH 2');

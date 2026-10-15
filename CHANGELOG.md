@@ -1,5 +1,17 @@
 # Changelog
 
+## 15 October 2026 - R04D timetable and revision notification
+
+- Replaced the provided schedule with `TT JULYSEPT 2026_R04D_15102026.dav`, revision R04D dated 15 October 2026 (2,264,770 bytes).
+- Source SHA-256: `c03eccde201485bf286172202bfc96ab16210d4730e7a2daaf5ee9aa072c8174`.
+- Regenerated 178 class datasets/calendars: 23,203 student entries, a net increase of ten. The full reconstruction contains 27,252 dated blocks; lecturer/resource datasets contain 26,453 entries across 246 display labels.
+- Compared schedules excluding source-specific event IDs and derived overlap flags: 144 class schedules differ, with 564 added/changed and 554 removed/changed student blocks. These are block comparisons, not counts of individual administrative edits.
+- Added a small `R04D · 15 Oct 2026` indicator. Its New dot clears when source details are opened, remains acknowledged after refresh, and returns for a different source hash. Local file imports are labelled separately.
+- Added a current-revision DAV data generator with explicit filename/hash/revision/date/count metadata, regenerated calendar snapshots, and removal of obsolete generated datasets.
+- Updated revision information and browser tests so calendar checks follow the loaded dataset rather than a previous fixed event count.
+- Validation: complete structural decoding through EOF, class/lecturer parity with the supplied DAV, dataset/calendar checks and browser/accessibility workflows. Native DaVinci holiday/override semantics remain unverified; no new byte-round-trip or native application verification is claimed for R04D.
+
+
 ## 14 October 2026 - Accessibility, lecturer timetables and DAV editing
 
 Implemented and deployed in commit `d8c7cba3754140384368b714fd8108e6d18fc9d3`.

@@ -194,8 +194,19 @@ function render() {
   $('#share-button').title = state.localFile ? 'Your local file cannot be shared through a website link. Export its class calendar instead.' : 'Share this class and week';
   $('#file-source-label').textContent = state.localFile ? `On this device: ${state.manifest.filename}` : 'Using the provided timetable';
   $('#restore-source').hidden = !state.localFile;
+  const notice = $('#latest-timetable');
+  notice.hidden = !manifest;
+  if (manifest) {
+    const label = state.localFile ? 'Local file loaded' : `${manifest.revisionCode || 'Latest'} · ${manifest.sourceRevisionDate ? formatDate(manifest.sourceRevisionDate,{day:'numeric',month:'short',year:'numeric'}) : manifest.sourceRevision}`;
+    let unread = false;
+    try { unread = !state.localFile && localStorage.getItem('timetable-seen-revision') !== manifest.sourceHash; } catch { /* Still show the revision when storage is unavailable. */ }
+    $('#latest-timetable-label').textContent = label;
+    $('#revision-new-dot').hidden = !unread;
+    notice.setAttribute('aria-label',`${unread ? 'New timetable loaded. ' : ''}${label}. View timetable source details`);
+    notice.title = state.localFile ? manifest.filename : `Latest provided timetable: ${manifest.sourceFilename || manifest.sourceRevision}`;
+  }
   $('#revision').textContent = state.localFile ? 'Source · your local file' : `Source revision · ${manifest?.sourceRevision || 'loading'}`;
-  $('#about-source-description').textContent = state.localFile ? `You’re viewing ${state.manifest.filename}, read locally on this device. The planning range is ${state.manifest.planningStart} through ${state.manifest.planningEnd}.` : 'This planner was recovered from the GMI timetable file revised on 9 October 2026. It covers January 2026 through January 2027.';
+  $('#about-source-description').textContent = state.localFile ? `You’re viewing ${state.manifest.filename}, read locally on this device. The planning range is ${state.manifest.planningStart} through ${state.manifest.planningEnd}.` : manifest ? `Latest provided timetable: ${manifest.sourceFilename || manifest.title}. Revision ${manifest.revisionCode || ''}, dated ${manifest.sourceRevision}. Planning range: ${manifest.planningStart} through ${manifest.planningEnd}. Calendar downloads are snapshots; replace an older imported calendar to use this revision.` : 'Loading timetable source details…';
   $('#class-dialog .dialog-description').textContent = state.mode === 'lecturer' ? 'Search a lecturer or resource name to see entries across all classes. Source resource names may include activities.' : state.localFile ? 'Choose your class from this file. Reopen the file after refreshing the page.' : 'Choose your exact class or team. We’ll remember it on this device.';
   document.querySelectorAll('.export-trigger').forEach(button => { button.disabled = !usable || !selected.eventCount; });
   $('.mobile-export').hidden = !selected;
@@ -476,4 +487,9 @@ $('#edit-form').addEventListener('submit', async event => {
     toast('Recurring lesson updated locally. Export DAV to save your changes.');
   } catch(error) { $('#edit-error').textContent = error.message; $('#edit-error').hidden = false; }
   finally { $('#save-edit').disabled = false; }
+});
+
+$('#latest-timetable').addEventListener('click',() => {
+  if (!state.localFile && state.manifest?.sourceHash) { try { localStorage.setItem('timetable-seen-revision',state.manifest.sourceHash); } catch {} }
+  render(); openDialog('#about-dialog');
 });
