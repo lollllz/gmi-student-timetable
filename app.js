@@ -1,4 +1,5 @@
 import { addDays, monday, localToday, clampWeek, formatDate, weekLabel, minutes, filterEvents, shareUrl, calendarPath, escapeHtml as esc, validDate } from './core.js';
+import { hazeAdvisory, hazeActive, needsModeCheck, sourceSaysOnline } from './advisories.js';
 import { icon } from './icons.js';
 import { classCalendar } from './calendar.js';
 import { editDav, davDownload } from './dav-writer.js';
@@ -35,6 +36,20 @@ function installLocal(result, buffer) {
 }
 
 
+function renderHazeAdvisory() {
+  const region = $('#haze-advisory'); region.hidden = !hazeActive();
+  let collapsed = false;
+  try { collapsed = localStorage.getItem(hazeAdvisory.id + '-collapsed') === 'true'; } catch {}
+  $('#haze-details').hidden = collapsed;
+  $('#haze-toggle').setAttribute('aria-expanded',String(!collapsed));
+  $('#haze-toggle').textContent = collapsed ? 'Show haze reminder' : 'Hide haze reminder';
+  $('#haze-air-link').href = hazeAdvisory.airQualityUrl;
+  $('#haze-health-link').href = hazeAdvisory.healthUrl;
+}
+function modeReminder(event) {
+  if (sourceSaysOnline(event)) return 'Online · source note';
+  return needsModeCheck(event) ? 'Confirm class delivery' : '';
+}
 function hydrateIcons(root = document) {
   root.querySelectorAll('[data-icon]').forEach(element => { element.innerHTML = icon(element.dataset.icon); });
 }
@@ -135,8 +150,9 @@ function exceptionsFor(date) {
   return [...new Set(state.manifest.exceptions.filter(item => item.date === date).map(item => item.name))];
 }
 function card(event, index = 0) {
+  const mode = modeReminder(event);
   const tone = event.subject.split('').reduce((sum, char) => sum + char.charCodeAt(0), 0) % 3;
-  return `<button class="lesson ${tone === 1 ? 'alt' : tone === 2 ? 'warm' : ''}" data-event-id="${event.id}" aria-label="${esc(event.subject)}, ${esc(event.start)} to ${esc(event.end)}, ${esc(event.room || 'room not listed')}, ${esc(event.date)}, ${esc(event.className || state.selected?.name || '')}${event.exception ? ' calendar exception' : ''}${event.overlap ? ' overlapping entry' : ''}"><span class="lesson-time">${icon('clock')}${esc(event.start)} – ${esc(event.end)}</span><h3>${esc(event.subject)}</h3>${state.mode === 'lecturer' ? `<span class="lesson-meta">${esc(event.className)}</span>` : ''}<span class="lesson-meta">${icon('pin')}<span>${esc(event.room || 'Room not listed')}</span></span>${event.lecturer ? `<span class="lesson-meta">${icon('person')}<span>${esc(event.lecturer)}</span></span>` : ''}${event.note ? `<p class="lesson-note">${esc(event.note)}</p>` : ''}${event.exception ? '<span class="badge amber">Calendar exception</span>' : ''}${event.overlap ? '<span class="badge amber">Overlapping entry</span>' : ''}</button>`;
+  return `<button class="lesson ${tone === 1 ? 'alt' : tone === 2 ? 'warm' : ''}" data-event-id="${event.id}" aria-label="${esc(event.subject)}, ${esc(event.start)} to ${esc(event.end)}, ${esc(event.room || 'room not listed')}, ${esc(event.date)}, ${esc(event.className || state.selected?.name || '')}${event.exception ? ' calendar exception' : ''}${event.overlap ? ' overlapping entry' : ''}${mode ? ', ' + esc(mode) : ''}"><span class="lesson-time">${icon('clock')}${esc(event.start)} – ${esc(event.end)}</span><h3>${esc(event.subject)}</h3>${mode ? `<span class="badge mode-badge">${esc(mode)}</span>` : ''}${state.mode === 'lecturer' ? `<span class="lesson-meta">${esc(event.className)}</span>` : ''}<span class="lesson-meta">${icon('pin')}<span>${esc(event.room || 'Room not listed')}</span></span>${event.lecturer ? `<span class="lesson-meta">${icon('person')}<span>${esc(event.lecturer)}</span></span>` : ''}${event.note ? `<p class="lesson-note">${esc(event.note)}</p>` : ''}${event.exception ? '<span class="badge amber">Calendar exception</span>' : ''}${event.overlap ? '<span class="badge amber">Overlapping entry</span>' : ''}</button>`;
 }
 function renderWeek(events) {
   const today = localToday();
@@ -171,6 +187,7 @@ function statePanel(title, description, action, actionLabel, image = 'calendar')
   return `<div class="state-panel"><div class="state-illustration">${icon(image)}</div><h2>${title}</h2><p>${description}</p>${action ? `<button class="button primary" data-action="${action}">${actionLabel}${icon('chevron')}</button>` : ''}</div>`;
 }
 function render() {
+  renderHazeAdvisory();
   const focusedDay = document.activeElement?.dataset.day;
   if (focusedDay) requestAnimationFrame(() => $(`[data-day="${focusedDay}"]`)?.focus());
   const manifest = state.manifest;
@@ -261,6 +278,10 @@ function openLesson(id) {
   if (!event) return;
   const row = (symbol, label, value) => `<div class="detail-row">${icon(symbol)}<div><small>${label}</small><strong>${esc(value)}</strong></div></div>`;
   $('#lesson-content').innerHTML = `<p class="lesson-title-date">${formatDate(event.date, { weekday: 'long', day: 'numeric', month: 'long', year: 'numeric' })}</p><h2 id="lesson-dialog-title">${esc(event.subject)}</h2><p class="lesson-class">${esc(event.className || state.selected.name)}</p>${row('clock', 'TIME · KUALA LUMPUR', `${event.start} – ${event.end}`)}${row('pin', 'ROOM', event.room || 'Not listed in source')}${row('person', 'LECTURER', event.lecturer || 'Not listed in source')}${event.note ? row('info', 'NOTES', event.note) : ''}<div class="lesson-flags">${event.exception ? `<span class="badge amber">${esc(event.exception)} — calendar exception</span>` : ''}${event.overlap ? '<span class="badge amber">Overlaps another class entry. Check with your lecturer.</span>' : ''}<span class="badge">Reconstructed · confirm changes with your lecturer</span></div>`;
+  if (sourceSaysOnline(event) || needsModeCheck(event)) {
+    const message = sourceSaysOnline(event) ? 'The timetable note says online. Confirm the latest arrangements and meeting link with your lecturer.' : 'Haze may affect class delivery. This lesson is not confirmed online. Check your lecturer’s latest message or GMI announcements before travelling.';
+    $('#lesson-content').insertAdjacentHTML('beforeend',`<div class="lesson-mode-notice"><strong>Class delivery</strong><p>${message}</p></div>`);
+  }
   if (state.davBuffer && state.editor?.events[id]) $('#lesson-content').insertAdjacentHTML('beforeend',`<button id="edit-lesson" class="button secondary" data-edit-id="${esc(id)}">Edit recurring lesson</button>`);
   openDialog('#lesson-dialog');
 }
@@ -493,3 +514,13 @@ $('#latest-timetable').addEventListener('click',() => {
   if (!state.localFile && state.manifest?.sourceHash) { try { localStorage.setItem('timetable-seen-revision',state.manifest.sourceHash); } catch {} }
   render(); openDialog('#about-dialog');
 });
+
+$('#haze-toggle').addEventListener('click',() => {
+  const collapsed = !$('#haze-details').hidden;
+  try { localStorage.setItem(hazeAdvisory.id + '-collapsed',String(collapsed)); } catch {}
+  $('#haze-details').hidden = collapsed;
+  $('#haze-toggle').setAttribute('aria-expanded',String(!collapsed));
+  $('#haze-toggle').textContent = collapsed ? 'Show haze reminder' : 'Hide haze reminder';
+});
+// Re-evaluate the date window when a tab is revisited, including after midnight.
+document.addEventListener('visibilitychange',() => { if (!document.hidden) render(); });

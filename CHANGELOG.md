@@ -1,5 +1,14 @@
 # Changelog
 
+## 18 October 2026 - Haze precautions and class delivery reminders
+
+- Added a collapsible Kajang haze precaution with a mask/respirator reminder, official MOH guidance and an APIMS link. It does not display an unverified air-quality reading or claim institutional approval.
+- Prompted users to check lecturer messages or GMI announcements because classes may change delivery mode. Upcoming lessons in the active window show “Confirm class delivery”; only explicit source notes produce an “Online · source note” label.
+- Added explanatory lesson details, accessible toggle state and saved collapse preferences. The initial reminder expires after 25 October 2026 to avoid a stale indefinite notice.
+- Left timetable data, DAV files and calendar exports unchanged.
+- Validation: 17 reference-enabled unit tests and 17 browser workflows passed, including haze expiry, ambiguous/negated online wording, collapse persistence, narrow-phone layout and automated accessibility checks.
+
+
 ## 15 October 2026 - R04D timetable and revision notification
 
 - Replaced the provided schedule with `TT JULYSEPT 2026_R04D_15102026.dav`, revision R04D dated 15 October 2026 (2,264,770 bytes).
