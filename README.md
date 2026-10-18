@@ -123,3 +123,15 @@ npm run build
 The generator validates the complete source through the browser reader before replacing generated files, removes obsolete generated datasets, and includes the source filename, SHA-256, revision date/code and counts in the manifest. It does not publish the original DAV or editing metadata. The older Python recovery-data generator remains specific to the original R03Y investigation; use the DAV generator for current revisions.
 
 A small revision pill identifies the latest provided timetable. Its New dot is remembered separately from class selection and clears when source details are opened. A future source hash shows the dot again. Local imports display “Local file loaded” and do not acknowledge the provided revision. The dot indicates a revision new to this browser, not an automatic background update or an official approval status. Calendar snapshots already imported into other apps do not update automatically.
+
+## Haze precautions and class delivery
+
+A maintained Kajang haze reminder is configured in `advisories.js`. The initial notice runs from 18 through 25 October 2026 (Kuala Lumpur dates) and then disappears unless its window is deliberately updated. It provides a respiratory-protection reminder linked to Malaysian Ministry of Health guidance, an official APIMS link, and a prompt to check lecturer messages or GMI announcements before campus travel. It does not fetch or claim a current API reading and is not an official GMI class-change notice.
+
+Upcoming lessons within the active window receive “Confirm class delivery” prompts. “Online · source note” labels require explicit wording in the timetable note; haze alone, an absent room or a room named Online never confirms online teaching. Negated/cancelled online notes are excluded. Lesson details explain that source notes still need current confirmation. Neither the DAV nor calendar exports are changed by these UI reminders.
+
+The reminder can be collapsed and reopened; the preference is stored per advisory ID on the current device. Updating the advisory ID presents a revised notice again. Review the dates and guidance links when extending the window; do not extend it as evidence of current air quality or a campus closure. The date window is re-evaluated when the tab becomes visible again.
+
+Guidance reviewed on 18 October 2026:
+- Ministry of Health: https://www.moh.gov.my/teras/info-kesihatan/jerebu/artikel-dan-panduan-pengguna-berkaitan-jerebu/usage-of-personal-protection-during-haze
+- Department of Environment APIMS: https://eqms.doe.gov.my/APIMS/main
