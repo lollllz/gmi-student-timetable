@@ -1,5 +1,13 @@
 # Changelog
 
+## 18 October 2026 - Compact campus updates
+
+- Replaced the initially expanded haze and air-quality panels with one collapsed Air & campus updates strip, giving the timetable substantially more space.
+- Kept the reference station, API/category, observation time and stale/unavailable status visible in the compact summary, with a short active haze reminder.
+- Moved guidance, source links, station selection and refresh controls into the expandable content. It starts collapsed on each page load and supports native keyboard activation.
+- Validation: all 20 browser workflows passed, including compact height at 320px, keyboard expansion, accessibility and existing timetable/export flows.
+
+
 ## 18 October 2026 - Latest official station air-quality readings
 
 - Added a regional reference card with Putrajaya/Cheras station selection, Malaysian API/IPU value and category, observation time in MYT and DOE/APIMS attribution.

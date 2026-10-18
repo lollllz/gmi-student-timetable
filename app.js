@@ -39,6 +39,7 @@ function installLocal(result, buffer) {
 
 function renderHazeAdvisory() {
   const region = $('#haze-advisory'); region.hidden = !hazeActive();
+  $('#haze-brief').hidden = !hazeActive();
   let collapsed = false;
   try { collapsed = localStorage.getItem(hazeAdvisory.id + '-collapsed') === 'true'; } catch {}
   $('#haze-details').hidden = collapsed;

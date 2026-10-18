@@ -2,6 +2,8 @@ import { AIR_SOURCE, AIR_STATIONS, readingState, airTime } from './air-quality.j
 import { escapeHtml as esc } from './core.js';
 export function initAirQuality() {
  const region=document.querySelector('#air-quality'), result=document.querySelector('#air-result'), select=document.querySelector('#air-station'), refresh=document.querySelector('#air-refresh');
+ const brief=document.querySelector('#air-brief');
+ const setBrief=text=>{if(brief.textContent!==text)brief.textContent=text;};
  const show=html=>{if(result.innerHTML!==html)result.innerHTML=html;};
  let snapshot=null,loading=false,lastAttempt=0,error=false;
  select.innerHTML=AIR_STATIONS.map(s=>`<option value="${s.id}">${esc(s.name)}</option>`).join('');
@@ -10,7 +12,10 @@ export function initAirQuality() {
  function render() {
   region.setAttribute('aria-busy',String(loading)); refresh.disabled=loading;
   const reading=readingState(snapshot,select.value); result.dataset.state=reading.status;
-  if (loading && !snapshot) { show('<p>Loading latest station reading…</p>');return; }
+  const name=reading.station?.name.split(',')[0] || 'Reference station';
+  if (reading.status==='unavailable') setBrief(`${name} · Air reading unavailable`);
+  else { const time=new Intl.DateTimeFormat('en-GB',{timeZone:'Asia/Kuala_Lumpur',day:'numeric',month:'short',hour:'2-digit',minute:'2-digit',hourCycle:'h23'}).format(new Date(reading.observedAt)); setBrief(`${name} · API ${reading.value} ${reading.category}${reading.status==='stale' ? ' · Outdated' : ''} · ${time} MYT`); }
+  if (loading && !snapshot) { setBrief('Loading air quality…'); show('<p>Loading latest station reading…</p>');return; }
   if (reading.status==='unavailable') { show('<p><strong>Reading unavailable</strong></p><p>No recent verified reading is available here. Check the official APIMS source.</p>');return; }
   show(`<p class="air-value"><strong>${reading.value}</strong><span>API / IPU · ${esc(reading.category)}</span></p><p><strong>${reading.status==='stale' ? 'Outdated reading' : 'Latest available reading'}</strong> · ${esc(airTime(reading.observedAt))}</p>${reading.status==='stale' ? '<p>Older than 3 hours. This is a last-known reading, not current conditions.</p>' : ''}${error ? '<p>Refresh failed; showing the last retrieved reading with its original timestamp.</p>' : ''}`);
  }

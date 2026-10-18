@@ -5,6 +5,9 @@ test('latest station reading, timestamp, station selection and refresh failure a
  await page.clock.setFixedTime(new Date(now));let fail=false;
  await page.route('**/data/air-quality.json',route=>fail?route.abort():route.fulfill({json:snapshot()}));
  await page.goto('./?class=99178435&week=2026-10-19');
+ await expect(page.locator('#campus-conditions')).not.toHaveAttribute('open','');
+ await expect(page.locator('#air-brief')).toContainText('156');
+ await page.locator('#conditions-toggle').click();
  await expect(page.locator('#air-result')).toContainText('156');await expect(page.locator('#air-result')).toContainText('22:00 MYT');
  await expect(page.locator('#air-location-note')).toContainText('not a campus measurement');
  await page.locator('#air-station').selectOption('CA16W');await expect(page.locator('#air-result')).toContainText('155');
@@ -18,7 +21,7 @@ test('latest station reading, timestamp, station selection and refresh failure a
 test('stale and missing readings are explicit and timetable stays usable',async ({page})=>{
  await page.clock.setFixedTime(new Date(now));let data=snapshot('2026-10-18T09:00:00Z');
  await page.route('**/data/air-quality.json',route=>route.fulfill({json:data}));
- await page.goto('./?class=99178435&week=2026-10-19');await expect(page.locator('#air-result')).toContainText('Outdated reading');
+ await page.goto('./?class=99178435&week=2026-10-19');await expect(page.locator('#air-brief')).toContainText('Outdated');await page.locator('#conditions-toggle').click();await expect(page.locator('#air-result')).toContainText('Outdated reading');
  data=snapshot('2026-10-16T14:00:00Z');await page.getByRole('button',{name:'Refresh reading'}).click();
  await expect(page.locator('#air-result')).toContainText('Reading unavailable');await expect(page.locator('#air-result')).not.toContainText('156');
  await expect(page.locator('.lesson').first()).toBeVisible();
