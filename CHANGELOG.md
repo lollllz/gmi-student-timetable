@@ -1,5 +1,14 @@
 # Changelog
 
+## 18 October 2026 - Latest official station air-quality readings
+
+- Added a regional reference card with Putrajaya/Cheras station selection, Malaysian API/IPU value and category, observation time in MYT and DOE/APIMS attribution.
+- Added hourly server-side snapshots via the existing Pages workflow, with no exposed keys or per-user requests to DOE. Snapshot refresh is independent of timetable loading and class delivery decisions.
+- Added loading, refresh-failure, outdated (>3 hours) and unavailable (>24 hours) states. Last-known observation timestamps are preserved on upstream failure. Future/null/inconsistent data is rejected.
+- Normalised the official feed's offset-free Malaysian timestamps explicitly to UTC+8 and published only an allowlist of station fields.
+- Added unit and browser coverage for timestamp conversion, invalid data, freshness, station selection, failed refresh, phone layout and accessibility. No timetable data or calendar/DAV exports changed.
+
+
 ## 18 October 2026 - Haze precautions and class delivery reminders
 
 - Added a collapsible Kajang haze precaution with a mask/respirator reminder, official MOH guidance and an APIMS link. It does not display an unverified air-quality reading or claim institutional approval.

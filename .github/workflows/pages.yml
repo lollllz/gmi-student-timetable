@@ -2,6 +2,8 @@ name: Publish student timetable
 on:
   push:
     branches: [main]
+  schedule:
+    - cron: '17 * * * *'
   workflow_dispatch:
 permissions:
   contents: read
@@ -23,6 +25,7 @@ jobs:
           node-version: 22
       - run: npm ci
       - run: npm test
+      - run: node scripts/update-air-quality.mjs
       - run: npm run build
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
