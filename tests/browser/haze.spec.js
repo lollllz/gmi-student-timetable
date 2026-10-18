@@ -3,13 +3,14 @@ import AxeBuilder from '@axe-core/playwright';
 test('haze precaution is accessible, collapsible and keeps class changes unconfirmed',async ({page})=>{
  await page.clock.setFixedTime(new Date('2026-10-18T03:00:00Z'));
  await page.goto('./?class=99178435&week=2026-10-19');
+ await page.locator('#conditions-toggle').click();
  await expect(page.locator('#haze-advisory')).toBeVisible();
  await expect(page.locator('#haze-details')).toContainText('N95');
  await expect(page.locator('#haze-details')).toContainText('not a confirmed GMI');
  await expect(page.locator('#haze-air-link')).toHaveAttribute('href','https://eqms.doe.gov.my/APIMS/main');
  await page.getByRole('button',{name:'Hide haze reminder'}).click();
  await expect(page.locator('#haze-toggle')).toHaveAttribute('aria-expanded','false');
- await page.reload(); await expect(page.locator('#haze-details')).toBeHidden();
+ await page.reload(); await page.locator('#conditions-toggle').click(); await expect(page.locator('#haze-details')).toBeHidden();
  await page.getByRole('button',{name:'Show haze reminder'}).click();
  await expect(page.locator('#haze-details')).toBeVisible();
  const lesson=page.locator('.lesson').filter({hasText:'Confirm class delivery'}).first();

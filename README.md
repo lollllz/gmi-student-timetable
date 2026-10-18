@@ -152,3 +152,8 @@ npm run build
 ```
 
 Attribution and full official readings: https://eqms.doe.gov.my/APIMS/main
+
+
+## Compact campus updates
+
+Air quality and haze precautions share a collapsed-by-default Air & campus updates strip. The summary shows the selected station, reading/category, observation time, stale/unavailable status and a short active haze reminder. Tap or use Enter/Space on the summary to reveal guidance, attribution, station selection and refresh controls. The section starts closed on each page load so the timetable remains the primary view; background reading refresh continues while it is closed.
