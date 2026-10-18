@@ -126,7 +126,7 @@ A small revision pill identifies the latest provided timetable. Its New dot is r
 
 ## Haze precautions and class delivery
 
-A maintained Kajang haze reminder is configured in `advisories.js`. The initial notice runs from 18 through 25 October 2026 (Kuala Lumpur dates) and then disappears unless its window is deliberately updated. It provides a respiratory-protection reminder linked to Malaysian Ministry of Health guidance, an official APIMS link, and a prompt to check lecturer messages or GMI announcements before campus travel. It does not fetch or claim a current API reading and is not an official GMI class-change notice.
+A maintained Kajang haze reminder is configured in `advisories.js`. The initial notice runs from 18 through 25 October 2026 (Kuala Lumpur dates) and then disappears unless its window is deliberately updated. It provides a respiratory-protection reminder linked to Malaysian Ministry of Health guidance, an official APIMS link, and a prompt to check lecturer messages or GMI announcements before campus travel. The precaution itself does not assert a live API reading or an official GMI class-change notice; the separate air-quality card provides dated DOE station snapshots.
 
 Upcoming lessons within the active window receive “Confirm class delivery” prompts. “Online · source note” labels require explicit wording in the timetable note; haze alone, an absent room or a room named Online never confirms online teaching. Negated/cancelled online notes are excluded. Lesson details explain that source notes still need current confirmation. Neither the DAV nor calendar exports are changed by these UI reminders.
 
@@ -135,3 +135,20 @@ The reminder can be collapsed and reopened; the preference is stored per advisor
 Guidance reviewed on 18 October 2026:
 - Ministry of Health: https://www.moh.gov.my/teras/info-kesihatan/jerebu/artikel-dan-panduan-pengguna-berkaitan-jerebu/usage-of-personal-protection-during-haze
 - Department of Environment APIMS: https://eqms.doe.gov.my/APIMS/main
+
+## Latest air quality
+
+The air-quality card displays Malaysian API/IPU readings from DOE's public APIMS map feed, with a named Putrajaya reference station and optional Cheras reference. These are regional stations, not measurements at GMI's campus or a claim to be the nearest sensor. The value, category and observation time are separate from the time our snapshot was fetched. Class delivery is never inferred from air quality.
+
+A server-side step retrieves `https://eqms.doe.gov.my/api3/publicportalapims/mapcaqm`, the feed used by the official public portal. The source restricts browser cross-origin access, so GitHub Pages serves a small same-origin JSON snapshot. The existing Pages workflow refreshes it on deployment and at minute 17 of each hour. Scheduled runs can be delayed; the UI always evaluates the age of the observation. No API key, tracking or browser location access is required.
+
+The source's `RECORD_DT` is a Malaysian wall-clock string without an offset; the official public client parses this string locally. Our normaliser explicitly applies `+08:00` so visitors in other time zones see the same instant. Only the configured station IDs, names, integer API values, matching API categories and timestamps are published. Unknown, inconsistent or implausibly future readings are rejected. No operator contact fields or full feed archives are published.
+
+Readings older than three hours show “Outdated reading” and remain labelled as last-known information. After 24 hours the number is hidden as unavailable. Source/network failures preserve the last successfully retrieved observation without resetting its timestamp. A station request failure is independent of timetable loading. Browser refresh retrieves the latest published snapshot; it cannot force a new DOE observation. Open tabs check snapshots about every 15 minutes while visible and re-evaluate freshness each minute without repeating unchanged screen-reader announcements.
+
+```sh
+node scripts/update-air-quality.mjs
+npm run build
+```
+
+Attribution and full official readings: https://eqms.doe.gov.my/APIMS/main

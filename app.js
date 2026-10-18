@@ -1,5 +1,6 @@
 import { addDays, monday, localToday, clampWeek, formatDate, weekLabel, minutes, filterEvents, shareUrl, calendarPath, escapeHtml as esc, validDate } from './core.js';
 import { hazeAdvisory, hazeActive, needsModeCheck, sourceSaysOnline } from './advisories.js';
+import { initAirQuality } from './air-quality-ui.js';
 import { icon } from './icons.js';
 import { classCalendar } from './calendar.js';
 import { editDav, davDownload } from './dav-writer.js';
@@ -524,3 +525,5 @@ $('#haze-toggle').addEventListener('click',() => {
 });
 // Re-evaluate the date window when a tab is revisited, including after midnight.
 document.addEventListener('visibilitychange',() => { if (!document.hidden) render(); });
+
+initAirQuality();

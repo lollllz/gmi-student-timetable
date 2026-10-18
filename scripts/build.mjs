@@ -3,7 +3,7 @@ const root = new URL('../', import.meta.url);
 const dist = new URL('dist/', root);
 await rm(dist, { recursive: true, force: true });
 await mkdir(dist, { recursive: true });
-for (const name of ['index.html', 'styles.css', 'app.js', 'core.js', 'icons.js', 'dav-reader.js', 'file-worker.js', 'calendar.js', 'class-search.js', 'dav-writer.js', 'advisories.js']) {
+for (const name of ['index.html', 'styles.css', 'app.js', 'core.js', 'icons.js', 'dav-reader.js', 'file-worker.js', 'calendar.js', 'class-search.js', 'dav-writer.js', 'advisories.js', 'air-quality.js', 'air-quality-ui.js']) {
   await cp(new URL(name, root), new URL(name, dist));
 }
 await cp(new URL('public/', root), dist, { recursive: true });
