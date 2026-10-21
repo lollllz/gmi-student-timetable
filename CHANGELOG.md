@@ -1,5 +1,15 @@
 # Changelog
 
+## 21 October 2026 - Faster startup, dark mode and anonymous lift reporting
+
+- Bundled and minified startup code and deferred optional search, calendar/DAV editing and campus-report modules. Preloaded the manifest and moved air-quality initialization after the initial timetable. Local throttled median lesson readiness improved from 2.31 s to 1.83 s in a three-run comparison; this is a lab result.
+- Added device-aware light/dark themes, a quick theme button and a saved appearance setting in Accessibility. Updated lesson colors, native controls, high contrast and printing.
+- Added a compact campus-lift entry and an anonymous reporting dialog, with public observation times, explicit unknown/error states and older-report labels. No student login or personal details are required.
+- Added automatic community DAV publishing with server decoding, bounded uploads, revision-date checks, complete dataset staging, conditional pointer publication, community labels and class/lecturer calendar export.
+- Prepared a separate Netlify reporting service with private Blobs storage, validated bounded submissions, rate limiting, isolated preview storage and scheduled retention cleanup. Connected the dedicated Primary-account reporting service.
+- Validation: 24 reference-enabled unit tests and 23 browser workflows, including dark-mode accessibility and anonymous report/publishing workflows. Anonymous lift save/read and DAV publication/read were verified against isolated deployed storage; the production feed was confirmed empty.
+
+
 ## 18 October 2026 - Compact campus updates
 
 - Replaced the initially expanded haze and air-quality panels with one collapsed Air & campus updates strip, giving the timetable substantially more space.

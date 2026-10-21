@@ -157,3 +157,7 @@ Attribution and full official readings: https://eqms.doe.gov.my/APIMS/main
 ## Compact campus updates
 
 Air quality and haze precautions share a collapsed-by-default Air & campus updates strip. The summary shows the selected station, reading/category, observation time, stale/unavailable status and a short active haze reminder. Tap or use Enter/Space on the summary to reveal guidance, attribution, station selection and refresh controls. The section starts closed on each page load so the timetable remains the primary view; background reading refresh continues while it is closed.
+
+## Appearance and campus lift reports
+
+Use the header theme button for light/dark mode, or Accessibility → Appearance to follow your device. Your choice is saved on your device. Campus lift reporting is inside the collapsed Air & campus updates section. It requires no student login; observations are community reports, not official maintenance notices. The shared service uses the Primary Netlify account. Anyone can use Update shared timetable to publish a supported DAV after automatic validation; accepted uploads replace the shared default without issuer verification. See [reporting setup and limits](docs/lift-reporting.md) and [loading measurements](docs/loading-performance.md).

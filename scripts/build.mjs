@@ -1,10 +1,13 @@
-import { cp, mkdir, rm } from 'node:fs/promises';
+import { cp, mkdir, rm, readFile, writeFile } from 'node:fs/promises';
+import { build, transform } from 'esbuild';
+import { fileURLToPath } from 'node:url';
 const root = new URL('../', import.meta.url);
 const dist = new URL('dist/', root);
 await rm(dist, { recursive: true, force: true });
 await mkdir(dist, { recursive: true });
-for (const name of ['index.html', 'styles.css', 'app.js', 'core.js', 'icons.js', 'dav-reader.js', 'file-worker.js', 'calendar.js', 'class-search.js', 'dav-writer.js', 'advisories.js', 'air-quality.js', 'air-quality-ui.js']) {
-  await cp(new URL(name, root), new URL(name, dist));
-}
+await build({ absWorkingDir: fileURLToPath(root), entryPoints: ['app.js', 'file-worker.js'], outdir: fileURLToPath(dist), bundle: true, splitting: true, format: 'esm', minify: true, target: 'es2022', chunkNames: 'chunks/[name]-[hash]' });
+await cp(new URL('index.html', root), new URL('index.html', dist));
+const css = await transform(await readFile(new URL('styles.css', root), 'utf8'), { loader: 'css', minify: true });
+await writeFile(new URL('styles.css', dist), css.code);
 await cp(new URL('public/', root), dist, { recursive: true });
-console.log('Built static student timetable in dist/.');
+console.log('Built bundled student timetable in dist/.');

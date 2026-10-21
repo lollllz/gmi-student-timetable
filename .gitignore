@@ -4,3 +4,6 @@ test-results/
 playwright-report/
 .DS_Store
 .superdesign/
+.netlify/
+reports-dist/
+deploy-*.zip

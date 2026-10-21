@@ -1,0 +1,11 @@
+[build]
+  command = "npm run build:reports"
+  publish = "reports-dist"
+[functions]
+  directory = "netlify/functions"
+  node_bundler = "esbuild"
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "no-referrer"
