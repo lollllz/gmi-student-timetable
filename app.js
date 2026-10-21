@@ -121,7 +121,8 @@ async function selectClass(id, { preserveWeek = true } = {}) {
   render();
   try {
     const cache = mode === 'lecturer' ? lecturerCache : classCache;
-    const dataset = cache.get(id) || await fetchJson(mode === 'lecturer' ? `./lecturers/${id}.json` : `./data/${id}.json`, controller.signal);
+    const sharedPath = state.manifest.serviceEndpoint ? `${state.manifest.serviceEndpoint}?resource=${mode}&id=${encodeURIComponent(id)}&release=${state.manifest.sourceHash}` : null;
+    const dataset = cache.get(id) || await fetchJson(sharedPath || (mode === 'lecturer' ? `./lecturers/${id}.json` : `./data/${id}.json`), controller.signal);
     if (controller.signal.aborted) return;
     if (dataset.class.id !== id || !Array.isArray(dataset.events)) throw new Error('Invalid class dataset');
     cache.set(id, dataset);
@@ -209,7 +210,7 @@ function render() {
   $('#class-button').disabled = $('#compact-class-button').disabled = !ready;
   $('#share-button').disabled = !usable || state.localFile;
   $('#share-button').title = state.localFile ? 'Your local file cannot be shared through a website link. Export its class calendar instead.' : 'Share this class and week';
-  $('#file-source-label').textContent = state.localFile ? `On this device: ${state.manifest.filename}` : 'Using the provided timetable';
+  $('#file-source-label').textContent = state.localFile ? `On this device: ${state.manifest.filename}` : state.manifest?.communityUpload ? 'Community-uploaded timetable · not verified by GMI' : 'Using the provided timetable';
   $('#restore-source').hidden = !state.localFile;
   const notice = $('#latest-timetable');
   notice.hidden = !manifest;
@@ -220,10 +221,10 @@ function render() {
     $('#latest-timetable-label').textContent = label;
     $('#revision-new-dot').hidden = !unread;
     notice.setAttribute('aria-label',`${unread ? 'New timetable loaded. ' : ''}${label}. View timetable source details`);
-    notice.title = state.localFile ? manifest.filename : `Latest provided timetable: ${manifest.sourceFilename || manifest.sourceRevision}`;
+    notice.title = state.localFile ? manifest.filename : `${manifest.communityUpload ? "Community-uploaded" : "Latest provided"} timetable: ${manifest.sourceFilename || manifest.sourceRevision}`;
   }
   $('#revision').textContent = state.localFile ? 'Source · your local file' : `Source revision · ${manifest?.sourceRevision || 'loading'}`;
-  $('#about-source-description').textContent = state.localFile ? `You’re viewing ${state.manifest.filename}, read locally on this device. The planning range is ${state.manifest.planningStart} through ${state.manifest.planningEnd}.` : manifest ? `Latest provided timetable: ${manifest.sourceFilename || manifest.title}. Revision ${manifest.revisionCode || ''}, dated ${manifest.sourceRevision}. Planning range: ${manifest.planningStart} through ${manifest.planningEnd}. Calendar downloads are snapshots; replace an older imported calendar to use this revision.` : 'Loading timetable source details…';
+  $('#about-source-description').textContent = state.localFile ? `You’re viewing ${state.manifest.filename}, read locally on this device. The planning range is ${state.manifest.planningStart} through ${state.manifest.planningEnd}.` : manifest ? `${manifest.communityUpload ? 'Community-uploaded timetable (not verified by GMI)' : 'Latest provided timetable'}: ${manifest.sourceFilename || manifest.title}. Revision ${manifest.revisionCode || ''}, dated ${manifest.sourceRevision}. Planning range: ${manifest.planningStart} through ${manifest.planningEnd}. Calendar downloads are snapshots; replace an older imported calendar to use this revision.` : 'Loading timetable source details…';
   $('#class-dialog .dialog-description').textContent = state.mode === 'lecturer' ? 'Search a lecturer or resource name to see entries across all classes. Source resource names may include activities.' : state.localFile ? 'Choose your class from this file. Reopen the file after refreshing the page.' : 'Choose your exact class or team. We’ll remember it on this device.';
   document.querySelectorAll('.export-trigger').forEach(button => { button.disabled = !usable || !selected.eventCount; });
   $('.mobile-export').hidden = !selected;
@@ -290,8 +291,8 @@ async function openExport() {
   const selected = state.selected, exportEvents = state.events, exportMode = state.mode;
   if (exportBlobUrl) { URL.revokeObjectURL(exportBlobUrl); exportBlobUrl = null; }
   let downloadPath = '';
-  if (!state.localFile && state.mode === 'class') downloadPath = calendarPath(selected.id);
-  if (state.localFile || state.mode === 'lecturer') {
+  if (!state.localFile && !state.manifest.communityUpload && state.mode === 'class') downloadPath = calendarPath(selected.id);
+  if (state.localFile || state.manifest.communityUpload || state.mode === 'lecturer') {
     let classCalendar; try { ({ classCalendar } = await import('./calendar.js')); } catch { toast('Could not load calendar export. Please try again.'); return; }
     if (state.selected !== selected || state.mode !== exportMode || state.events !== exportEvents) return;
     exportBlobUrl = URL.createObjectURL(new Blob([classCalendar(selected, exportEvents)], { type: 'text/calendar;charset=utf-8' }));
@@ -474,7 +475,7 @@ $('#export-content').addEventListener('click', event => {
 $('#quality-button').addEventListener('click', () => openDialog('#about-dialog'));
 $('#about-button').addEventListener('click', () => openDialog('#about-dialog'));
 media.addEventListener('change', render);
-initialize().finally(() => import('./air-quality-ui.js').then(({ initAirQuality }) => initAirQuality()).catch(() => { $('#air-brief').textContent = 'Air quality unavailable'; }));
+initialize().then(checkCommunitySchedule).finally(() => import('./air-quality-ui.js').then(({ initAirQuality }) => initAirQuality()).catch(() => { $('#air-brief').textContent = 'Air quality unavailable'; }));
 
 for (const id of ['large-text','high-contrast','reduce-motion','agenda-default']) {
   try { $('#' + id).checked = localStorage.getItem('timetable-' + id) === 'true'; } catch {}
@@ -556,4 +557,25 @@ $('#lift-button').addEventListener('click', async () => {
     else { const reload = await liftLoader; await reload(); return; }
     await liftLoader;
   } catch { $('#lift-results').textContent = 'Could not load lift reports. Please retry.'; }
+});
+
+async function checkCommunitySchedule() {
+  const generation = state.generation;
+  try {
+    const { latestCommunityManifest } = await import('./community-timetable.js');
+    const manifest = await latestCommunityManifest();
+    if (!manifest || state.localFile || generation !== state.generation || manifest.sourceHash === state.manifest?.sourceHash) return;
+    const selected = state.selected?.id;
+    state.request?.abort(); classCache.clear(); lecturerCache.clear(); state.manifest = manifest;
+    state.week = clampWeek(state.week,manifest.planningStart,manifest.planningEnd);
+    if (choices().some(item=>item.id===selected)) await selectClass(selected,true);
+    else { state.selected=null;state.events=[];state.loading=false;render(); }
+    toast('Community timetable loaded. Confirm changes with your lecturer.');
+  } catch { /* The provided revision stays explicitly labelled when the shared service cannot be reached. */ }
+}
+let publishingReady;
+$('#publish-button').addEventListener('click',async()=>{
+  openDialog('#publish-dialog');
+  try { if(!publishingReady){const {initCommunityUpload}=await import('./community-timetable.js');initCommunityUpload(checkCommunitySchedule);publishingReady=true;} }
+  catch { $('#publish-feedback').textContent='Could not load publishing tools. Please retry.'; }
 });

@@ -6,3 +6,4 @@ playwright-report/
 .superdesign/
 .netlify/
 reports-dist/
+deploy-*.zip
