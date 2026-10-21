@@ -2,7 +2,9 @@
 
 A responsive student timetable with class selection and class-only calendar export. Students can use the weekly planner on desktop, the day agenda on mobile, or download their timetable into their own calendar app.
 
-[Open the student app](https://lollllz.github.io/gmi-timetable/)
+[Open the student app](https://gmi-schedule.netlify.app/)
+
+[Alternative GitHub Pages address](https://lollllz.github.io/gmi-timetable/). Both addresses serve the same app; see [short-address hosting](hosting/short-address/README.md).
 
 ## Student features
 

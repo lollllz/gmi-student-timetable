@@ -9,3 +9,8 @@ test('valid anonymous DAV publishes complete immutable datasets, rejects older d
  const data=await handler(new Request(`https://example.test/api/timetable?resource=class&id=${manifest.classes[0].id}&release=${manifest.sourceHash}`,{headers:{origin}}));assert.ok((await data.json()).events.length);
 });
 test('invalid/oversized DAV, wrong origin and future dates never replace the default',async()=>{const{handler,records}=setup();for(const req of[upload(new Uint8Array([1,2,3])),upload(makeDavFixture(),'TT TEST_R05A_22102026.dav')])assert.equal((await handler(req)).status,400);assert.equal((await handler(upload(new Uint8Array(4*1024*1024+1)))).status,413);assert.equal(records.has('current'),false);assert.equal((await handler(new Request('https://example.test/api/timetable'))).status,404);});
+test('short address has explicit CORS permission and unknown origins cannot publish',async()=>{
+ const {handler}=setup();const short='https://gmi-schedule.netlify.app';
+ const request=upload();const response=await handler(new Request(request,{headers:{origin:short,'content-type':'application/octet-stream','x-timetable-filename':'TT TEST_R05A_20102026.dav'}}));assert.equal(response.status,201);assert.equal(response.headers.get('access-control-allow-origin'),short);
+ const denied=await handler(new Request(upload(),{headers:{origin:'https://gmi-timetable.netlify.app'}}));assert.equal(denied.status,403);
+});

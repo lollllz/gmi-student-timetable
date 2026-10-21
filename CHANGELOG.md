@@ -1,5 +1,12 @@
 # Changelog
 
+## 21 October 2026 - Free short address
+
+- Added https://gmi-schedule.netlify.app/ as a short public address that serves the existing Pages site through a Netlify rewrite, preserving class/week query links and future Pages updates. The GitHub Pages address continues to work.
+- Allowed only the two owned public origins on the existing shared reporting/publishing backend, with regression coverage for accepted and rejected origins. Shared storage and the backend hostname are unchanged.
+- Updated the primary README link and documented separate hosting configuration and origin-specific browser preferences.
+
+
 ## 21 October 2026 - Shorter website address
 
 - Renamed the repository to `gmi-timetable` and updated the website address to https://lollllz.github.io/gmi-timetable/.

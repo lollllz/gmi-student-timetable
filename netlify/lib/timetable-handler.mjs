@@ -1,16 +1,16 @@
 import { createHash } from 'node:crypto';
 import { decodeDav } from '../../dav-reader.js';
 import { validDate } from '../../core.js';
-const origin = 'https://lollllz.github.io';
+const allowedOrigins = new Set(['https://lollllz.github.io', 'https://gmi-schedule.netlify.app']);
 const baselineDate = '2026-10-15';
 const maxBytes = 4 * 1024 * 1024;
 export function createTimetableHandler(getStore, now = () => Date.now()) {
  return async request => {
   const headers = {'Content-Type':'application/json','Cache-Control':'no-store','Vary':'Origin','X-Content-Type-Options':'nosniff'};
   const suppliedOrigin=request.headers.get('origin');
-  if(suppliedOrigin===origin)Object.assign(headers,{'Access-Control-Allow-Origin':origin,'Access-Control-Allow-Methods':'GET, POST, OPTIONS','Access-Control-Allow-Headers':'Content-Type, X-Timetable-Filename'});
+  if(allowedOrigins.has(suppliedOrigin))Object.assign(headers,{'Access-Control-Allow-Origin':suppliedOrigin,'Access-Control-Allow-Methods':'GET, POST, OPTIONS','Access-Control-Allow-Headers':'Content-Type, X-Timetable-Filename'});
   const reply=(data,status=200)=>new Response(JSON.stringify(data),{status,headers});
-  if(suppliedOrigin && suppliedOrigin!==origin)return reply({error:'Origin not allowed.'},403);
+  if(suppliedOrigin && !allowedOrigins.has(suppliedOrigin))return reply({error:'Origin not allowed.'},403);
   if(request.method==='OPTIONS')return new Response(null,{status:204,headers});
   if(!['GET','POST'].includes(request.method))return reply({error:'Method not allowed.'},405);
   try {
@@ -22,7 +22,7 @@ export function createTimetableHandler(getStore, now = () => Date.now()) {
     if(!/^[a-f0-9]{64}$/.test(release||'')||!['class','lecturer'].includes(resource)||!/^[a-f0-9]{1,20}$/.test(id||''))return reply({error:'Invalid dataset.'},400);
     const data=await store.get(`releases/${release}/${resource}/${id}`,{type:'json'});return data?reply(data):reply({error:'Dataset unavailable.'},404);
    }
-   if(suppliedOrigin!==origin)return reply({error:'Submit from the timetable website.'},403);
+   if(!allowedOrigins.has(suppliedOrigin))return reply({error:'Submit from the timetable website.'},403);
    if(!request.headers.get('content-type')?.startsWith('application/octet-stream'))return reply({error:'DAV binary required.'},415);
    let filename;try{filename=decodeURIComponent(request.headers.get('x-timetable-filename')||'');}catch{return reply({error:'Invalid filename.'},400);}
    const match=/^[\w .()-]{1,120}_([A-Z][A-Z0-9]{1,12})_(\d{2})(\d{2})(\d{4})\.dav$/i.exec(filename);
