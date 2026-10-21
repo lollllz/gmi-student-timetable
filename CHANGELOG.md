@@ -1,5 +1,12 @@
 # Changelog
 
+## 21 October 2026 - Shorter website address
+
+- Renamed the repository to `gmi-timetable` and updated the website address to https://lollllz.github.io/gmi-timetable/.
+- Updated project links, the air-quality snapshot fallback, reporting-service information page and local development/test paths. The reporting service and stored observations/timetables keep their existing address and storage.
+- Previously shared GitHub Pages links need the new address; repository links redirect through GitHub.
+
+
 ## 21 October 2026 - Faster startup, dark mode and anonymous lift reporting
 
 - Bundled and minified startup code and deferred optional search, calendar/DAV editing and campus-report modules. Preloaded the manifest and moved air-quality initialization after the initial timetable. Local throttled median lesson readiness improved from 2.31 s to 1.83 s in a three-run comparison; this is a lab result.
