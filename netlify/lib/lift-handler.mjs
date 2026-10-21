@@ -1,20 +1,20 @@
 import { randomUUID } from 'node:crypto';
 export const statuses = ['working', 'intermittent', 'out-of-service'];
-const allowedOrigin = 'https://lollllz.github.io';
+const allowedOrigins = new Set(['https://lollllz.github.io', 'https://gmi-schedule.netlify.app']);
 export function createLiftHandler(getStore, now = () => Date.now()) {
   return async request => {
     const origin = request.headers.get('origin');
     const headers = { 'Content-Type': 'application/json', 'Cache-Control': 'no-store', 'Vary': 'Origin', 'X-Content-Type-Options': 'nosniff' };
-    if (origin === allowedOrigin) Object.assign(headers, { 'Access-Control-Allow-Origin': origin, 'Access-Control-Allow-Methods': 'GET, POST, OPTIONS', 'Access-Control-Allow-Headers': 'Content-Type' });
+    if (allowedOrigins.has(origin)) Object.assign(headers, { 'Access-Control-Allow-Origin': origin, 'Access-Control-Allow-Methods': 'GET, POST, OPTIONS', 'Access-Control-Allow-Headers': 'Content-Type' });
     const reply = (value, status = 200) => new Response(JSON.stringify(value), { status, headers });
-    if (origin && origin !== allowedOrigin) return reply({ error: 'Origin not allowed.' }, 403);
+    if (origin && !allowedOrigins.has(origin)) return reply({ error: 'Origin not allowed.' }, 403);
     if (request.method === 'OPTIONS') return new Response(null, { status: 204, headers });
     if (!['GET','POST'].includes(request.method)) return reply({ error: 'Method not allowed.' },405);
     try {
       const store = getStore();
       const timestamp = now();
       if (request.method === 'POST') {
-        if (origin !== allowedOrigin) return reply({ error: 'Submit from the timetable website.' },403);
+        if (!allowedOrigins.has(origin)) return reply({ error: 'Submit from the timetable website.' },403);
         if (!request.headers.get('content-type')?.startsWith('application/json')) return reply({ error: 'JSON required.' },415);
         if (Number(request.headers.get('content-length')) > 1024) return reply({ error: 'Report too large.' },413);
         // Bound the actual stream as well as Content-Length (which can be absent).

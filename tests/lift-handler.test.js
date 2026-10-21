@@ -24,3 +24,9 @@ test('CORS and failure states do not claim a lift condition',async()=>{
  const {handler}=setup(); const preflight=await handler(new Request('https://reports.example/api/lifts',{method:'OPTIONS',headers:{origin}})); assert.equal(preflight.status,204); assert.equal(preflight.headers.get('access-control-allow-origin'),origin);
  const broken=createLiftHandler(()=>{throw new Error('private detail')}); const response=await broken(new Request('https://reports.example/api/lifts')); assert.equal(response.status,503); assert.equal((await response.text()).includes('private detail'),false);
 });
+test('short address can read and submit while unrelated origins remain blocked',async()=>{
+ const {post,handler}=setup();const short='https://gmi-schedule.netlify.app';
+ assert.equal((await post({building:'Block A',lift:'Lift 1',status:'working'},{origin:short})).status,201);
+ const response=await handler(new Request('https://reports.example/api/lifts',{headers:{origin:short}}));assert.equal(response.headers.get('access-control-allow-origin'),short);
+ assert.equal((await post({building:'Block A',lift:'Lift 1',status:'working'},{origin:'https://gmi-timetable.netlify.app'})).status,403);
+});
