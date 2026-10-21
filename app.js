@@ -1,10 +1,7 @@
 import { addDays, monday, localToday, clampWeek, formatDate, weekLabel, minutes, filterEvents, shareUrl, calendarPath, escapeHtml as esc, validDate } from './core.js';
 import { hazeAdvisory, hazeActive, needsModeCheck, sourceSaysOnline } from './advisories.js';
-import { initAirQuality } from './air-quality-ui.js';
 import { icon } from './icons.js';
-import { classCalendar } from './calendar.js';
-import { editDav, davDownload } from './dav-writer.js';
-import { classDetails, searchClasses } from './class-search.js';
+let classDetails, searchClasses;
 
 const $ = selector => document.querySelector(selector);
 const storageKey = 'gmi-student-class';
@@ -79,7 +76,8 @@ function renderClassResults() {
   $('#class-result-count').textContent = state.mode === 'lecturer' ? `${classes.length} lecturer / resource timetables` : `${classes.length} ${classes.length === 1 ? 'class' : 'classes'}${query.trim() ? ' matching your search' : ' available'}`;
   $('#class-results').innerHTML = classes.length ? classes.map(item => `<button class="class-option ${state.selected?.id === item.id ? 'selected' : ''}" data-class-id="${item.id}" ${state.selected?.id === item.id ? 'aria-current="true"' : ''}><span><strong>${esc(item.name)}</strong><small>${item.fuzzy ? 'Close match · ' : ''}${item.eventCount ? `${item.eventCount} dated entries · calendar available` : 'No dated entries in this source'}</small></span>${icon(state.selected?.id === item.id ? 'check' : 'chevron')}</button>`).join('') : '<p class="picker-empty">No matching class. Try fewer words or clear the filters.</p>';
 }
-function openClassPicker() {
+async function openClassPicker() {
+  try { ({ classDetails, searchClasses } = await import('./class-search.js')); } catch { toast('Could not load class search. Please try again.'); return; }
   if (!state.manifest) return;
   $('#class-dialog-title').textContent = state.mode === 'lecturer' ? 'Find a lecturer' : 'Find your class';
   $('#class-search').placeholder = state.mode === 'lecturer' ? 'Search lecturer name…' : 'Try semester 3 dmch or dswe group 2…';
@@ -287,14 +285,16 @@ function openLesson(id) {
   if (state.davBuffer && state.editor?.events[id]) $('#lesson-content').insertAdjacentHTML('beforeend',`<button id="edit-lesson" class="button secondary" data-edit-id="${esc(id)}">Edit recurring lesson</button>`);
   openDialog('#lesson-dialog');
 }
-function openExport() {
+async function openExport() {
   if (!state.selected || state.loading || state.error || !state.selected.eventCount) return;
-  const selected = state.selected;
+  const selected = state.selected, exportEvents = state.events, exportMode = state.mode;
   if (exportBlobUrl) { URL.revokeObjectURL(exportBlobUrl); exportBlobUrl = null; }
   let downloadPath = '';
   if (!state.localFile && state.mode === 'class') downloadPath = calendarPath(selected.id);
   if (state.localFile || state.mode === 'lecturer') {
-    exportBlobUrl = URL.createObjectURL(new Blob([classCalendar(selected, state.events)], { type: 'text/calendar;charset=utf-8' }));
+    let classCalendar; try { ({ classCalendar } = await import('./calendar.js')); } catch { toast('Could not load calendar export. Please try again.'); return; }
+    if (state.selected !== selected || state.mode !== exportMode || state.events !== exportEvents) return;
+    exportBlobUrl = URL.createObjectURL(new Blob([classCalendar(selected, exportEvents)], { type: 'text/calendar;charset=utf-8' }));
     downloadPath = exportBlobUrl;
   }
   $('#export-content').innerHTML = `<p class="dialog-description">Keep your class timetable in the calendar app you already use.</p><div class="export-class"><strong>${esc(selected.name)}</strong><p>${selected.eventCount} entries · ${formatDate(selected.firstDate, { day: 'numeric', month: 'short', year: 'numeric' })} – ${formatDate(selected.lastDate, { day: 'numeric', month: 'short', year: 'numeric' })}</p></div><a id="calendar-download" class="button primary full download-link" href="${downloadPath}" download="GMI-${selected.id}.ics">${icon('download')}Download ${state.mode === 'lecturer' ? 'lecturer' : 'my class'} calendar (.ics)</a><div class="export-notice">${icon('info')}<span>${state.mode === 'lecturer' ? 'This lecturer’s full schedule across classes and resource activities is included.' : 'Only this class’s full schedule is included.'} Times use Kuala Lumpur (UTC+8), and entries are marked tentative. Check changes with your lecturer.</span></div><p class="calendar-import-label">HOW TO ADD THE FILE</p><details open><summary>Google Calendar</summary><p>On a computer, open Google Calendar → Settings → Import &amp; export. Select the downloaded .ics file, choose a calendar, then Import.</p><a href="https://support.google.com/calendar/answer/37118?hl=en" target="_blank" rel="noopener">Google’s import guide ${icon('external')}</a></details><details><summary>Apple Calendar</summary><p>On a Mac, open Calendar → File → Import. Choose the downloaded .ics file, select a calendar, then confirm. Device import options may vary.</p><a href="https://support.apple.com/guide/calendar/icl1023/mac" target="_blank" rel="noopener">Apple’s import guide ${icon('external')}</a></details><details><summary>Outlook</summary><p>In Outlook on the web, choose Add calendar → Upload from file. Select the .ics file and your destination calendar, then Import.</p><a href="https://support.microsoft.com/en-us/outlook/import-or-subscribe-to-a-calendar-in-outlook-com-or-outlook-on-the-web" target="_blank" rel="noopener">Outlook’s import guide ${icon('external')}</a></details><p class="export-footnote">This download is a snapshot; it won’t update automatically. Import into a separate class calendar so you can replace it when a new schedule is published. Importing repeatedly may create duplicates.</p>`;
@@ -474,7 +474,7 @@ $('#export-content').addEventListener('click', event => {
 $('#quality-button').addEventListener('click', () => openDialog('#about-dialog'));
 $('#about-button').addEventListener('click', () => openDialog('#about-dialog'));
 media.addEventListener('change', render);
-initialize();
+initialize().finally(() => import('./air-quality-ui.js').then(({ initAirQuality }) => initAirQuality()).catch(() => { $('#air-brief').textContent = 'Air quality unavailable'; }));
 
 for (const id of ['large-text','high-contrast','reduce-motion','agenda-default']) {
   try { $('#' + id).checked = localStorage.getItem('timetable-' + id) === 'true'; } catch {}
@@ -485,9 +485,12 @@ $('#accessibility-button').addEventListener('click',() => openDialog('#accessibi
 for (const mode of ['class','lecturer']) $('#' + (mode === 'class' ? 'student' : 'lecturer') + '-mode').addEventListener('click',() => {
   state.request?.abort(); state.mode = mode; state.selected = null; state.events = []; state.loading = false; state.error = ''; history.replaceState(null,'',location.pathname); render(); openClassPicker();
 });
-$('#dav-export').addEventListener('click',() => {
+$('#dav-export').addEventListener('click',async () => {
   if (!state.davBuffer) return;
-  const url = URL.createObjectURL(davDownload(state.davBuffer)); const a = document.createElement('a');
+  const buffer = state.davBuffer;
+  let davDownload; try { ({ davDownload } = await import('./dav-writer.js')); } catch { toast('Could not load DAV export. Please try again.'); return; }
+  if (buffer !== state.davBuffer) return;
+  const url = URL.createObjectURL(davDownload(buffer)); const a = document.createElement('a');
   a.href = url; a.download = 'edited-' + (state.manifest.filename || 'Timetable.dav'); a.click(); setTimeout(() => URL.revokeObjectURL(url),1000);
   toast('DAV downloaded. Verify this experimental export in DaVinci before distributing.');
 });
@@ -503,6 +506,7 @@ $('#edit-form').addEventListener('submit', async event => {
   event.preventDefault(); $('#save-edit').disabled = true; $('#edit-error').hidden = true;
   try {
     const selected = state.selected.id, week = state.week, filename = state.manifest.filename;
+    const { editDav } = await import('./dav-writer.js');
     const result = await editDav(state.davBuffer,state.editor,state.editId,{note:$('#edit-note').value,day:Number($('#edit-day').value),period:Number($('#edit-period').value)});
     result.decoded.manifest.filename = filename; installLocal(result.decoded,result.buffer);
     $('#edit-dialog').close(); $('#lesson-dialog').close(); await selectClass(selected); setWeek(week);
@@ -527,4 +531,29 @@ $('#haze-toggle').addEventListener('click',() => {
 // Re-evaluate the date window when a tab is revisited, including after midnight.
 document.addEventListener('visibilitychange',() => { if (!document.hidden) render(); });
 
-initAirQuality();
+
+const themeMedia = matchMedia('(prefers-color-scheme: dark)');
+let themeChoice = 'system';
+try { themeChoice = localStorage.getItem('timetable-theme') || 'system'; } catch {}
+function applyTheme() {
+  const dark = themeChoice === 'dark' || (themeChoice === 'system' && themeMedia.matches);
+  document.documentElement.dataset.theme = dark ? 'dark' : 'light';
+  $('#theme-mode').value = themeChoice;
+  $('#theme-toggle').textContent = dark ? 'Light mode' : 'Dark mode';
+  $('#theme-toggle').setAttribute('aria-label', dark ? 'Switch to light theme' : 'Switch to dark theme');
+}
+function saveTheme(choice) { themeChoice = choice; try { localStorage.setItem('timetable-theme', choice); } catch {} applyTheme(); }
+$('#theme-toggle').addEventListener('click', () => saveTheme(document.documentElement.dataset.theme === 'dark' ? 'light' : 'dark'));
+$('#theme-mode').addEventListener('change', event => saveTheme(event.target.value));
+themeMedia.addEventListener('change', applyTheme);
+applyTheme();
+
+let liftLoader;
+$('#lift-button').addEventListener('click', async () => {
+  openDialog('#lifts-dialog');
+  try {
+    if (!liftLoader) liftLoader = import('./lift-reports.js').then(({initLiftReports})=>initLiftReports()).catch(error=>{liftLoader=null;throw error;});
+    else { const reload = await liftLoader; await reload(); return; }
+    await liftLoader;
+  } catch { $('#lift-results').textContent = 'Could not load lift reports. Please retry.'; }
+});

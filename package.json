@@ -6,11 +6,16 @@
   "scripts": {
     "build": "node scripts/build.mjs",
     "dev": "npm run build && node scripts/serve.mjs",
-    "test": "python3 tests/check_data.py && node --test tests/core.test.js tests/dav.test.js tests/class-search.test.js tests/advisories.test.js tests/air-quality.test.js",
-    "test:e2e": "playwright test"
+    "test": "python3 tests/check_data.py && node --test tests/core.test.js tests/dav.test.js tests/class-search.test.js tests/advisories.test.js tests/air-quality.test.js tests/lift-handler.test.js",
+    "test:e2e": "playwright test",
+    "build:reports": "node scripts/build-reports.mjs"
   },
   "devDependencies": {
     "@axe-core/playwright": "^4.13.0",
-    "@playwright/test": "^1.64.0"
+    "@playwright/test": "^1.64.0",
+    "esbuild": "^0.28.2"
+  },
+  "dependencies": {
+    "@netlify/blobs": "11.1.5"
   }
 }
