@@ -21,7 +21,7 @@ test('search stays within the displayed week and matches lecturer and room', () 
   assert.equal(filterEvents(entries, '2026-10-12', 'biology').length, 0);
 });
 test('share and calendar URLs work under a repository path', () => {
-  assert.equal(shareUrl('https://example.com/gmi-student-timetable/?old=value', '123', '2026-10-12'), 'https://example.com/gmi-student-timetable/?class=123&week=2026-10-12');
+  assert.equal(shareUrl('https://example.com/gmi-timetable/?old=value', '123', '2026-10-12'), 'https://example.com/gmi-timetable/?class=123&week=2026-10-12');
   assert.equal(calendarPath('123'), './calendars/123.ics');
   assert.throws(() => calendarPath('../secret'));
 });

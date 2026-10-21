@@ -8,7 +8,7 @@ const mime = { '.html': 'text/html; charset=utf-8', '.js': 'text/javascript; cha
 createServer(async (request, response) => {
   try {
     let path = decodeURIComponent(new URL(request.url, 'http://localhost').pathname);
-    if (path.startsWith('/gmi-student-timetable/')) path = path.slice('/gmi-student-timetable'.length);
+    if (path.startsWith('/gmi-timetable/')) path = path.slice('/gmi-timetable'.length);
     const file = resolve(root, '.' + path + (path.endsWith('/') ? 'index.html' : ''));
     if (!file.startsWith(root + sep)) throw new Error('Invalid path');
     if (!(await stat(file)).isFile()) throw new Error('Not found');
@@ -18,4 +18,4 @@ createServer(async (request, response) => {
     response.writeHead(404, { 'Content-Type': 'text/plain' });
     response.end('Not found');
   }
-}).listen(port, '127.0.0.1', () => console.log(`Local: http://127.0.0.1:${port}/gmi-student-timetable/`));
+}).listen(port, '127.0.0.1', () => console.log(`Local: http://127.0.0.1:${port}/gmi-timetable/`));

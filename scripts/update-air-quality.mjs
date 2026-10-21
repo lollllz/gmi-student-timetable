@@ -1,7 +1,7 @@
 import { readFile, writeFile } from 'node:fs/promises';
 import { AIR_FEED, normaliseAir } from '../air-quality.js';
 const target=new URL('../public/data/air-quality.json',import.meta.url);
-const previousUrl='https://lollllz.github.io/gmi-student-timetable/data/air-quality.json';
+const previousUrl='https://lollllz.github.io/gmi-timetable/data/air-quality.json';
 async function get(url) {
  const r=await fetch(url,{signal:AbortSignal.timeout(15000),headers:{'Accept':'application/json'}});
  if(!r.ok)throw new Error('HTTP '+r.status);return r.json();
