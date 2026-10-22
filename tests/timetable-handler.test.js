@@ -1,5 +1,5 @@
 import {test} from 'node:test';import assert from 'node:assert/strict';
-import {createTimetableHandler} from '../netlify/lib/timetable-handler.mjs';import {makeDavFixture} from './dav-fixture.js';
+import {createTimetableHandler} from './reference/timetable-handler.mjs';import {makeDavFixture} from './dav-fixture.js';
 const origin='https://lollllz.github.io';
 function setup(){const records=new Map();let etag=0;const store={get:async key=>records.get(key)||null,getWithMetadata:async key=>records.has(key)?{data:records.get(key),etag:String(etag)}:null,set:async(k,v)=>records.set(k,v),setJSON:async(k,v,options={})=>{if(k==='current'&&((options.onlyIfNew&&records.has(k))||(options.onlyIfMatch&&options.onlyIfMatch!==String(etag))))return {modified:false};records.set(k,v);if(k==='current')etag++;return{modified:true};}};return{records,handler:createTimetableHandler(()=>store,()=>Date.parse('2026-10-21T05:00:00Z'))};}
 const upload=(bytes=makeDavFixture(),filename='TT TEST_R05A_20102026.dav')=>new Request('https://example.test/api/timetable',{method:'POST',headers:{origin,'content-type':'application/octet-stream','x-timetable-filename':encodeURIComponent(filename)},body:bytes});

@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { hazeActive, needsModeCheck, sourceSaysOnline } from '../advisories.js';
+import { hazeActive, needsModeCheck, sourceSaysOnline } from './reference/advisories.js';
 test('haze precaution expires and only flags upcoming lessons inside its window',()=>{
  assert.equal(hazeActive('2026-10-17'),false); assert.equal(hazeActive('2026-10-18'),true);
  assert.equal(hazeActive('2026-10-25'),true);assert.equal(hazeActive('2026-10-26'),false);

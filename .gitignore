@@ -7,3 +7,7 @@ playwright-report/
 .netlify/
 reports-dist/
 deploy-*.zip
+/target/
+/rust/pkg/
+/hosting/short-address/public/*
+!/hosting/short-address/public/_redirects

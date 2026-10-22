@@ -2,9 +2,9 @@
 import { readFile, writeFile, mkdir, readdir, unlink } from 'node:fs/promises';
 import path from 'node:path';
 import { createHash } from 'node:crypto';
-import { decodeDav } from '../dav-reader.js';
-import { classCalendar } from '../calendar.js';
-import { validDate } from '../core.js';
+import { decodeDav } from '../tests/reference/dav-reader.js';
+import { classCalendar } from '../tests/reference/calendar.js';
+import { validDate } from '../tests/reference/core.js';
 const [filename, revisionCode, revisionDate, destination = 'public'] = process.argv.slice(2);
 if (!filename || !/^[A-Z0-9]+$/.test(revisionCode || '') || !validDate(revisionDate)) throw new Error('Usage: node scripts/prepare_dav.mjs input.dav R04D YYYY-MM-DD [public-directory]');
 const input = await readFile(filename);

@@ -23,10 +23,32 @@ jobs:
       - uses: actions/setup-node@v4
         with:
           node-version: 22
+          cache: npm
       - run: npm ci
-      - run: npm test
-      - run: node scripts/update-air-quality.mjs
+      - uses: actions/cache@v4
+        id: app
+        with:
+          path: |
+            dist
+            rust/pkg
+          key: rust-app-${{ runner.os }}-${{ github.sha }}
+      - uses: actions/cache@v4
+        if: steps.app.outputs.cache-hit != 'true'
+        with:
+          path: |
+            ~/.cargo/registry
+            ~/.cargo/git
+            ~/.cargo/bin/wasm-bindgen
+            target
+          key: rust-tools-${{ runner.os }}-${{ hashFiles('Cargo.lock') }}
+      - run: bash scripts/ensure-rust.sh
+        if: steps.app.outputs.cache-hit != 'true'
       - run: npm run build
+        if: steps.app.outputs.cache-hit != 'true'
+      - run: npm test
+        if: steps.app.outputs.cache-hit != 'true'
+      - run: node scripts/update-air-quality.mjs
+      - run: cp public/data/air-quality.json dist/data/air-quality.json
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:

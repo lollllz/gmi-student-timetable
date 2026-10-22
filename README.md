@@ -16,7 +16,7 @@ A responsive student timetable with class selection and class-only calendar expo
 - Open a compatible legacy DaVinci `.dav` file on the device, choose its class, and export a class-only calendar without uploading the file.
 - Responsive layouts, keyboard-accessible dialogs and retry/empty/loading states.
 
-No student login or backend is required. Data is loaded one class at a time. The deployment does not publish the original binary or forensic raw-field exports.
+No student login is required. Bundled timetables work statically; optional shared publishing and lift reports use the separate service. Data is loaded one class at a time. The deployment does not publish the original binary or forensic raw-field exports.
 
 ## Opening a timetable file
 
@@ -163,3 +163,12 @@ Air quality and haze precautions share a collapsed-by-default Air & campus updat
 ## Appearance and campus lift reports
 
 Use the header theme button for light/dark mode, or Accessibility → Appearance to follow your device. Your choice is saved on your device. Campus lift reporting is inside the collapsed Air & campus updates section. It requires no student login; observations are community reports, not official maintenance notices. The shared service uses the Primary Netlify account. Anyone can use Update shared timetable to publish a supported DAV after automatic validation; accepted uploads replace the shared default without issuer verification. See [reporting setup and limits](docs/lift-reporting.md) and [loading measurements](docs/loading-performance.md).
+
+
+## Rust runtime
+
+The active browser and server application logic is Rust compiled to WebAssembly. See [runtime architecture](docs/architecture/ARCHITECTURE.md). HTML/CSS, generated wasm-bindgen glue and thin platform I/O adapters remain; the old JavaScript business code is retained under `tests/reference/` as a regression oracle only.
+
+Setup: `npm ci`, `bash scripts/ensure-rust.sh`, then `npm run build` and `npm test`. `npm run dev` serves the built app. Rust's `wasm32-unknown-unknown` target and wasm-bindgen CLI 0.2.105 are required. Compiled artifacts are generated, not committed.
+
+For the short site run `node scripts/stage-short-site.mjs` after building, then deploy its hosting directory. For backend releases, build and test locally, run `node scripts/stage-backend.mjs /absolute/path/rust-api-release`, generate its lockfile with `npm install --package-lock-only --ignore-scripts --prefix /absolute/path/rust-api-release`, then deploy that portable directory to the existing backend project. It includes the verified engine WASM and requires no hosted Rust compiler. Keep the existing project IDs and production backend hostname to preserve shared storage. The hourly Pages pipeline caches compiled output by commit and only refreshes the air snapshot on repeated scheduled runs.
