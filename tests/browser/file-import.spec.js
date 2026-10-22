@@ -1,4 +1,6 @@
-import { test, expect } from '@playwright/test';
+import { test, expect as baseExpect } from '@playwright/test';
+// The lazy WASM reader may need a cold CDN download before it can reply.
+const expect = baseExpect.configure({ timeout: 20000 });
 import { readFile } from 'node:fs/promises';
 import { makeDavFixture } from '../dav-fixture.js';
 
