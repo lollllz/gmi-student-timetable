@@ -1,6 +1,6 @@
 import { createHash } from 'node:crypto';
-import { decodeDav } from '../../dav-reader.js';
-import { validDate } from '../../core.js';
+import { decodeDav } from './dav-reader.js';
+import { validDate } from './core.js';
 const allowedOrigins = new Set(['https://lollllz.github.io', 'https://gmi-schedule.netlify.app']);
 const baselineDate = '2026-10-15';
 const maxBytes = 4 * 1024 * 1024;

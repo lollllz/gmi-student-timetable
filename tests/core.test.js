@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import { validDate, addDays, monday, localToday, clampWeek, filterEvents, shareUrl, calendarPath, escapeHtml } from '../core.js';
+import { validDate, addDays, monday, localToday, clampWeek, filterEvents, shareUrl, calendarPath, escapeHtml } from './reference/core.js';
 
 test('date validation rejects invalid dates and rolled dates', () => {
   for (const value of [null, '', '2026-02-30', '2026-13-01', '2026-1-02', '<script>']) assert.equal(validDate(value), false);

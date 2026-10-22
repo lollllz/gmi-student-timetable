@@ -1,7 +1,7 @@
 import { test, expect } from '@playwright/test';
 import { readFile } from 'node:fs/promises';
 import { makeDavFixture } from '../dav-fixture.js';
-import { decodeDav } from '../../dav-reader.js';
+import { decodeDav } from '../reference/dav-reader.js';
 
 test('lecturer timetable includes multiple classes and exports its own calendar and share URL',async ({page}) => {
   await page.goto('./?class=99178435&week=2026-10-12');

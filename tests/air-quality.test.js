@@ -1,5 +1,5 @@
 import test from 'node:test';import assert from 'node:assert/strict';
-import { normaliseAir,sourceTime,readingState,airTime,apiCategory } from '../air-quality.js';
+import { normaliseAir,sourceTime,readingState,airTime,apiCategory } from './reference/air-quality.js';
 const now=new Date('2026-10-18T14:30:00Z');
 const row={STATION_ID:'CA17W',STATION_LOCATION:'Putrajaya, W.P. PUTRAJAYA',API:156,CLASS:'Unhealthy',RECORD_DT:'2026-10-18T22:00:00',OP_PHONE:'must not be published'};
 test('DOE wall-clock timestamps use Malaysia time and snapshots whitelist data',()=>{

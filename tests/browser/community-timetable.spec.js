@@ -2,7 +2,7 @@ import {test,expect} from '@playwright/test';import AxeBuilder from '@axe-core/p
 import {makeDavFixture} from '../dav-fixture.js';
 test('anonymous publishing validates on the service, then switches default datasets and generated calendar export',async({page})=>{
  const endpoint='https://gmi-campus-reports.netlify.app/api/timetable';let published=false;
- const {decodeDav}=await import('../../dav-reader.js');const decoded=await decodeDav(makeDavFixture().buffer,'TT TEST_R05A_20102026.dav');
+ const {decodeDav}=await import('../reference/dav-reader.js');const decoded=await decodeDav(makeDavFixture().buffer,'TT TEST_R05A_20102026.dav');
  const manifest={...decoded.manifest,communityUpload:true,sourceRevision:'2026-10-20',sourceRevisionDate:'2026-10-20',revisionCode:'R05A',sourceFilename:'TT TEST_R05A_20102026.dav'};
  await page.route('**/data/lift-service.json',route=>route.fulfill({json:{endpoint:endpoint.replace('timetable','lifts')}}));
  await page.route(/https:\/\/gmi-campus-reports\.netlify\.app\/api\/(?:publish-)?timetable.*/,route=>{

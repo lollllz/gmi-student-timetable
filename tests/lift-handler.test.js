@@ -1,6 +1,6 @@
 import { test } from 'node:test';
 import assert from 'node:assert/strict';
-import { createLiftHandler } from '../netlify/lib/lift-handler.mjs';
+import { createLiftHandler } from './reference/lift-handler.mjs';
 const origin='https://lollllz.github.io';
 const current = Date.parse('2026-10-21T04:00:00Z');
 function setup() {

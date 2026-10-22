@@ -1,0 +1,9 @@
+flowchart LR
+  Browser[Browser: Rust viewer WASM] --> CDN[Netlify direct static CDN]
+  Browser -->|cached public reads / anonymous writes| API[Netlify HTTP and SDK adapter]
+  API --> Engine[Rust WASM handlers and DAV engine]
+  Engine -->|generic storage operations| API
+  API --> Blobs[Existing private Blobs stores]
+  Browser -->|local file only| Worker[Rust DAV worker]
+  Pages[GitHub Pages Rust build] -->|hourly snapshot only| CDN
+  CI[Commit-keyed compiled artifact cache] --> Pages

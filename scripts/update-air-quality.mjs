@@ -1,5 +1,8 @@
 import { readFile, writeFile } from 'node:fs/promises';
-import { AIR_FEED, normaliseAir } from '../air-quality.js';
+import { createRequire } from 'node:module';
+const engine=createRequire(import.meta.url)('../rust/pkg/node/engine.js');
+const AIR_FEED='https://eqms.doe.gov.my/api3/publicportalapims/mapcaqm';
+const normaliseAir=payload=>JSON.parse(engine.normalise_air(JSON.stringify(payload),Date.now()));
 const target=new URL('../public/data/air-quality.json',import.meta.url);
 const previousUrl='https://lollllz.github.io/gmi-timetable/data/air-quality.json';
 async function get(url) {

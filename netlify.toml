@@ -1,9 +1,10 @@
 [build]
-  command = "npm run build:reports"
+  command = "bash scripts/ensure-rust.sh && npm run build:reports"
   publish = "reports-dist"
 [functions]
   directory = "netlify/functions"
   node_bundler = "esbuild"
+  included_files = ["rust/pkg/engine/*.wasm"]
 [[headers]]
   for = "/*"
   [headers.values]

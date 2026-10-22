@@ -1,8 +1,8 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
 import { readFile } from 'node:fs/promises';
-import { decodeDav } from '../dav-reader.js';
-import { classCalendar } from '../calendar.js';
+import { decodeDav } from './reference/dav-reader.js';
+import { classCalendar } from './reference/calendar.js';
 import { makeDavFixture } from './dav-fixture.js';
 
 test('dynamic V30 reader handles different counts, names and period starts', async () => {
@@ -67,7 +67,7 @@ test('browser decoder agrees with every published class event in the reference f
 });
 
 test('DAV export preserves all bytes without edits and patches recurring placement and notes losslessly', async () => {
-  const { editDav, davDownload } = await import('../dav-writer.js');
+  const { editDav, davDownload } = await import('./reference/dav-writer.js');
   const original = makeDavFixture(); const result = await decodeDav(original.buffer);
   assert.deepEqual(new Uint8Array(await davDownload(original.buffer).arrayBuffer()), original);
   const event = result.datasets['1'].events[0];

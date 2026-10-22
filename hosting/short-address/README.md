@@ -1,10 +1,8 @@
-# Short website address
+# Short address: direct Rust assets
 
 Public address: https://gmi-schedule.netlify.app/
-Netlify project: `gmi-schedule` (`65e0cdaa-609f-47f5-8006-00f966d7e58e`), Primary account, john team.
+Project ID: `65e0cdaa-609f-47f5-8006-00f966d7e58e`, Primary account, john team.
 
-Deploy this directory as its own Netlify project. `netlify.toml` publishes `public/`; the forced 200 rewrite serves the existing GitHub Pages assets while retaining the short address in the browser. Query parameters are preserved, including class, lecturer and week links. There is no duplicate timetable build or copy of shared storage. Normal upstream/CDN cache delays may apply after Pages deployments.
+Run `npm run build`, then `node scripts/stage-short-site.mjs`. Deploy this directory with its `public/` assets to the existing short-address project. It serves the Rust viewer, lazy DAV worker, CSS and timetable files directly from Netlify's CDN. The only proxy rule is the hourly `data/air-quality.json` snapshot from Pages. Hashed WASM/module assets are browser-cached immutably; the HTML and worker entry revalidate.
 
-The GitHub Pages address remains https://lollllz.github.io/gmi-timetable/. Future Pages updates are served through this proxy. Changes to the proxy configuration require a separate Netlify deployment. The `gmi-campus-reports` backend remains separate and explicitly allows browser requests from both public origins. Do not add arbitrary origins to that allowlist or rename the backend project; its production hostname selects existing storage.
-
-Local storage is origin-specific: students opening the short address may need to select their class/theme again. Existing GitHub Pages links and preferences continue to work at that address.
+The alternative Pages address remains https://lollllz.github.io/gmi-timetable/. Code updates require explicit Netlify staging/deployment alongside the Pages workflow; they are no longer automatically proxied. Air readings continue following hourly Pages snapshots. The backend URL and storage are unchanged. Browser preferences remain origin-specific.

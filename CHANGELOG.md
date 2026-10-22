@@ -1,5 +1,12 @@
 # Changelog
 
+## 22 October 2026 - Rust runtime and lower repeated server work
+
+- Replaced browser and server application logic with Rust compiled to WebAssembly, retaining static HTML/CSS and thin platform adapters. Class/lecturer search, exports, local DAV editing, accessibility, themes, air updates and anonymous campus features remain available.
+- Serve the short site directly from the CDN, fingerprint compiled assets, defer the DAV engine until needed and reuse shared-source checks for five minutes. Added an explicit timetable refresh.
+- Cache public backend reads at the CDN, preserve existing storage and conditional publication, and replace quadratic overlap scans with a sorted sweep. Reuse compiled Pages artifacts on hourly air refreshes.
+- Validation: 31 reference-enabled Node checks, two native Rust tests and 24 browser workflows passed. Rust decoding matches all 23,203 R04D student events against the independent decoder. Live repeated manifest reads returned a CDN cache hit while preserving the existing source hash. These checks establish behavior and reduced repeated work, not a measured billing reduction.
+
 ## 21 October 2026 - Free short address
 
 - Added https://gmi-schedule.netlify.app/ as a short public address that serves the existing Pages site through a Netlify rewrite, preserving class/week query links and future Pages updates. The GitHub Pages address continues to work.

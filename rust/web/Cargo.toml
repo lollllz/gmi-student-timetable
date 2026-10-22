@@ -1,0 +1,15 @@
+[package]
+name = "timetable-web"
+version = "0.1.0"
+edition = "2021"
+[lib]
+crate-type = ["cdylib", "rlib"]
+[dependencies]
+timetable-core = { path = "../core", default-features = false }
+wasm-bindgen.workspace = true
+wasm-bindgen-futures.workspace = true
+js-sys.workspace = true
+serde_json.workspace = true
+serde-wasm-bindgen.workspace = true
+chrono.workspace = true
+web-sys = { workspace = true, features = ["Window","Document","Element","HtmlElement","EventTarget","Event","HtmlInputElement","HtmlSelectElement","HtmlDialogElement","Node","NodeList","HtmlCollection","DomTokenList","Location","Storage","History","Url","UrlSearchParams","Response","Request","RequestInit","Headers","RequestCache","RequestMode","RequestCredentials","AbortController","AbortSignal","Navigator","Clipboard","MediaQueryList","File","FileList","Blob","BlobPropertyBag","HtmlAnchorElement","FormData","Worker","WorkerOptions","WorkerType","MessageEvent","ErrorEvent","SubmitEvent","HtmlFormElement","console"] }
