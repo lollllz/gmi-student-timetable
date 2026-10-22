@@ -58,9 +58,9 @@ test('file import and local class calendars work on a narrow phone', async ({ pa
   await expect(page.locator('#calendar-download')).toBeVisible();
 });
 
-test('cancelling a file import does not interfere with the next file', async ({ page }) => {
+test('cancelling a file import does not interfere with the next file', async ({ page, context }) => {
   let delay = true;
-  await page.route('**/file-worker.js', async route => {
+  await context.route('**/file-worker.js', async route => {
     if (delay) await new Promise(resolve => setTimeout(resolve, 1500));
     try { await route.continue(); } catch { /* The cancelled worker may abort its module request. */ }
   });
