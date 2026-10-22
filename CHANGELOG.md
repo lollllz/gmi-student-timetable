@@ -1,5 +1,11 @@
 # Changelog
 
+## 22 October 2026 - Timetable read reliability and badge removal
+
+- Scope Blobs clients to each Function request instead of retaining clients and their captured credentials across warm invocations. This addresses uncached timetable reads failing while previously cached classes still loaded. Production source data is retained.
+- Hide the injected Netlify promotion frame in the website stylesheet and remove the mobile spacing workaround. The dashboard badge setting remains unchanged; the overlay is hidden for website visitors.
+- Added request-credential lifetime and mobile badge/export regression coverage.
+
 ## 22 October 2026 - Rust runtime and lower repeated server work
 
 - Replaced browser and server application logic with Rust compiled to WebAssembly, retaining static HTML/CSS and thin platform adapters. Class/lecturer search, exports, local DAV editing, accessibility, themes, air updates and anonymous campus features remain available.
