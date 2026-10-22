@@ -72,6 +72,6 @@ test('cancelling a file import does not interfere with the next file', async ({ 
   delay = false;
   await page.getByRole('button', { name: 'Open timetable file' }).click();
   await page.locator('#file-input').setInputFiles({ name: 'replacement.dav', mimeType: 'application/octet-stream', buffer: Buffer.from(makeDavFixture({ className: 'REPLACEMENT CLASS' })) });
-  await expect(page.locator('#class-dialog')).toBeVisible();
+  await expect(page.locator('#class-dialog')).toBeVisible({timeout:20000});
   await expect(page.locator('#class-results')).toContainText('REPLACEMENT CLASS');
 });

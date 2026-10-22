@@ -6,6 +6,9 @@ const expectedClass = JSON.parse(await readFile(new URL(`../../public/data/${cla
 const selectedUrl = `?class=${classId}&week=2026-10-12`;
 const qa = fileURLToPath(new URL('../../../../work/student-qa/', import.meta.url));
 
+// These assertions use the bundled fixture; shared publication has separate coverage.
+test.beforeEach(async ({page}) => { await page.route('**/api/timetable', route => route.fulfill({status:404,json:{error:'No shared fixture'}})); });
+
 test('student chooses a class, browses lessons, and downloads only its calendar', async ({ page }) => {
   const errors = [];
   page.on('pageerror', error => errors.push(error.message));
